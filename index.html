@@ -2,7 +2,11 @@
 layout: default
 title: Montlaur
 ---
-<div class="blurb">
-	<h1>Montlaur</h1>
-	<p>Hello World !</p>
-</div><!-- /.blurb -->
+<p>Liste des peintures</p>
+<ul>
+{% for peinture in site.data.peintures %}
+  <li>
+    <img class="vignette" src="{{ site.base.url }}/peintures/{{ peinture.url }}"> <strong>{{ peinture.titre }}</strong> [{{ peinture.hauteur }}&nbsp;cm &times; {{ peinture.largeur }}&nbsp;cm] — {{ peinture.date }}
+  </li>
+{% endfor %}
+</ul>

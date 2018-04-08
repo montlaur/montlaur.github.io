@@ -1,29 +1,25 @@
-/*
-* Skeleton V2.0.4
-* Copyright 2014, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 12/29/2014
-*/
+---
+---
+$background-color: #fff;
+$alternate-color: #ccc;
+$text-color: #1A1A1A;
+$link-color: #5289db;
+$button-color: #555;
 
+$spacing: 1.6rem;
+$double-spacing: 3.2rem;
 
-/* Table of contents
-––––––––––––––––––––––––––––––––––––––––––––––––––
-- Grid
-- Base Styles
-- Typography
-- Links
-- Buttons
-- Forms
-- Lists
-- Code
-- Tables
-- Spacing
-- Utilities
-- Clearing
-- Media Queries
-*/
+$breakpoint-xs-1: 399px;
+$breakpoint-xs:   400px;
+$breakpoint-s-1:  549px;
+$breakpoint-s:    550px;
+$breakpoint-m-1:  767px;
+$breakpoint-m:    768px;
+$breakpoint-l-1:  1023px;
+$breakpoint-l:    1024px;
+
+$serif-family: 'Spectral', Georgia, serif;
+$sans-serif-family: 'Lato', Helvetica, Arial, sans-serif;
 
 
 /* Grid
@@ -31,9 +27,9 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 $spacing;
   box-sizing: border-box; }
 .column,
 .columns {
@@ -41,15 +37,15 @@
   float: left;
   box-sizing: border-box; }
 
-/* For devices larger than 400px */
-@media (min-width: 400px) {
+/* For devices larger than $breakpoint-xs */
+@media (min-width: $breakpoint-xs) {
   .container {
     width: 85%;
     padding: 0; }
 }
 
-/* For devices larger than 550px */
-@media (min-width: 550px) {
+/* For devices larger than $breakpoint-s */
+@media (min-width: $breakpoint-s) {
   .container {
     width: 80%; }
   .column,
@@ -118,14 +114,21 @@
 /* NOTE
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
-html {
-  font-size: 62.5%; }
+html { font-size: 62.5%; }
+
+/* TEXT UTILITIES */
 body {
-  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  background-color: $background-color;
+  color: $text-color;
+  font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
-  font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  font-family: $sans-serif-family;
+  text-rendering : optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -webkit-font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
+     -moz-font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
+          font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
+}
 
 
 /* Typography
@@ -162,6 +165,19 @@ a {
 a:hover {
   color: #0FA0CE; }
 
+/* IMG UTILITIES */
+figure,
+img,
+.img,
+iframe {
+  margin: 0;
+  max-width: 100%;
+}
+
+.vignette {
+  max-width: 128px;
+  max-height: 128px;
+}
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -285,23 +301,47 @@ label > .label-body {
   font-weight: normal; }
 
 
-/* Lists
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-ul {
-  list-style: circle inside; }
-ol {
-  list-style: decimal inside; }
-ol, ul {
-  padding-left: 0;
-  margin-top: 0; }
-ul ul,
-ul ol,
-ol ol,
-ol ul {
-  margin: 1.5rem 0 1.5rem 3rem;
-  font-size: 90%; }
-li {
-  margin-bottom: 1rem; }
+  /* Lists styling */
+  ul { list-style: circle inside; }
+  ol { list-style: decimal inside; }
+
+  ol, ul {
+    padding-left: 0;
+    margin-left: $double-spacing;
+
+    @media (max-width: $breakpoint-m-1) { margin-left: $spacing; }
+  }
+
+  ul ul,
+  ul ol,
+  ol ol,
+  ol ul {
+    margin: $spacing 0 $spacing $double-spacing;
+    font-size: 90%;
+  }
+
+  li { margin-bottom: .8rem; }
+
+  .list-inline { margin-left: 0; }
+  .list-inline li { display: inline; }
+  .list-inline li:not(:first-child)::before {
+    content: " • " ;
+    color: $alternate-color;
+  }
+  .list-inline.buttons li::before { content: none; }
+  .list-inline.related li:nth-child(2)::before { content: none; }
+
+  .list-inline li.list-title {
+    display: block;
+    margin-bottom: 0;
+
+    &::before { content: "➠ "; }
+  }
+
+  .no-style {
+    margin-left: 0;
+    list-style: none;
+  }
 
 
 /* Code
