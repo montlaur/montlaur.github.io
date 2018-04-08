@@ -1,2 +1,9 @@
 name: Montlaur
-markdown: kramdown
+markdown:    kramdown
+lsi:         false
+excerpt_separator: "\n\n"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-textile-converter
+  - jekyll-feed
