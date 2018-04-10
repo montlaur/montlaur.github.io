@@ -37,11 +37,13 @@ title: Guy de Montlaur
 <section class="selection" id="selection">
   <div class="container">
     <h2>Sélection de peintures</h2>
-    <div class="row">
+    <div class="row text-center">
       {% for peinture in site.data.peintures %}
         <div class="three columns">
           <img class="vignette" src="{{ site.base.url }}/peintures/vignettes/{{ peinture.url }}"><br>
-          <strong>{{ peinture.titre }}</strong> [{{ peinture.hauteur }}&nbsp;cm &times; {{ peinture.largeur }}&nbsp;cm] — {{ peinture.date }}
+          <strong>{{ peinture.titre }}</strong><br>
+          [{{ peinture.hauteur }}&nbsp;cm &times; {{ peinture.largeur }}&nbsp;cm]<br>
+          {{ peinture.date }}
         </div>
       {% endfor %}
     </div>
