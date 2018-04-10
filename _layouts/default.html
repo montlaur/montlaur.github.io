@@ -3,26 +3,35 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
+			<link href="https://fonts.googleapis.com/css?family=Lora:400|Raleway:400,700" rel="stylesheet">
 			<link rel="stylesheet" type="text/css" href="/css/normalize.css">
 			<link rel="stylesheet" type="text/css" href="/css/montlaur.css">
 		</head>
 		<body>
-			<nav class="container">
-	    		<ul class="list-inline">
-	        		<li><h1>{{ page.title }}</h1></li>
-		        	<li><a href="/peintures">Peinture</a></li>
-	        		<li><a href="/expositions">Expositions</a></li>
-	        		<li><a href="/contact">Contact</a></li>
-	    		</ul>
+			<nav>
+				<div class="container">
+					<div class="one-half column">
+						<h1><a href="/">{{ site.name }}</a></h1>
+					</div>
+					<div class="one-half column menu">
+		    		<ul class="list-inline">
+			        	<li><a href="#selection">Peinture</a></li>
+		        		<li><a href="#expositions">Expositions</a></li>
+		        		<li><a href="#contact">Contact</a></li>
+		    		</ul>
+					</div>
+				</div>
 			</nav>
 
 			{{ content }}
 
-			<!-- <footer>
-	    	<ul class="list-inline">
-	      	<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	      	<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
-			</footer> -->
+			<footer>
+				<div class="container">
+		    	<ul class="list-inline">
+		      	<li><a href="mailto:%6d%6f&#110;t&#108;&#97;&#117;r&#64;%6d&#111;&#110;t&#108;a&#117;r%2e&#110;e&#116;">Email</a></li>
+		      	<li><a href="http://blog.montlaur.net/">Blog</a></li>
+					</ul>
+				</div>
+			</footer>
 		</body>
 	</html>

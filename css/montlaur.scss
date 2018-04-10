@@ -18,8 +18,8 @@ $breakpoint-m:    768px;
 $breakpoint-l-1:  1023px;
 $breakpoint-l:    1024px;
 
-$serif-family: 'Spectral', Georgia, serif;
-$sans-serif-family: 'Lato', Helvetica, Arial, sans-serif;
+$serif-family: 'Lora', Georgia, serif;
+$sans-serif-family: 'Raleway', Helvetica, Arial, sans-serif;
 
 
 /* Grid
@@ -118,7 +118,6 @@ html { font-size: 62.5%; }
 
 /* TEXT UTILITIES */
 body {
-  background-color: $background-color;
   color: $text-color;
   font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
@@ -128,12 +127,27 @@ body {
   -webkit-font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
      -moz-font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
           font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
+
+  background-image: url("/peintures/g35.jpg");
+  background-size: cover;
+  background-attachment: fixed;
 }
 
+.lead {
+  font-size: 1.8rem;
+
+  @media (min-width: $breakpoint-s) { font-size: 2rem; }
+}
+
+.text-left        { text-align: left; }
+.text-right       { text-align: right; }
+.text-center      { text-align: center; }
+.text-capitalize  { text-transform: capitalize; }
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
+  font-family: $serif-family;
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
@@ -161,7 +175,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: $link-color; }
 a:hover {
   color: #0FA0CE; }
 
@@ -301,52 +315,109 @@ label > .label-body {
   font-weight: normal; }
 
 
-  /* Lists styling */
-  ul { list-style: circle inside; }
-  ol { list-style: decimal inside; }
+/* Lists styling */
+ul { list-style: circle inside; }
+ol { list-style: decimal inside; }
 
-  ol, ul {
-    padding-left: 0;
-    margin-left: $double-spacing;
+ol, ul {
+  padding-left: 0;
+  margin-left: $double-spacing;
 
-    @media (max-width: $breakpoint-m-1) { margin-left: $spacing; }
-  }
-
-  ul ul,
-  ul ol,
-  ol ol,
-  ol ul {
-    margin: $spacing 0 $spacing $double-spacing;
-    font-size: 90%;
-  }
-
-  li { margin-bottom: .8rem; }
-
-  .list-inline { margin-left: 0;
-    li {
-      display: inline;
-
-      &:not(:first-child)::before {
-        content: " • " ;
-        color: $alternate-color;
-      }
-
-      h1 { display: inline; }
-    }
-  }
-
-  .no-style {
-    margin-left: 0;
-    list-style: none;
-  }
-
-/* montlaur */
-section {
-  padding: $double-spacing 0;
+  @media (max-width: $breakpoint-m-1) { margin-left: $spacing; }
 }
 
-.intro {
-  background-color: $alternate-color;
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin: $spacing 0 $spacing $double-spacing;
+  font-size: 90%;
+}
+
+li { margin-bottom: .8rem; }
+
+.list-inline { margin-left: 0;
+  li {
+    display: inline;
+
+    &:not(:first-child)::before {
+      content: " • " ;
+      color: $alternate-color;
+    }
+
+    h1 { display: inline; }
+  }
+}
+
+.no-style {
+  margin-left: 0;
+  list-style: none;
+}
+
+/* Quotes */
+blockquote {
+  color: $text-color;
+  margin-left: $spacing;
+  padding-left: $spacing;
+  font-size: inherit;
+  font-style: italic;
+  border-left: 4px solid $alternate-color;
+
+  @media (max-width: $breakpoint-s-1) {
+    margin-left: 0;
+  }
+
+  .quote-footer {
+    margin-top: $spacing;
+
+    &::before {
+      content: "— ";
+    }
+  }
+}
+
+blockquote.quote {
+  font-family: $serif-family;
+  font-size: 200%;
+  font-style: italic;
+}
+
+/* montlaur */
+nav, footer {
+  top: 0;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.8);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  padding: $spacing 0;
+
+  h1 { margin-bottom: 0; }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .menu { text-align: right; }
+
+  @media (max-width: $breakpoint-s-1) {
+    text-align: center;
+
+    .menu { text-align: center; }
+  }
+}
+
+section {
+  padding: $double-spacing 0;
+
+  &.intro {
+    background-color: rgba(255, 255, 255, 0.8);
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+
+
+    @media (orientation: landscape) { margin-top: 40%; }
+    @media (orientation: portrait) { margin-top: 80%; }
+  }
 }
 
 .more-intro {
@@ -358,9 +429,9 @@ section {
   display: block;
 }
 
-.expositions {
-  background-color: $alternate-color;
-}
+.selection { background-color: $alternate-color; }
+
+.expositions { background-color: #fff; }
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
@@ -392,16 +463,14 @@ td:last-child {
   padding-right: 0; }
 
 
-/* Spacing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-button,
-.button {
-  margin-bottom: 1rem; }
+/* Spacing */
 input,
 textarea,
 select,
 fieldset {
-  margin-bottom: 1.5rem; }
+  margin-bottom: $spacing;
+}
+
 pre,
 blockquote,
 dl,
@@ -411,7 +480,8 @@ p,
 ul,
 ol,
 form {
-  margin-bottom: 2.5rem; }
+  margin-bottom: $spacing;
+}
 
 
 /* Utilities
