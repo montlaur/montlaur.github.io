@@ -129,6 +129,7 @@ body {
           font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
 
   background-image: url("/peintures/fond.jpg");
+
   @media (min-width: $breakpoint-m) {
     background-size: cover;
     background-attachment: fixed;
@@ -362,7 +363,7 @@ blockquote {
   font-style: italic;
   border-left: 4px solid $alternate-color;
 
-  @media (max-width: $breakpoint-s-1) {
+  @media (max-width: $breakpoint-l-1) {
     margin-right: 0;
     margin-left: 0;
   }
@@ -387,10 +388,11 @@ blockquote.quote {
 nav, footer {
   top: 0;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  padding: $spacing 0;
+  background-color: rgba(0, 0, 0, 0.7);
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
-  padding: $spacing 0;
 
   h1 { margin-bottom: 0; }
   a {
@@ -398,39 +400,28 @@ nav, footer {
     text-decoration: none;
   }
 
-  .menu { text-align: right; }
-
-  @media (max-width: $breakpoint-m-1) {
-    text-align: center;
-
-    .menu { text-align: center; }
+  @media (min-width: $breakpoint-m) {
+    .menu { text-align: right; }
+    h1 { text-align: left; }
   }
 }
 
 section {
   padding: $double-spacing 0;
+  box-shadow: 0 0 3px $text-color;
 
   &.intro {
+    margin-top: 55vh;
     background-color: rgba(240, 240, 240, 0.8);
     -webkit-backdrop-filter: blur(5px);
             backdrop-filter: blur(5px);
 
-    @media (orientation: landscape) { margin-top: 40%; }
-    @media (orientation: portrait) { margin-top: 80%; }
+    @media (min-width: $breakpoint-xs) { margin-top: 65vh; }
+    @media (min-width: $breakpoint-m) { margin-top: 70vh; }
   }
 }
 
-.more-intro {
-  display: none;
-  transition: all .2s ease-in-out;
-}
-
-#more-intro:target {
-  display: block;
-}
-
-.selection { background-color: $alternate-color; }
-
+.selection   { background-color: $alternate-color; }
 .expositions { background-color: $background-color; }
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
