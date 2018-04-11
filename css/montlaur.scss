@@ -129,8 +129,10 @@ body {
           font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
 
   background-image: url("/peintures/fond.jpg");
-  background-size: cover;
-  background-attachment: fixed;
+  @media (min-width: $breakpoint-m) {
+    background-size: cover;
+    background-attachment: fixed;
+  }
 }
 
 /* Typography
@@ -162,16 +164,18 @@ p {
   margin-bottom: $spacing;
 }
 
-  .lead {
-    font-size: 1.8rem;
+.lead {
+  font-size: 1.8rem;
 
-    @media (min-width: $breakpoint-s) { font-size: 2rem; }
-  }
+  @media (min-width: $breakpoint-s) { font-size: 2rem; }
+}
 
-  .text-left        { text-align: left; }
-  .text-right       { text-align: right; }
-  .text-center      { text-align: center; }
-  .text-capitalize  { text-transform: capitalize; }
+.hidden { display: none; }
+
+.text-left        { text-align: left; }
+.text-right       { text-align: right; }
+.text-center      { text-align: center; }
+.text-capitalize  { text-transform: capitalize; }
 
 
 /* Links

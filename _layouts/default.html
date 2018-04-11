@@ -1,40 +1,45 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-			<meta charset="UTF-8">
-			<meta name="viewport" content="width=device-width, initial-scale=1">
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link href="https://fonts.googleapis.com/css?family=Lora:400|Raleway:400,700" rel="stylesheet">
-			<link rel="stylesheet" type="text/css" href="/css/normalize.css">
-			<link rel="stylesheet" type="text/css" href="/css/montlaur.css">
-		</head>
-		<body>
-			<nav>
-				<div class="container">
-					<div class="one-half column">
-						<h1><a href="/">{{ site.name }}</a></h1>
-					</div>
-					<div class="one-half column menu lead">
-		    		<ul class="list-inline">
-			        	<li><a href="#selection">Peinture</a></li>
-		        		<li><a href="#expositions">Expositions</a></li>
-		        		<li><a href="#contact">Contact</a></li>
-		    		</ul>
-					</div>
+<html lang="fr-fr">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ page.title }}</title>
+		<link href="https://fonts.googleapis.com/css?family=Lora:400|Raleway:400,700" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="/css/normalize.css">
+		<link rel="stylesheet" type="text/css" href="/css/montlaur.css">
+	</head>
+	<body>
+		<div class="hidden">
+			<ul>
+				<li><a href="#menu">Aller au menu</a></li>
+				<li><a href="#contenu">Aller au contenu</a></li>
+			</ul>
+		</div>
+		<nav>
+			<div class="container">
+				<div class="one-half column">
+					<h1><a href="/">{{ site.name }}</a></h1>
 				</div>
-			</nav>
-
+				<div class="one-half column menu lead" id="menu">
+	    		<ul class="list-inline">
+		        	<li><a href="#selection">Peinture</a></li>
+	        		<li><a href="#expositions">Expositions</a></li>
+	        		<li><a href="#contact">Contact</a></li>
+	    		</ul>
+				</div>
+			</div>
+		</nav>
+		<div id="contenu">
 			{{ content }}
-
-			<footer>
-				<div class="container lead">
-		    	<ul class="list-inline">
-		      	<li><a href="mailto:%6d%6f&#110;t&#108;&#97;&#117;r&#64;%6d&#111;&#110;t&#108;a&#117;r%2e&#110;e&#116;">Email</a></li>
-		      	<li><a href="http://blog.montlaur.net/">Blog</a></li>
-					</ul>
-				</div>
-			</footer>
-		</body>
-	</html>
+		</div>
+		<footer>
+			<div class="container lead">
+	    	<ul class="list-inline">
+	      	<li><a href="mailto:%6d%6f&#110;t&#108;&#97;&#117;r&#64;%6d&#111;&#110;t&#108;a&#117;r%2e&#110;e&#116;">Email</a></li>
+	      	<li><a href="http://blog.montlaur.net/">Blog</a></li>
+				</ul>
+			</div>
+		</footer>
+	</body>
+</html>
