@@ -1,9 +1,9 @@
 ---
 ---
-$background-color: #fff;
-$alternate-color: #ccc;
-$text-color: #1A1A1A;
-$link-color: #5289db;
+$background-color: #f0f0f0;
+$alternate-color: #bdbdbd;
+$text-color: #1a1a1a;
+$link-color: #263f71;
 $button-color: #555;
 
 $spacing: 1.6rem;
@@ -45,7 +45,7 @@ $sans-serif-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 /* For devices larger than $breakpoint-s */
-@media (min-width: $breakpoint-s) {
+@media (min-width: $breakpoint-m) {
   .container {
     width: 80%; }
   .column,
@@ -128,21 +128,10 @@ body {
      -moz-font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
           font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
 
-  background-image: url("/peintures/g35.jpg");
+  background-image: url("/peintures/fond.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
-
-.lead {
-  font-size: 1.8rem;
-
-  @media (min-width: $breakpoint-s) { font-size: 2rem; }
-}
-
-.text-left        { text-align: left; }
-.text-right       { text-align: right; }
-.text-center      { text-align: center; }
-.text-capitalize  { text-transform: capitalize; }
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -169,15 +158,26 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 }
 
 p {
-  margin-top: 0; }
+  margin-top: 0;
+  margin-bottom: $spacing;
+}
+
+  .lead {
+    font-size: 1.8rem;
+
+    @media (min-width: $breakpoint-s) { font-size: 2rem; }
+  }
+
+  .text-left        { text-align: left; }
+  .text-right       { text-align: right; }
+  .text-center      { text-align: center; }
+  .text-capitalize  { text-transform: capitalize; }
 
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-a {
-  color: $link-color; }
-a:hover {
-  color: #0FA0CE; }
+a { color: $link-color; }
+a:hover { text-decoration: none; }
 
 /* IMG UTILITIES */
 figure,
@@ -359,11 +359,13 @@ blockquote {
   border-left: 4px solid $alternate-color;
 
   @media (max-width: $breakpoint-s-1) {
+    margin-right: 0;
     margin-left: 0;
   }
 
   .quote-footer {
-    margin-top: $spacing;
+    font-style: normal;
+    margin-top: $double-spacing;
 
     &::before {
       content: "— ";
@@ -394,7 +396,7 @@ nav, footer {
 
   .menu { text-align: right; }
 
-  @media (max-width: $breakpoint-s-1) {
+  @media (max-width: $breakpoint-m-1) {
     text-align: center;
 
     .menu { text-align: center; }
@@ -405,10 +407,9 @@ section {
   padding: $double-spacing 0;
 
   &.intro {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(240, 240, 240, 0.8);
     -webkit-backdrop-filter: blur(5px);
             backdrop-filter: blur(5px);
-
 
     @media (orientation: landscape) { margin-top: 40%; }
     @media (orientation: portrait) { margin-top: 80%; }
@@ -426,7 +427,7 @@ section {
 
 .selection { background-color: $alternate-color; }
 
-.expositions { background-color: #fff; }
+.expositions { background-color: $background-color; }
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
