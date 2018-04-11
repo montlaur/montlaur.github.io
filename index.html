@@ -4,7 +4,7 @@ title: Guy de Montlaur
 ---
 <section class="intro lead">
   <div class="container">
-    <h2>Peintre du XXe siècle</h2>
+    <h1>Peintre du XXe siècle</h1>
     <div class="row">
       <div class="six columns">
         <blockquote>
@@ -60,77 +60,23 @@ title: Guy de Montlaur
 
 <section class="expositions lead" id="expositions">
   <div class="container">
-    <div class="row">
-      <div class="six columns">
-        <h2>Expositions à venir</h2>
-        <p>
-          Pour exposer les peintures de Guy de Montlaur, <a href="mailto:%6d%6f&#110;t&#108;&#97;&#117;r&#64;%6d&#111;&#110;t&#108;a&#117;r%2e&#110;e&#116;">contactez-nous par email</a>
-        </p>
-        <img src="/peintures/expo-GdM-Ranville-2.jpg">
-      </div>
-      <div class="six columns">
-        <h2>Expositions passées</h2>
-        <table class="u-full-width">
-         <thead>
-          <tr>
-           <th>Année</th>
-           <th>Lieu</th>
-          </tr>
-         </thead>
-         <tr>
-          <td>2013</td>
-          <td>Château de Montlaur (Hérault, France)</td>
-         </tr>
-         <tr>
-          <td>2012</td>
-          <td>Orangerie du château de La Thibaudière (Maine-et-Loire, France)</td>
-         </tr>
-         <tr>
-          <td>2012</td>
-          <td>Mémorial Pegasus et bibliothèque de Ranville (Calvados, France)</td>
-         </tr>
-         <tr>
-          <td>1994</td>
-          <td>Montgomery Gallery (San Francisco, États-Unis)</td>
-         </tr>
-         <tr>
-          <td>1994</td>
-          <td>Ambassade de France (Washington DC, États-Unis)</td>
-         </tr>
-         <tr>
-          <td>1971</td>
-          <td>Exposition Galerie Rolf Lutz (Paris, France)</td>
-         </tr>
-         <tr>
-          <td>1959</td>
-          <td>Exposition du Comité France-Amérique (Paris, France)</td>
-         </tr>
-         <tr>
-          <td>1950 - 1958</td>
-          <td>Salon des Réalités Nouvelles (Paris, France)</td>
-         </tr>
-         <tr>
-          <td>1951 - 1954</td>
-          <td>Exposition Galerie Colette Allendy (Paris, France)</td>
-         </tr>
-         <tr>
-          <td>1951</td>
-          <td>3e exposition de l'Art club - Hôtel Negresco (Nice, France)</td>
-         </tr>
-         <tr>
-          <td>1949 - 1950</td>
-          <td>Salon des Surindépendants (Paris, France)</td>
-         </tr>
-         <tr>
-          <td>1949</td>
-          <td>Exposition à la Galerie Lucienne-Léonce Rosenberg (Paris, France)</td>
-         </tr>
-         <tr>
-          <td>1937</td>
-          <td>Salon des Artistes Français (Paris, France)</td>
-         </tr>
-        </table>
-      </div>
-    </div>
+    <h2>Expositions</h2>
+    <table class="u-full-width alternate">
+     <thead>
+      <tr>
+       <th>Année</th>
+       <th>Lieu</th>
+      </tr>
+     </thead>
+     {% for expo in site.data.expositions limit:3 %}
+       <tr>
+        <td>{{ expo.annee }}</td>
+        <td>{{ expo.texte }}</td>
+       </tr>
+     {% endfor %}
+    </table>
+    <p>
+      Pour exposer les peintures de Guy de Montlaur, <a href="mailto:%6d%6f&#110;t&#108;&#97;&#117;r&#64;%6d&#111;&#110;t&#108;a&#117;r%2e&#110;e&#116;">contactez-nous par email</a>
+    </p>
   </div>
 </section>
