@@ -160,10 +160,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h6 { font-size: 1.5rem; }
 }
 
-p {
-  margin-top: 0;
-  margin-bottom: $spacing;
-}
+p { margin-top: 0; }
 
 .lead {
   font-size: 1.8rem;
@@ -426,8 +423,25 @@ section {
   @media (min-width: $breakpoint-m) { margin-top: 70vh; }
 }
 
+@media (min-width: $breakpoint-l){
+  .printy {
+    display: block;
+    -webkit-columns: 3;
+       -moz-columns: 3;
+            columns: 3;
+    -webkit-column-gap: $double-spacing;
+       -moz-column-gap: $double-spacing;
+            column-gap: $double-spacing;
+    -webkit-column-rule: 1px solid $alternate-color;
+       -moz-column-rule: 1px solid $alternate-color;
+            column-rule: 1px solid $alternate-color;
+    margin: $double-spacing 0;
+  }
+}
+
 .selection   { background-color: $alternate-color; }
 .expositions { background-color: $background-color; }
+.biographie  { background-color: $background-color; }
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
@@ -475,7 +489,7 @@ p,
 ul,
 ol,
 form {
-  margin-bottom: $spacing;
+  margin-bottom: $double-spacing;
 }
 
 
