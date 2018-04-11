@@ -60,23 +60,33 @@ title: Guy de Montlaur
 
 <section class="expositions lead" id="expositions">
   <div class="container">
-    <h2>Expositions</h2>
-    <table class="u-full-width alternate">
-     <thead>
-      <tr>
-       <th>Année</th>
-       <th>Lieu</th>
-      </tr>
-     </thead>
-     {% for expo in site.data.expositions limit:3 %}
-       <tr>
-        <td>{{ expo.annee }}</td>
-        <td>{{ expo.texte }}</td>
-       </tr>
-     {% endfor %}
-    </table>
-    <p>
-      Pour exposer les peintures de Guy de Montlaur, <a href="mailto:%6d%6f&#110;t&#108;&#97;&#117;r&#64;%6d&#111;&#110;t&#108;a&#117;r%2e&#110;e&#116;">contactez-nous par email</a>
-    </p>
+    <h2>Expositions en cours</h2>
+    <div class="row">
+      <div class="nine columns">
+        <table class="u-full-width alternate">
+         <thead>
+          <tr>
+           <th>Année</th>
+           <th>Lieu</th>
+          </tr>
+         </thead>
+         {% for expo in site.data.expositions limit:3 %}
+           <tr>
+            <td>{{ expo.annee }}</td>
+            <td>{{ expo.texte }}</td>
+           </tr>
+         {% endfor %}
+        </table>
+        <p>
+          Pour exposer les peintures de Guy de Montlaur, <a href="mailto:%6d%6f&#110;t&#108;&#97;&#117;r&#64;%6d&#111;&#110;t&#108;a&#117;r%2e&#110;e&#116;">contactez-nous par email</a>
+        </p>
+        <p>
+          Voir <a href="/expositions/">les expositions passées</a>
+        </p>
+      </div>
+      <div class="three columns">
+        <img src="/peintures/Pegasus1.jpg" alt="Pegasus before landing">
+      </div>
+    </div>
   </div>
 </section>
