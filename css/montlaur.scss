@@ -397,6 +397,8 @@ nav, footer {
     text-decoration: none;
   }
 
+  ul { margin-bottom: $spacing; }
+
   @media (min-width: $breakpoint-m) {
     .menu { text-align: right; }
     h1 { text-align: left; }
