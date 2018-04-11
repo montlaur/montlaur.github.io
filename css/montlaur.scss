@@ -410,15 +410,20 @@ section {
   padding: $double-spacing 0;
   box-shadow: 0 0 3px $text-color;
 
-  &.intro {
-    margin-top: 55vh;
-    background-color: rgba(240, 240, 240, 0.8);
-    -webkit-backdrop-filter: blur(5px);
-            backdrop-filter: blur(5px);
-
-    @media (min-width: $breakpoint-xs) { margin-top: 65vh; }
-    @media (min-width: $breakpoint-m) { margin-top: 70vh; }
+  .column, .columns {
+    margin-bottom: $double-spacing;
   }
+
+}
+
+.intro {
+  margin-top: 50vh;
+  background-color: rgba(240, 240, 240, 0.8);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+
+  @media (min-width: $breakpoint-xs) { margin-top: 60vh; }
+  @media (min-width: $breakpoint-m) { margin-top: 70vh; }
 }
 
 .selection   { background-color: $alternate-color; }
@@ -452,7 +457,6 @@ td:first-child {
 th:last-child,
 td:last-child {
   padding-right: 0; }
-
 
 /* Spacing */
 input,
