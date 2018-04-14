@@ -1,9 +1,11 @@
 ---
 layout: index
-title: Guy de Montlaur
+title: Guy de Montlaur — Peintre du XXe siècle
+
+big-title: "Peintre du XXe siècle"
 
 quote:
-  title: "Peintre du XXe siècle"
+  title: "À propos de Guy de Montlaur"
   footer: "Guy de Montlaur (Petits écrits de nuit, 28&nbsp;septembre&nbsp;1961)"
   image:
     src: "/peintures/Autoportrait_par_Guy_de_Montlaur.jpg"

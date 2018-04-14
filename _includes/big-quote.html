@@ -1,7 +1,10 @@
 <section class="big-quote lead">
   <div class="container">
-    <h1>{{ page.quote.title }}</h1>
+    <h2>{{ page.quote.title }}</h2>
     <div class="row">
+      <div class="five columns">
+        <img src="{{ base.url }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
+      </div>
       <div class="seven columns">
         <blockquote>
           <quote>
@@ -11,9 +14,6 @@
             {{ page.quote.footer }}
           </p>
         </blockquote>
-      </div>
-      <div class="five columns">
-        <img src="{{ base.url }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
       </div>
     </div>
     <p class="text-center">

@@ -1,16 +1,20 @@
 <section class="selection" id="selection">
   <div class="container">
     <h2>{{ page.selection.title }}</h2>
-    <div class="row text-center">
       {% for peinture in site.data.peintures %}
-        <div class="three columns">
-          <img class="vignette" src="{{ site.base.url }}/peintures/vignettes/{{ peinture.url }}"><br>
-          <strong>{{ peinture.titre }}</strong><br>
-          [{{ peinture.hauteur }}&nbsp;cm &times; {{ peinture.largeur }}&nbsp;cm]<br>
-          {{ peinture.date }}
+        <div class="row text-center">
+          <div class="twelve columns">
+            <figure>
+              <img class="framed" src="{{ site.base.url }}/peintures/vignettes/{{ peinture.url }}">
+              <figcaption>
+                <strong>{{ peinture.titre }}</strong><br>
+                [{{ peinture.hauteur }}&nbsp;cm &times; {{ peinture.largeur }}&nbsp;cm]<br>
+                {{ peinture.date }}
+              </figcaption>
+            </figure>
+        </div>
         </div>
       {% endfor %}
-    </div>
     <p class="text-center lead">
       <a class="button" href="{{ base.url }}{{ page.selection.link.url }}">{{ page.selection.link.title }}</a>
     </p>
