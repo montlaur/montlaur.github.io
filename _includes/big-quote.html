@@ -1,0 +1,23 @@
+<section class="big-quote lead">
+  <div class="container">
+    <h1>{{ page.quote.title }}</h1>
+    <div class="row">
+      <div class="seven columns">
+        <blockquote>
+          <quote>
+            {{ content }}
+          </quote>
+          <p class="quote-footer">
+            {{ page.quote.footer }}
+          </p>
+        </blockquote>
+      </div>
+      <div class="five columns">
+        <img src="{{ base.url }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
+      </div>
+    </div>
+    <p class="text-center">
+      <a class="button" href="{{ base.url }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
+    </p>
+  </div>
+</section>

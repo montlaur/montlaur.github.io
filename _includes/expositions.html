@@ -1,0 +1,29 @@
+<section class="expositions" id="expositions">
+  <div class="container lead">
+    <h2>{{ page.expositions.title }}</h2>
+    <div class="row">
+      <div class="nine columns">
+        <table class="u-full-width alternate">
+         <thead>
+          <tr>
+           <th>Année</th>
+           <th>Lieu et description</th>
+          </tr>
+         </thead>
+         {% for expo in site.data.expositions limit:3 %}
+           <tr>
+            <td>{{ expo.annee }}</td>
+            <td>{{ expo.texte }}</td>
+           </tr>
+         {% endfor %}
+        </table>
+        <p>
+          <a class="button" href="/expositions/">Voir les expositions passées</a>
+        </p>
+      </div>
+      <div class="three columns">
+        <img src="{{ base.url }}{{ page.expositions.image.src }}" alt="{{ page.expositions.image.alt }}">
+      </div>
+    </div>
+  </div>
+</section>
