@@ -10,7 +10,7 @@ quote:
     alt: "Autoportrait par Guy de Montlaur"
   link:
     url: "/biographie/"
-    title: "Lire la biographie de Guy de Montlaur"
+    title: "Lire la biographie"
 
 selection:
   title: "Sélection de peintures"
@@ -23,6 +23,9 @@ expositions:
   image:
     src: "/peintures/Pegasus1.jpg"
     alt: "Pegasus before landing"
+  link:
+    url: "/expositions/"
+    title: "Expositions passées"
 ---
 J’ai envie de crier&nbsp;:
 “Mais regardez donc&nbsp;! Regardez le mystère&nbsp;! Il vous crève les yeux&nbsp;!”
