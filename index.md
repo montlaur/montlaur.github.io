@@ -5,7 +5,7 @@ title: Guy de Montlaur — Peintre du XXe siècle
 big-title: "Peintre du XXe siècle"
 
 quote:
-  title: "À propos de Guy de Montlaur"
+  title: "À propos de Guy&nbsp;de&nbsp;Montlaur"
   footer: "Guy de Montlaur (Petits écrits de nuit, 28&nbsp;septembre&nbsp;1961)"
   image:
     src: "/peintures/Autoportrait_par_Guy_de_Montlaur.jpg"
@@ -15,13 +15,13 @@ quote:
     title: "Lire la biographie"
 
 selection:
-  title: "Sélection de peintures"
+  title: "Sélection de&nbsp;peintures"
   link:
     url: "/peintures/"
     title: "Voir plus de peintures"
 
 expositions:
-  title: "Expositions en cours"
+  title: "Expositions en&nbsp;cours"
   image:
     src: "/peintures/Pegasus1.jpg"
     alt: "Pegasus before landing"
