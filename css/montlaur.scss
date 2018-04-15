@@ -206,7 +206,7 @@ input[type="button"] {
   letter-spacing: .1rem;
   text-decoration: none;
   white-space: nowrap;
-  background-color: #fff;
+  background-color: $background-color;
   border: 4px solid $link-color;
   cursor: pointer;
   box-sizing: border-box; }
@@ -376,91 +376,6 @@ blockquote.quote {
   font-style: italic;
 }
 
-/* MONTLAUR */
-.everything {
-  background-image: url("/peintures/fond.jpg");
-
-  @media (min-width: $breakpoint-m) {
-    background-size: cover;
-    background-attachment: fixed;
-  }
-
-  h2 { text-align: center; }
-}
-
-.big-title {
-  padding: 10vh 0;
-  text-align: center;
-  font-size: 15vw;
-  mix-blend-mode: overlay;
-}
-
-nav, footer {
-  top: 0;
-  color: #fff;
-  text-align: center;
-  padding: $spacing 0;
-  background-color: rgba(0, 0, 0, 0.7);
-  -webkit-backdrop-filter: blur(5px);
-          backdrop-filter: blur(5px);
-
-  h1, .title.h1 { margin-bottom: 0; }
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
-
-  ul, p { margin-bottom: $spacing; }
-
-  .button { box-shadow: 0 0 5px $text-color; }
-
-  @media (min-width: $breakpoint-m) {
-    .menu { text-align: right; }
-    h1, .title.h1 { text-align: left; }
-  }
-}
-
-section {
-  padding: $double-spacing 0;
-
-  .column, .columns {
-    margin-bottom: $double-spacing;
-  }
-
-}
-
-@media (min-width: $breakpoint-l){
-  .printy {
-    display: block;
-    -webkit-columns: 3;
-       -moz-columns: 3;
-            columns: 3;
-    -webkit-column-gap: $double-spacing;
-       -moz-column-gap: $double-spacing;
-            column-gap: $double-spacing;
-    -webkit-column-rule: 1px solid $alternate-color;
-       -moz-column-rule: 1px solid $alternate-color;
-            column-rule: 1px solid $alternate-color;
-    margin: $double-spacing 0;
-  }
-}
-
-.big-quote {
-  background-color: rgba(240, 240, 240, 0.8);
-  -webkit-backdrop-filter: blur(5px);
-          backdrop-filter: blur(5px);
-}
-
-.framed {
-  max-height: 90vh;
-  max-width: 75vw;
-  border: $spacing solid $text-color;
-  box-shadow: 0 0 $spacing $text-color;
-}
-
-.selection   { background-color: $alternate-color; }
-.expositions, .biographie, .peintures { background-color: $background-color; }
-
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
@@ -549,27 +464,89 @@ hr {
   clear: both; }
 
 
-/* Media Queries
+
+/* MONTLAUR
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/*
-Note: The best way to structure the use of media queries is to create the queries
-near the relevant code. For example, if you wanted to change the styles for buttons
-on small devices, paste the mobile query code up in the buttons section and style it
-there.
-*/
+.everything {
+  background-image: url("/peintures/fond.jpg");
 
+  @media (min-width: $breakpoint-m) {
+    background-size: cover;
+    background-attachment: fixed;
+  }
 
-/* Larger than mobile */
-@media (min-width: 400px) {}
+  h2 { text-align: center; }
+}
 
-/* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
+.big-title {
+  padding: 10vh 0;
+  text-align: center;
+  font-size: 15vw;
+  mix-blend-mode: overlay;
+}
 
-/* Larger than tablet */
-@media (min-width: 750px) {}
+nav, footer {
+  top: 0;
+  color: #fff;
+  text-align: center;
+  padding: $spacing 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
 
-/* Larger than desktop */
-@media (min-width: 1000px) {}
+  h1, .title.h1 { margin-bottom: 0; }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
 
-/* Larger than Desktop HD */
-@media (min-width: 1200px) {}
+  ul, p { margin-bottom: $spacing; }
+
+  .button { box-shadow: 0 0 5px $text-color; }
+
+  @media (min-width: $breakpoint-m) {
+    .menu { text-align: right; }
+    h1, .title.h1 { text-align: left; }
+  }
+}
+
+section {
+  padding: $double-spacing 0;
+
+  .column, .columns {
+    margin-bottom: $double-spacing;
+  }
+
+}
+
+@media (min-width: $breakpoint-l){
+  .printy {
+    display: block;
+    -webkit-columns: 3;
+       -moz-columns: 3;
+            columns: 3;
+    -webkit-column-gap: $double-spacing;
+       -moz-column-gap: $double-spacing;
+            column-gap: $double-spacing;
+    -webkit-column-rule: 1px solid $text-color;
+       -moz-column-rule: 1px solid $text-color;
+            column-rule: 1px solid $text-color;
+    margin: $double-spacing 0;
+  }
+}
+
+.big-quote {
+  background-color: rgba(240, 240, 240, 0.8);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+
+.framed {
+  max-height: 90vh;
+  max-width: 75vw;
+  border: $spacing solid $text-color;
+  box-shadow: 0 0 $spacing $text-color;
+}
+
+.selection   { background-color: $alternate-color; }
+.expositions, .biographie, .peintures { background-color: $background-color; }
