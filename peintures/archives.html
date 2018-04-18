@@ -1,0 +1,33 @@
+---
+layout: default
+title: Archives — Guy de Montlaur
+---
+<section class="toutes-peintures">
+  <div class="container">
+    <h1>Toutes les peintures de Guy&nbsp;de&nbsp;Montlaur</h1>
+    <div class="overflow">
+      <table class="u-full-width alternate">
+       <thead>
+        <tr>
+          <th>Titre</th>
+          <th>Date</th>
+          <th>Lieu de création</th>
+          <th>Dimensions</th>
+          <th>Support</th>
+          <th>Matière</th>
+        </tr>
+       </thead>
+       {% for peinture in site.data.peintures %}
+         <tr>
+          <td>{{ peinture.Titre }}</td>
+          <td>{{ peinture.Date | date: "%Y" }}</td>
+          <td>{{ peinture.Lieu }}</td>
+          <td>{{ peinture.Hauteur }}&nbsp;cm&nbsp;&times;&nbsp;{{ peinture.Largeur }}&nbsp;cm</td>
+          <td>{{ peinture.Support }}</td>
+          <td>{{ peinture.Matiere }}</td>
+         </tr>
+       {% endfor %}
+     </table>
+   </div>
+  </div>
+</section>
