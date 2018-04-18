@@ -8,7 +8,7 @@ quote:
   title: "À propos de Guy&nbsp;de&nbsp;Montlaur"
   footer: "Guy de Montlaur (Petits écrits de nuit, 28&nbsp;septembre&nbsp;1961)"
   image:
-    src: "/peintures/Autoportrait_par_Guy_de_Montlaur.jpg"
+    src: "/biographie/Autoportrait_par_Guy_de_Montlaur.jpg"
     alt: "Autoportrait par Guy de Montlaur"
   link:
     url: "/biographie/"
@@ -23,7 +23,7 @@ selection:
 expositions:
   title: "Expositions en&nbsp;cours"
   image:
-    src: "/peintures/Pegasus1.jpg"
+    src: "/expositions/Pegasus1.jpg"
     alt: "Pegasus before landing"
   link:
     url: "/expositions/"

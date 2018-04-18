@@ -1,0 +1,21 @@
+{% for peinture in include.data %}
+  <div class="row text-center">
+    <div class="twelve columns">
+      <figure>
+        <img class="framed"
+            alt="{{ include.infoTitle }} la guitare {{ include.title | strip_html }}"
+            srcset="{{ site.base.url }}/peintures/2048/{{ peinture.url }} 2048w
+                    {{ site.base.url }}/peintures/1536/{{ peinture.url }} 1536w
+                    {{ site.base.url }}/peintures/1100/{{ peinture.url }} 1100w,
+                    {{ site.base.url }}/peintures/800/{{ peinture.url }} 800w,
+                    {{ site.base.url }}/peintures/320/{{ peinture.url }} 320w"
+            src="{{ site.base.url }}/peintures/320/{{ peinture.url }}">
+        <figcaption>
+          <strong>{{ peinture.titre }}</strong><br>
+          [{{ peinture.hauteur }}&nbsp;cm &times; {{ peinture.largeur }}&nbsp;cm]<br>
+          {{ peinture.date }}
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+{% endfor %}

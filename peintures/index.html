@@ -1,13 +1,57 @@
 ---
 layout: default
 title: Peinture — Guy de Montlaur
+big-title: "Peinture"
 ---
 <section class="peintures">
   <div class="container">
     <h1>Peinture</h1>
-    <h2>La période cubiste</h2>
-    <h2>L’abstraction géométrique</h2>
-    <h2>L’abstraction expressionniste</h2>
-    <h2>L’abstraction lyrique</h2>
+    <h2>Années 1940</h2>
+    <div class="row text-center">
+      {% for peinture in site.data.annees-40 limit:4 %}
+        <div class="three columns">
+          {% include peinture.html peinture=peinture file="annees-40" %}
+        </div>
+      {% endfor %}
+    </div>
+    <div class="row text-center">
+      {% for peinture in site.data.annees-40 offset: 4 limit:4 %}
+        <div class="three columns">
+          {% include peinture.html peinture=peinture file="annees-40" %}
+        </div>
+      {% endfor %}
+    </div>
+    <h2>Années 1950</h2>
+    <h2>Années 1960</h2>
+    <h2>Années 1970</h2>
   </container>
+</section>
+<section class="toutes-peintures">
+  <div class="container">
+    <h3>Toutes les peintures de Guy&nbsp;de&nbsp;Montlaur</h3>
+    <div class="overflow">
+      <table class="u-full-width alternate">
+       <thead>
+        <tr>
+          <th>Titre</th>
+          <th>Date</th>
+          <th>Lieu de création</th>
+          <th>Dimensions</th>
+          <th>Support</th>
+          <th>Matière</th>
+        </tr>
+       </thead>
+       {% for peinture in site.data.peintures %}
+         <tr>
+          <td>{{ peinture.Titre }}</td>
+          <td>{{ peinture.Date | date: "%Y" }}</td>
+          <td>{{ peinture.Lieu }}</td>
+          <td>{{ peinture.Hauteur }}&nbsp;cm&nbsp;&times;&nbsp;{{ peinture.Largeur }}&nbsp;cm</td>
+          <td>{{ peinture.Support }}</td>
+          <td>{{ peinture.Matiere }}</td>
+         </tr>
+       {% endfor %}
+     </table>
+   </div>
+  </div>
 </section>

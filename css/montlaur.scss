@@ -469,6 +469,7 @@ hr {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .everything {
   background-image: url("/peintures/fond.jpg");
+  background-size: 100vh;
 
   @media (min-width: $breakpoint-m) {
     background-size: cover;
@@ -476,13 +477,6 @@ hr {
   }
 
   h2 { text-align: center; }
-}
-
-.big-title {
-  padding: 10vh 0;
-  text-align: center;
-  font-size: 15vw;
-  mix-blend-mode: overlay;
 }
 
 nav, footer {
@@ -502,12 +496,19 @@ nav, footer {
 
   ul, p { margin-bottom: $spacing; }
 
-  .button { box-shadow: 0 0 5px $text-color; }
+  .button { box-shadow: 0 0 $spacing $text-color; }
 
   @media (min-width: $breakpoint-m) {
     .menu { text-align: right; }
     h1, .title.h1 { text-align: left; }
   }
+}
+
+.big-title {
+  padding: 5vh 0;
+  text-align: center;
+  font-size: 17vw;
+  mix-blend-mode: overlay;
 }
 
 section {
@@ -516,7 +517,6 @@ section {
   .column, .columns {
     margin-bottom: $double-spacing;
   }
-
 }
 
 @media (min-width: $breakpoint-l){
@@ -543,10 +543,23 @@ section {
 
 .framed {
   max-height: 90vh;
-  max-width: 75vw;
+  max-width: 90%;
   border: $spacing solid $text-color;
   box-shadow: 0 0 $spacing $text-color;
 }
 
-.selection   { background-color: $alternate-color; }
-.expositions, .biographie, .peintures { background-color: $background-color; }
+.alert {
+  background-color: $text-color;
+  color: #fff;
+  padding: $spacing;
+  border-radius: 3px;
+
+  a { color: #fff; }
+}
+
+figcaption h5 { margin-bottom: 0; }
+
+.toutes-peintures .overflow { overflow: scroll; }
+
+.selection, .peintures   { background-color: $alternate-color; }
+.expositions, .biographie, .toutes-peintures { background-color: $background-color; }

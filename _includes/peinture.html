@@ -1,0 +1,21 @@
+<figure>
+  <img class="framed"
+      alt="{{ include.peinture.Title | strip_html }}"
+      srcset="{{ site.base.url }}/peintures/320/{{ include.file }}/{{ include.peinture.Url }} 320w,
+              {{ site.base.url }}/peintures/800/{{ include.file }}/{{ include.peinture.Url }} 800w,
+              {{ site.base.url }}/peintures/1100/{{ include.file }}/{{ include.peinture.Url }} 1100w,
+              {{ site.base.url }}/peintures/1500/{{ include.file }}/{{ include.peinture.Url }} 1500w,
+              {{ site.base.url }}/peintures/2000/{{ include.file }}/{{ include.peinture.Url }} 2000w"
+      src="{{ site.base.url }}/peintures/800/{{ include.file }}/{{ include.peinture.Url }}">
+  <figcaption>
+    <h5>{{ include.peinture.Titre }}</h5>
+    {% if include.peinture.Hauteur and include.peinture.Largeur %}
+      {{ include.peinture.Hauteur }}&nbsp;cm &times; {{ include.peinture.Largeur }}&nbsp;cm
+    {% endif %}
+    {% if include.peinture.Date or include.peinture.Lieu %}
+      <br>
+      {{ include.peinture.Lieu }}
+      {{ include.peinture.Date | date:"%Y" }}
+    {% endif %}
+  </figcaption>
+</figure>
