@@ -134,6 +134,7 @@ body {
 h1, h2, h3, h4, h5, h6, .title {
   display: block;
   font-family: $serif-family;
+  font-style: italic;
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
@@ -143,6 +144,8 @@ h3 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
 h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
+
+.title.h1 { font-style: normal; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
@@ -368,12 +371,6 @@ blockquote {
       content: "— ";
     }
   }
-}
-
-blockquote.quote {
-  font-family: $serif-family;
-  font-size: 200%;
-  font-style: italic;
 }
 
 /* Code
