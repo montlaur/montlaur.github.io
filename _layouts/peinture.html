@@ -1,0 +1,18 @@
+{% include head.html %}
+{% include big-quote.html %}
+<section class="peintures">
+  <div class="container lead">
+    <h2>Années 1940</h2>
+    {% include annees.html data=site.data.annees-40 annees="annees-40" %}
+    <h2>Années 1950</h2>
+    {% include annees.html data=site.data.annees-50 annees="annees-50" %}
+    <h2>Années 1960</h2>
+    {% include annees.html data=site.data.annees-60 annees="annees-60" %}
+    <h2>Années 1970</h2>
+    {% include annees.html data=site.data.annees-60 annees="annees-60" %}
+    <p class="text-center lead">
+      <a class="button" href="{{ site.base.url }}/peintures/archives.html">Voir les archives</a>
+    </p>
+  </div>
+</section>
+{% include foot.html %}

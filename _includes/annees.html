@@ -1,0 +1,14 @@
+<div class="row text-center">
+  {% for peinture in include.data limit:4 %}
+    <div class="three columns">
+      {% include peinture.html peinture=peinture file=include.annees %}
+    </div>
+  {% endfor %}
+</div>
+<div class="row text-center">
+  {% for peinture in include.data offset: 4 limit:4 %}
+    <div class="three columns">
+      {% include peinture.html peinture=peinture file=include.annees %}
+    </div>
+  {% endfor %}
+</div>

@@ -1,11 +1,17 @@
 <section class="big-quote lead">
   <div class="container">
+    {% if page.quote.title %}
     <h2>{{ page.quote.title }}</h2>
+    {% elsif page.h1 %}
+    <h1>{{ page.h1 }}</h1>
+    {% else %}
+    <h1>{{ page.title }}</h1>
+    {% endif %}
     <div class="row">
-      <div class="five columns">
+      <div class="four columns">
         <img src="{{ base.url }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
       </div>
-      <div class="seven columns">
+      <div class="eight columns">
         <blockquote>
           <quote>
             {{ content }}
@@ -16,8 +22,10 @@
         </blockquote>
       </div>
     </div>
-    <p class="text-center">
-      <a class="button" href="{{ base.url }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
-    </p>
+    {% if page.quote.link.title %}
+      <p class="text-center">
+        <a class="button" href="{{ base.url }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
+      </p>
+    {% endif %}
   </div>
 </section>
