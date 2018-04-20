@@ -9,16 +9,16 @@ title: Contact
       <div class="row">
         <div class="six columns">
           <label for="name">Votre nom</label>
-          <input id="name" class="u-full-width" type="text" name="name" placeholder="Robert Montalu">
+          <input id="name" type="text" name="name" placeholder="Robert Montalu" required="required">
           <label for="_replyto">Votre email</label>
-          <input id="_replyto" class="u-full-width" type="email" name="_replyto" placeholder="votreemail@domaine.fr">
+          <input id="_replyto" class="u-full-width" type="email" name="_replyto" placeholder="robert.montalu@yooha.fr" required="required">
           <input class="hidden" type="text" name="_gotcha">
           <label for="message">Votre message</label>
-          <textarea id="message" class="u-full-width" name="message" placeholder="Bonjour…"></textarea>
+          <textarea id="message" class="u-full-width" name="message" placeholder="Bonjour…" required="required"></textarea>
           <input type="hidden" name="_subject" value="Nouveau message sur le site montlaur.net">
           <input type="hidden" name="_language" value="fr">
           <input type="hidden" name="_next" value="{{ base.url }}/contact/merci.html">
-          <input class="button button-primary u-full-width" type="submit" value="Envoyer">
+          <input class="button button-primary u-pull-right" type="submit" value="Envoyer">
         </div>
         <div class="six columns">
         </div>
