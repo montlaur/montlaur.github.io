@@ -466,7 +466,13 @@ hr {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .everything {
   background-image: url("/peintures/fond.jpg");
-  background-size: 100vh;
+  @media (orientation:portrait) {
+    background-size: 100vh;
+  }
+
+  @media (orientation:landscape) {
+    background-size: 100%;
+  }
 
   @media (min-width: $breakpoint-m) {
     background-size: cover;
