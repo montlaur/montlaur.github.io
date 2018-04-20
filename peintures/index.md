@@ -1,7 +1,6 @@
 ---
 layout: peinture
-title: Peinture — Guy de Montlaur
-h1: Peinture
+title: Peinture
 
 quote:
   footer: "Guy de Montlaur, 25 septembre 1961"

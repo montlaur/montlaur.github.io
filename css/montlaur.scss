@@ -281,7 +281,7 @@ textarea {
      -moz-appearance: none;
           appearance: none; }
 textarea {
-  min-height: 65px;
+  min-height: 120px;
   padding-top: 6px;
   padding-bottom: 6px; }
 input[type="email"]:focus,
@@ -511,7 +511,7 @@ nav, footer {
 section {
   padding: $double-spacing 0;
 
-  .column, .columns {
+  &:not(.contact) .column, &:not(.contact) .columns {
     margin-bottom: $double-spacing;
   }
 }
@@ -558,5 +558,5 @@ figcaption h5 { margin-bottom: 0; }
 
 .toutes-peintures .overflow { overflow: scroll; }
 
-.selection, .peintures   { background-color: $alternate-color; }
-.expositions, .biographie, .toutes-peintures { background-color: $background-color; }
+.bg-alternate, .selection, .peintures   { background-color: $alternate-color; }
+.bg-background, .expositions, .biographie, .toutes-peintures { background-color: $background-color; }
