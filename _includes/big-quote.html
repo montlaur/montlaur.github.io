@@ -7,7 +7,7 @@
     {% endif %}
     <div class="row">
       <div class="four columns">
-        <img src="{{ base.url }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
+        <img src="{{ site.baseurl }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
       </div>
       <div class="eight columns">
         <blockquote>
@@ -22,7 +22,7 @@
     </div>
     {% if page.quote.link.title %}
       <p class="text-center">
-        <a class="button" href="{{ base.url }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
+        <a class="button" href="{{ site.baseurl }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
       </p>
     {% endif %}
   </div>

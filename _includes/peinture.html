@@ -1,13 +1,13 @@
 <figure>
   <img class="framed"
       alt="{{ include.peinture.Title | strip_html }}"
-      srcset="{{ site.base.url }}/peintures/320/{{ include.file }}/{{ include.peinture.Url }} 320w,
-              {{ site.base.url }}/peintures/800/{{ include.file }}/{{ include.peinture.Url }} 800w,
-              {{ site.base.url }}/peintures/1100/{{ include.file }}/{{ include.peinture.Url }} 1100w,
-              {{ site.base.url }}/peintures/1500/{{ include.file }}/{{ include.peinture.Url }} 1500w,
-              {{ site.base.url }}/peintures/2000/{{ include.file }}/{{ include.peinture.Url }} 2000w"
+      srcset="{{ site.baseurl }}/peintures/320/{{ include.file }}/{{ include.peinture.Url }} 320w,
+              {{ site.baseurl }}/peintures/800/{{ include.file }}/{{ include.peinture.Url }} 800w,
+              {{ site.baseurl }}/peintures/1100/{{ include.file }}/{{ include.peinture.Url }} 1100w,
+              {{ site.baseurl }}/peintures/1500/{{ include.file }}/{{ include.peinture.Url }} 1500w,
+              {{ site.baseurl }}/peintures/2000/{{ include.file }}/{{ include.peinture.Url }} 2000w"
       sizes="90vh"
-      src="{{ site.base.url }}/peintures/800/{{ include.file }}/{{ include.peinture.Url }}">
+      src="{{ site.baseurl }}/peintures/800/{{ include.file }}/{{ include.peinture.Url }}">
   <figcaption>
     <h5>{{ include.peinture.Titre }}</h5>
     {% if include.peinture.Hauteur and include.peinture.Largeur %}

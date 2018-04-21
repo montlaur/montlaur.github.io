@@ -1,6 +1,7 @@
 ---
 layout: peinture
 title: Peinture
+active-item: peinture
 
 quote:
   footer: "Guy de Montlaur, 25 septembre 1961"

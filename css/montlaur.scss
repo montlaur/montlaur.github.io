@@ -122,11 +122,10 @@ body {
   font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-family: $sans-serif-family;
-  text-rendering : optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  -webkit-font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
-     -moz-font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
-          font-variant-ligatures: normal, discretionary-ligatures, historical-ligatures, contextual ;
+  -webkit-font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
+     -moz-font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
+          font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
 }
 
 /* Typography
@@ -144,8 +143,6 @@ h3 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
 h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
-
-.title.h1 { font-style: normal; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
@@ -496,6 +493,18 @@ nav, footer {
   ul, p { margin-bottom: $spacing; }
 
   .button { box-shadow: 0 0 $spacing $text-color; }
+
+  @media (max-width: 450px) {
+    ul { margin-bottom: 0; }
+
+    .list-inline .item-break {
+      &::before { content: none; }
+      a::before {
+        display: block;
+        content: "\a";
+      }
+    }
+  }
 
   @media (min-width: $breakpoint-m) {
     .menu { text-align: right; }
