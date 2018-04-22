@@ -162,8 +162,6 @@ p { margin-top: 0; }
   @media (min-width: $breakpoint-s) { font-size: 2rem; }
 }
 
-.hidden { display: none; }
-
 .text-left        { text-align: left; }
 .text-right       { text-align: right; }
 .text-center      { text-align: center; }
@@ -458,6 +456,11 @@ hr {
   clear: both; }
 
 
+/* HIDDEN */
+.hidden,
+.list-inline .hidden { display: none; }
+
+
 
 /* MONTLAUR
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -483,16 +486,49 @@ nav, footer {
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
 
-  h1, .title.h1 { margin-bottom: 0; }
+  h1, .title.h1 {
+    margin-bottom: 0;
+
+    @media(max-width: $breakpoint-m-1 ) {
+      float: left;
+      text-align: left;
+    }
+  }
 
   a {
     color: #fff;
     text-decoration: none;
   }
 
+  .button {
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    padding: 0 $spacing;
+
+    &:hover {
+      background-color: #fff;
+      border-color: #fff;
+    }
+  }
+
   ul, p { margin-bottom: $spacing; }
 
-  .button { box-shadow: 0 0 $spacing $text-color; }
+  .accessible-menu {
+    @media (max-width: $breakpoint-s-1) {
+      margin-top: .8rem;
+    }
+    @media (min-width: $breakpoint-m) {
+      margin: 0;
+    }
+  }
+
+  .menu-button {
+    float:right;
+    @media (min-width: $breakpoint-m) {
+      display: none;
+    }
+  }
 
   @media (max-width: 450px) {
     ul { margin-bottom: 0; }
@@ -506,7 +542,25 @@ nav, footer {
     }
   }
 
+  #menu {
+    opacity: 0;
+    margin-top: -100px;
+    overflow: hidden;
+    transition: all .25s ease;
+    ul { display: none; }
+    &:target {
+      opacity: 1;
+      margin-top: 0;
+      ul { display: block; }
+    }
+  }
+
   @media (min-width: $breakpoint-m) {
+    #menu {
+      opacity: 1;
+      margin-top: 0;
+      ul { display: block; }
+    }
     .menu { text-align: right; }
     h1, .title.h1 { text-align: left; }
   }
