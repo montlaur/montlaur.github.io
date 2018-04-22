@@ -502,7 +502,8 @@ nav, footer {
 
   .button {
     color: #fff;
-    border: 1px solid #fff;
+    border: 1px solid $alternate-color;
+    border-radius: 2px;
     background-color: transparent;
     padding: 0 $spacing;
 
@@ -544,19 +545,22 @@ nav, footer {
 
   #menu {
     opacity: 0;
-    margin-top: -100px;
-    overflow: hidden;
-    transition: all .25s ease;
+    margin-top: -90px;
+    transition: all .3s ease-in-out;
+
     ul { display: none; }
+
     &:target {
       opacity: 1;
       margin-top: 0;
+
       ul { display: block; }
     }
   }
 
   @media (min-width: $breakpoint-m) {
     #menu {
+      transition: none;
       opacity: 1;
       margin-top: 0;
       ul { display: block; }
