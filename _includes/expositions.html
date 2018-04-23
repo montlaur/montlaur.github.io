@@ -1,7 +1,7 @@
 <section class="bg-background">
   <div class="container lead">
     <h2>{{ page.expositions.title }}</h2>
-    <div class="row">
+    <div class="flex-row">
       <div class="nine columns">
         <table class="u-full-width alternate">
          <thead>
@@ -18,15 +18,15 @@
          {% endfor %}
         </table>
         <p class="alert">
-         Pour exposer les peintures de Guy de Montlaur, <a href="{{ base.url }}/contact/">contactez-nous</a>.
-        </p>
-        <p class="text-center">
-          <a class="button" href="{{ site.baseurl }}{{ page.expositions.link.url }}">{{ page.expositions.link.title }}</a>
+          Pour exposer les peintures de Guy de Montlaur, <a href="{{ site.baseurl }}/contact/">contactez-nous</a>.
         </p>
       </div>
-      <div class="three columns">
-        <img src="{{ site.baseurl }}{{ page.expositions.image.src }}" alt="{{ page.expositions.image.alt }}">
+      <div class="three columns cover-container">
+        <img class="cover" src="{{ site.baseurl }}{{ page.expositions.image.src }}" alt="{{ page.expositions.image.alt }}">
       </div>
     </div>
+    <p class="text-center">
+      <a class="button" href="{{ site.baseurl }}{{ page.expositions.link.url }}">{{ page.expositions.link.title }}</a>
+    </p>
   </div>
 </section>

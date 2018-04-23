@@ -5,8 +5,7 @@ title: Expositions
 <section class="bg-background">
   <div class="container lead">
     <h1>Expositions</h1>
-    <h2>Expositions en&nbsp;cours</h2>
-    <div class="row">
+    <div class="flex-row">
       <div class="nine columns">
         <table class="u-full-width alternate">
          <thead>
@@ -22,13 +21,14 @@ title: Expositions
            </tr>
          {% endfor %}
        </table>
-        <p class="alert">
-          Pour exposer les peintures de Guy de Montlaur, <a href="{{ site.baseurl }}/contact/">contactez-nous</a>.
-        </p>
+       <p class="alert">
+         Pour exposer les peintures de Guy de Montlaur, <a href="{{ site.baseurl }}/contact/">contactez-nous</a>.
+       </p>
       </div>
-      <div class="three columns">
-        <img src="{{ site.baseurl }}/expositions/expo-GdM-Ranville-2.jpg" alt="Exposition à Ranville">
+      <div class="three columns cover-container">
+        <img class="cover" src="{{ site.baseurl }}/expositions/expo-GdM-Ranville-2.jpg" alt="Exposition à Ranville">
       </div>
+    </div>
     <h2>Expositions passées</h2>
     <table class="u-full-width alternate">
      <thead>

@@ -608,6 +608,40 @@ section {
           backdrop-filter: blur(5px);
 }
 
+.flex-row {
+  display:     -ms-flexbox;
+  display: -webkit-flex;
+  display:         flex;
+      -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+
+  &::after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@media (min-width: $breakpoint-m) {
+  .flex-row {
+
+    .cover-container {
+      position: relative;
+
+      .cover, .contain {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-object-fit: cover;
+                object-fit: cover;
+      }
+    }
+  }
+}
+
 .framed {
   max-height: 90vh;
   max-width: 90%;
