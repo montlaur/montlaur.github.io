@@ -122,10 +122,9 @@ body {
   font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-family: $sans-serif-family;
-  -webkit-font-smoothing: antialiased;
-  -webkit-font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
-     -moz-font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
-          font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
+  -webkit-font-smoothing:  antialiased;
+  -moz-osx-font-smoothing: antialiased;
+  font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
 }
 
 /* Typography
@@ -482,7 +481,7 @@ nav, footer {
   color: #fff;
   text-align: center;
   padding: $spacing 0;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, .8);
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
 
@@ -609,12 +608,8 @@ section {
 }
 
 .flex-row {
-  display:     -ms-flexbox;
-  display: -webkit-flex;
-  display:         flex;
-      -ms-flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-          flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 
   &::after{
     content: "";
@@ -629,14 +624,13 @@ section {
     .cover-container {
       position: relative;
 
-      .cover, .contain {
+      .cover {
         position: absolute;
         top: 0;
         left: 0;
         height: 100%;
         width: 100%;
-        -webkit-object-fit: cover;
-                object-fit: cover;
+        object-fit: cover;
       }
     }
   }
@@ -647,6 +641,31 @@ section {
   max-width: 90%;
   border: $spacing solid $text-color;
   box-shadow: 0 0 $spacing $text-color;
+
+
+}
+
+.bigger { transition: all .25s ease-in-out; }
+
+@media (min-width: $breakpoint-m) {
+.bigger:target {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: scroll;
+  text-align: center;
+  background-color: rgba(0, 0, 0, .8);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+
+  figure { margin: $spacing 0; }
+  img { height: 80vh; }
+  figcaption { color: #fff; }
+
+  }
 }
 
 .alert {
