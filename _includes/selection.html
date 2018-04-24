@@ -1,13 +1,36 @@
 <section class="bg-alternate">
   <div class="container lead">
     <h2>{{ page.selection.title }}</h2>
-    {% for peinture in site.data.selection %}
-      <div class="row text-center">
-        <div class="twelve columns">
-          {% include peinture.html peinture=peinture file="selection" %}
+    <div class="row text-center">
+      {% for peinture in site.data.selection limit:4 %}
+        <div class="three columns">
+          <span id="{{ peinture.Titre }}" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+          </span>
         </div>
-      </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
+    <div class="row text-center">
+      {% for peinture in site.data.selection offset:4 limit:4 %}
+        <div class="three columns">
+          <span id="{{ peinture.Titre }}" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+          </span>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="row text-center">
+      {% for peinture in site.data.selection offset:8 limit:4 %}
+        <div class="three columns">
+          <span id="{{ peinture.Titre }}" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+          </span>
+        </div>
+      {% endfor %}
+    </div>
     {% if page.selection.link.title %}
       <p class="text-center lead">
         <a class="button" href="{{ site.baseurl }}{{ page.selection.link.url }}">{{ page.selection.link.title }}</a>

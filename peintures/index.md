@@ -12,7 +12,6 @@ quote:
 Et la peinture&nbsp;?
 
 Elle m’apparut comme le moyen justement de dire ces «&nbsp;choses importantes&nbsp;» dont nous ne pouvions parler.
-
 Ces choses ne peuvent être exprimées en langage clair. Elles sont proprement indicibles. Elles deviennent floues et finissent par s’évanouir à l’analyse.
 
 On ne peut les évoquer que par allusion.

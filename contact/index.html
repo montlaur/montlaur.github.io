@@ -6,8 +6,8 @@ title: Contact
   <div class="container lead">
     <h1>Contactez-nous</h1>
     <form action="https://formspree.io/%63&#111;%6e%74&#97;c&#116;&#64;%6f&#100;e%76&#105;&#108;&#108;ar&#100;&#105;%2e%66r" method="POST">
-      <div class="row">
-        <div class="six columns">
+      <div class="flex-row">
+        <div class="seven columns">
           <label for="name">Votre nom</label>
           <input id="name" type="text" name="name" placeholder="Robert Montalu" required="required">
           <label for="_replyto">Votre email</label>
@@ -18,9 +18,10 @@ title: Contact
           <input type="hidden" name="_subject" value="Nouveau message sur le site montlaur.net">
           <input type="hidden" name="_language" value="fr">
           <input type="hidden" name="_next" value="{{ site.baseurl }}/contact/merci.html">
-          <input class="button button-primary u-pull-right" type="submit" value="Envoyer">
+          <input class="button button-primary" type="submit" value="Envoyer">
         </div>
-        <div class="six columns">
+        <div class="five columns cover-container">
+          <img class="cover" src="{{ site.baseurl }}/contact/nature-morte-aux-livres.jpg" alt="Nature morte aux livres">
         </div>
       </div>
     </form>

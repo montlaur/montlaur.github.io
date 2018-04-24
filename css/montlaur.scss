@@ -476,6 +476,7 @@ hr {
   h2 { text-align: center; }
 }
 
+// Header & footer
 nav, footer {
   top: 0;
   color: #fff;
@@ -569,6 +570,7 @@ nav, footer {
   }
 }
 
+// Sections
 section {
   padding: $double-spacing 0;
   overflow: scroll;
@@ -578,13 +580,20 @@ section {
   }
 }
 
+// Couleurs de fond des sections
+.bg-alternate { background-color: $alternate-color; }
+.bg-background { background-color: $background-color; }
+
+// Titre de la homepage
 .big-title {
   padding: 5vh 0;
   text-align: center;
-  font-size: 17vw;
+  font-size: 20vw;
+  line-height: 1;
   mix-blend-mode: overlay;
 }
 
+// Effet journal pour la biographie
 .printy {
   @media (min-width: $breakpoint-l){
     display: block;
@@ -602,11 +611,12 @@ section {
 }
 
 .big-quote {
-  background-color: rgba(240, 240, 240, 0.8);
+  background-color: rgba(240, 240, 240, 0.9);
   -webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
 }
 
+// Cover pour les photos des big-quotes
 .flex-row {
   display: flex;
   flex-wrap: wrap;
@@ -636,13 +646,21 @@ section {
   }
 }
 
+// Cadre pour les peintures
 .framed {
   max-height: 90vh;
   max-width: 90%;
-  border: $spacing solid $text-color;
   box-shadow: 0 0 $spacing $text-color;
+  border: $spacing solid $text-color;
+
+  @media (min-width: $breakpoint-m) and (max-width: $breakpoint-l) {
+    border-width: $spacing/2;
+  }
 }
 
+figcaption h5 { margin-bottom: 0; }
+
+// Zoom sur les peintures
 .bigger {
   transition: all .25s ease-in-out;
   .close { display: none; }
@@ -664,7 +682,7 @@ section {
     z-index: 1;
 
     figure { margin: $spacing 0; }
-    img { height: 80vh; }
+    img { height: 78vh; }
     figcaption { color: #fff; }
     .close {
       display: block;
@@ -677,6 +695,7 @@ section {
   }
 }
 
+// Cadre de mise en avant
 .alert {
   background-color: $text-color;
   color: #fff;
@@ -686,6 +705,7 @@ section {
   a { color: #fff; }
 }
 
+// Formulaire de contact
 .contact {
   input, select, textarea {
     color: $text-color;
@@ -695,8 +715,3 @@ section {
 
   label { font-weight: 300; }
 }
-
-figcaption h5 { margin-bottom: 0; }
-
-.bg-alternate { background-color: $alternate-color; }
-.bg-background { background-color: $background-color; }

@@ -9,7 +9,7 @@
   {% endfor %}
 </div>
 <div class="row text-center">
-  {% for peinture in include.data offset: 4 limit:4 %}
+  {% for peinture in include.data offset:4 limit:4 %}
     <div class="three columns">
       <span id="{{ peinture.Titre }}" class="bigger">
         <span class="close" onclick="javascript:history.back()"></span>
