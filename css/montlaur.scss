@@ -17,6 +17,10 @@ $breakpoint-m-1:  767px;
 $breakpoint-m:    768px;
 $breakpoint-l-1:  1023px;
 $breakpoint-l:    1024px;
+$breakpoint-xl-1:  1199px;
+$breakpoint-xl:    1200px;
+$breakpoint-xxl-1:  1599px;
+$breakpoint-xxl:    1600px;
 
 $serif-family: 'Lora', Georgia, serif;
 $sans-serif-family: 'Raleway', Helvetica, Arial, sans-serif;
@@ -607,6 +611,11 @@ section {
        -moz-column-rule: 1px solid $text-color;
             column-rule: 1px solid $text-color;
     margin: $double-spacing 0;
+  }
+  @media (min-width: $breakpoint-xxl){
+    -webkit-columns: 4;
+       -moz-columns: 4;
+            columns: 4;
   }
 }
 
