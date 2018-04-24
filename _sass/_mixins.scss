@@ -1,0 +1,22 @@
+@mixin backdrop-filter-blur($radius) {
+  -webkit-backdrop-filter: blur($radius);
+          backdrop-filter: blur($radius);
+}
+
+@mixin columns($number) {
+  -webkit-columns: $number;
+     -moz-columns: $number;
+          columns: $number;
+}
+
+@mixin column-gap($gap) {
+  -webkit-column-gap: $gap;
+     -moz-column-gap: $gap;
+          column-gap: $gap;
+}
+
+@mixin column-rule($rule) {
+-webkit-column-rule: 1px solid $rule;
+   -moz-column-rule: 1px solid $rule;
+        column-rule: 1px solid $rule;
+}

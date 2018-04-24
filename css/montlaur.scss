@@ -25,13 +25,15 @@ $breakpoint-xxl:    1600px;
 $serif-family: 'Lora', Georgia, serif;
 $sans-serif-family: 'Raleway', Helvetica, Arial, sans-serif;
 
+@import 'mixins';
+@import 'normalize';
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
   width: 100%;
-  max-width: 1200px;
+  max-width: $breakpoint-xl;
   margin: 0 auto;
   padding: 0 $spacing;
   box-sizing: border-box; }
@@ -126,8 +128,8 @@ body {
   font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-family: $sans-serif-family;
-  -webkit-font-smoothing:  antialiased;
   -moz-osx-font-smoothing: antialiased;
+   -webkit-font-smoothing: antialiased;
   font-variant-ligatures: common-ligatures, discretionary-ligatures, historical-ligatures, contextual ;
 }
 
@@ -394,12 +396,6 @@ td {
   padding: $spacing;
   text-align: left;
   border-bottom: 1px solid $alternate-color; }
-// th:first-child,
-// td:first-child {
-//   padding-left: 0; }
-// th:last-child,
-// td:last-child {
-//   padding-right: 0; }
 
 .alternate tr:nth-child(2n) { background-color: $alternate-color; }
 
@@ -467,6 +463,8 @@ hr {
 
 /* MONTLAUR
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+// Fond
 .everything {
   background-image: url("/peintures/fond.jpg");
   @media (orientation:portrait)  { background-size: 100vh; }
@@ -487,8 +485,7 @@ nav, footer {
   text-align: center;
   padding: $spacing 0;
   background-color: rgba(0, 0, 0, .8);
-  -webkit-backdrop-filter: blur(5px);
-          backdrop-filter: blur(5px);
+  @include backdrop-filter-blur(5px);
 
   h1, .title.h1 {
     margin-bottom: 0;
@@ -520,19 +517,13 @@ nav, footer {
   ul, p { margin-bottom: $spacing; }
 
   .accessible-menu {
-    @media (max-width: $breakpoint-s-1) {
-      margin-top: .8rem;
-    }
-    @media (min-width: $breakpoint-m) {
-      margin: 0;
-    }
+    @media (max-width: $breakpoint-s-1) { margin-top: .8rem; }
+    @media (min-width: $breakpoint-m) { margin: 0; }
   }
 
   .menu-button {
     float:right;
-    @media (min-width: $breakpoint-m) {
-      display: none;
-    }
+    @media (min-width: $breakpoint-m) { display: none; }
   }
 
   @media (max-width: 450px) {
@@ -579,7 +570,8 @@ section {
   padding: $double-spacing 0;
   overflow: scroll;
 
-  &:not(.contact) .column, &:not(.contact) .columns {
+  &:not(.contact) .column,
+  &:not(.contact) .columns {
     margin-bottom: $double-spacing;
   }
 }
@@ -601,28 +593,17 @@ section {
 .printy {
   @media (min-width: $breakpoint-l){
     display: block;
-    -webkit-columns: 3;
-       -moz-columns: 3;
-            columns: 3;
-    -webkit-column-gap: $double-spacing;
-       -moz-column-gap: $double-spacing;
-            column-gap: $double-spacing;
-    -webkit-column-rule: 1px solid $text-color;
-       -moz-column-rule: 1px solid $text-color;
-            column-rule: 1px solid $text-color;
     margin: $double-spacing 0;
+    @include columns(3);
+    @include column-gap($double-spacing);
+    @include column-rule($text-color);
   }
-  @media (min-width: $breakpoint-xxl){
-    -webkit-columns: 4;
-       -moz-columns: 4;
-            columns: 4;
-  }
+  @media (min-width: $breakpoint-xxl){ @include columns(3); }
 }
 
 .big-quote {
   background-color: rgba(240, 240, 240, 0.9);
-  -webkit-backdrop-filter: blur(5px);
-          backdrop-filter: blur(5px);
+  @include backdrop-filter-blur(5px);
 }
 
 // Cover pour les photos des big-quotes
@@ -686,8 +667,7 @@ figcaption h5 { margin-bottom: 0; }
     overflow: scroll;
     text-align: center;
     background-color: rgba(0, 0, 0, .8);
-    -webkit-backdrop-filter: blur(5px);
-            backdrop-filter: blur(5px);
+    @include backdrop-filter-blur(5px);
     z-index: 1;
 
     figure { margin: $spacing 0; }
