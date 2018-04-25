@@ -611,6 +611,8 @@ section {
     padding: $spacing/2 $spacing/2 0 0;
     font-family: $serif-family;
   }
+
+  &:last-child p:last-child::after { content: "●"; }
 }
 
 // Cover pour les photos des big-quotes
