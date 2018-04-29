@@ -2,16 +2,16 @@
   {% if page.lang=="EN" %}
     <li><a class="lang-link" data-title="Français" href="{{ site.baseurl }}/">fr</a></li>
     <li class="active lang"><a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/">en</a></li>
-    <li class="item-break first"><a href="{{ site.baseurl }}/en/paintings/">Paintings</a></li>
-    <li><a href="{{ site.baseurl }}/en/exhibits/">Exhibits</a></li>
-    <li class="item-break"><a href="{{ site.baseurl }}/en/biography/">Biography</a></li>
-    <li><a href="{{ site.baseurl }}/en/contact/">Contact</a></li>
+    <li class="item-break first{% if page.active-item=='peintures' %} active{% endif %}"><a href="{{ site.baseurl }}/en/paintings/">Paintings</a></li>
+    <li {% if page.active-item=='expositions' %}class="active"{% endif %}><a href="{{ site.baseurl }}/en/exhibits/">Exhibits</a></li>
+    <li class="item-break{% if page.active-item=='biographie' %} active{% endif %}"><a href="{{ site.baseurl }}/en/biography/">Biography</a></li>
+    <li {% if page.active-item=='contact' %}class="active"{% endif %}><a href="{{ site.baseurl }}/en/contact/">Contact</a></li>
   {% else %}
     <li><a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/">en</a></li>
     <li class="active lang"><a class="lang-link" data-title="Français" href="{{ site.baseurl }}/">fr</a></li>
-    <li class="item-break first"><a href="{{ site.baseurl }}/peintures/">Peinture</a></li>
-    <li><a href="{{ site.baseurl }}/expositions/">Expositions</a></li>
-    <li class="item-break"><a href="{{ site.baseurl }}/biographie/">Biographie</a></li>
-    <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+    <li class="item-break first{% if page.active-item=='peintures' %} active{% endif %}"><a href="{{ site.baseurl }}/peintures/">Peinture</a></li>
+    <li {% if page.active-item=='expositions' %}class="active"{% endif %}><a href="{{ site.baseurl }}/expositions/">Expositions</a></li>
+    <li class="item-break{% if page.active-item=='biographie' %} active{% endif %}"><a href="{{ site.baseurl }}/biographie/">Biographie</a></li>
+    <li {% if page.active-item=='contact' %}class="active"{% endif %}><a href="{{ site.baseurl }}/contact/">Contact</a></li>
   {% endif %}
 </ul>

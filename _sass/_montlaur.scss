@@ -94,7 +94,7 @@ nav, footer {
 
     .active {
       &.lang::after { @media (min-width: $breakpoint-s) { content: "  › "; } }
-      a { font-weight: bold; }
+      a { border-bottom: 2px solid rgba(255,255,255,.8); }
     }
   }
 
@@ -112,6 +112,7 @@ nav, footer {
   // Effet hover sur les liens de langue
   .lang-link {
     position: relative;
+
     @media (min-width: $breakpoint-s) {
       &::before {
         font-weight: normal;
