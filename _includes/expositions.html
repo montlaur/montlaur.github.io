@@ -4,22 +4,35 @@
     <div class="flex-row">
       <div class="nine columns">
         <table class="u-full-width alternate">
-         <thead>
-          <tr>
-           <th>Année</th>
-           <th>Lieu et description</th>
-          </tr>
-         </thead>
-         {% for expo in site.data.expositions limit:3 %}
-           <tr>
-            <td>{{ expo.annee }}</td>
-            <td>{{ expo.texte }}</td>
-           </tr>
-         {% endfor %}
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>
+                {% if page.lang=="EN" %}
+                  Loation & description
+                {% else %}
+                  Lieu et description
+                {% endif %}
+              </th>
+            </tr>
+          </thead>
+          {% if page.lang=="EN" %}
+            {% for expo in site.data.expositions-en limit:3 %}
+              <tr>
+                <td>{{ expo.annee }}</td>
+                <td>{{ expo.texte }}</td>
+              </tr>
+            {% endfor %}
+          {% else %}
+            {% for expo in site.data.expositions limit:3 %}
+              <tr>
+                <td>{{ expo.annee }}</td>
+                <td>{{ expo.texte }}</td>
+              </tr>
+            {% endfor %}
+          {% endif %}
         </table>
-        <p class="alert">
-          Pour exposer les peintures de Guy de Montlaur, <a href="{{ site.baseurl }}/contact/">contactez-nous</a>.
-        </p>
+        {% include expose.html %}
       </div>
       <div class="three columns cover-container">
         <img class="cover" src="{{ site.baseurl }}{{ page.expositions.image.src }}" alt="{{ page.expositions.image.alt }}">

@@ -12,19 +12,14 @@
 			<nav>
 				<div class="row container">
 					<div class="four columns">
-						<a class="title h1" href="/">Montlaur</a>
+						<a class="title h1" href="/{% if page.lang=='EN' %}en/{% endif %}">Montlaur</a>
 						<ul class="list-inline accessible-menu">
 							<li><a class="button menu-button" href="#menu">Menu</a></li>
 							<li class="hidden"><a href="#contenu">Contenu</a></li>
 						</ul>
 					</div>
 					<div class="eight columns menu lead" id="menu">
-		    		<ul class="list-inline">
-					      <li><a href="{{ site.baseurl }}/peintures/">Peinture</a></li>
-		        		<li><a href="{{ site.baseurl }}/expositions/">Expositions</a></li>
-					      <li class="item-break"><a href="{{ site.baseurl }}/biographie/">Biographie</a></li>
-					      <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
-		    		</ul>
+						{% include menu.html %}
 					</div>
 				</div>
 			</nav>
