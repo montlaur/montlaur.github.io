@@ -18,7 +18,7 @@
 // Header & footer
 nav, footer {
   top: 0;
-  color: #fff;
+  color: $white;
   text-align: center;
   padding: $spacing 0;
   background-color: rgba(0, 0, 0, .8);
@@ -31,20 +31,20 @@ nav, footer {
   }
 
   a {
-    color: #fff;
+    color: $white;
     text-decoration: none;
   }
 
   .button {
-    color: #fff;
+    color: $white;
     border: 1px solid $alternate-color;
     border-radius: 2px;
     background-color: transparent;
     padding: 0 $spacing;
 
     &:hover {
-      background-color: #fff;
-      border-color: #fff;
+      background-color: $white;
+      border-color: $white;
     }
   }
 
@@ -94,7 +94,11 @@ nav, footer {
 
     .active {
       &.lang::after { @media (min-width: $breakpoint-s) { content: "  › "; } }
-      a { border-bottom: 2px solid rgba(255,255,255,.8); }
+      a {
+        border-bottom: 2px solid rgba(255,255,255,.8);
+        border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+      }
     }
   }
 
@@ -255,7 +259,7 @@ figcaption h5 { margin-bottom: 0; }
 
     figure { margin: $spacing 0; }
     img { height: 78vh; }
-    figcaption { color: #fff; }
+    figcaption { color: $white; }
     .close {
       display: block;
       position: absolute;
@@ -270,11 +274,11 @@ figcaption h5 { margin-bottom: 0; }
 // Cadre de mise en avant
 .alert {
   background-color: $text-color;
-  color: #fff;
+  color: $white;
   padding: $spacing;
   border-radius: 3px;
 
-  a { color: #fff; }
+  a { color: $white; }
 }
 
 // Formulaire de contact
