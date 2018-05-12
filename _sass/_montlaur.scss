@@ -110,7 +110,7 @@ nav, footer {
       ul { display: block; }
     }
     .menu { text-align: right; }
-    h1, .title.h1 { text-align: left; }
+    .title.h1 { text-align: left; }
   }
 
   // Effet hover sur les liens de langue
@@ -179,7 +179,7 @@ section {
     @include column-rule($text-color);
   }
 
-  @media (min-width: $breakpoint-xxl) { @include columns(3); }
+  @media (min-width: $breakpoint-xxl) { @include columns(4); }
 
   p:first-child::first-letter {
     float: left;

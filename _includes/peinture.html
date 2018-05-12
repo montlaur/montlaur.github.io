@@ -1,7 +1,7 @@
 <figure>
-  {% if include.bigger %}<a href="#{{ include.peinture.Titre }}">{% endif %}
+  {% if include.bigger %}<a href="#{{ include.peinture.Titre | url_encode | strip_html }}">{% endif %}
     <img class="framed"
-        alt="{{ include.peinture.Title | strip_html }}"
+        alt="{{ include.peinture.Titre | strip_html }}"
         srcset="{{ site.baseurl }}/peintures/320/{{ include.file }}/{{ include.peinture.Url }} 320w,
                 {{ site.baseurl }}/peintures/800/{{ include.file }}/{{ include.peinture.Url }} 800w,
                 {{ site.baseurl }}/peintures/1100/{{ include.file }}/{{ include.peinture.Url }} 1100w,

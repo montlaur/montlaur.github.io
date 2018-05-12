@@ -4,30 +4,30 @@
     <div class="row text-center">
       {% for peinture in site.data.selection limit:4 %}
         <div class="three columns">
-          <span id="{{ peinture.Titre }}" class="bigger">
+          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
             <span class="close" onclick="javascript:history.back()"></span>
             {% include peinture.html peinture=peinture file="selection" bigger=1 %}
-          </span>
+          </div>
         </div>
       {% endfor %}
     </div>
     <div class="row text-center">
       {% for peinture in site.data.selection offset:4 limit:4 %}
         <div class="three columns">
-          <span id="{{ peinture.Titre }}" class="bigger">
+          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
             <span class="close" onclick="javascript:history.back()"></span>
             {% include peinture.html peinture=peinture file="selection" bigger=1 %}
-          </span>
+          </div>
         </div>
       {% endfor %}
     </div>
     <div class="row text-center">
       {% for peinture in site.data.selection offset:8 limit:4 %}
         <div class="three columns">
-          <span id="{{ peinture.Titre }}" class="bigger">
+          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
             <span class="close" onclick="javascript:history.back()"></span>
             {% include peinture.html peinture=peinture file="selection" bigger=1 %}
-          </span>
+          </div>
         </div>
       {% endfor %}
     </div>
