@@ -238,10 +238,7 @@ section {
 figcaption h5 { margin-bottom: 0; }
 
 // Zoom sur les peintures
-.bigger {
-  transition: all .25s ease-in-out;
-  .close { display: none; }
-}
+.bigger .close { display: none; }
 
 @media (min-width: $breakpoint-m) {
   .bigger:target {
@@ -256,6 +253,8 @@ figcaption h5 { margin-bottom: 0; }
     background-color: rgba(0, 0, 0, .8);
     @include backdrop-filter-blur(5px);
     z-index: 1;
+    
+    transition: all .25s ease-in-out;
 
     figure { margin: $spacing 0; }
     img { height: 78vh; }
