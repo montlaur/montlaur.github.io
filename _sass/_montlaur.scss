@@ -61,7 +61,7 @@ nav, footer {
     @media (min-width: $breakpoint-m) { display: none; }
   }
 
-  @media (max-width: $breakpoint-s) {
+  @media (max-width: $breakpoint-s-1) {
     ul { margin-bottom: 0; }
 
     .list-inline li.item-break {
@@ -230,7 +230,7 @@ section {
   box-shadow: 0 0 $spacing $text-color;
   border: $spacing solid $text-color;
 
-  @media (min-width: $breakpoint-m) and (max-width: $breakpoint-l) {
+  @media (min-width: $breakpoint-m) and (max-width: $breakpoint-l-1) {
     border-width: $spacing/2;
   }
 }
