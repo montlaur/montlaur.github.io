@@ -1,0 +1,62 @@
+{% include head.html %}
+<section class="bg-background">
+  <div class="container lead">
+    <h1>{{ page.title }}</h1>
+    <div class="flex-row">
+      <div class="nine columns">
+        <table class="u-full-width alternate">
+         <thead>
+          <tr>
+           <th>{{ page.expositions.date }}</th>
+           <th>{{ page.expositions.lieu-description }}</th>
+          </tr>
+         </thead>
+          {% if page.lang=="EN" %}
+            {% for expo in site.data.expositions-en %}
+             <tr>
+              <td>{{ expo.annee }}</td>
+              <td>{{ expo.texte }}</td>
+             </tr>
+           {% endfor %}
+          {% else %}
+            {% for expo in site.data.expositions %}
+             <tr>
+              <td>{{ expo.annee }}</td>
+              <td>{{ expo.texte }}</td>
+             </tr>
+           {% endfor %}
+          {% endif %}
+       </table>
+       {% include expose.html %}
+      </div>
+      <div class="three columns cover-container">
+        <img class="cover" src="{{ site.baseurl }}/expositions/expo-GdM-Ranville-2.jpg" alt="Exposition à Ranville">
+      </div>
+    </div>
+    <h2>Expositions passées</h2>
+    <table class="u-full-width alternate">
+     <thead>
+      <tr>
+       <th>{{ page.expositions.date }}</th>
+       <th>{{ page.expositions.lieu-description }}</th>
+      </tr>
+     </thead>
+      {% if page.lang=="EN" %}
+        {% for expo in site.data.expositions-passees-en %}
+         <tr>
+          <td>{{ expo.annee }}</td>
+          <td>{{ expo.texte }}</td>
+         </tr>
+       {% endfor %}
+      {% else %}
+        {% for expo in site.data.expositions-passees %}
+         <tr>
+          <td>{{ expo.annee }}</td>
+          <td>{{ expo.texte }}</td>
+         </tr>
+       {% endfor %}
+      {% endif %}
+    </table>
+  </div>
+</section>
+{% include foot.html %}

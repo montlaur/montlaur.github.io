@@ -1,25 +1,21 @@
----
-layout: default
-title: Contact
-active-item: contact
----
+{% include head.html %}
 <section class="contact bg-background">
   <div class="container lead">
-    <h1>Contactez-nous</h1>
+    <h1>{{ page.title }}</h1>
     <form action="https://formspree.io/%63&#111;%6e%74&#97;c&#116;&#64;%6f&#100;e%76&#105;&#108;&#108;ar&#100;&#105;%2e%66r" method="POST">
       <div class="flex-row">
         <div class="seven columns">
-          <label for="name">Votre nom</label>
+          <label for="name">{{ page.contact.name }}</label>
           <input id="name" type="text" name="name" placeholder="Robert Montalu" required="required">
-          <label for="_replyto">Votre email</label>
+          <label for="_replyto">{{ page.contact.email }}</label>
           <input id="_replyto" class="u-full-width" type="email" name="_replyto" placeholder="robert.montalu@yooha.fr" required="required">
           <input class="hidden" type="text" name="_gotcha">
-          <label for="message">Votre message</label>
-          <textarea id="message" class="u-full-width" name="message" placeholder="Bonjour…" required="required"></textarea>
-          <input type="hidden" name="_subject" value="Nouveau message sur le site montlaur.net">
+          <label for="message">{{ page.contact.message }}</label>
+          <textarea id="message" class="u-full-width" name="message" placeholder="{{ page.contact.message-field }}" required="required"></textarea>
+          <input type="hidden" name="_subject" value="{{ page.contact.subject }}">
           <input type="hidden" name="_language" value="fr">
           <input type="hidden" name="_next" value="{{ site.baseurl }}/contact/merci.html">
-          <input class="button button-primary" type="submit" value="Envoyer">
+          <input class="button button-primary" type="submit" value="{{ page.contact.send }}">
         </div>
         <div class="five columns cover-container">
           <img class="cover" src="{{ site.baseurl }}/contact/nature-morte-aux-livres.jpg" alt="Nature morte aux livres">
@@ -28,3 +24,4 @@ active-item: contact
     </form>
   </div>
 </section>
+{% include foot.html %}
