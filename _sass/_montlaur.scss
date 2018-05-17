@@ -1,6 +1,3 @@
-/* MONTLAUR
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
 // Fond
 .everything {
   background-image: url("/peintures/fond.jpg");
@@ -12,8 +9,6 @@
     background-size: cover;
     background-attachment: fixed;
   }
-
-  h2 { text-align: center; }
 }
 
 // Header & footer
@@ -24,12 +19,6 @@ nav, footer {
   padding: $spacing 0;
   background-color: rgba(0, 0, 0, .8);
   @include backdrop-filter-blur(5px);
-
-  .title.h1 {
-    margin-bottom: 0;
-    float: left;
-    text-align: left;
-  }
 
   a {
     color: $white;
@@ -50,6 +39,15 @@ nav, footer {
   }
 
   ul, p { margin-bottom: $spacing; }
+}
+
+// Navigation
+nav {
+  .title.h1 {
+    margin-bottom: 0;
+    float: left;
+    text-align: left;
+  }
 
   .accessible-menu {
     @media (max-width: $breakpoint-s-1) { margin-top: .8rem; }
@@ -157,6 +155,8 @@ section {
   &:not(.contact) .columns {
     margin-bottom: $double-spacing;
   }
+
+  h2 { text-align: center; }
 }
 
 // Couleurs de fond des sections
