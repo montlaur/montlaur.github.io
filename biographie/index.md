@@ -34,6 +34,7 @@ Tous les officiers étant blessés, il prend le commandement de sa section. Le 1
 <img src="{{ site.baseurl }}/photos/GdM-peint-secundum.jpg" alt="GdM peint secundum">
 
 <div class="printy">
+
 Il était possédé par la poésie&nbsp;: les titres de ses toiles étaient inspirés par Apollinaire, Verlaine, Baudelaire, Valéry. Il ne pouvait vivre sans musique. Il rejouait constamment la même œuvre, le plus souvent de J-S Bach, pendant l’exécution d’un tableau&nbsp;: d’où les titres “Morgenstern” et “Es war ein wünderlicher Krieg”. D’autres titres proviennent de ses souvenirs d’enfant en Anjou&nbsp;: “l’île”, “La grande allée”, “Ô saisons&nbsp;! Ô châteaux&nbsp;!”.
 
 Son sens de la spiritualité dans l’art (“die Geistige in der Kunst”, cher à Kandinsky) le mène à la solitude. Il trouve son refuge à Franval, dans la campagne normande où il peint de 1975 à 1977. Guy de Montlaur meurt le 10 août 1977. Il demanda à être enterré à Ranville, premier village libéré de France, aux côtés de ses camarades de combat tombés 33&nbsp;ans plus tôt.
