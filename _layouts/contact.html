@@ -14,7 +14,7 @@
           <textarea id="message" class="u-full-width" name="message" placeholder="{{ page.contact.message-field }}" required="required"></textarea>
           <input type="hidden" name="_subject" value="{{ page.contact.subject }}">
           <input type="hidden" name="_language" value="fr">
-          <input type="hidden" name="_next" value="{{ site.baseurl }}/contact/merci.html">
+          <input type="hidden" name="_next" value="{{ site.baseurl }}{{ page.contact.thankyou }}">
           <input class="button button-primary" type="submit" value="{{ page.contact.send }}">
         </div>
         <div class="five columns cover-container">

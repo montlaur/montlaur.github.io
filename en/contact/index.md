@@ -10,4 +10,5 @@ contact:
   message-field: Hello…
   subject:       New message on Montlaur.net
   send:          Send
+  thankyou:      /en/contact/thank-you.html
 ---
