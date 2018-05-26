@@ -13,6 +13,9 @@ quote:
   link:
     url: "/biographie/"
     title: "Lire la biographie"
+  link2:
+    url: "https://fr.wikipedia.org/wiki/Guy_de_Montlaur"
+    title: "Plus sur Wikipedia"
 
 selection:
   title: "Sélection de&nbsp;peintures"

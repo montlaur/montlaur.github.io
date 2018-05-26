@@ -11,6 +11,9 @@
   }
 }
 
+// Special spacings
+.button + .button { margin-top: $double-spacing; }
+
 // Header & footer
 nav, footer {
   top: 0;
