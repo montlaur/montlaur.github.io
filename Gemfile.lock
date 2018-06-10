@@ -236,6 +236,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
   jekyll-paginate-v2
 
 BUNDLED WITH
