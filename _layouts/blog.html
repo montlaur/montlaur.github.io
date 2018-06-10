@@ -5,6 +5,11 @@
     {% for post in paginator.posts %}
       <div class="excerpt">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="text-center post-infos">
+          Publié le <strong><em>{{ post.date | date: "%d/%m/%Y" }}</em></strong>
+          {% if post.auteur %}par <em>{{ post.auteur }}</em>{% endif %} — 
+          <a href="/category/{{ post.category }}.html">{{ post.category }}</a>
+        </p>
         <div class="flex-row">
           <div class="four columns cover-container">
             {% if post.picture %}
@@ -12,11 +17,6 @@
             {% endif %}
           </div>
           <div class="eight columns">
-            <p class="post-infos">
-              Publié le <strong><em>{{ post.date | date: "%d/%m/%Y" }}</em></strong>
-              {% if post.auteur %}par <em>{{ post.auteur }}</em>{% endif %} — 
-              <a href="/category/{{ post.category }}.html">{{ post.category }}</a>
-            </p>
             {{ post.excerpt }}
           </div>
         </div>
