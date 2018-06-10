@@ -1,0 +1,21 @@
+<nav class="bg-blue">
+  <div class="container lead">
+    <div class="row">
+      <div class="four columns">
+        <a class="title h1" href="/blog/">Blog</a>
+        <ul class="list-inline accessible-menu">
+          <li><a class="button menu-button categories" href="#categories">Catégories</a></li>
+        </ul>
+      </div>
+      <div class="eight columns menu" id="categories">
+        <ul class="list-inline list-menu">
+          <li{% if page.category=='Avant-guerre' %} class="active"{% endif %}><a href="/category/Avant-guerre.html">Avant-guerre</a></li>
+          <li{% if page.category=='Famille' %} class="active"{% endif %}><a href="/category/Famille.html">Famille</a></li>
+          <li class="{% if page.category=='Guerre' %}active {% endif %}item-break"><a href="/category/Guerre.html">Guerre</a></li>
+          <li{% if page.category=='Peinture' %} class="active"{% endif %}><a href="/category/Peinture.html">Peinture</a></li>
+          <li{% if page.category=='Divers' %} class="active"{% endif %}><a href="/category/Divers.html">Divers</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>

@@ -1,4 +1,31 @@
       </div>
+      {% if paginator.previous_page_path or paginator.next_page_path or page.next or page.previous %}
+        <section class="bg-background lead">
+          <div class="container text-center">
+    				<p>
+    					{% if paginator.previous_page_path %}
+    						<a class="button button-default" href="{{ site.baseurl }}{{ paginator.previous_page_path }}" role="button">&laquo; Billets plus récents</a>
+    					{% endif %}
+
+    					{% if paginator.next_page_path %}
+    						<a class="button button-default" href="{{ site.baseurl }}{{ paginator.next_page_path }}" role="button">Billets plus anciens &raquo;</a>
+    					{% endif %}
+
+    					{% if page.next %}
+    						<a class="button button-default next" href="{{ site.baseurl }}{{ page.next.url }}" role="button">
+    							{{ page.next.title }}
+    						</a>
+    					{% endif %}
+
+    					{% if page.previous %}
+    						<a class="button button-default previous" href="{{ site.baseurl }}{{ page.previous.url }}" role="button">
+    							{{ page.previous.title }}
+    						</a>
+    					{% endif %}
+    				</p>
+          </div>
+  			</section>
+      {% endif %}
       <footer>
         <div class="container">
           <h3>

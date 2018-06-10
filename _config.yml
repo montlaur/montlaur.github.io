@@ -16,8 +16,14 @@ collections:
 
 plugins:
   - jekyll-paginate
-  - jekyll-textile-converter
   - jekyll-feed
+
+# Pagination Settings
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Blog permalinks
+permalink: /blog/:categories/:year/:month/:day/:title:output_ext
 
 # Handling Reading
 safe:                false

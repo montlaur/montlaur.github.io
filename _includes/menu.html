@@ -1,4 +1,4 @@
-<ul class="list-inline">
+<ul class="list-inline list-menu">
   {% if page.lang=="EN" %}
     <li>
       <a class="lang-link" data-title="Français" href="{{ site.baseurl }}/">fr</a>
@@ -14,6 +14,9 @@
     </li>
     <li class="item-break{% if page.active-item=='biographie' %} active{% endif %}">
       <a href="{{ site.baseurl }}/en/biography/">Biography</a>
+    </li>
+    <li class="{% if page.active-item=='blog' %} active{% endif %}">
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
     </li>
     <li {% if page.active-item=='contact' %}class="active"{% endif %}>
       <a href="{{ site.baseurl }}/en/contact/">Contact</a>
@@ -33,6 +36,9 @@
     </li>
     <li class="item-break{% if page.active-item=='biographie' %} active{% endif %}">
       <a href="{{ site.baseurl }}/biographie/">Biographie</a>
+    </li>
+    <li class="{% if page.active-item=='blog' %} active{% endif %}">
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
     </li>
     <li {% if page.active-item=='contact' %}class="active"{% endif %}>
       <a href="{{ site.baseurl }}/contact/">Contact</a>

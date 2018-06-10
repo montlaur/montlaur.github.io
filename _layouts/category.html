@@ -1,0 +1,16 @@
+{% include head.html %}
+{% include blog-menu.html %}
+<section class="bg-background">
+  <div class="container lead">
+    <h1>{{ page.category }}</h1>
+    <ul class="blog-post-list">
+      {% for post in site.categories[page.category] %}
+        <li>
+          {{ post.date | date: "%d/%m/%Y" }} — 
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% include foot.html %}

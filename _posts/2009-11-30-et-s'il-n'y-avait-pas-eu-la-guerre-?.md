@@ -1,0 +1,21 @@
+---
+layout: post
+title: Et s'il n'y avait pas eu la guerre ?
+category: Divers
+active-item: blog 
+---
+
+[caption id="attachment_1598" align="alignright" width="276"]<a href="/photos/wordpress/1392992_10151916517918360_930733965_n.jpg"><img class="size-medium wp-image-1598" src="/photos/wordpress/1392992_10151916517918360_930733965_n-276x300.jpg" alt="Vincennes 1938" width="276" height="300" /></a> Vincennes 1938[/caption]
+
+Guy de Montlaur était un grand sportif à la fin des années 30. C'était un cavalier d'obstacle qui a participé à un certain nombre de compétitions dont une fois à l'hippodrome d'Auteuil où il a chuté dans la rivière des tribunes et y a perdu sa cravache... Tous les matins, il allait faire son canter à Maison-Laffite, c'est à dire qu'il entraînait les chevaux de course avec les lads attitrés de l'hippodrome. C'est là qu'il a appris l'argot parisien au contact d'une classe sociale qui aurait dû lui être inconnue mais qu'il a apprécié à sa juste valeur. A la fin de l'entraînement, après une collation sans doute arrosée à sa juste mesure, il filait à la Sorbonne suivre des cours de philosophie.
+Ça me rappelle mon propre parcours sauf que mon sport était le rugby et que j'allais me dévergonder à Colombes, cité populaire à l'époque. Et au parcours de mon fils Thomas, joueur de foot apprécié de ces collègues bigarrés du 93. Le sport permet la mixité sociale, la guerre aussi (mais autant l'éviter...). Le service militaire servait à ça. Mais moi, enfant de 68, je détestais l'idée même de me faire embrigader. Peut-être faudrait-il envisager une autre forme de Service qui permettrait cette mixité sociale essentielle à l'équilibre individuel. Beaucoup (mais pas assez) de jeunes s'investissent dans les associations qui viennent en aide aux migrants, aux enfants qui ont besoin de soutien scolaire, par exemple. Il faudrait suggérer aux autres de s'engager dans une telle voie pendant un court laps de temps. Le <a href="https://fr.wikipedia.org/wiki/Conseil_national_de_la_R%C3%A9sistance"><b>Conseil national de la Résistance</b></a> a essayé de mettre en place un programme correspondant aux motivations des combattants et résistants tels les 177. Il en a résulté quand même "une grande partie des <a title="Acquis sociaux" href="https://fr.wikipedia.org/wiki/Acquis_sociaux">acquis sociaux</a> de la seconde partie du <abbr class="abbr" title="20ᵉ siècle"><span class="romain">XX</span><sup>e</sup></abbr> siècle" (Wikipédia).
+Pourquoi s'est-il impliqué corps et âme dès septembre 39 dans le combat corps à corps avec les allemands ? Je dis avec et non pas contre car, tel un sportif de haut niveau, il "s'amusait" avec l'adversaire (<em>il n’y aucune raison de s’amuser dans l’armée, à moins d’inviter quelques allemands pour jouer avec vous</em>). Son entraînement sportif lui avait appris l'endurance et renforcé son courage, l'aspect collectif de cet apprentissage lui avait permis d'appréhender les côtés psychologiques et tactiques du combat. Bien sûr, son service militaire en 1938 et l'entraînement aux Commandos à Achnacarry allaient dans le même sens.
+
+[caption id="attachment_1600" align="alignleft" width="300"]<a href="/photos/wordpress/001ch2379.jpg"><img class="size-medium wp-image-1600" src="/photos/wordpress/001ch2379-300x196.jpg" alt="En Anjou" width="300" height="196" /></a> En Anjou[/caption]
+
+S'il n'y avait pas eu la guerre qu'aurait fait Guy de Montlaur dans un monde idéal ? Gentleman farmer dans le château de ses ancêtres ? Artiste peintre philosophe dans les salons parisiens ? Hum... Impossible d'imaginer tout ça.
+Pourquoi s'est-il impliqué corps et âme dès septembre 39 dans le combat corps à corps avec les allemands ? Je dis avec et non pas contre car, tel un sportif de haut niveau, il "s'amusait" avec l'adversaire (<em>il n’y aucune raison de s’amuser dans l’armée, à moins d’inviter quelques allemands pour jouer avec vous</em>). Son entraînement sportif lui avait appris l'endurance et renforcé son courage, l'aspect collectif de cet apprentissage lui avait permis d'appréhender les côtés psychologiques et tactiques du combat. Bien sûr, son service militaire en 1938 et l'entraînement aux Commandos à Achnacarry allaient dans le même sens.
+
+&nbsp;
+
+&nbsp;
