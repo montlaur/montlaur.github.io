@@ -15,16 +15,16 @@ collections:
     output:   true
 
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-feed
 
 # Pagination Settings
 pagination:
   enabled: true
   per_page: 5
-  permalink: '/blog/page:num/'
+  permalink: "/blog/page:num/"
   limit: 0
-  sort_field: 'date'
+  sort_field: "date"
   sort_reverse: true
 
 # Blog permalink
