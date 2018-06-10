@@ -18,14 +18,19 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
 
+
+
 # Pagination Settings
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: "/blog/page:num/"
-  limit: 0
-  sort_field: "date"
-  sort_reverse: true
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: "/blog/page:num/"
+#   limit: 0
+#   sort_field: "date"
+#   sort_reverse: true
 
 # Blog permalink
 permalink: /blog/:categories/:year/:month/:day/:title:output_ext
