@@ -14,15 +14,13 @@ Enfant, je le regardai peindre, ça ne le gênait pas. Je me mettais quand même
 
 <!--more-->
 
-<a href="/photos/wordpress/DSC01091.jpg"><img class="aligncenter size-medium wp-image-1558" src="/photos/wordpress/DSC01091-244x300.jpg" alt="DSC01091" width="244" height="300" /></a>
-
-&nbsp;
+<img src="/photos/wordpress/DSC01091-244x300.jpg" alt="DSC01091">
 
 En cliquant sur cette photo, vous pouvez voir la construction géométrique (ici, le rectangle d'harmonie).
 
 Puis l'application de la peinture au couteau dans chacune de ces zones.
 
-<a href="/photos/wordpress/931.jpg"><img class="aligncenter size-medium wp-image-1556" src="/photos/wordpress/931-232x300.jpg" alt="931" width="232" height="300" /></a><a href="/photos/wordpress/931-R.jpg"><img class="aligncenter size-medium wp-image-1555" src="/photos/wordpress/931-R-226x300.jpg" alt="931 R" width="226" height="300" /></a>
+<img src="/photos/wordpress/931-232x300.jpg" alt="931"><img class="aligncenter size-medium wp-image-1555" src="/photos/wordpress/931-R-226x300.jpg" alt="931 R">
 
 Voici une peinture que Montlaur a réalisé dans les années 70 mais qu'il n'a pas achevée. Sur la première photo, la peinture est très abîmée puisqu'elle n'a pas été vernie. La deuxième photo représente la peinture restaurée en 2015. On retrouve le rectangle d'harmonie.
 
@@ -37,23 +35,26 @@ Pour la guerre, c'était simple, minutieux et réfléchi puisqu'il avait aussi t
 
 Mais j'ai trouvé ces cartes dans les papiers gardés par mon père :
 
-<a href="/photos/wordpress/carte-juin-44.jpg"><img class="aligncenter size-medium wp-image-1563" src="/photos/wordpress/carte-juin-44-231x300.jpg" alt="carte juin 44" width="231" height="300" /></a>
+<img src="/photos/wordpress/carte-juin-44-231x300.jpg" alt="carte juin 44">
 
 Celle-ci pliée de telle façon que la zone Ranville Amfreville Bavent soit rapidement accessible (cliquez dessus pour les détails). Apparemment elle a pas mal servi.
 
 Et celles-là de la région du débarquement de Flessingue (1er novembre 1944) :
 
-<a href="/photos/wordpress/20170904_185218.jpg">
-</a> <a href="/photos/wordpress/20170904_185926.jpg"><img class="aligncenter size-medium wp-image-1566" src="/photos/wordpress/20170904_185926-244x300.jpg" alt="20170904_185926" width="244" height="300" /></a>
+<img src="/photos/wordpress/20170904_185926-244x300.jpg" alt="20170904_185926">
 
-<a href="/photos/wordpress/20170904_185218.jpg"><img class="aligncenter size-medium wp-image-1565" src="/photos/wordpress/20170904_185218-300x203.jpg" alt="20170904_185218" width="300" height="203" /></a>
+<img src="/photos/wordpress/20170904_185218-300x203.jpg" alt="20170904_185218">
+
 Ces deux cartes montrant la zone correspondant au texte suivant :
-<em>" Le 12 novembre, les 3 Royal Marine Commandos et le n° 10 Commando Interallié (Hollandais, Belges, Norvégiens et Allemands anti-nazis) n'étaient pas arrivés à nettoyer le nord de Walcheren. Il fut décidé que le Commando franco-britannique serait chargé de l'opération et pousserait jusqu'à  Vrouenpolder.
-Partis de Dombourg à 01h00 ils atteignaient  Vrouenpolder à 08h00 après avoir ratissé tous les blockhaus. Du nord au sud les français étaient dans l'ordre suivant : section MONTLAUR, section SENEE, section CHAUSSE, section HULOT. Les troupes britanniques étaient plus à l'intérieur des terres. Le dispositif n'était plus qu'une grande vague d'assaut, sans couverture. Le 13 novembre à 09h00,  Vrouenpolder était pris. ..." </em>
+>Le 12 novembre, les 3 Royal Marine Commandos et le n° 10 Commando Interallié (Hollandais, Belges, Norvégiens et Allemands anti-nazis) n'étaient pas arrivés à nettoyer le nord de Walcheren. Il fut décidé que le Commando franco-britannique serait chargé de l'opération et pousserait jusqu'à  Vrouenpolder.
+Partis de Dombourg à 01h00 ils atteignaient  Vrouenpolder à 08h00 après avoir ratissé tous les blockhaus. Du nord au sud les français étaient dans l'ordre suivant : section MONTLAUR, section SENEE, section CHAUSSE, section HULOT. Les troupes britanniques étaient plus à l'intérieur des terres. Le dispositif n'était plus qu'une grande vague d'assaut, sans couverture. Le 13 novembre à 09h00,  Vrouenpolder était pris. ...
 
 Alors ces cartes devaient être dans son barda qu'il porte sur cette photo :
-<a href="/photos/wordpress/Buskenstraat.jpg"><img class="aligncenter size-medium wp-image-1570" src="/photos/wordpress/Buskenstraat-300x300.jpg" alt="Buskenstraat" width="300" height="300" /></a>
 
-Cette photo a été prise à Flessingue sur Buskenstraat avant le 8 novembre 1944 puisqu'<a href="/photos/wordpress/Daily-Sketch-nov-8-1944.jpg"><img class="aligncenter size-medium wp-image-1571" src="/photos/wordpress/Daily-Sketch-nov-8-1944-214x300.jpg" alt="Daily Sketch nov 8 1944" width="214" height="300" /></a>elle fut publiée dans le Daily Sketch le 8 et vue ce jour là par ma mère en Angleterre qui fut (un peu) rassurée sur la santé de son mari !
+<img src="/photos/wordpress/Buskenstraat-300x300.jpg" alt="Buskenstraat">
+
+<img src="/photos/wordpress/Daily-Sketch-nov-8-1944-214x300.jpg" alt="Daily Sketch nov 8 1944">
+
+Cette photo a été prise à Flessingue sur Buskenstraat avant le 8 novembre 1944 puisqu'elle fut publiée dans le Daily Sketch le 8 et vue ce jour là par ma mère en Angleterre qui fut (un peu) rassurée sur la santé de son mari !
 
 Tout ça pour dire que c'est ce même Guy de Montlaur qui savait ce qu'il faisait, au moins en ces trois situations, même quand il se rasait.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 18 juin, de Gaulle, Légion d'Honneur...
+title: 18 juin, de Gaulle, Légion d'Honneur…
 auteur: Michael de Montlaur
 category: Guerre
 active-item: blog

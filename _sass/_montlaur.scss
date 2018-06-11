@@ -16,8 +16,8 @@
 
 // buttons
 .button {
-  &.previous::after { content: " ⋙"}
-  &.next::before { content: "⋘ "}
+  &.previous::after { content: " ❭"}
+  &.next::before { content: "❬ "}
 }
 
 // Header & footer
@@ -313,7 +313,11 @@ figcaption h5 { margin-bottom: 0; }
   margin-bottom: $double-spacing;
 }
 
-.next, .previous { overflow: hidden; }
+.previous, .next {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 // Formulaire de contact
 .contact {

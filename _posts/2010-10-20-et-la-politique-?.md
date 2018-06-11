@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Et la politique ?
+title: Et la politique&nbsp;?
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La mort, l'amour... La peinture
+title: La mort, l’amour… La peinture
 auteur: Michael de Montlaur
 category: Peinture
 active-item: blog

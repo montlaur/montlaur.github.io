@@ -4,6 +4,8 @@ title: La couleur de la guerre
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
+excerpt_separator: <!--more-->
+picture: /photos/wordpress/expo-GdM-Ranville-2.jpg
 ---
 Une exposition aura lieu du 2 au 16 juin 2012 à Ranville au <a href="http://www.memorial-pegasus.org/">Memorial Pegasus</a> et à la bibliothèque de <a href="http://www.ranville.fr/">Ranville</a>.
 
@@ -13,5 +15,4 @@ Il n'est peut-être pas inutile de rappeler que des étrangers (130 000 anglais,
 
 Alors si vous voulez réviser votre histoire, ou tout simplement vous rendre compte de ce qu'a été le sacrifice de ces hommes pour nous, visitez le Memorial Pegasus et allez voir l'exposition sur Guy de Montlaur.
 
-<a href="/photos/wordpress/expo-GdM-Ranville-2.jpg"><img class="aligncenter size-full wp-image-1100" title="La couleur de la guerre" src="/photos/wordpress/expo-GdM-Ranville-2.jpg" alt="" width="560" height="800" /></a>
-<p style="text-align: left;"><a href="http://maps.google.fr/maps?hl=fr&amp;q=Ranville,+Calvados&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x480a65d8db992393:0xbcfba6b05a30b611,Ranville&amp;gl=fr&amp;ei=TkSgT7qdJfDP4QTU4Li4Aw&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=2&amp;ved=0CC8Q8gEwAQ">Ranville </a>se trouve entre Caen et Ouistreham. Pegasus Bridge se trouve entre Bénouville et Ranville</p>
+<a href="http://maps.google.fr/maps?hl=fr&amp;q=Ranville,+Calvados&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x480a65d8db992393:0xbcfba6b05a30b611,Ranville&amp;gl=fr&amp;ei=TkSgT7qdJfDP4QTU4Li4Aw&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=2&amp;ved=0CC8Q8gEwAQ">Ranville</a> se trouve entre Caen et Ouistreham. Pegasus Bridge se trouve entre Bénouville et Ranville.

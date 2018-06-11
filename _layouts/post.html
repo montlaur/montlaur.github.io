@@ -9,12 +9,14 @@
       <a href="/category/{{ page.category }}.html">{{ page.category }}</a>
     </p>
     <div class="row post">
-      <div class="four columns">
-        {% if page.picture %}
+      {% if page.picture %}
+        <div class="four columns">
           <img class="u-full-width" src="{{ page.picture }}" alt="{{ page.title }}">
-        {% endif %}
-      </div>
-      <div class="eight columns">
+        </div>
+        <div class="eight columns">
+      {% else %}
+        <div class="twelve columns">
+      {% endif %}
         {{ content }}
       </div>
     </div>

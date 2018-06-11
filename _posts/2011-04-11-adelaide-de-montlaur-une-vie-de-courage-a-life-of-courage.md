@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Adelaide de Montlaur  - une vie de courage - a life of courage
+title: Adelaide de Montlaur - Une vie de courage - A life of courage
 auteur: George de Montlaur
 category: Famille
 active-item: blog
+excerpt_separator: <!--more-->
+picture: /photos/wordpress/SobandGuy030743-240x300.jpg
 ---
-Mamma va rejoindre Guy de Montlaur, le soldat, tout  près de ces autres soldats qui ont pris part à la libération de la France et de l'Europe en 1944. Elle va rejoindre celui qu'elle avait connu avant la guerre quand elle était une petite américaine ne parlant pas un mot de français venue en France pour apprendre la langue et l'Art.
+Mamma va rejoindre Guy de Montlaur, le soldat, tout près de ces autres soldats qui ont pris part à la libération de la France et de l'Europe en 1944. Elle va rejoindre celui qu'elle avait connu avant la guerre quand elle était une petite américaine ne parlant pas un mot de français venue en France pour apprendre la langue et l'Art.
 
 Elle l'avait aimé au point de revenir des Etats Unis où elle se trouvait, dans sa famille, en sécurité, pour le retrouver en Angleterre,  en 1943, et de l'épouser cette année-là.
+
+<!--more-->
 
 Elle avait bravé les 'U-boots' et les avions allemands. La veille de son vol de Lisbonne à Londres, ce même avion qu'elle devait prendre avait été abattu par la chasse aérienne allemande.
 
@@ -25,7 +29,7 @@ Mamma  mérite vraiment sa place dans ce petit coin de cimetière où reposent 
 
 George de Montlaur le 8 avril 2011 à Ranville
 
-[caption id="attachment_823" align="aligncenter" width="240" caption="Adelaide et Guy - 3 juillet 1943"]<a href="/photos/wordpress/SobandGuy030743.jpg"><img class="size-medium wp-image-823" title="SobandGuy030743" src="/photos/wordpress/SobandGuy030743-240x300.jpg" alt="" width="240" height="300" /></a>[/caption]
+---
 
 Adelaide de Montlaur – a life of courage
 

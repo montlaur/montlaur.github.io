@@ -4,12 +4,15 @@ title: Adelaide to Cecily in 1990
 auteur: Michael de Montlaur
 category: Famille
 active-item: blog
+excerpt_separator: <!--more-->
 ---
 Dear Cecily,
 
 My grandfather and grandmother on my mother's side were brought up together and later married. Grandmother Piper was born in 1867 in Schoolies Mountains, New Jersey. She was called Marie Susan Cozzens. Her mother died when she was a little girl. Her aunt Adelaide Cozzens Piper had no children. She and her husband, Uncle Alec Piper, an army officer, brought her up.
 
-[caption id="attachment_910" align="alignleft" width="150" caption="Grandaddy Piper - June 1950"]<a href="/photos/wordpress/Alexander-R-Piper-June-1950-b.jpg"><img class="size-thumbnail wp-image-910" title="Alexander R Piper June 1950 b" src="/photos/wordpress/Alexander-R-Piper-June-1950-b-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+<!--more-->
+
+<img src="/photos/wordpress/Alexander-R-Piper-June-1950-b-150x150.jpg" alt="Alexander R Piper June 1950">
 
 Grandaddy Piper was born in 1865 at Fort Wadsworth, Staten   Island, New York. He lost his father when he was ten and his mother soon after. He, too, went to live with Aunt Addy and Uncle Alec, his father's brother. So he and "Dolly" as he called Grandmother, grew up together, almost like a sister and brother. Alexander Ross Piper went to West Point Military  Academy as had his father and uncle. They had fought in the Civil War to defend the Union. They were from Pennsylvania near Lancaster, I believe. There is a small place called Piper's Run where his great grandfather settled upon his arrival from county Armagh in Ireland toward the mid-18th century.
 
@@ -45,7 +48,7 @@ Your grandfather did not return from the wars unscathed. Apart from his wounds, 
 
 Dear, Cecily, this was meant to be an account of legends but it has turned out to be a history of facts. Please forgive me for not writing fairy stories or allegories. You may take what you like and leave what you don't like.
 
-[caption id="attachment_911" align="alignright" width="150" caption="Grandfather Oates"]<a href="/photos/wordpress/Grandfather-Oates-b.jpg"><img class="size-thumbnail wp-image-911" title="Grandfather Oates b" src="/photos/wordpress/Grandfather-Oates-b-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+<img src="/photos/wordpress/Grandfather-Oates-b-150x150.jpg" alt="Grandfather Oates">
 
 My paternal grandfather Oates, born August 15, 1853 or 1854, in Weedon, Kent near London, studied to be a chemist. He went to Manchester, a textile center where the university had a science faculty especially directed to the needs of this industry. Did grandfather study there? I do not know. He married there and his father-in-law had certainly been active in the textile mills in his .time. It was the middle of the "industrial revolution" in England. Working conditions were very bad. In 1891 when Grandfather was promised a job in a chemical firm in New Jersey, he decided to leave England and took his wife and four children to America.
 
@@ -60,4 +63,5 @@ We were great friends and faithful correspondents in French (pidgin French on my
 I said good bye to Grandfather Oates in the summer of 1936 just before I left with Aunt Cully and Aunt Bizzy and Aunt Marjorie who went with us to join Grandmamma and Grandpapa in England. Grandfather Oates died on November 15, 1936.
 
 It is easier for me to write about my grandparents than about my own mother and father --perhaps because they may be too close to us. We need a certain distance to be able to resume their lives and we are too much a part of them to be objective.
-<p style="text-align: center;"><a href="/photos/wordpress/APO-to-Cecily-13-02-1990_sign.jpg"><img class="size-large wp-image-908 aligncenter" title="APO to Cecily 13-02-1990_sign" src="/photos/wordpress/APO-to-Cecily-13-02-1990_sign-1024x357.jpg" alt="" width="655" height="229" /></a></p>
+
+<img src="/photos/wordpress/APO-to-Cecily-13-02-1990_sign-1024x357.jpg" alt="APO to Cecily 13-02-1990_sign">

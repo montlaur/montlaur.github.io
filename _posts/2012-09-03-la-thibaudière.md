@@ -12,6 +12,6 @@ Le 15 et le 16 septembre, à l'occasion des  journées du patrimoine, aura lie
 
 <!--more-->
 
-[caption id="attachment_1181" align="aligncenter" width="193" caption="Le passeur des jours futurs - 1977"]<a href="/photos/wordpress/Le-passeur-des-jours-futurs.jpg"><img class="size-medium wp-image-1181" title="Le passeur des jours futurs" src="/photos/wordpress/Le-passeur-des-jours-futurs-193x300.jpg" alt="" width="193" height="300" /></a>[/caption]
+<img src="/photos/wordpress/Le-passeur-des-jours-futurs-193x300.jpg" alt="Le passeur des jours futurs - 1977">
 
 Guy de Montlaur à passé ses vacances à la Thibaudière pendant son enfance et y a vécu de 1945 à 1947.

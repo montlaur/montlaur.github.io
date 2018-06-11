@@ -11,16 +11,20 @@
           <a href="/category/{{ post.category }}.html">{{ post.category }}</a>
         </p>
         <div class="flex-row">
-          <div class="four columns cover-container">
-            {% if post.picture %}
+          {% if post.picture %}
+            <div class="four columns cover-container">
               <img class="cover u-full-width" src="{{ post.picture }}" alt="{{ post.title }}">
-            {% endif %}
-          </div>
-          <div class="eight columns">
+            </div>
+            <div class="eight columns">
+          {% else %}
+            <div class="twelve columns">
+          {% endif %}
             {{ post.excerpt }}
           </div>
         </div>
-        <p class="text-center"><a class="button button-primary" href="{{ post.url }}">Lire la suite</a></p>
+        {% if post.excerpt_separator %}
+          <p class="text-center"><a class="button button-primary" href="{{ post.url }}">Lire la suite…</a></p>
+        {% endif %}
       </div>
     {% endfor %}
   </div>

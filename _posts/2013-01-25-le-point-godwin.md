@@ -18,14 +18,14 @@ Il y a eu des exceptions, bien sûr : Colette Allendy, Lucienne Rosenberg, <a h
 
 De l'oeuvre de Montlaur : faut-il montrer ce qui ne heurte pas comme ceci :
 
-[caption id="attachment_160" align="aligncenter" width="194" caption="Chemin de fer - Mars 1950"]<a href="/photos/wordpress/IMG_04921.jpg"><img class="size-medium wp-image-160" title="IMG_0492" src="/photos/wordpress/IMG_04921-194x300.jpg" alt="" width="194" height="300" /></a>[/caption]
+<img src="/photos/wordpress/IMG_04921-194x300.jpg" alt="Chemin de fer - Mars 1950">
 
 Ou l'expression d'une situation critique, comme cela :
 
-[caption id="attachment_1260" align="aligncenter" width="300" caption="La nuit du 14 au 15 août - 1972"]<a href="/photos/wordpress/La-nuit-du-14-au-15-aout.jpg"><img class="size-medium wp-image-1260" title="La nuit du 14 au 15 aout" src="/photos/wordpress/La-nuit-du-14-au-15-aout-300x249.jpg" alt="" width="300" height="249" /></a>[/caption]
+<img src="/photos/wordpress/La-nuit-du-14-au-15-aout-300x249.jpg" alt="La nuit du 14 au 15 août - 1972">
 
 Comme beaucoup de témoins de cette époque de guerre et de massacres, Montlaur a pris du temps avant d'exprimer tout son ressenti. Il ne faudrait pas réduire Montlaur aux années 50. Voici les remarques exprimées par Elizabeth Martin, fille aînée de Guy de Montlaur :
 
-<em>Papa n'a jamais voulu être "catégorisé". Il citait toujours le cas de Braque qui, ayant réalisé que les gens aimaient ses oiseaux, ne peignait plus grand chose de différent les 10 (?) dernières années de sa vie. Résultat, le public l'associait principalement avec les oiseaux et rien d'autre. Veut-on risquer une association semblable? Son œuvre est un tout, résultant d'un long et douloureux voyage. Pourquoi n'en extirper que ce qui est plaisant et plus facile d'accès?</em>
-
-<em>Par ailleurs, pour la petite histoire, je me souviens avoir lu une coupure de journal datant d'une exposition à Paris (fin 40/début 50) ou le critique estimait que Montlaur n'était pas original. Pas agréable à lire. Vrai ou faux, Papa n'en était qu'au début de son voyage, le critique ne pouvait pas connaître sa progression. Nous avons le privilège de la connaître, et donc le privilège de montrer non seulement ce qu'il faisait en début de carrière, mais aussi le reste qui dément indubitablement le critique d'antan.</em>
+>Papa n'a jamais voulu être "catégorisé". Il citait toujours le cas de Braque qui, ayant réalisé que les gens aimaient ses oiseaux, ne peignait plus grand chose de différent les 10 (?) dernières années de sa vie. Résultat, le public l'associait principalement avec les oiseaux et rien d'autre. Veut-on risquer une association semblable? Son œuvre est un tout, résultant d'un long et douloureux voyage. Pourquoi n'en extirper que ce qui est plaisant et plus facile d'accès?
+>
+Par ailleurs, pour la petite histoire, je me souviens avoir lu une coupure de journal datant d'une exposition à Paris (fin 40/début 50) ou le critique estimait que Montlaur n'était pas original. Pas agréable à lire. Vrai ou faux, Papa n'en était qu'au début de son voyage, le critique ne pouvait pas connaître sa progression. Nous avons le privilège de la connaître, et donc le privilège de montrer non seulement ce qu'il faisait en début de carrière, mais aussi le reste qui dément indubitablement le critique d'antan.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Voici venir l'automne
+title: Voici venir l’automne
 auteur: Michael de Montlaur
 category: Peinture
 active-item: blog

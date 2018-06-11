@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Et s'il n'y avait pas eu la guerre ?
+title: Et s’il n’y avait pas eu la guerre&nbsp;?
 category: Divers
-active-item: blog 
+active-item: blog
 ---
 
 [caption id="attachment_1598" align="alignright" width="276"]<a href="/photos/wordpress/1392992_10151916517918360_930733965_n.jpg"><img class="size-medium wp-image-1598" src="/photos/wordpress/1392992_10151916517918360_930733965_n-276x300.jpg" alt="Vincennes 1938" width="276" height="300" /></a> Vincennes 1938[/caption]
