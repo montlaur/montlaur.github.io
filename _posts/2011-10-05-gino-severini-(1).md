@@ -9,13 +9,11 @@ picture: /photos/wordpress/Le-plat-dargent1-231x300.jpg
 ---
 Comme je l'ai dit <a href="http://blog.montlaur.net/?p=634">plus tôt</a>, Gino Severini a eu une influence sur Guy de Montlaur. Ils se sont échangés une série de lettres entre 1947 et 1950. A cette époque Montlaur était en Amérique et Severini à Paris, en Italie et en Suisse.
 
-<!--more-->
-
 <a href="/photos/wordpress/17-avril-1947.pdf">Severini à Montlaur 17 avril 1947</a>
 
 Voici le style de  Montlaur à cette époque :
 
-<img src="/photos/wordpress/Le-plat-dargent1-231x300.jpg" alt="Le plat d'argent">
+<!--more-->
 
 <img src="/photos/wordpress/Flora-1947-238x300.jpg" alt="Flora - 1947">
 

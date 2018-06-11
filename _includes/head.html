@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>{{ page.title }} — {{ site.name }}</title>
+		<title>{{ page.title }} {% if paginator.page and paginator.page != 1 %}(Page {{ paginator.page }} / {{ paginator.total_pages }}) {% endif %}— {{ site.name }}</title>
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/montlaur.css">
 	</head>
 	<body>

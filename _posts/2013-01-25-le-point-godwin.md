@@ -8,7 +8,10 @@ excerpt_separator: <!--more-->
 picture: /photos/wordpress/IMG_04921-194x300.jpg
 ---
 
-Je m'aperçois que j'ai dû atteindre le <a href="http://fr.wiktionary.org/wiki/point_Godwin">point Godwin</a> plus d'une fois dans ce blog. Quand on parle des années 30 et 40, on critique forcément certains régimes si l'on ne pratique pas l’autocensure. Ce que je fais (l’autocensure) dans la phrase précédente : j’aurais préféré dire les régimes fascistes et nazis. Et là, j’atteins le point Godwin. La conséquence immédiate est l’arrêt brutal du débat : "tu as atteint le point Godwin, tu te tais". La dérive de cette méthode amène au révisionnisme. Le sujet dont me parle mon interlocuteur me gène, je profite qu’il ose utiliser les termes bannis de notre bonne société, je l’interromps, et donc je nie son argument premier et toute une période qui me gène.
+Je m'aperçois que j'ai dû atteindre le <a href="http://fr.wiktionary.org/wiki/point_Godwin">point Godwin</a> plus d'une fois dans ce blog. Quand on parle des années 30 et 40, on critique forcément certains régimes si l'on ne pratique pas l’autocensure. Ce que je fais (l’autocensure) dans la phrase précédente : j’aurais préféré dire les régimes fascistes et nazis. Et là, j’atteins le point Godwin. La conséquence immédiate est l’arrêt brutal du débat :
+> Tu as atteint le point Godwin, tu te tais.
+
+La dérive de cette méthode amène au révisionnisme. Le sujet dont me parle mon interlocuteur me gène, je profite qu’il ose utiliser les termes bannis de notre bonne société, je l’interromps, et donc je nie son argument premier et toute une période qui me gène.
 
 <!--more-->
 

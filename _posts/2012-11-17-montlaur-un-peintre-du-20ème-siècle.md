@@ -13,9 +13,9 @@ J'ai retrouvé ce texte écrit par Adelaide de Montlaur (1920 - 2011) :
 
 > Peut-on parler de la peinture ? L’expliquer serait prétendre à ce que le peintre lui-même ne pouvait faire. On pourrait parler un peu du peintre et rappeler quelques idées qu’il avait sur la peinture.
 >
-<!--more-->
->
 Et ses idées sur la vie et la mort ? Cherchez donc cela dans sa peinture. Vous êtes libre, cher lecteur, d’y voir ce qu’il vous plaira – aussi libre que vous êtes en écoutant la musique.
+>
+<!--more-->
 >
 Chaque peinture fut conçue avec la musique de Bach, parfois de Schubert ou de Beethoven ou d’autres, mais surtout de Jean Sébastien Bach, rejouée indéfiniment – peinture et musique spécifique, intimement liées comme pendant une conversation amoureuse. Le musicien et qui sait quel esprit divin aidaient le peintre à construire, à trouver les justes rapports de couleurs, le mouvement, la vie.
 >

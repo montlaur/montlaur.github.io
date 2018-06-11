@@ -9,11 +9,11 @@ picture: /photos/wordpress/Doubles-croches2-210x300.jpg
 ---
 Il y a des paradoxes dans la vie d'un homme : pourquoi un aristocrate d'une des plus vieilles familles de France, qui a passé sa jeunesse dans le 16ème arrondissement de Paris, qui a été élève à l'école Sainte Croix de Neuilly et dont les meilleurs amis fréquentaient les Camelots du Roi et l'Action Française, pourquoi ce jeune homme a-t-il passé les meilleurs moments de sa jeunesse, de 20 à 27 ans, à combattre les nazis ?
 
-<!--more-->
-
 Il aurait pu se consacrer à son art, à sa passion, la peinture. Il aurait pu devenir un grand sportif, c'était un très bon cavalier. Il aurait pu rejoindre sa famille brésilienne, et passer la guerre, tranquillement à Sao Paulo.
 
 Pendant ces sept longues années, il a mis sa carrière entre parenthèses, il y avait quelque chose de plus important. Guy de Montlaur ne transigeait pas. C'était son honneur. Il ne supportait pas ce petit dictateur qui voulait s'imposer à l'Europe, au Monde.
+
+<!--more-->
 
 <img src="/photos/wordpress/La-Thibaudière-le-lavoir-de-lîle-1000-300x227.jpg" alt="La Thibaudière le lavoir de l'île">
 
