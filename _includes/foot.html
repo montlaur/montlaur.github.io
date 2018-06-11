@@ -1,6 +1,6 @@
       </div>
       {% if paginator.previous_page_path or paginator.next_page_path or page.next or page.previous %}
-        <section class="bg-background lead">
+        <div class="section bg-background lead">
           <div class="container text-center">
     				<p>
     					{% if paginator.previous_page_path %}
@@ -24,7 +24,7 @@
     					{% endif %}
     				</p>
           </div>
-  			</section>
+  			</div>
       {% endif %}
       <footer>
         <div class="container">
