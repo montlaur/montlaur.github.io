@@ -38,17 +38,18 @@ Toutefois, ils eurent un réveil brusque et matinal. Les deux sentinelles qui av
 
 Et voici ce que Roland Gabriel écrit à Adelaide de Montlaur le 14 juin 1944 :
 
-<a href="/photos/wordpress/RG1.jpg"><img class="aligncenter size-medium wp-image-1581" src="/photos/wordpress/RG1-300x233.jpg" alt="RG1" width="300" height="233" />
-</a><a href="/photos/wordpress/RG2.jpg"><img class="aligncenter size-medium wp-image-1582" src="/photos/wordpress/RG2-197x300.jpg" alt="RG2" width="197" height="300" /></a>
+<img src="/photos/wordpress/RG1-300x233.jpg" alt="RG1">
+
+<img src="/photos/wordpress/RG2-197x300.jpg" alt="RG2">
 
 42 ans plus tard, après s'être vus aux cérémonies du 6 juin 1986, Adelaide de Montlaur lui envoie ce petit mot :
 
-<a href="/photos/wordpress/RG3.jpg"><img class="aligncenter size-medium wp-image-1584" src="/photos/wordpress/RG3-207x300.jpg" alt="RG3" width="207" height="300" /></a>
+<img src="/photos/wordpress/RG3-207x300.jpg" alt="RG3">
 
 Et la réponse de Roland Gabriel
 
-<a href="/photos/wordpress/RG4.jpg"><img class="aligncenter size-medium wp-image-1585" src="/photos/wordpress/RG4-214x300.jpg" alt="RG4" width="214" height="300" /></a>
+<img src="/photos/wordpress/RG4-214x300.jpg" alt="RG4">
 
 Et voici un dessin qui se trouvait rangé avec la lettre du 14 juin 1944 :
 
-<a href="/photos/wordpress/Personality.jpg"><img class="aligncenter size-medium wp-image-1587" src="/photos/wordpress/Personality-193x300.jpg" alt="Personality" width="193" height="300" /></a>
+<img src="/photos/wordpress/Personality-193x300.jpg" alt="Personality">
