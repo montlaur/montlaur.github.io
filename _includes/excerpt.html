@@ -1,0 +1,21 @@
+<div class="excerpt">
+  <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
+  <p class="text-center post-infos">
+    Publié le <strong><em>{{ include.post.date | date: "%d/%m/%Y" }}</em></strong>
+    {% if include.post.auteur %}par <em>{{ include.post.auteur }}</em>{% endif %} — 
+    <a href="/category/{{ include.post.category }}.html">{{ include.post.category }}</a>
+  </p>
+  <div class="flex-row">
+    {% if include.post.picture %}
+      <div class="four columns cover-container">
+        <img class="cover u-full-width" src="{{ include.post.picture }}" alt="{{ include.post.title }}">
+      </div>
+    {% endif %}
+    <div class="{% if include.post.picture %}eight {% else %}twelve {% endif %}columns">
+      {{ include.post.excerpt }}
+    </div>
+  </div>
+  {% if include.post.excerpt_separator %}
+    <p class="text-center"><a class="button button-primary" href="{{ include.post.url }}">Lire la suite…</a></p>
+  {% endif %}
+</div>

@@ -3,4 +3,16 @@
 {% include big-quote.html %}
 {% include selection.html %}
 {% include expositions.html %}
+<section class="bg-background">
+  <div class="container lead">
+    <h2>Sur le blog</h2>
+    {% assign post = site.posts.first %}
+    {% include excerpt.html post = post %}
+  </div>
+</section>
+<div class="section bg-background lead">
+  <div class="container text-center">
+    <p class="text-center"><a class="button" href="/blog/">Voir tous les billets de blog</a></p>
+  </div>
+</div>
 {% include foot.html %}
