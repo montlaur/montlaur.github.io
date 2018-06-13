@@ -6,7 +6,7 @@
 
 <div class="excerpt">
   <h2 class="post-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
-  {% include post-infos.html post=post align="center" %}
+  {% include post-infos.html post=include.post align="center" %}
   <div class="flex-row">
     {% if include.post.picture %}
       <div class="four columns cover-container">
