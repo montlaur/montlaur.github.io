@@ -11,14 +11,19 @@
   }
 }
 
-// Special spacings
-.button + .button { margin-top: $double-spacing; }
-
 // buttons
 .button {
+  &.overflow {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
   &.previous::after { content: " ❭"}
   &.next::before { content: "❬ "}
 }
+
+.button + .button { margin-top: $double-spacing; }
 
 // Header & footer
 nav, footer {
@@ -312,12 +317,6 @@ figcaption h5 { margin-bottom: 0; }
 .excerpt:not(:last-child) {
   border-bottom: 1px solid $alternate-color;
   margin-bottom: $double-spacing;
-}
-
-.previous, .next, .tous-billets {
-  max-width: 100%;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 // Formulaire de contact

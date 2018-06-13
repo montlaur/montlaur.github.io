@@ -1,3 +1,9 @@
+{% if page.blog.title %}
+  <section class="bg-background">
+    <div class="container lead">
+      <h2>{{ page.blog.title }}</h2>
+{% endif %}
+
 <div class="excerpt">
   <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
   <p class="text-center post-infos">
@@ -19,3 +25,13 @@
     <p class="text-center"><a class="button button-primary" href="{{ include.post.url }}">Lire la suite…</a></p>
   {% endif %}
 </div>
+
+{% if page.blog.title %}
+    </div>
+  </section>
+  <div class="section bg-background lead">
+    <div class="container text-center">
+      <p class="text-center"><a class="button overflow" href="{{ page.blog.link.url }}">{{ page.blog.link.title }}</a></p>
+    </div>
+  </div>
+{% endif %}

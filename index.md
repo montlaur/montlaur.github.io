@@ -31,6 +31,12 @@ expositions:
   link:
     url: "/expositions/"
     title: "Expositions passées"
+
+blog:
+  title: "Sur le Blog"
+  link:
+    url: "/blog/"
+    title: "Voir tous les billets"
 ---
 J’ai envie de crier&nbsp;:
 “Mais regardez donc&nbsp;! Regardez le mystère&nbsp;! Il vous crève les yeux&nbsp;!”
