@@ -3,20 +3,14 @@
 <section class="bg-background">
   <div class="container lead">
     <h1>{{ page.title }}</h1>
-    <p class="post-infos">
-      Publié le <strong><em>{{ page.date | date: "%d/%m/%Y" }}</em></strong>
-      {% if page.auteur %}par <em>{{ page.auteur }}</em>{% endif %} — 
-      <a href="/category/{{ page.category }}.html">{{ page.category }}</a>
-    </p>
+    {% include post-infos.html post=page align="left" %}
     <div class="row post">
       {% if page.picture %}
         <div class="four columns">
           <img class="u-full-width" src="{{ page.picture }}" alt="{{ page.title }}">
         </div>
-        <div class="eight columns">
-      {% else %}
-        <div class="twelve columns">
       {% endif %}
+      <div class="{% if page.picture %}eight {% else %}twelve {% endif %}columns">
         {{ content }}
       </div>
     </div>

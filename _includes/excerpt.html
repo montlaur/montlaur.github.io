@@ -1,20 +1,18 @@
 {% if page.blog.title %}
   <section class="bg-background">
     <div class="container lead">
-      <h2>{{ page.blog.title }}</h2>
+      <h2 class="blog-title">{{ page.blog.title }}</h2>
 {% endif %}
 
 <div class="excerpt">
-  <h2><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
-  <p class="text-center post-infos">
-    Publié le <strong><em>{{ include.post.date | date: "%d/%m/%Y" }}</em></strong>
-    {% if include.post.auteur %}par <em>{{ include.post.auteur }}</em>{% endif %} — 
-    <a href="/category/{{ include.post.category }}.html">{{ include.post.category }}</a>
-  </p>
+  <h2 class="post-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h2>
+  {% include post-infos.html post=post align="center" %}
   <div class="flex-row">
     {% if include.post.picture %}
       <div class="four columns cover-container">
-        <img class="cover u-full-width" src="{{ include.post.picture }}" alt="{{ include.post.title }}">
+        <a href="{{ include.post.url }}">
+          <img class="cover u-full-width" src="{{ include.post.picture }}" alt="{{ include.post.title }}">
+        </a>
       </div>
     {% endif %}
     <div class="{% if include.post.picture %}eight {% else %}twelve {% endif %}columns">

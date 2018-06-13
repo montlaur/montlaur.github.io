@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The war is more boring then ever
+title: The war is more boring than ever
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
@@ -27,7 +27,7 @@ My dear <a href="http://en.wikipedia.org/wiki/Tiddlywinks">Tiddlywinx</a>,
 >
 I must tell you first I've been in a very bad mood for the past few days and that I'm not still very brilliant. So you will excuse me if you find my letter boring and pale.
 >
-I don't have any particular trouble of my own. I just feel fed up and think the war is more boring then ever. As I said before, the only thing to do in the army is to fight, there is no fun unless you play with Germans. Or, I wish I had a "planque" somewhere and live with you, instead of living by myself like a dope. Though, I should be more cheerful: this morning I read a 3 day old paper and saw the news were pretty good. <a href="https://www.youtube.com/watch?v=oIUmyn7b0rs">Isn't it good that 9th American army in Aachen </a>? It sounds silly to say: I wish it's all over in a short time and Germany collapses at once, because many people on the world, but the dopey Germans, have the same thought. But what on earth to be wished for the immediate future?
+I don't have any particular trouble of my own. I just feel fed up and think the war is more boring than ever. As I said before, the only thing to do in the army is to fight, there is no fun unless you play with Germans. Or, I wish I had a "planque" somewhere and live with you, instead of living by myself like a dope. Though, I should be more cheerful: this morning I read a 3 day old paper and saw the news were pretty good. <a href="https://www.youtube.com/watch?v=oIUmyn7b0rs">Isn't it good that 9th American army in Aachen </a>? It sounds silly to say: I wish it's all over in a short time and Germany collapses at once, because many people on the world, but the dopey Germans, have the same thought. But what on earth to be wished for the immediate future?
 >
 I forgot to tell you I had received "Voici" and "Transatlantic". I found the latter quite interesting and well edited. I think the article on Roosevelt is very ???? - and the one on the American press taught me many things I didn't know. I didn't have time up to now to read "Voici", being a Troop leader (!) until tomorrow night. I hope I'll have some time to do it anyway though I think I'm going to be pretty busy shortly.
 >
