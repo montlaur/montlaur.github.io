@@ -4,7 +4,7 @@ title: Roland Gabriel
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Personality-193x300.jpg
 ---
 

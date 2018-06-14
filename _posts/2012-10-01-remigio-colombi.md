@@ -4,7 +4,7 @@ title: Remigio Colombi
 auteur: Michael de Montlaur
 category: Guerre
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Remigio-Colombi1000-241x300.jpg
 ---
 

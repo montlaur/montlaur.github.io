@@ -4,7 +4,7 @@ title: Géométrie, lyrisme, expressionnisme&nbsp;?
 auteur: Michael de Montlaur
 category: Peinture
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/GdM-peint-secundum-300x201.jpg
 ---
 Voici une des rares photographies de Montlaur en train de peindre :

@@ -4,7 +4,7 @@ title: Montlaur, un peintre du 20ème siècle
 auteur: Michael de Montlaur
 category: Famille
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Le-plican-233x300.jpg
 ---
 J'ai retrouvé ce texte écrit par Adelaide de Montlaur (1920 - 2011) :

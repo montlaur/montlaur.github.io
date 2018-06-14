@@ -4,7 +4,7 @@ title: Exposition Montlaur à Ranville
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/La-couleur-de-la-guerre-Autoportrait-210x300.jpg
 ---
 Comme annoncé précédemment, l'exposition de 14 tableaux de Montlaur a lieu à partir de samedi 2 juin jusqu'au 16 juin 2012.

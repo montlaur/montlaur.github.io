@@ -4,7 +4,7 @@ title: Alexandra - 8 avril 2011
 auteur: Michael de Montlaur
 category: Famille
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/APO1990-209x300.jpg
 ---
 It is with great regret that I write to commemorate my grandmother’s life so far away from her, and away from the other Sloans, the Gallups, the Martins, and of course, the Montlaurs. My only comfort is that I am sitting in the Frenchest place in Chicago, a *real* boulangerie a la Thibervilloise, minus the screeching boulangère, but complete with the smells of my childhood that I trace directly back to Grandmamma.

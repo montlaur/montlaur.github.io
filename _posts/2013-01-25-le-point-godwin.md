@@ -4,7 +4,7 @@ title: Le point Godwin
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/IMG_04921-194x300.jpg
 ---
 

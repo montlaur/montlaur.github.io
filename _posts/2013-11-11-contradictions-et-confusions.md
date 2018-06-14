@@ -4,7 +4,7 @@ title: Contradictions et confusions
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/En-souvenir-de-lAllemagne-europeenne2-249x300.jpg
 ---
 

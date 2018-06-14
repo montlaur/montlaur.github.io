@@ -4,7 +4,7 @@ title: Témoin et archives
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/931-232x300.jpg
 ---
 

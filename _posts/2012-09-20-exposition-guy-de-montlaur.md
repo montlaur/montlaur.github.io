@@ -4,7 +4,7 @@ title: Exposition Guy de Montlaur
 auteur: George de Montlaur
 category: Peinture
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Le-Passeur.jpg
 ---
 

@@ -4,7 +4,7 @@ title: Les arènes, le bar et l'hôpital
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/LeDemonPrisasonPiege0360-210x300.jpg
 ---
 Début août 1977, j'avais 25 ans, j'étais en vacances à Montlaur. Un après-midi on était aux arènes de Sommières en train de regarder les raseteurs jouer avec les taureaux. Ensuite on est allé boire un coup, tranquilles, au milieu de la foule. Personne ne savait qu'on était là. Il n'y avait, Dieu merci, pas de téléphone portable, à l'époque.

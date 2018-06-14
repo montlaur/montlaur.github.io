@@ -4,7 +4,7 @@ title: Adelaide to Cecily in 1990
 auteur: Michael de Montlaur
 category: Famille
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Alexander-R-Piper-June-1950-b-150x150.jpg
 ---
 Dear Cecily,

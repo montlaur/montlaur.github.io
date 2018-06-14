@@ -4,7 +4,7 @@ title: An Exhibition of Paintings by Guy de Montlaur
 auteur: George de Montlaur
 category: Peinture
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Orangerie-et-batiks.jpg
 ---
 

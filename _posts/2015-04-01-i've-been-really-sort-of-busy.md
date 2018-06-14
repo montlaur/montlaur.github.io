@@ -4,7 +4,7 @@ title: I’ve been really sort of busy
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/The-3-Oates-Sisters-2--1024x693.jpg
 ---
 

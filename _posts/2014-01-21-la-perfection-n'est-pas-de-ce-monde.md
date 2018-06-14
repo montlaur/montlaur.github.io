@@ -4,7 +4,7 @@ title: La perfection n’est pas de ce monde
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Sans-titre.jpg
 ---
 

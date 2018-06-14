@@ -4,7 +4,7 @@ title: La Thibaudière
 auteur: Michael de Montlaur
 category: Peinture
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/DSC01035-800-229x300.jpg
 ---
 

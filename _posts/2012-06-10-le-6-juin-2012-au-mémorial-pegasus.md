@@ -4,7 +4,7 @@ title: Le 6 juin 2012 au Mémorial Pegasus
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 ---
 Tableaux de Guy de Montlaur exposées au Mémorial Pegasus.
 

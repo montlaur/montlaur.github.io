@@ -4,7 +4,7 @@ title: Adelaide de Montlaur - Une vie de courage - A life of courage
 auteur: George de Montlaur
 category: Famille
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/SobandGuy030743-240x300.jpg
 ---
 Mamma va rejoindre Guy de Montlaur, le soldat, tout près de ces autres soldats qui ont pris part à la libération de la France et de l'Europe en 1944. Elle va rejoindre celui qu'elle avait connu avant la guerre quand elle était une petite américaine ne parlant pas un mot de français venue en France pour apprendre la langue et l'Art.

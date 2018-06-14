@@ -4,7 +4,7 @@ title: Les fauteuils d’orchestre
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Nature-morte-aux-livres-48.jpg
 ---
 

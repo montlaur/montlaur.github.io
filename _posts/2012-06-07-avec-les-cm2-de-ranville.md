@@ -4,7 +4,7 @@ title: Avec les CM2 de Ranville
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Bibli1-300x168.jpg
 ---
 Le 4 juin, j'avais rendez-vous à la bibliothèque avec les élèves de CM2 de Ranville. Je leur ai conté le parcours de Guy de Montlaur, de sa passion pour la peinture, tout jeune, lorsqu'il se rendait au Louvre avec son oncle, une fois par semaine, à l'interruption de la guerre et à l'évolution de son style au cours des années cinquante jusqu'aux années soixante dix.

@@ -4,7 +4,7 @@ title: Georges de Mandat Grancey
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Georges-de-Mandat-Grancey-et-GdM-1936-300x300.jpg
 ---
 Georges de Mandat Grancey et Guy de Montlaur étaient amis.

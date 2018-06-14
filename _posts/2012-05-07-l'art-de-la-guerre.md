@@ -4,7 +4,7 @@ title: L’Art de la Guerre
 auteur: Michael de Montlaur
 category: Guerre
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Doubles-croches2-210x300.jpg
 ---
 Il y a des paradoxes dans la vie d'un homme : pourquoi un aristocrate d'une des plus vieilles familles de France, qui a passé sa jeunesse dans le 16ème arrondissement de Paris, qui a été élève à l'école Sainte Croix de Neuilly et dont les meilleurs amis fréquentaient les Camelots du Roi et l'Action Française, pourquoi ce jeune homme a-t-il passé les meilleurs moments de sa jeunesse, de 20 à 27 ans, à combattre les nazis ?

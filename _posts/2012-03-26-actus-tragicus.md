@@ -4,7 +4,7 @@ title: Actus tragicus
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Actus-tragicus-1000-195x300.jpg
 ---
 D'après Jean Sébastien Bach :

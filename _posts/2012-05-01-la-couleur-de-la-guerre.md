@@ -4,7 +4,7 @@ title: La couleur de la guerre
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/expo-GdM-Ranville-2.jpg
 ---
 Une exposition aura lieu du 2 au 16 juin 2012 à Ranville au <a href="http://www.memorial-pegasus.org/">Memorial Pegasus</a> et à la bibliothèque de <a href="http://www.ranville.fr/">Ranville</a>.

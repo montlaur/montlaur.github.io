@@ -4,7 +4,7 @@ title: Exposition au château de Montlaur, Pâques 2013
 auteur: Michael de Montlaur
 category: Peinture
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/affiche-expo-300x226.jpg
 ---
 

@@ -4,7 +4,7 @@ title: 6 juin pour toujours
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/Soyons-raisonable-201x300.jpg
 ---
 Parfois, j'éprouve un peu de lassitude sur ce que je fais sur ce blog, je me demande à quoi ça sert, j'ai l'impression d'apporter une toute petite miette dans un océan infini.

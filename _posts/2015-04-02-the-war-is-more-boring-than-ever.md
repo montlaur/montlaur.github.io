@@ -4,7 +4,7 @@ title: The war is more boring than ever
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-excerpt_separator: <!--more-->
+
 picture: /photos/wordpress/DailySketchGdM.jpg
 ---
 
