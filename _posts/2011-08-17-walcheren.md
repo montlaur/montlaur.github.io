@@ -4,7 +4,6 @@ title: Walcheren
 auteur: Michael de Montlaur
 category: Guerre
 active-item: blog
-
 ---
 Trois photos très nettes prises après le débarquement du 1er novembre 1944 à Flessingue.
 

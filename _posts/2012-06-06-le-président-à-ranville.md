@@ -4,7 +4,6 @@ title: Le Président à Ranville
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-
 ---
 Le Président de la République, François Hollande, est venu rendre hommage aux soldats enterrés dans le magnifique cimetière militaire britannique de Ranville.
 

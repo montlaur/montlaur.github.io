@@ -4,7 +4,6 @@ title: Et la politique&nbsp;?
 auteur: Michael de Montlaur
 category: Divers
 active-item: blog
-
 ---
 En 1929, Guy a 11 ans et il est furieux contre les allemands. Son père est mort des suites des gazages qui l'avaient considérablement affaibli pendant "la grande guerre". Le souhait de Guy, jeune enfant, est qu'il y ait une nouvelle guerre contre les allemands pour pouvoir se venger. C'est simple la vie à 11 ans.
 

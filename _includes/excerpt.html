@@ -19,9 +19,15 @@
       {{ include.post.excerpt }}
     </div>
   </div>
-  {% if include.post.excerpt_separator %}
-    <p class="text-center"><a class="button button-primary" href="{{ include.post.url }}">Lire la suite…</a></p>
-  {% endif %}
+  <p class="text-center">
+    <a class="button button-primary" href="{{ include.post.url }}">
+      {% if page.lang=="EN" %}
+        Read more…
+      {% else %}
+        Lire la suite…
+      {% endif %}
+    </a>
+  </p>
 </div>
 
 {% if page.blog.title %}

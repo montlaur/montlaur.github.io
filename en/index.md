@@ -32,6 +32,12 @@ expositions:
   link:
     url: "/en/exhibits/"
     title: "Passed exhibits"
+
+blog:
+  title: "Last Blog post"
+  link:
+    url: "/blog/"
+    title: "More posts"
 ---
 I want to shout: “Just look! Look at the mystery! It is piercing your eyes.”
 
