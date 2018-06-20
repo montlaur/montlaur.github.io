@@ -31,8 +31,7 @@ nav, footer {
   color: $white;
   text-align: center;
   padding: $spacing 0;
-  background-color: rgba(0, 0, 0, .8);
-  @include backdrop-filter-blur(5px);
+  background-color: $text-color;
 
   a { color: $white; }
 
@@ -181,7 +180,7 @@ section, .section {
 // Couleurs de fond des sections
 .bg-alternate { background-color: $alternate-color; }
 .bg-background { background-color: $background-color; }
-.bg-white { background-color: #fff; }
+.bg-white { background-color: $white; }
 .bg-blue { background-color: $link-color; }
 
 // Sections de citation
@@ -320,7 +319,7 @@ figcaption h5 { margin-bottom: 0; }
   border-radius: 2px;
 }
 
-.post-infos { color: $button-color; }
+.post-infos { opacity: .7; }
 
 .post-title a, .post-infos a {
   text-decoration: none;
