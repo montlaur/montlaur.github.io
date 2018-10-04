@@ -16,7 +16,7 @@ Il nous fallait du temps pour goûter à petites doses d'abord, c'était acide, 
 
 <!--more-->
 
-Alors on a essayé de faire partager ce que les mots peuvent à peine dire. Avec réussite concernant le premier cercle, famille, amis. Et ce n'était pas gagné. Les plus belles surprises sont venues de ceux et celles que l'on croyait complètement hermétiques à cette peinture. Le temps à patiné le rejet initial. Comme le vin qu'on déteste la première fois et qu'on déguste l'âge aidant pourvu qu'il soit bon. Cette reconnaissance des proches qui n'ont pas connu la genèse nous conforte dans nos sentiments. Mais cela ne nous suffit pas et nous voulons l'élargir.
+Alors on a essayé de faire partager ce que les mots peuvent à peine dire. Avec réussite concernant le premier cercle, famille, amis. Et ce n'était pas gagné. Les plus belles surprises sont venues de ceux et celles que l'on croyait complètement hermétiques à cette peinture. Le temps a patiné le rejet initial. Comme le vin qu'on déteste la première fois et qu'on déguste l'âge aidant pourvu qu'il soit bon. Cette reconnaissance des proches qui n'ont pas connu la genèse nous conforte dans nos sentiments. Mais cela ne nous suffit pas et nous voulons l'élargir.
 
 Là commencent les problèmes : expositions, ventes, catalogue, stockage, partage, dispersion, dégradation, restauration, encadrement, base de données, fiches, textes, biographies,... j'en oublie. Faut-il tout faire à la fois ? Faut-il faire un fonds ? Faut-il partager puis que chacun décide à sa façon ? Faut-il sous-traiter ? Faut-il faire un don à un musée, à une fondation ? Faut-il ne rien faire ?
 
