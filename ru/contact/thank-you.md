@@ -1,7 +1,7 @@
 ---
 lang: RU
 layout: default
-title: Thanks for your message
+title: Спасибо за ваше сообщение
 active-item: contact
 ---
-We'll answer you shortly.
+Мы свяжемся с вами в скором времени.
