@@ -1,17 +1,17 @@
 ---
-lang: EN
+lang: RU
 layout: default
-title: Biography
+title: Биография
 active-item: biographie
 ---
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
 
-Guy de Villardi, Comte de Montlaur belonged to one of the most ancient families of France: his ancestor Bernard II de Montlaur, Lord of Vailhauquès, had fought with Raymond de Toulouse at the First Crusade (1096-1099). The family originates from Montlaur, a 10th century castle North of Montpellier in the Languedoc country. Guy de Montlaur was also Brazilian on his maternal side.
+Ги де Вилларди, граф де Монлор принадлежал к одному из известнейших аристократических родов Франции: его предок Бернар II де Монлор, сеньор Вайоке, участвовал в Первом крестовом походе с Раймондом IV Тулузским (1096—1099). История аристократического рода де Монлоров восходит к X веку (их фамильный замок ХI века расположен в Лангедоке, к северу от Монпелье). Ги де Монлор также был бразильцем по материнской линии.
 
-Brought up in Paris, he used to go to the Louvre Museum every Thursday where he found his favourite masters: Ucello, Mantegna, Ghirlandaio, Hieronymus Bosch, Botticelli, Titian, Claude Lorrain, Poussin, Ingres, Delacroix, Courbet, and then the Moderns, in particular, Kandinsky.
+В школьные годы в Париже он проводил каждый четверг в Лувре, где находились картины кисти его любимых мастеров: Уччелло, Мантеньи, Гирландайо, Иеронима Босха, Боттичелли, Тициана, Лоррена, Пуссена, Энгра, Делакруа, Курбэ, а среди представителей современного искусства – Кандинского. 
 
-Guy de Montlaur studied philosophy at the Sorbonne University and painting at the Académie Julian. Early every morning, he mounted racehorses with the jockeys at Maison Laffite.
+Ги де Монлор изучал философию в Сорбонне, а живопись – в Академии Юлиана. Каждым ранним утром он ездил на скаковых лошадях вместе с жокеями в Мезон-Лаффит.
 
 <!-- Ne pas supprimer la balise -->
 </div>
@@ -21,7 +21,7 @@ Guy de Montlaur studied philosophy at the Sorbonne University and painting at th
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
 
-In October 1938, just after Munich, he left for Military Service in a Cavalry Regiment at Saarguemines, on the German border. During the 1940 campaign he was in a reconnaissance group 'Les Corps Francs' and took part in raids across the border. Later, he reached England to join the Free French Naval Marines incorporated into Lord Lovat's No. 4 British Commando. He landed on D-Day, June 6, 1944 in Normandy at Sword Beach near Ouistreham. All his officers having been wounded, he took command of his section. On November 1st, 1944 he took part in the liberation of Flushing (Walcheren island, Holland). According to his officer, Captain Guy Vourc'h: *“…wounded, he refused to be evacuated…his courage bordered on insolence… He had won 7 citations and the French 'Legion d'Honneur' by the age of 25.”*
+В октябре 1938, сразу после Мюнхенского соглашения, он поступил на военную службу в кавалерийский полк, стоявший в Саргемине, недалеко от немецкой границы. В кампании 1940 года он воевал в составе разведподразделения, добровольческом корпусе и участвовал в рейдах на территории Германии. В октябре 1942 года он примкнул к английским войскам в составе бригады № 4 Коммандос 1-го батальона морской артиллерии под командованием Кифера. 6 июня 1944 года он принял участие в высадке в Нормандии, в Кольвиле, недалеко от Уистреама. Когда все старшие по званию офицеры в бою были ранены, Монлор взял командование на себя и продолжил бой. 1 ноября 1944 года он принял участие во вторжении союзных войск в Валхерен (Голландия) и осво­бождении Флиссингена. Его командир, капитан Ги Вурш, рассказывал о нем: *«Будучи раненым, он отказался покинуть поле боя. Его отвага была сродни вызову, он не просто сражался, он унижал своим презрением врага. Он был удостоен семи упоминаний в числе особо отличившихся и получил Орден Почетного легиона в возрасте 25 лет»*
 
 <!-- Ne pas supprimer la balise -->
 </div>
@@ -31,9 +31,9 @@ In October 1938, just after Munich, he left for Military Service in a Cavalry Re
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
 
-Guy de Montlaur went back to painting after the Liberation of France. He became friends with Gino Severini who gave him good advice. In February 1947 he took his family to New York where he met Walter Pach. He worked at the Art Students League. At the end of 1948 he returned to France and moved to Nice. In March 1949, he had his first one-man-show at the Galerie Lucienne Léonce-Rosenberg in Paris. At that time, he knew Chapoval, Atlan, Schneider, Soulages. In April 1951 and January 1954, he had exhibitions at the Galerie Colette Allendy in Paris. His Cubist period lasted from 1949 to 1953-54.
+После освобождения Франции Ги де Монлор вернулся к живописи. Он был в дружеских отношениях с Джино Северини, советовался с ним. В 1947 году вместе со всей семьей он перебрался в Соединенные Штаты, где учился живописи в Лиге искусств в Нью-Йорке. В 1948 году он вернулся во Францию и поселился в Ницце. Его первая персональная выставка состоялась в марте 1949 года в галерее Люсьен Леонс Розенберг в Париже. В то время он общался с такими художниками, как Шаповал, Атлан, Шнейдер, Сулаж. В апреле 1951 года и январе 1954 года он выставлялся в галерее Колетты Алленди в пригороде Парижа, Отёе. В этот период времени (с 1949 по 1954) его стиль, прежде всего кубистский, становится абстрактным и строго геометричным.
 
-Next came a period of transition. He moved to Fontainebleau and later, to Paris. He began using the palette knife, breaking down divisions and contours. He was beginning to express his own painting. Years of research towards abstract art finally led him to express his intense passionate nature. But at the same time, the discipline of cubism gave him a strong sense of construction.
+1954 год – переломный. Семья перебирается в Фонтенбло, а несколько лет спустя – в Париж. Стиль художника эволюционирует, он оставил кисть и стал пользоваться только мастихином, ломая контуры и пространства. Он нашел свой собственный стиль. Годы технического совершенствования в практике абстракционизма позволили ему теперь достичь вершины страстного самовыражения. В то же время строгость и дисциплина кубизма привили ему глубокое чувство композиции и конструктивизма.
 
 <!-- Ne pas supprimer la balise -->
 </div>
@@ -43,9 +43,9 @@ Next came a period of transition. He moved to Fontainebleau and later, to Paris.
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
 
-He was inhabited by poetry: his titles came from Apollinaire, Verlaine, Baudelaire, Valery…and music was essential, especially J-S Bach whom he played over and over - the same music during the same painting: "How beautiful is the light of the Morning Star", "Es war ein wünderlicher Krieg". Memories of childhood vacations in Anjou gave such titles as "l'île", "La grande allée", "Ô saisons ! Ô châteaux".
+Он был одержим поэзией: названия его картин были вдохновлены Аполлинером, Верленом, Бодлером, Валери. Он не мог жить без музыки: во время работы над полотнами он постоянно слушал одни и те же композиции, в основном, И.-С. Баха; отсюда и названия «Morgenstern» и «Es war ein wünderlicher Krieg».
 
-His sense of the spiritual in art ("die Geistige in der Kunst", dear to Kandinsky) pushed him towards solitude. He finally found refuge in the Norman countryside. Between 1975 and 1977 he painted at Franval, his house in Normandy. He died on August 10, 1977. He wished to be buried next to his comrades fallen 33 years earlier, in Ranville, near Caen, the first village to be liberated in France.
+Его чувство духовности в искусстве («die Geistige in der Kunst» по Кандинскому) вело его к одиночеству. Он обрел убежище во Франвале в Нормандии, где писал картины с 1975 по 1977 год. Ги де Montlaur умер 10 августа 1977 года. Он попросил, чтобы его похоронили в Ранвиле в Нормандии – первом городке, освобожденном во Франции, рядом с его боевыми товарищами, павшими на поле сражения 33 года назад.
 
 <!-- Ne pas supprimer la balise -->
 </div>
