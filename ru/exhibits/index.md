@@ -4,6 +4,6 @@ layout: expositions
 title: Выставки
 active-item: expositions
 expositions:
-  date: Date
-  lieu-description: Location & description
+  date: Дата
+  lieu-description: Место и описание 
 ---
