@@ -25,13 +25,6 @@
                 <td>{{ expo.texte }}</td>
               </tr>
             {% endfor %}
-          {% if page.lang=="RU" %}
-            {% for expo in site.data.expositions-ru limit:3 %}
-              <tr>
-                <td>{{ expo.annee }}</td>
-                <td>{{ expo.texte }}</td>
-              </tr>
-            {% endfor %}
           {% else %}
             {% for expo in site.data.expositions limit:3 %}
               <tr>
