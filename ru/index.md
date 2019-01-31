@@ -3,7 +3,7 @@ lang: RU
 layout: index
 title: Ги де Монлор — художник XX века
 
-big-title: "Художник<sup>th</sup> XX века"
+big-title: "Художник<sup></sup> XX века"
 
 quote:
   title: "Про Ги&nbsp;де&nbsp;Монлора"
