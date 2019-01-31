@@ -1,46 +1,46 @@
 ---
 lang: RU
 layout: index
-title: Guy de Montlaur — XXth Century Painter
+title: Ги де Монлор — художник XX века
 
-big-title: "XX<sup>th</sup> Cent Painter"
+big-title: "Художник<sup>th</sup> XX века"
 
 quote:
-  title: "About Guy&nbsp;de&nbsp;Montlaur"
-  footer: "Guy de Montlaur (Petits écrits de nuit, 28&nbsp;septembre&nbsp;1961)"
+  title: "Про Ги&nbsp;де&nbsp;Монлора"
+  footer: "Ги де Монлор (Ночные заметки, 28&nbsp;сентября&nbsp;1961)"
   image:
     src: "/biographie/Autoportrait_par_Guy_de_Montlaur.jpg"
-    alt: "Autoportrait by Guy de Montlaur"
+    alt: "Автопортрет без лести"
   link:
-    url: "/en/biography/"
-    title: "His biography"
+    url: "/ru/biography/"
+    title: "Его биография"
   link2:
-    url: "https://en.wikipedia.org/wiki/Guy_de_Montlaur"
-    title: "More on Wikipedia"
+    url: "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%BB%D0%BE%D1%80,_%D0%93%D0%B8_%D0%B4%D0%B5"
+    title: "Больше на Википедии"
 
 selection:
-  title: "Paintings selection"
+  title: "Избранные произведения"
   link:
-    url: "/en/paintings/"
-    title: "More paintings"
+    url: "/ru/paintings/"
+    title: "Другие картины"
 
 expositions:
-  title: "Exhibits"
+  title: "Выставки"
   image:
     src: "/expositions/Pegasus1.jpg"
-    alt: "Pegasus before landing"
+    alt: "Пегас перед высадкой"
   link:
-    url: "/en/exhibits/"
-    title: "Passed exhibits"
+    url: "/ru/exhibits/"
+    title: "Прошлые выставки"
 
 blog:
-  title: "Last Blog post"
+  title: "Последний пост в блоге"
   link:
     url: "/blog/"
-    title: "More posts"
+    title: "Больше постов"
 ---
-I want to shout: “Just look! Look at the mystery! It is piercing your eyes.”
+Я хочу крикнуть: “Просто взгляни! Взгляни на эту тайну! Она колет глаза.”
 
-And no one sees it. Nobody but myself. People see colours, shadows, lights, forms. They see (what do I know?) the canvas, the stretcher nails. And I don't understand they can't guess all the distress here, under their eyes, as it was during the war: the clamour, death, love, treachery; the lies and the fear. And still more that I cannot say, but I know how to do it.
+Но никто не видит этого. Никто, кроме меня. Люди видят цвета, тени, свет, формы. Они видят (но что я знаю об этом?) холст и гвоздики, вбитые в подрамник. И я не могу понять, почему они не могут увидеть то, что прямо перед их глазами, как это было на войне: вопли, смерть, любовь, предательство, ложь и страх. И еще много того, что я не могу сказать, но я знаю, как сделать. 
 
-Yes I say: I know how to do it.
+Да, я говорю: я знаю, как сделать это.
