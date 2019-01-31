@@ -1,18 +1,18 @@
 ---
 lang: RU
 layout: peinture
-title: Paintings
+title: Картины
 active-item: peintures
 
 quote:
-  footer: "Guy de Montlaur (25<sup>th</sup> September 1961)"
+  footer: "Ги де Монлор (25<sup></sup> сентября 1961)"
   image:
     src: "/photos/GdM.jpg"
-    alt: "Guy de Montlaur"
+    alt: "Ги де Монлор"
 ---
-What about painting?
+А живопись?
 
-It came to me as a mean to say these “important things” you don’t speak about.
-These things can’t be said clearly. They are literally unspeakable. They become blurry and they eventually vanish when analysed.
+Она кажется мне единственным способом сказать правду о "важных вещах", о которых мы не в состоянии говорить.
+Эти вещи не могут быть выражены ясным языком. Они абсолютно непроизносимы. Они размыты - и ускользают от любого анализа.
 
-They can be expressed only by allusion.
+Мы можем только намекать на них.
