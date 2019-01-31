@@ -12,9 +12,9 @@
 			<nav>
 				<div class="row container">
 					<div class="four columns">
-						<a class="title h1" href="/{% if page.lang=='EN' %}en/{% endif %}">Montlaur</a>
+						<a class="title h1" href="/{% if page.lang=='EN' %}en/{% elsif page.lang=='RU' %}ru/{% endif %}">Montlaur</a>
 						<ul class="list-inline accessible-menu">
-							<li><a class="button menu-button" href="#menu">Menu</a></li>
+							<li><a class="button menu-button" href="#menu">{% if page.lang=='RU' %}меню{% else %}Menu{% endif %}</a></li>
 							<li class="hidden"><a href="#contenu">Contenu</a></li>
 						</ul>
 					</div>
