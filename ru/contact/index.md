@@ -1,14 +1,14 @@
 ---
 lang: RU
 layout: contact
-title: Contact us
+title: Контакты
 active-item: contact
 contact:
-  name:          Your name
-  email:         Your email
-  message:       Your message
-  message-field: Hello…
+  name:          Ваше имя
+  email:         Ваш email
+  message:       Ваше сообщение
+  message-field: Привет…
   subject:       New message on Montlaur.net
-  send:          Send
-  thankyou:      /en/contact/thank-you.html
+  send:          Отправить
+  thankyou:      /ru/contact/thank-you.html
 ---
