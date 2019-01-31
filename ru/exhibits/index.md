@@ -1,7 +1,7 @@
 ---
 lang: RU
 layout: expositions
-title: Exhibits
+title: Выставки
 active-item: expositions
 expositions:
   date: Date
