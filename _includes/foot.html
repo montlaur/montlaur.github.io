@@ -30,7 +30,9 @@
         <div class="container">
           <h3>
             {% if page.lang=="EN" %}
-              To exhibit Guy de Montlaur's paintings
+              To exhibit Guy&nbsp;de&nbsp;Montlaur’s paintings
+            {% elsif page.lang=="RU" %}
+              Экспонировать картины Ги&nbsp;де&nbsp;Монтлёра
             {% else %}
               Pour exposer les&nbsp;peintures de Guy&nbsp;de&nbsp;Montlaur
             {% endif %}
@@ -38,6 +40,8 @@
           <p>
             {% if page.lang=="EN" %}
               <a class="button" href="{{ site.baseurl }}/en/contact/">Contact us</a>
+            {% elsif page.lang=="RU" %}
+              <a class="button" href="{{ site.baseurl }}/ru/contact/">Связаться с нами</a>
             {% else %}
               <a class="button" href="{{ site.baseurl }}/contact/">Contactez-nous</a>
             {% endif %}

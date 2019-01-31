@@ -1,7 +1,9 @@
 <p class="alert">
   {% if page.lang=="EN" %}
-    To exhibit Guy de Montlaur's paintings, <a href="{{ site.baseurl }}/en/contact/">contact us</a>.
+    To exhibit Guy&nbsp;de&nbsp;Montlaur's paintings, <a href="{{ site.baseurl }}/en/contact/">contact us</a>.
+  {% elsif page.lang=="RU" %}
+    Экспонировать картины Ги&nbsp;де&nbsp;Монтлёра, <a href="{{ site.baseurl }}/ru/contact/">Связаться с нами</a>.
   {% else %}
-    Pour exposer les peintures de Guy de Montlaur, <a href="{{ site.baseurl }}/contact/">contactez-nous</a>.
+    Pour exposer les peintures de Guy&nbsp;de&nbsp;Montlaur, <a href="{{ site.baseurl }}/contact/">contactez-nous</a>.
   {% endif %}
 </p>
