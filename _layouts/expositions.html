@@ -18,6 +18,13 @@
               <td>{{ expo.texte }}</td>
              </tr>
            {% endfor %}
+          {% elsif page.lang=="RU" %}
+            {% for expo in site.data.expositions-ru %}
+             <tr>
+              <td>{{ expo.annee }}</td>
+              <td>{{ expo.texte }}</td>
+             </tr>
+           {% endfor %}
           {% else %}
             {% for expo in site.data.expositions %}
              <tr>
@@ -43,6 +50,13 @@
      </thead>
       {% if page.lang=="EN" %}
         {% for expo in site.data.expositions-passees-en %}
+         <tr>
+          <td>{{ expo.annee }}</td>
+          <td>{{ expo.texte }}</td>
+         </tr>
+       {% endfor %}
+      {% elsif page.lang=="RU" %}
+        {% for expo in site.data.expositions-passees-ru %}
          <tr>
           <td>{{ expo.annee }}</td>
           <td>{{ expo.texte }}</td>
