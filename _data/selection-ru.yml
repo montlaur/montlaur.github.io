@@ -1,6 +1,6 @@
 - Titre: "Апельсины и бананы (Oranges et bananes)"
-  Date:
-  Lieu: "Paris"
+  Date: "1949"
+  Lieu: "Париж"
   Hauteur: 54
   Largeur: 65
   Support: toile
@@ -9,7 +9,7 @@
 
 - Titre: "Железная дорога (Chemin de fer)"
   Date: "1/3/1950"
-  Lieu: "Nice"
+  Lieu: "Ницца"
   Hauteur: 100
   Largeur: 65
   Support: toile
@@ -17,8 +17,8 @@
   Url: "chemin-de-fer.jpg"
 
 - Titre: "Без названия (Sans titre)"
-  Date: "1/8/1950"
-  Lieu: "Nice"
+  Date: "1/8/1954"
+  Lieu: "Фонтенбло"
   Hauteur: 65
   Largeur: 100
   Support: toile
@@ -27,7 +27,7 @@
 
 - Titre: "Часовой механизм (Clockwork)"
   Date: "1/6/1953"
-  Lieu: "Fontainebleau"
+  Lieu: "Фонтенбло"
   Hauteur: 146
   Largeur: 114
   Support: toile
@@ -35,8 +35,8 @@
   Url: "clockwork.jpg"
 
 - Titre: "Оммаж Кандинскому (Hommage à Kandinsky)"
-  Date:
-  Lieu: "Nice"
+  Date: "1950/51"
+  Lieu: "Ницца"
   Hauteur: 195
   Largeur: 114
   Support: toile
@@ -45,7 +45,7 @@
 
 - Titre: "Сбежавшая надежда (L’espoir a fui)"
   Date: "1/3/1960"
-  Lieu:
+  Lieu: "Париж"
   Hauteur: 92.5
   Largeur: 60
   Support: toile
@@ -53,8 +53,8 @@
   Url: "l-espoir-a-fui.jpg"
 
 - Titre: "Обещание цветов (La promesse des fleurs)"
-  Date:
-  Lieu:
+  Date: "1961"
+  Lieu: "Франваль"
   Hauteur: 73
   Largeur: 92
   Support: toile
@@ -62,8 +62,8 @@
   Url: "la-promesse-des-fleurs.jpg"
 
 - Titre: "На память об Иссенхайме (Souvenir d’Issenheim)"
-  Date:
-  Lieu: "Paris, rue de Varenne"
+  Date: "1977"
+  Lieu: "Париж, улица Варен"
   Hauteur: 60
   Largeur: 92
   Support: toile
@@ -72,7 +72,7 @@
 
 - Titre: "Он спит (Il dort)"
   Date: "20/06/1969"
-  Lieu: "Paris"
+  Lieu: "Париж"
   Hauteur: 80.5
   Largeur: 65
   Support: toile
@@ -81,7 +81,7 @@
 
 - Titre: "Мечта Бергансы (Le rêve de Berganza)"
   Date: "2/1/1972"
-  Lieu: "Paris"
+  Lieu: "Париж"
   Hauteur: 54.5
   Largeur: 81
   Support: toile
@@ -90,7 +90,7 @@
 
 - Titre: "На память о Нормандии (Souvenir normand)"
   Date: "26/7/1972"
-  Lieu:
+  Lieu: "Париж"
   Hauteur: 46
   Largeur: 55
   Support: "papier sur bois"
@@ -99,7 +99,7 @@
 
 - Titre: "Живопись для детей (Peinture à l’usage des enfants)"
   Date: "3/1/1977"
-  Lieu: "Paris"
+  Lieu: "Париж"
   Hauteur: 92
   Largeur: 60
   Support: toile
