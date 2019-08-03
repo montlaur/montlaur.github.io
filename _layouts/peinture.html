@@ -3,13 +3,37 @@
 <section class="bg-alternate">
   <div class="container lead">
     <h2>1940 — 1950</h2>
-    {% include annees.html data=site.data.annees-40 annees="annees-40" %}
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-40 annees="annees-40" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-40-ru annees="annees-40" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-40 annees="annees-40" %}
+    {% endif %}
     <h2>1950 — 1960</h2>
-    {% include annees.html data=site.data.annees-50 annees="annees-50" %}
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-50 annees="annees-50" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-50-ru annees="annees-50" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-50 annees="annees-50" %}
+    {% endif %}
     <h2>1960 — 1970</h2>
-    {% include annees.html data=site.data.annees-60 annees="annees-60" %}
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-60 annees="annees-60" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-60-ru annees="annees-60" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-60 annees="annees-60" %}
+    {% endif %}
     <h2>1970 — 1977</h2>
-    {% include annees.html data=site.data.annees-70 annees="annees-70" %}
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-70 annees="annees-70" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-70-ru annees="annees-70" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-70 annees="annees-70" %}
+    {% endif %}
   </div>
 </section>
 {% include foot.html %}

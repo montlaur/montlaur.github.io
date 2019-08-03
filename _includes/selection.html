@@ -1,36 +1,104 @@
 <section class="bg-alternate">
   <div class="container lead">
     <h2>{{ page.selection.title }}</h2>
-    <div class="row text-center">
-      {% for peinture in site.data.selection limit:4 %}
-        <div class="three columns">
-          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
-            <span class="close" onclick="javascript:history.back()"></span>
-            {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+
+    {% if page.lang=="EN" %}
+      <div class="row text-center">
+        {% for peinture in site.data.selection-en limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
           </div>
-        </div>
-      {% endfor %}
-    </div>
-    <div class="row text-center">
-      {% for peinture in site.data.selection offset:4 limit:4 %}
-        <div class="three columns">
-          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
-            <span class="close" onclick="javascript:history.back()"></span>
-            {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+        {% endfor %}
+      </div>
+      <div class="row text-center">
+        {% for peinture in site.data.selection-en offset:4 limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
           </div>
-        </div>
-      {% endfor %}
-    </div>
-    <div class="row text-center">
-      {% for peinture in site.data.selection offset:8 limit:4 %}
-        <div class="three columns">
-          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
-            <span class="close" onclick="javascript:history.back()"></span>
-            {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+        {% endfor %}
+      </div>
+      <div class="row text-center">
+        {% for peinture in site.data.selection-en offset:8 limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
           </div>
-        </div>
-      {% endfor %}
-    </div>
+        {% endfor %}
+      </div>
+
+    {% elsif page.lang=="RU" %}
+      <div class="row text-center">
+        {% for peinture in site.data.selection-ru limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="row text-center">
+        {% for peinture in site.data.selection-ru offset:4 limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="row text-center">
+        {% for peinture in site.data.selection-ru offset:8 limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+    {% else %}
+      <div class="row text-center">
+        {% for peinture in site.data.selection limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="row text-center">
+        {% for peinture in site.data.selection offset:4 limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="row text-center">
+        {% for peinture in site.data.selection offset:8 limit:4 %}
+          <div class="three columns">
+            <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+              <span class="close" onclick="javascript:history.back()"></span>
+              {% include peinture.html peinture=peinture file="selection" bigger=1 %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+    {% endif %}
     {% if page.selection.link.title %}
       <p class="text-center lead">
         <a class="button" href="{{ site.baseurl }}{{ page.selection.link.url }}">{{ page.selection.link.title }}</a>
