@@ -25,13 +25,13 @@ selection:
     title: "More paintings"
 
 expositions:
-  title: "Exhibits"
+  title: "Exhibitions"
   image:
     src: "/expositions/Pegasus1.jpg"
     alt: "Pegasus before landing"
   link:
     url: "/en/exhibits/"
-    title: "Passed exhibits"
+    title: "Passed exhibitions"
 
 blog:
   title: "Last Blog post"
