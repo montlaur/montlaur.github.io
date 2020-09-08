@@ -524,7 +524,7 @@ title: Lettre ouverte des familles des Commandos
 		</td>
 		<td>
 			Anne
-			READMAN
+			READMAN<br>
 			Monique NORRIS<br>
 			Andrew SIOU<br>
 			Paul SIOU<br>
