@@ -354,7 +354,7 @@ title: Lettre ouverte des familles des Commandos
 			Adeline
 			de MONTLAUR<br>
 			Olivier
-			de Villardi de MONTLAUR<br>
+			de VILLARDI de MONTLAUR<br>
 			Thomas
 			de MONTLAUR<br>
 			Alexandra
