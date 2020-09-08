@@ -237,7 +237,7 @@ title: Lettre ouverte des familles des Commandos
 			Félix GRISPIN – 121
 		</td>
 		<td>
-			Catherine GRISPIN
+			Catherine GRISPIN<br>
 			Joëlle GRISPIN
 		</td>
 	</tr>
@@ -354,7 +354,7 @@ title: Lettre ouverte des familles des Commandos
 			Adeline
 			de MONTLAUR<br>
 			Olivier
-			de MONTLAUR<br>
+			de Villardi de MONTLAUR<br>
 			Thomas
 			de MONTLAUR<br>
 			Alexandra
@@ -525,6 +525,10 @@ title: Lettre ouverte des familles des Commandos
 		<td>
 			Anne
 			READMAN
+			Monique NORRIS<br>
+			Andrew SIOU<br>
+			Paul SIOU<br>
+			Daniel SIOU<br>
 		</td>
 	</tr>
 	<tr>
