@@ -1,10 +1,10 @@
 ---
 layout: no-header
-title: Lettre ouverte des familles des Commandos
+title: Tribune des familles des Commandos
 ---
 ## Liste des signataires
 <p>
-	Retrouvez la lettre ouverte <a href="#">sur le site du Monde</a>.
+	Retrouvez la tribune <a href="https://www.lemonde.fr/idees/article/2020/09/09/nous-demandons-qu-aucun-projet-commercial-ou-de-spectacle-ne-soit-implante-sur-les-plages-du-debarquement-ou-sur-les-zones-de-combat-de-la-bataille-de-normandie_6051536_3232.html">sur le site du Monde</a>.
 </p>
 <table>
 	<tr>
