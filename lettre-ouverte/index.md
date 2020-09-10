@@ -333,7 +333,7 @@ title: Tribune des familles des Commandos
 			de MONTLAUR<br>
 			Jeanne
 			de MONTLAUR<br>
-			Michael
+			Michael de VILLARDI
 			de MONTLAUR<br>
 			Dauphine
 			de MONTLAUR SLOAN<br>
@@ -351,11 +351,11 @@ title: Tribune des familles des Commandos
 			de MONTLAUR<br>
 			Diane
 			de MONTLAUR<br>
-			Adeline
+			Adeline de VILLARDI
 			de MONTLAUR<br>
 			Olivier
 			de VILLARDI de MONTLAUR<br>
-			Thomas
+			Thomas de VILLARDI
 			de MONTLAUR<br>
 			Alexandra
 			SLOAN KELLY<br>
