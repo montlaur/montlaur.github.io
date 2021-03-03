@@ -22,8 +22,8 @@ collections:
       - { label: 'Auteur', name: 'auteur', widget: 'string' }
       - { label: 'Catégorie', name: 'category', widget: 'select', options: ['Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'biography'
-    label: 'Biographie'
+  - name: 'biography-fr'
+    label: 'Biographie (fr)'
     folder: 'biographie/'
     editor:
       preview: false
@@ -31,12 +31,48 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'paint'
-    label: 'Peinture'
+  - name: 'paintings-fr'
+    label: 'Peinture (fr)'
     folder: 'peintures/'
     editor:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'biography-en'
+    label: 'Biography (en)'
+    folder: 'en/biography/'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'paintings-en'
+    label: 'Paintings (en)'
+    folder: 'en/paintings/'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'biography-ru'
+    label: 'Biography (ru)'
+    folder: 'ru/biography/'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'paintings-ru'
+    label: 'Paintings (ru)'
+    folder: 'ru/paintings/'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
