@@ -15,6 +15,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Item', name: 'active-item', widget: 'hidden', default: 'blog' }
-      - { label: 'Titre', name: 'title', widget: 'text' }
-      - { label: 'Auteur', name: 'auteur', widget: 'text' }
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Auteur', name: 'auteur', widget: 'string' }
       - { label: 'Catégorie', name: 'category', widget: 'list', options: ['Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
