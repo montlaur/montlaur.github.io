@@ -2,6 +2,7 @@
 layout: post
 title: Et la politique&nbsp;?
 auteur: Michael de Montlaur
+date: 2010-10-20T17:32:00.000Z
 category: Divers
 active-item: blog
 ---

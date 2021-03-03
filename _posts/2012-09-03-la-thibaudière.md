@@ -2,6 +2,7 @@
 layout: post
 title: La Thibaudière
 auteur: Michael de Montlaur
+date: 2012-09-03T18:32:00.000Z
 category: Peinture
 active-item: blog
 

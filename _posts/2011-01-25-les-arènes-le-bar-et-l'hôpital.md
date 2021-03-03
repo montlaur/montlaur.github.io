@@ -2,6 +2,7 @@
 layout: post
 title: Les arènes, le bar et l'hôpital
 auteur: Michael de Montlaur
+date: 2011-01-25T17:32:00.000Z
 category: Divers
 active-item: blog
 

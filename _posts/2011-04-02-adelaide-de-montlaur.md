@@ -2,6 +2,7 @@
 layout: post
 title: Adelaide de Montlaur
 auteur: Michael de Montlaur
+date: 2011-04-02T17:32:00.000Z
 category: Famille
 active-item: blog
 ---

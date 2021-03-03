@@ -2,6 +2,7 @@
 layout: post
 title: Juin, juillet, août, septembre.
 auteur: Michael de Montlaur
+date: 2010-07-03T17:32:00.000Z
 category: Divers
 active-item: blog
 

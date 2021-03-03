@@ -2,6 +2,7 @@
 layout: post
 title: Pierre Wallerand
 auteur: Michael de Montlaur
+date: 2010-05-17T17:32:00.000Z
 category: Guerre
 active-item: blog
 ---

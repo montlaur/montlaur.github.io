@@ -2,6 +2,7 @@
 layout: post
 title: Avec les CM2 de Ranville
 auteur: Michael de Montlaur
+date: 2012-06-07T18:32:00.000Z
 category: Divers
 active-item: blog
 

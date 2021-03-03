@@ -2,6 +2,7 @@
 layout: post
 title: Rue Prépapeau, Limoges juillet 1940
 auteur: Michael de Montlaur
+date: 2010-04-16T17:32:00.000Z
 category: Divers
 active-item: blog
 ---

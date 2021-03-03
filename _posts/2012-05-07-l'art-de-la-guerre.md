@@ -2,6 +2,7 @@
 layout: post
 title: L’Art de la Guerre
 auteur: Michael de Montlaur
+date: 2012-05-07T18:32:00.000Z
 category: Guerre
 active-item: blog
 

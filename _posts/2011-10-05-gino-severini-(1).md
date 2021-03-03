@@ -2,6 +2,7 @@
 layout: post
 title: Gino Severini (1)
 auteur: Michael de Montlaur
+date: 2011-10-05T18:32:00.000Z
 category: Peinture
 active-item: blog
 

@@ -2,6 +2,7 @@
 layout: post
 title: Walcheren
 auteur: Michael de Montlaur
+date: 2011-08-17T18:32:00.000Z
 category: Guerre
 active-item: blog
 ---

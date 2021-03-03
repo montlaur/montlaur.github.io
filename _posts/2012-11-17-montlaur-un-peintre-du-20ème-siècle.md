@@ -2,6 +2,7 @@
 layout: post
 title: Montlaur, un peintre du 20ème siècle
 auteur: Michael de Montlaur
+date: 2012-11-17T18:32:00.000Z
 category: Famille
 active-item: blog
 

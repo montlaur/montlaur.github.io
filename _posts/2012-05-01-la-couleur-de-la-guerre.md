@@ -2,6 +2,7 @@
 layout: post
 title: La couleur de la guerre
 auteur: Michael de Montlaur
+date: 2012-05-01T18:32:00.000Z
 category: Divers
 active-item: blog
 

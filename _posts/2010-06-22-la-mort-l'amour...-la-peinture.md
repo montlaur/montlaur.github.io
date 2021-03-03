@@ -2,6 +2,7 @@
 layout: post
 title: La mort, l’amour… La peinture
 auteur: Michael de Montlaur
+date: 2010-06-22T17:32:00.000Z
 category: Peinture
 active-item: blog
 ---

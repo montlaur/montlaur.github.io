@@ -2,6 +2,7 @@
 layout: post
 title: Remigio Colombi
 auteur: Michael de Montlaur
+date: 2012-10-01T18:32:00.000Z
 category: Guerre
 active-item: blog
 

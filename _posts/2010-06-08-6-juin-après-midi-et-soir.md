@@ -2,6 +2,7 @@
 layout: post
 title: 6 juin, après-midi et soir
 auteur: Michael de Montlaur
+date: 2010-06-08T17:32:00.000Z
 category: Divers
 active-item: blog
 ---

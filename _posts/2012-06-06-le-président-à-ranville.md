@@ -2,6 +2,7 @@
 layout: post
 title: Le Président à Ranville
 auteur: Michael de Montlaur
+date: 2012-06-06T18:32:00.000Z
 category: Divers
 active-item: blog
 ---

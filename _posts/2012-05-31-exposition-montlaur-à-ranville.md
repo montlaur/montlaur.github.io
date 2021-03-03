@@ -2,6 +2,7 @@
 layout: post
 title: Exposition Montlaur à Ranville
 auteur: Michael de Montlaur
+date: 2012-05-31T18:32:00.000Z
 category: Divers
 active-item: blog
 

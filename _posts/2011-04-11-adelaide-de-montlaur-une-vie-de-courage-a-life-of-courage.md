@@ -2,6 +2,7 @@
 layout: post
 title: Adelaide de Montlaur - Une vie de courage - A life of courage
 auteur: George de Montlaur
+date: 2011-04-11T17:32:00.000Z
 category: Famille
 active-item: blog
 

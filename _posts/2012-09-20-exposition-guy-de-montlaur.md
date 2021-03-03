@@ -2,6 +2,7 @@
 layout: post
 title: Exposition Guy de Montlaur
 auteur: George de Montlaur
+date: 2012-09-20T18:32:00.000Z
 category: Peinture
 active-item: blog
 

@@ -2,6 +2,7 @@
 layout: post
 title: Georges de Mandat Grancey
 auteur: Michael de Montlaur
+date: 2011-10-04T18:32:00.000Z
 category: Divers
 active-item: blog
 

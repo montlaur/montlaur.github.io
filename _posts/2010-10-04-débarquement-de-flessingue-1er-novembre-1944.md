@@ -2,6 +2,7 @@
 layout: post
 title: Débarquement de Flessingue - 1er novembre 1944
 auteur: Michael de Montlaur
+date: 2010-10-04T17:32:00.000Z
 category: Guerre
 active-item: blog
 

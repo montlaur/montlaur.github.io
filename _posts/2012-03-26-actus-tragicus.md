@@ -2,6 +2,7 @@
 layout: post
 title: Actus tragicus
 auteur: Michael de Montlaur
+date: 2012-03-26T16:32:00.000Z
 category: Divers
 active-item: blog
 

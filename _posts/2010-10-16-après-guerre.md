@@ -2,6 +2,7 @@
 layout: post
 title: Après guerre
 auteur: Michael de Montlaur
+date: 2010-10-16T17:32:00.000Z
 category: Divers
 active-item: blog
 

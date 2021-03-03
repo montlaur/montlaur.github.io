@@ -2,6 +2,7 @@
 layout: post
 title: Descente de croix
 auteur: Michael de Montlaur
+date: 2010-11-24T17:32:00.000Z
 category: Peinture
 active-item: blog
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Le Bonheur de marcher pieds nus dans la rosée
 auteur: Michael de Montlaur
+date: 2010-04-06T17:32:00.000Z
 category: Avant-guerre
 active-item: blog
 ---

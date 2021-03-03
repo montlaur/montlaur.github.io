@@ -2,6 +2,7 @@
 layout: post
 title: Les voyages forment la jeunesse…
 auteur: Michael de Montlaur
+date: 2010-04-10T17:32:00.000Z
 category: Guerre
 active-item: blog
 ---

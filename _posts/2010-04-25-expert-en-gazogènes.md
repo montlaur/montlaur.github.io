@@ -2,6 +2,7 @@
 layout: post
 title: Expert en gazogènes
 auteur: Michael de Montlaur
+date: 2010-04-25T17:32:00.000Z
 category: Guerre
 active-item: blog
 ---

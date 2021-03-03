@@ -2,6 +2,7 @@
 layout: post
 title: Exposition au château de Montlaur, Pâques 2013
 auteur: Michael de Montlaur
+date: 2013-03-06T18:32:00.000Z
 category: Peinture
 active-item: blog
 

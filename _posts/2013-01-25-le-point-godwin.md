@@ -2,6 +2,7 @@
 layout: post
 title: Le point Godwin
 auteur: Michael de Montlaur
+date: 2013-01-25T18:32:00.000Z
 category: Divers
 active-item: blog
 

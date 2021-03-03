@@ -2,6 +2,7 @@
 layout: post
 title: Le 6 juin 2012 au Mémorial Pegasus
 auteur: Michael de Montlaur
+date: 2012-06-10T18:32:00.000Z
 category: Divers
 active-item: blog
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Gino Severini (2)
 auteur: Michael de Montlaur
+date: 2012-03-26T18:32:00.000Z
 category: Divers
 active-item: blog
 ---

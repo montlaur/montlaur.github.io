@@ -2,6 +2,7 @@
 layout: post
 title: Atlan et Zadkine racontés par Montlaur
 auteur: Michael de Montlaur
+date: 2010-10-14T17:32:00.000Z
 category: Peinture
 active-item: blog
 
