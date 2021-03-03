@@ -5,11 +5,16 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'photos/'
 collections:
-  - name: 'posts'
-    label: 'Billets de blog'
+  - name: 'blog'
+    label: 'Blog'
     folder: '_posts/'
+    create: true
+    slug: '/blog/{{categories}}/{{year}}/{{month}}/{{day}}/{{slug}}'
+    editor:
+      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Item', name: 'active-item', widget: 'hidden', default: 'blog' }
-      - { label: 'Titre', name: 'title', widget: 'text'}
+      - { label: 'Titre', name: 'title', widget: 'text' }
+      - { label: 'Auteur', name: 'auteur', widget: 'text' }
       - { label: 'Catégorie', name: 'category', widget: 'list', options: ['Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'] }
