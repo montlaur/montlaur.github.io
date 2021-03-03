@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.0"
+gem "jekyll", "~> 3.8.6"
 
 # gem "github-pages", group: :jekyll_plugins
 gem "jekyll-github-metadata"
