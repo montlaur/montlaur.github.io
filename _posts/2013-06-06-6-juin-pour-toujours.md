@@ -2,6 +2,7 @@
 layout: post
 title: 6 juin pour toujours
 auteur: Michael de Montlaur
+date: 2013-06-06T18:32:00.000Z
 category: Divers
 active-item: blog
 

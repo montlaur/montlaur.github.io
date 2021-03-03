@@ -2,6 +2,7 @@
 layout: post
 title: Contradictions et confusions
 auteur: Michael de Montlaur
+date: 2013-11-11T18:32:00.000Z
 category: Divers
 active-item: blog
 

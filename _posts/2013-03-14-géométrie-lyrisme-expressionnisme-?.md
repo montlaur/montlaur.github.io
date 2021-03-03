@@ -2,6 +2,7 @@
 layout: post
 title: Géométrie, lyrisme, expressionnisme&nbsp;?
 auteur: Michael de Montlaur
+date: 2013-03-14T18:32:00.000Z
 category: Peinture
 active-item: blog
 

@@ -2,6 +2,7 @@
 layout: post
 title: La perfection n’est pas de ce monde
 auteur: Michael de Montlaur
+date: 2014-01-21T18:32:00.000Z
 category: Divers
 active-item: blog
 

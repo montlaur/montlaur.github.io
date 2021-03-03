@@ -2,6 +2,7 @@
 layout: post
 title: Témoin et archives
 auteur: Michael de Montlaur
+date: 2017-09-04T18:32:00.000Z
 category: Divers
 active-item: blog
 

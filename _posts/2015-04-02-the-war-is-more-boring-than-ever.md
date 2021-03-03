@@ -2,6 +2,7 @@
 layout: post
 title: The war is more boring than ever
 auteur: Michael de Montlaur
+date: 2015-04-02T18:32:00.000Z
 category: Divers
 active-item: blog
 

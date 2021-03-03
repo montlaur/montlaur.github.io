@@ -2,6 +2,7 @@
 layout: post
 title: Vente exceptionnelle à Drouot le 29 mai 2013
 auteur: Michael de Montlaur
+date: 2013-05-22T18:32:00.000Z
 category: Divers
 active-item: blog
 ---
