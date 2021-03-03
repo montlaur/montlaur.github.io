@@ -23,8 +23,17 @@ collections:
       - { label: 'Catégorie', name: 'category', widget: 'select', options: ['Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'biography'
-    label: biographie
-    folder: 'biographie'
+    label: 'Biographie'
+    folder: 'biographie/'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'paint'
+    label: 'Peinture'
+    folder: 'peintures/'
     editor:
       preview: false
     fields:
