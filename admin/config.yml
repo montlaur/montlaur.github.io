@@ -22,7 +22,6 @@ collections:
       - { label: 'Auteur', name: 'auteur', widget: 'string' }
       - { label: 'Catégorie', name: 'category', widget: 'select', options: ['Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-collections:
   - name: 'biography'
     label: biographie
     folder: 'biographie'
