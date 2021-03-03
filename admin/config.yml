@@ -6,10 +6,9 @@ backend:
 media_folder: 'photos/'
 collections:
   - name: 'posts'
-    label: 'Billets de blog'
+    label: 'Posts'
     folder: '_posts/'
     create: true
-    slug: '/blog/{{categories}}/{{year}}/{{month}}/{{day}}/{{slug}}'
     editor:
       preview: false
     fields:
@@ -17,6 +16,6 @@ collections:
       - { label: 'Item', name: 'active-item', widget: 'hidden', default: 'blog' }
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Auteur', name: 'auteur', widget: 'string' }
-      - { label: 'Catégorie', name: 'category', widget: 'list', options: ['Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Catégorie', name: 'category', widget: 'list', options: ['Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
