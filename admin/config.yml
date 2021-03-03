@@ -17,5 +17,5 @@ collections:
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Auteur', name: 'auteur', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Catégorie', name: 'category', widget: 'list', fields: {'Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'} }
+      # - { label: 'Catégorie', name: 'category', widget: 'list', fields: {'Avant-guerre', 'Famille', 'Guerre', 'Peinture', 'Divers'} }
       - { label: 'Body', name: 'body', widget: 'markdown' }
