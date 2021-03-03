@@ -25,6 +25,8 @@ collections:
   - name: 'biography'
     label: biographie
     folder: 'biographie'
+    editor:
+      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Titre', name: 'title', widget: 'string' }
