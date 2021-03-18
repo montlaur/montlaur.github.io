@@ -37,7 +37,7 @@
               Pour exposer les&nbsp;peintures de Guy&nbsp;de&nbsp;Montlaur
             {% endif %}
           </h3>
-          <p>
+          <p class="lead">
             {% if page.lang=="EN" %}
               <a class="button" href="{{ site.baseurl }}/en/contact/">Contact us</a>
             {% elsif page.lang=="RU" %}
@@ -46,6 +46,20 @@
               <a class="button" href="{{ site.baseurl }}/contact/">Contactez-nous</a>
             {% endif %}
           </p>
+          <ul class="list-inline">
+            <li>
+              Licence <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC-by-nc-nd</a>
+            </li>
+            <li>
+              {% if page.lang=="EN" %}
+                A <a href="https://half.re">Half revolution</a> website
+              {% elsif page.lang=="RU" %}
+                веб-сайт <a href="https://half.re">Half revolution</a>
+              {% else %}
+                Un site <a href="https://half.re">Half revolution</a>
+              {% endif %}
+            </li>
+          </ul>
         </div>
       </footer>
     </div>
