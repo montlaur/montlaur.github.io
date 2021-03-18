@@ -13,10 +13,7 @@
           <label for="_replyto">{{ page.contact.email }}</label>
           <input id="_replyto" type="email" name="_replyto" placeholder="robert.montalu@yooha.fr" required="required">
           <label for="message">{{ page.contact.message }}</label>
-          <input type="hidden" name="_cc" value="gdemontlaur@gmail.com,mdemontlaur@free.fr">
           <textarea id="message" class="u-full-width" name="message" placeholder="{{ page.contact.message-field }}" required="required"></textarea>
-          <input type="hidden" name="_subject" value="{{ page.contact.subject }}">
-          <input type="hidden" name="_language" value="fr">
           <input class="button button-primary" type="submit" value="{{ page.contact.send }}">
         </div>
         <div class="five columns cover-container">
