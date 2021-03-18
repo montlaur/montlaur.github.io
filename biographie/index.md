@@ -15,7 +15,7 @@ Guy de Montlaur étudie la philosophie à la Sorbonne et la peinture à l’Acad
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Château de Montlaur]({{ site.baseurl }}/photos/montlaur.jpg)
+![Château de Montlaur]({{ site.baseurl }}/photos/wordpress/montlaur.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
@@ -27,7 +27,7 @@ Tous les officiers étant blessés, il prend le commandement de sa section. Le 1
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Buskenstraat]({{ site.baseurl }}/photos/Buskenstraat.jpg)
+![Buskenstraat]({{ site.baseurl }}/photos/wordpress/Buskenstraat.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
@@ -39,7 +39,7 @@ Tous les officiers étant blessés, il prend le commandement de sa section. Le 1
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Guy de Montlaur peint secundum]({{ site.baseurl }}/photos/GdM-peint-secundum.jpg)
+![Guy de Montlaur peint secundum]({{ site.baseurl }}/photos/wordpress/GdM-peint-secundum.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">

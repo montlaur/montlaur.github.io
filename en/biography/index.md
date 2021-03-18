@@ -16,7 +16,7 @@ Guy de Montlaur studied philosophy at the Sorbonne University and painting at th
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Château de Montlaur]({{ site.baseurl }}/photos/montlaur.jpg)
+![Château de Montlaur]({{ site.baseurl }}/photos/wordpress/montlaur.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
@@ -26,7 +26,7 @@ In October 1938, just after Munich, he left for Military Service in a Cavalry Re
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Buskenstraat]({{ site.baseurl }}/photos/Buskenstraat.jpg)
+![Buskenstraat]({{ site.baseurl }}/photos/wordpress/Buskenstraat.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
@@ -38,7 +38,7 @@ Next came a period of transition. He moved to Fontainebleau and later, to Paris.
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Guy de Montlaur paints secundum]({{ site.baseurl }}/photos/GdM-peint-secundum.jpg)
+![Guy de Montlaur paints secundum]({{ site.baseurl }}/photos/wordpress/GdM-peint-secundum.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">

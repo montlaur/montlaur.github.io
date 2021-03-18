@@ -9,14 +9,14 @@ active-item: biographie
 
 Ги де Вилларди, граф де Монлор принадлежал к одному из известнейших аристократических родов Франции: его предок Бернар II де Монлор, сеньор Вайоке, участвовал в Первом крестовом походе с Раймондом IV Тулузским (1096—1099). История аристократического рода де Монлоров восходит к X веку (их фамильный замок ХI века расположен в Лангедоке, к северу от Монпелье). Ги де Монлор также был бразильцем по материнской линии.
 
-В школьные годы в Париже он проводил каждый четверг в Лувре, где находились картины кисти его любимых мастеров: Уччелло, Мантеньи, Гирландайо, Иеронима Босха, Боттичелли, Тициана, Лоррена, Пуссена, Энгра, Делакруа, Курбэ, а среди представителей современного искусства – Кандинского. 
+В школьные годы в Париже он проводил каждый четверг в Лувре, где находились картины кисти его любимых мастеров: Уччелло, Мантеньи, Гирландайо, Иеронима Босха, Боттичелли, Тициана, Лоррена, Пуссена, Энгра, Делакруа, Курбэ, а среди представителей современного искусства – Кандинского.
 
 Ги де Монлор изучал философию в Сорбонне, а живопись – в Академии Юлиана. Каждым ранним утром он ездил на скаковых лошадях вместе с жокеями в Мезон-Лаффит.
 
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Château de Montlaur]({{ site.baseurl }}/photos/montlaur.jpg)
+![Château de Montlaur]({{ site.baseurl }}/photos/wordpress/montlaur.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
@@ -26,7 +26,7 @@ active-item: biographie
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Buskenstraat]({{ site.baseurl }}/photos/Buskenstraat.jpg)
+![Buskenstraat]({{ site.baseurl }}/photos/wordpress/Buskenstraat.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
@@ -38,7 +38,7 @@ active-item: biographie
 <!-- Ne pas supprimer la balise -->
 </div>
 
-![Guy de Montlaur paints secundum]({{ site.baseurl }}/photos/GdM-peint-secundum.jpg)
+![Guy de Montlaur paints secundum]({{ site.baseurl }}/photos/wordpress/GdM-peint-secundum.jpg)
 
 <!-- Ne pas supprimer la balise -->
 <div class="printy">
