@@ -16,20 +16,20 @@
              <tr>
               <td>
                 {%- if page.lang=="EN" -%}
-                  {{ expo.date-en }}
+                  {{ expo.date-en | markdownify }}
                 {%- elsif page.lang=="RU" -%}
-                  {{ expo.date-ru }}
+                  {{ expo.date-ru | markdownify }}
                 {%- else -%}
-                  {{ expo.date-fr }}
+                  {{ expo.date-fr | markdownify }}
                 {%- endif -%}
               </td>
               <td>
                 {%- if page.lang=="EN" -%}
-                  {{ expo.description-en }}
+                  {{ expo.description-en | markdownify }}
                 {%- elsif page.lang=="RU" -%}
-                  {{ expo.description-ru }}
+                  {{ expo.description-ru | markdownify }}
                 {%- else -%}
-                  {{ expo.description-fr }}
+                  {{ expo.description-fr | markdownify }}
                 {%- endif -%}
               </td>
              </tr>
