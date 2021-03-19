@@ -1,4 +1,5 @@
 ---
+title: 2012 - Mémorial Pegasus
 en-cours: false
 date-fr: "2012"
 description-fr: "Mémorial Pegasus et bibliothèque de Ranville (Calvados, France)"

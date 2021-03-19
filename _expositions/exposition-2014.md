@@ -1,4 +1,5 @@
 ---
+title: 2014-2015 - Pegasus Mémorial
 en-cours: false
 date-fr: "2014 - 2015"
 description-fr: "Pegasus Mémorial Pegasus (Ranville, Calvados, France)"

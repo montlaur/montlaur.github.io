@@ -27,7 +27,10 @@ collections:
     folder: '_expositions'
     create: true
     slug: 'exposition-{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
+      - { label: 'Titre (non affiché)', name: 'title', widget: 'string' }
       - { label: 'En cours ?', name: 'en-cours', widget: 'boolean' }
       - { label: 'Date (fr)', name: 'date-fr', widget: 'string' }
       - { label: 'Description (fr)', name: 'description-fr', widget: 'markdown' }

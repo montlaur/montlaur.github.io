@@ -1,4 +1,5 @@
 ---
+title: 2017 - Restaurant Med
 en-cours: false
 date-fr: "2017"
 description-fr: "Restaurant Med' (“Медь”), Tverskaya (Moscou, Russie)<br>Exposition organisée par Boogie Gallery"

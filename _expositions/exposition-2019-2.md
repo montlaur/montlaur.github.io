@@ -1,4 +1,5 @@
 ---
+title: 2019 - Paris, IESA arts &amp; culture
 en-cours: false
 date-fr: "2019"
 description-fr: "Paris, IESA arts &amp; culture<br>« Guy de Montlaur (1918-1977) C’était une guerre étrange ! »<br>Campus de l’innovation culturelle, 1 cité Griset, 75011 Paris.<br>À l’occasion du colloque L&#39;art et la guerre dans l&#39;histoire de l&#39;avant-garde (1909-2019) organisé par l’IESA arts&amp;culture et l’Université Paris8 « Littérature, Histoires, Esthétique »."

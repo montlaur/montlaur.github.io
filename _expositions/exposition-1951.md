@@ -1,4 +1,5 @@
 ---
+title: 1951 - 3e exposition de l'Art club
 en-cours: false
 date-fr: "1951"
 description-fr: "3e exposition de l'Art club - Hôtel Negresco (Nice, France)"

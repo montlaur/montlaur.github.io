@@ -1,4 +1,5 @@
 ---
+title: 1959 - Exposition du Comité France-Amérique
 en-cours: false
 date-fr: "1959"
 description-fr: "Exposition du Comité France-Amérique (Paris, France)"

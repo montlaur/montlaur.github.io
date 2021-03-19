@@ -1,4 +1,5 @@
 ---
+title: 2016 - Maison Poklewski-Koziell
 en-cours: false
 date-fr: "2016"
 description-fr: "Maison Poklewski-Koziell, Musée Régional de Sverdlovsk (Iekaterinbourg, Russie)"

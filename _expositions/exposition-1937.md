@@ -1,4 +1,5 @@
 ---
+title: 1937 - Salon des Artistes Français
 en-cours: false
 date-fr: "1937"
 description-fr: "Salon des Artistes Français (Paris, France)"

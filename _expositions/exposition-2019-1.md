@@ -1,4 +1,5 @@
 ---
+title: 2019 - Institut d'État des Études de l'Art
 en-cours: false
 date-fr: "2019"
 description-fr: "Institut d'État des Études de l'Art du Ministère de la Culture de la Fédération de Russie (SIAS), Moscou, Russie"

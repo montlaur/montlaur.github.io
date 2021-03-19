@@ -1,4 +1,5 @@
 ---
+title: Exposition permanente
 en-cours: true
 date-fr: "Exposition permanente"
 description-fr: "<h4>Musée Mémorial Pegasus (Ranville, Calvados)</h4>Exposition permanente du tableau «&nbsp;Pegasus before landing&nbsp;»"

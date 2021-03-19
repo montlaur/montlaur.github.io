@@ -1,4 +1,5 @@
 ---
+title: 2019 - Musée National de la Seconde Guerre Mondiale
 en-cours: false
 date-fr: "2019"
 description-fr: "<h4>Musée National de la Seconde Guerre Mondiale (La Nouvelle Orléans, USA)</h4><strong>«&nbsp;L’art de Guy de Montlaur – En mémoire de ce que je ne sais pas dire&nbsp;»</strong><br>Louisiana Memorial Pavilion<br>Exposition pour le 75e anniversaire du débarquement en Normandie<br><br><a href='/pdf/CatalogueExpoMontlaurNOLAMars2019.pdf'>Télécharger le catalogue de l'exposition</a>"

@@ -1,4 +1,5 @@
 ---
+title: 2016 - Institut français de Russie
 en-cours: false
 date-fr: "2016"
 description-fr: "Institut français de Russie Moscou, Russie"

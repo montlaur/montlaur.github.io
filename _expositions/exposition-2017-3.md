@@ -1,4 +1,5 @@
 ---
+title: 2017 - Hôtel Saint Regis
 en-cours: false
 date-fr: "2017"
 description-fr: "Hôtel Saint Regis, Nikolskaya (Moscou, Russie)<br>Exposition organisée par Boogie Gallery"

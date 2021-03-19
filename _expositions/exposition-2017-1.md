@@ -1,4 +1,5 @@
 ---
+title: 2017 - World Art Dubai
 en-cours: false
 date-fr: "2017"
 description-fr: "World Art Dubai, Dubai World Trade Centre (Dubai)<br>Exposition organisée par Boogie Gallery"

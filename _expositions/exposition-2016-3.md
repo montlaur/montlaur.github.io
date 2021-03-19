@@ -1,4 +1,5 @@
 ---
+title: 2016 - Union des Salles d'Exposition de Moscou
 en-cours: false
 date-fr: "2016"
 description-fr: "Union des Salles d'Exposition de Moscou, Galerie « Na Kashirke33 » (Moscou, Russie)"

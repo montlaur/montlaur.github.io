@@ -1,4 +1,5 @@
 ---
+title: 2015 - Galerie Nationale des Beaux-Arts
 en-cours: false
 date-fr: "2015"
 description-fr: "Galerie Nationale des Beaux-Arts de Perm (Perm, Russie)"

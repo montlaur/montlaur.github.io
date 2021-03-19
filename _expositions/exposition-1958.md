@@ -1,4 +1,5 @@
 ---
+title: 1958 - Salon des Réalités Nouvelles
 en-cours: false
 date-fr: "1950 - 1958"
 description-fr: "Salon des Réalités Nouvelles (Paris, France)"

@@ -1,4 +1,5 @@
 ---
+title: 2016 - Centre des Expositions de l'Union des Artistes
 en-cours: false
 date-fr: "2016"
 description-fr: "Centre des Expositions de l'Union des Artistes de Russie (Tcheliabinsk, Russie)"

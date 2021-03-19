@@ -1,4 +1,5 @@
 ---
+title: 2016 - Exposition « Soldat et Peintre »
 en-cours: false
 date-fr: "2016"
 description-fr: "Exposition « Soldat et Peintre », Galerie « Exposed », Shabolovka (Moscou, Russie)<br>Exposition organisée par Boogie Gallery"

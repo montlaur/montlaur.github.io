@@ -1,4 +1,5 @@
 ---
+title: 1951-1954 - Exposition Galerie Colette Allendy
 en-cours: false
 date-fr: "1951 - 1954"
 description-fr: "Exposition Galerie Colette Allendy (Paris, France)"
