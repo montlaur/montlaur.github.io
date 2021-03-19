@@ -11,28 +11,30 @@
            <th>{{ page.expositions.lieu-description }}</th>
           </tr>
          </thead>
-          {% if page.lang=="EN" %}
-            {% for expo in site.data.expositions-en %}
+          {% for expo in site.expositions reversed %}
+            {% if expo.en-cours == true %}
              <tr>
-              <td>{{ expo.annee }}</td>
-              <td>{{ expo.texte }}</td>
+              <td>
+                {%- if page.lang=="EN" -%}
+                  {{ expo.date-en }}
+                {%- elsif page.lang=="RU" -%}
+                  {{ expo.date-ru }}
+                {%- else -%}
+                  {{ expo.date-fr }}
+                {%- endif -%}
+              </td>
+              <td>
+                {%- if page.lang=="EN" -%}
+                  {{ expo.description-en }}
+                {%- elsif page.lang=="RU" -%}
+                  {{ expo.description-ru }}
+                {%- else -%}
+                  {{ expo.description-fr }}
+                {%- endif -%}
+              </td>
              </tr>
-           {% endfor %}
-          {% elsif page.lang=="RU" %}
-            {% for expo in site.data.expositions-ru %}
-             <tr>
-              <td>{{ expo.annee }}</td>
-              <td>{{ expo.texte }}</td>
-             </tr>
-           {% endfor %}
-          {% else %}
-            {% for expo in site.data.expositions %}
-             <tr>
-              <td>{{ expo.annee }}</td>
-              <td>{{ expo.texte }}</td>
-             </tr>
-           {% endfor %}
-          {% endif %}
+           {% endif %}
+         {% endfor %}
        </table>
        {% include expose.html %}
       </div>
@@ -42,34 +44,36 @@
     </div>
     <h2>{{ page.title-2 }}</h2>
     <table class="u-full-width alternate">
-     <thead>
-      <tr>
-       <th>{{ page.expositions.date }}</th>
-       <th>{{ page.expositions.lieu-description }}</th>
-      </tr>
-     </thead>
-      {% if page.lang=="EN" %}
-        {% for expo in site.data.expositions-passees-en %}
+      <thead>
+        <tr>
+          <th>{{ page.expositions.date }}</th>
+          <th>{{ page.expositions.lieu-description }}</th>
+        </tr>
+      </thead>
+      {% for expo in site.expositions reversed %}
+        {% if expo.en-cours == false %}
          <tr>
-          <td>{{ expo.annee }}</td>
-          <td>{{ expo.texte }}</td>
+          <td>
+            {%- if page.lang=="EN" -%}
+              {{ expo.date-en }}
+            {%- elsif page.lang=="RU" -%}
+              {{ expo.date-ru }}
+            {%- else -%}
+              {{ expo.date-fr }}
+            {%- endif -%}
+          </td>
+          <td>
+            {%- if page.lang=="EN" -%}
+              {{ expo.description-en }}
+            {%- elsif page.lang=="RU" -%}
+              {{ expo.description-ru }}
+            {%- else -%}
+              {{ expo.description-fr }}
+            {%- endif -%}
+          </td>
          </tr>
-       {% endfor %}
-      {% elsif page.lang=="RU" %}
-        {% for expo in site.data.expositions-passees-ru %}
-         <tr>
-          <td>{{ expo.annee }}</td>
-          <td>{{ expo.texte }}</td>
-         </tr>
-       {% endfor %}
-      {% else %}
-        {% for expo in site.data.expositions-passees %}
-         <tr>
-          <td>{{ expo.annee }}</td>
-          <td>{{ expo.texte }}</td>
-         </tr>
-       {% endfor %}
-      {% endif %}
+       {% endif %}
+      {% endfor %}
     </table>
   </div>
 </section>

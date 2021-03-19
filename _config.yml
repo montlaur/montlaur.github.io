@@ -25,6 +25,10 @@ paginate_path: "/blog/page:num/"
 # Blog
 permalink: /blog/:categories/:year/:month/:day/:title:output_ext
 
+# Collections
+collections:
+  - expositions
+
 # Handling Reading
 safe:                false
 include:             [".htaccess"]

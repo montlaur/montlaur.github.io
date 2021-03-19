@@ -18,28 +18,30 @@
               </th>
             </tr>
           </thead>
-          {% if page.lang=="EN" %}
-            {% for expo in site.data.expositions-en limit:3 %}
+           {% for expo in site.expositions reversed %}
+             {% if expo.en-cours == true %}
               <tr>
-                <td>{{ expo.annee }}</td>
-                <td>{{ expo.texte }}</td>
+               <td>
+                 {%- if page.lang=="EN" -%}
+                   {{ expo.date-en }}
+                 {%- elsif page.lang=="RU" -%}
+                   {{ expo.date-ru }}
+                 {%- else -%}
+                   {{ expo.date-fr }}
+                 {%- endif -%}
+               </td>
+               <td>
+                 {%- if page.lang=="EN" -%}
+                   {{ expo.description-en }}
+                 {%- elsif page.lang=="RU" -%}
+                   {{ expo.description-ru }}
+                 {%- else -%}
+                   {{ expo.description-fr }}
+                 {%- endif -%}
+               </td>
               </tr>
-            {% endfor %}
-          {% elsif page.lang=="RU" %}
-            {% for expo in site.data.expositions-ru limit:3 %}
-              <tr>
-                <td>{{ expo.annee }}</td>
-                <td>{{ expo.texte }}</td>
-              </tr>
-            {% endfor %}
-          {% else %}
-            {% for expo in site.data.expositions limit:3 %}
-              <tr>
-                <td>{{ expo.annee }}</td>
-                <td>{{ expo.texte }}</td>
-              </tr>
-            {% endfor %}
-          {% endif %}
+            {% endif %}
+          {% endfor %}
         </table>
         {% include expose.html %}
       </div>
