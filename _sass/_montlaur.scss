@@ -174,9 +174,13 @@ section, .section {
   padding: $double-spacing 0;
   overflow: scroll;
 
-  &:not(.contact) .column,
-  &:not(.contact) .columns {
-    margin-bottom: $double-spacing;
+  &:not(.contact) {
+    .column, .columns {
+      margin-bottom: $double-spacing;
+    }
+    form .columns {
+      margin-bottom: 0;
+    }
   }
 
   h2 { text-align: center; }
