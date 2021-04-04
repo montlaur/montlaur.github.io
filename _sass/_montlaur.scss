@@ -21,6 +21,8 @@
 
 .button + .button { margin-top: $double-spacing; }
 
+.older::after  { content: " ›"; }
+
 // Header & footer
 nav, footer {
   top: 0;
@@ -35,7 +37,6 @@ nav, footer {
     color: $background-color;
     border: 1px solid $background-color;
     background-color: transparent;
-    padding: 0 $spacing;
 
     &:hover {
       background-color: $background-color;
@@ -253,6 +254,10 @@ section, .section {
   max-width: 90%;
   box-shadow: 0 0 $spacing $text-color;
   border: $spacing solid $text-color;
+
+  &:hover {
+    border-color: #000;
+  }
 
   @media (min-width: $breakpoint-m) and (max-width: $breakpoint-l-1) {
     border-width: $spacing/2;
