@@ -21,4 +21,4 @@ category: Guerre
 
 *La guerre est une très belle chose : seulement si elle est faite par "les autres".*
 
-![](/photos/wordpress/personalityp.jpg)
+![]()
