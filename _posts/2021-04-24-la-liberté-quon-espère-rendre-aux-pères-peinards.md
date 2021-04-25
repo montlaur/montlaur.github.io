@@ -3,7 +3,8 @@ layout: post
 active-item: blog
 picture: /photos/wordpress/gdm-1946p.jpg
 date: 2021-04-24T15:56:59.855Z
-title: La liberté qu'on espère rendre aux pères-peinards
+title: La liberté qu'on espère rendre aux pères-peinards - Le sacrifice de
+  George Gicquel
 auteur: Michael
 category: Guerre
 ---
@@ -13,7 +14,7 @@ category: Guerre
 
 <!--more-->
 
-*Quand, plus tard, j'ai retrouvé mes anciens amis, je les ai trouvé moins drôles, pas pompeux du tout, mal habillés. Ils m'ont toutefois amusé, car je ne savais pas qu'un couillon qui appartient à la 12ème Hitler Jugend Division, à la 21ème Panzer ou à "Das Reich" (connue également sous le nom de Von Lehr Division - des gens qui un jour avaient traversé Oradour) je ne savais donc pas que ces petits mecquetons pleuraient quand ils avaient un peu peur. Ils ne pleuraient du reste pas longtemps : surtout depuis le jour (12 juin 1944)où il m'a bien fallu dépendre Gicquel, qui avait une figure horriblement bleue pendu qu'il était dans la salle commune de la ferme du Moulin du Buisson. Je sais bien que nous n'avons pas été très gentils avec les charmants SS : mais que faire ? J'avais infiniment de respect pour la bande de crapules qui travaillaient avec moi. Je n'ai plus jamais eu de considération pour nos jeunes amis, les allemands. Bless their fucking soul (if they have one).*
+*Quand, plus tard, j'ai retrouvé mes anciens amis, je les ai trouvé moins drôles, pas pompeux du tout, mal habillés. Ils m'ont toutefois amusé, car je ne savais pas qu'un couillon qui appartient à la 12ème Hitler Jugend Division, à la 21ème Panzer ou à "Das Reich" (connue également sous le nom de Von Lehr Division - des gens qui un jour avaient traversé Oradour) je ne savais donc pas que ces petits mecquetons pleuraient quand ils avaient un peu peur. Ils ne pleuraient du reste pas longtemps : surtout depuis le jour (12 juin 1944) où il m'a bien fallu dépendre Gicquel, qui avait une figure horriblement bleue pendu qu'il était dans la salle commune de la ferme du Moulin du Buisson. Je sais bien que nous n'avons pas été très gentils avec les charmants SS : mais que faire ? J'avais infiniment de respect pour la bande de crapules qui travaillaient avec moi. Je n'ai plus jamais eu de considération pour nos jeunes amis, les allemands. Bless their fucking soul (if they have one).*
 
 *I have tried very hard not to be mean, or stinking: I must admit that very often I did'nt succeed.*
 
@@ -22,5 +23,13 @@ category: Guerre
 *Pour ce qui est de la liberté, on aimerait citer Lénine : "La liberté, pour quoi faire ?"*
 
 *La guerre est une très belle chose : seulement si elle est faite par "les autres".*
+
+
+
+Guy de Montlaur décrit une de ses motivations pour combattre le nazisme. Plus tard, il constate que les massacreurs d'Oradour perdent un peu leurs moyens quand ils se trouvent à devoir payer de leurs exactions. Dont celle d'avoir torturé et exécuté un Commando fait prisonnier, selon les instructions d' Adolphe Hitler.
+
+Ce Commando était Georges Gicquel (badge n° 163).
+
+Il termine son récit en s'excusant de parler de lui à la première personne, ce qui lui permet de sous entendre ce qu'il ne racontait jamais à ceux qui ne pouvaient ni ne devaient savoir ce que lui et sa bande de crapules ont du faire pour rendre la liberté aux pères peinards.
 
 ![]()
