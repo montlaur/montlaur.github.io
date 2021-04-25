@@ -11,6 +11,8 @@ category: Guerre
 
 *Je me suis dit qu'il fallait, le plus vite possible, quitter un pays si peureux.*
 
+<!--more-->
+
 *Quand, plus tard, j'ai retrouvé mes anciens amis, je les ai trouvé moins drôles, pas pompeux du tout, mal habillés. Ils m'ont toutefois amusé, car je ne savais pas qu'un couillon qui appartient à la 12ème Hitler Jugend Division, à la 21ème Panzer ou à "Das Reich" (connue également sous le nom de Von Lehr Division - des gens qui un jour avaient traversé Oradour) je ne savais donc pas que ces petits mecquetons pleuraient quand ils avaient un peu peur. Ils ne pleuraient du reste pas longtemps : surtout depuis le jour (12 juin 1944)où il m'a bien fallu dépendre Gicquel, qui avait une figure horriblement bleue pendu qu'il était dans la salle commune de la ferme du Moulin du Buisson. Je sais bien que nous n'avons pas été très gentils avec les charmants SS : mais que faire ? J'avais infiniment de respect pour la bande de crapules qui travaillaient avec moi. Je n'ai plus jamais eu de considération pour nos jeunes amis, les allemands. Bless their fucking soul (if they have one).*
 
 *I have tried very hard not to be mean, or stinking: I must admit that very often I did'nt succeed.*
