@@ -3,7 +3,7 @@ layout: post
 active-item: blog
 picture: /photos/wordpress/gdm-1946p.jpg
 date: 2021-04-24T15:56:59.855Z
-title: La liberté qu'on espère rendre aux pères-peinards - Le sacrifice de
+title: La liberté qu'on espère rendre aux pères-peinards   Le sacrifice de
   George Gicquel
 auteur: Michael
 category: Guerre
