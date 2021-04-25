@@ -24,12 +24,14 @@ category: Guerre
 
 *La guerre est une très belle chose : seulement si elle est faite par "les autres".*
 
-
+![](/photos/wordpress/gicquel2.jpg)
 
 Guy de Montlaur décrit une de ses motivations pour combattre le nazisme. Plus tard, il constate que les massacreurs d'Oradour perdent un peu leurs moyens quand ils se trouvent à devoir payer de leurs exactions. Dont celle d'avoir torturé et exécuté un Commando fait prisonnier, selon les [instructions d' Adolphe Hitler](https://fr.wikipedia.org/wiki/Ordre_Commando).
 
 Ce Commando était Georges Gicquel (badge n° 163). 
 
+Cet acte barbare révolta les Commandos qui effectuaient des raids toutes les nuits autour d'Amfreville. Leur motivation s'en trouva décuplée. Une de leur arme préférée était la peur qu'ils provoquaient chez leurs adversaires.
+
 Il termine son récit en s'excusant de parler de lui à la première personne. Beaumarchais lui permet de sous entendre ce qu'il ne racontait jamais à ceux qui ne pouvaient comprendre ni ne devaient savoir ce que lui et sa "bande de crapules" ont dû faire pour rendre la liberté aux pères peinards.
 
-![](/photos/wordpress/gicquel2.jpg)
+![]()
