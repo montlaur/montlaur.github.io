@@ -2,7 +2,9 @@
 lang: RU
 layout: expositions
 title: Выставки
-title-2: Прошедшие выставки
+title-1: Текущие
+title-2: Прошедшие
+sous-menu: Подменю
 active-item: expositions
 expositions:
   date: Дата

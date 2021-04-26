@@ -26,7 +26,7 @@
 // Header & footer
 nav, footer {
   top: 0;
-  color: $background-color;
+  color: $white;
   text-align: center;
   padding: $spacing 0;
   background-color: $text-color;
@@ -66,18 +66,26 @@ nav, footer {
   @media (min-width: $breakpoint-m) { display: none; }
 }
 
-.menu {
-  font-size: 1.8rem;
-  opacity: 0;
-  margin-top: -6.5rem;
-  transition: all .3s ease-in-out;
-
+.menu, .sous-menu {
   a {
     text-decoration: none;
     &:not(.lang-link):hover {
       color: $alternate-color;
     }
   }
+}
+
+.sous-menu {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.menu {
+  font-size: 1.8rem;
+  opacity: 0;
+  margin-top: -6.5rem;
+  transition: all .3s ease-in-out;
 
   &:target {
     opacity: 1;
@@ -167,7 +175,7 @@ nav, footer {
 
 // Sections
 section, .section {
-  padding: $double-spacing 0;
+  padding: $quadruple-spacing 0 $double-spacing ;
   overflow: scroll;
 
   &:not(.contact) {
@@ -182,11 +190,16 @@ section, .section {
   h2 { text-align: center; }
 }
 
+.anchor {
+  padding-top: 12rem;
+}
+
 // Couleurs de fond des sections
 .bg-alternate { background-color: $alternate-color; }
 .bg-background { background-color: $background-color; }
 .bg-white { background-color: $white; }
-.bg-blue { background-color: $link-color; }
+.bg-blue {
+  background-color: $link-color; }
 
 // Sections de citation
 .big-quote {
@@ -253,7 +266,7 @@ section, .section {
   max-height: 90vh;
   max-width: 90%;
   box-shadow: 0 0 $spacing $text-color;
-  border: $spacing solid $text-color;
+  border: $spacing solid #1A1A1A;
 
   &:hover {
     border-color: #000;
@@ -302,7 +315,7 @@ figcaption h5 { margin-bottom: 0; }
 // Cadre de mise en avant
 .alert {
   background-color: $text-color;
-  color: $background-color;
+  color: $white;
   padding: $spacing;
   border-radius: 3px;
   text-align: center;
@@ -338,7 +351,8 @@ figcaption h5 { margin-bottom: 0; }
 
 .excerpt:not(:last-child) {
   border-bottom: 1px solid $alternate-color;
-  margin-bottom: $double-spacing;
+  margin-bottom: $quadruple-spacing;
+  padding-bottom: $double-spacing;
 }
 
 // Formulaire de contact

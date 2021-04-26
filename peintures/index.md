@@ -1,6 +1,7 @@
 ---
 layout: peinture
 title: Peinture
+sous-menu: Sous-menu
 active-item: peintures
 
 quote:

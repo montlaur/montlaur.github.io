@@ -2,7 +2,9 @@
 lang: EN
 layout: expositions
 title: Exhibits
-title-2: Past exhibits
+title-1: Current
+title-2: Past
+sous-menu: Submenu
 active-item: expositions
 expositions:
   date: Date

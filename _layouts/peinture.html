@@ -1,8 +1,16 @@
 {% include head.html %}
-{% include big-quote.html %}
-<section class="bg-alternate">
+{% include peinture-menu.html %}
+{% include big-quote.html notitle = "oui" %}
+<section id="selection" class="bg-alternate anchor">
   <div class="container lead">
-    <h2>1940 — 1950</h2>
+    {% if page.lang=="EN" %}
+      <h2>Selection</h2>
+    {% elsif page.lang=="RU" %}
+      <h2>Выбор</h2>
+    {% else %}
+      <h2>Sélection</h2>
+    {% endif %}
+    <h3 class="text-center">1940 — 1949</h3>
     {% if page.lang=="EN" %}
       {% include annees.html data=site.data.annees-40 annees="annees-40" %}
     {% elsif page.lang=="RU" %}
@@ -10,7 +18,7 @@
     {% else %}
       {% include annees.html data=site.data.annees-40 annees="annees-40" %}
     {% endif %}
-    <h2>1950 — 1960</h2>
+    <h3 class="text-center">1950 — 1959</h3>
     {% if page.lang=="EN" %}
       {% include annees.html data=site.data.annees-50 annees="annees-50" %}
     {% elsif page.lang=="RU" %}
@@ -18,7 +26,7 @@
     {% else %}
       {% include annees.html data=site.data.annees-50 annees="annees-50" %}
     {% endif %}
-    <h2>1960 — 1970</h2>
+    <h3 class="text-center">1960 — 1969</h3>
     {% if page.lang=="EN" %}
       {% include annees.html data=site.data.annees-60 annees="annees-60" %}
     {% elsif page.lang=="RU" %}
@@ -26,7 +34,7 @@
     {% else %}
       {% include annees.html data=site.data.annees-60 annees="annees-60" %}
     {% endif %}
-    <h2>1970 — 1977</h2>
+    <h3 class="text-center">1970 — 1977</h3>
     {% if page.lang=="EN" %}
       {% include annees.html data=site.data.annees-70 annees="annees-70" %}
     {% elsif page.lang=="RU" %}
@@ -34,6 +42,17 @@
     {% else %}
       {% include annees.html data=site.data.annees-70 annees="annees-70" %}
     {% endif %}
+    <p class="text-center">
+      <a class="button button-primary older" href="#retrospective">
+        {% if page.lang=="EN" %}
+          See the retrospective
+        {% elsif page.lang=="RU" %}
+          Посмотреть ретроспективу
+        {% else %}
+          Voir la rétrospective
+        {% endif %}
+      </a>
+    </p>
   </div>
 </section>
 {% include foot.html %}

@@ -1,7 +1,8 @@
 {% include head.html %}
-<section class="bg-background">
+{% include expo-menu.html %}
+<section id="encours" class="bg-white anchor">
   <div class="container lead">
-    <h1>{{ page.title }}</h1>
+    <h2>{{ page.title-1 }}</h2>
     <div class="flex-row">
       <div class="nine columns">
         <table class="u-full-width alternate">
@@ -42,6 +43,10 @@
         <img class="contain" src="{{ site.baseurl }}/expositions/Affiche_Montlaur8.jpg" alt="Exposition à Ranville">
       </div>
     </div>
+  </div>
+</section>
+<section id="passees" class="bg-background anchor">
+  <div class="container lead">
     <h2>{{ page.title-2 }}</h2>
     <table class="u-full-width alternate">
       <thead>

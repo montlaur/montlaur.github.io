@@ -1,0 +1,26 @@
+<nav class="bg-blue sous-menu">
+  <div class="container lead">
+    <div class="row">
+      <div class="four columns">
+        <a class="title h1" href="#">{{ page.title }}</a>
+        <ul class="list-inline accessible-menu">
+          <li><a class="button menu-button categories" href="#categories">{{ page.sous-menu }}</a></li>
+        </ul>
+      </div>
+      <div class="eight columns menu" id="categories">
+        <ul class="list-inline list-menu">
+        {% if page.lang=="EN" %}
+          <!-- <li><a href="#retrospective">Retrospective</a></li> -->
+          <li><a href="#selection">Selection</a></li>
+        {% elsif page.lang=="RU" %}
+          <!-- <li><a href="#retrospective">Ретроспектива</a></li> -->
+          <li><a href="#selection">Выбор</a></li>
+        {% else %}
+          <!-- <li><a href="#retrospective">Rétrospective</a></li> -->
+          <li><a href="#selection">Sélection</a></li>
+        {% endif %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>

@@ -1,7 +1,9 @@
 ---
 layout: expositions
 title: Expositions
-title-2: Expositions passées
+title-1: En cours
+title-2: Passées
+sous-menu: Sous-menu
 active-item: expositions
 expositions:
   date: Date
