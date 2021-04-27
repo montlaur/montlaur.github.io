@@ -46,7 +46,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Titre (fr)', name: 'title-fr', widget: 'string' }
+      - { label: 'Titre (fr)', name: 'title', widget: 'string' }
       - { label: 'Titre (en)', name: 'title-en', widget: 'string' }
       - { label: 'Titre (ru)', name: 'title-ru', widget: 'string' }
       - { label: 'Photo', name: 'picture', widget: 'image' }

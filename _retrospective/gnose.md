@@ -1,5 +1,5 @@
 ---
-title-fr: Gnose
+title: Gnose
 title-en: Gnose
 title-ru: γνῶσις
 dimensions: 92cm × 60cm
