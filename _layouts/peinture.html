@@ -1,58 +1,58 @@
 {% include head.html %}
 {% include peinture-menu.html %}
 {% include big-quote.html notitle = "oui" %}
-<section id="selection" class="bg-alternate anchor">
+<section class="bg-alternate">
   <div class="container lead">
-    {% if page.lang=="EN" %}
-      <h2>Selection</h2>
-    {% elsif page.lang=="RU" %}
-      <h2>Выбор</h2>
-    {% else %}
-      <h2>Sélection</h2>
-    {% endif %}
-    <h3 class="text-center">1940 — 1949</h3>
-    {% if page.lang=="EN" %}
-      {% include annees.html data=site.data.annees-40 annees="annees-40" %}
-    {% elsif page.lang=="RU" %}
-      {% include annees.html data=site.data.annees-40-ru annees="annees-40" %}
-    {% else %}
-      {% include annees.html data=site.data.annees-40 annees="annees-40" %}
-    {% endif %}
-    <h3 class="text-center">1950 — 1959</h3>
-    {% if page.lang=="EN" %}
-      {% include annees.html data=site.data.annees-50 annees="annees-50" %}
-    {% elsif page.lang=="RU" %}
-      {% include annees.html data=site.data.annees-50-ru annees="annees-50" %}
-    {% else %}
-      {% include annees.html data=site.data.annees-50 annees="annees-50" %}
-    {% endif %}
-    <h3 class="text-center">1960 — 1969</h3>
-    {% if page.lang=="EN" %}
-      {% include annees.html data=site.data.annees-60 annees="annees-60" %}
-    {% elsif page.lang=="RU" %}
-      {% include annees.html data=site.data.annees-60-ru annees="annees-60" %}
-    {% else %}
-      {% include annees.html data=site.data.annees-60 annees="annees-60" %}
-    {% endif %}
-    <h3 class="text-center">1970 — 1977</h3>
-    {% if page.lang=="EN" %}
-      {% include annees.html data=site.data.annees-70 annees="annees-70" %}
-    {% elsif page.lang=="RU" %}
-      {% include annees.html data=site.data.annees-70-ru annees="annees-70" %}
-    {% else %}
-      {% include annees.html data=site.data.annees-70 annees="annees-70" %}
-    {% endif %}
+    <div class="row text-center">
+      {% for peinture in site.data.annees-40 offset:5 limit:1 %}
+        <div class="three columns">
+          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            {% include peinture.html peinture=peinture file="annees-40" bigger=1 %}
+          </div>
+        </div>
+      {% endfor %}
+      {% for peinture in site.data.annees-50 offset:2 limit:1 %}
+        <div class="three columns">
+          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            {% include peinture.html peinture=peinture file="annees-50" bigger=1 %}
+          </div>
+        </div>
+      {% endfor %}
+      {% for peinture in site.data.annees-60 offset:5 limit:1 %}
+        <div class="three columns">
+          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            {% include peinture.html peinture=peinture file="annees-60" bigger=1 %}
+          </div>
+        </div>
+      {% endfor %}
+      {% for peinture in site.data.annees-70 offset:2 limit:1 %}
+        <div class="three columns">
+          <div id="{{ peinture.Titre | url_encode | strip_html }}" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            {% include peinture.html peinture=peinture file="annees-70" bigger=1 %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
     <p class="text-center">
-      <a class="button button-primary older" href="#retrospective">
-        {% if page.lang=="EN" %}
-          See the retrospective
-        {% elsif page.lang=="RU" %}
-          Посмотреть ретроспективу
-        {% else %}
-          Voir la rétrospective
-        {% endif %}
-      </a>
+      {% if page.lang=="EN" %}
+        <a class="button button-primary older" href="/en/paintings/selection">See the selection</a>
+      {% elsif page.lang=="RU" %}
+        <a class="button button-primary older" href="/ru/paintings/selection">Посмотреть выбор</a>
+      {% else %}
+        <a class="button button-primary older" href="/peintures/selection">Voir la sélection</a>
+      {% endif %}
     </p>
+  </div>
+</section>
+<section class="bg-background">
+  <div class="container lead">
+    {% for post in site.retrospective limit:1 %}
+      {% include retropost.html post = post lienretro = "oui" %}
+    {% endfor %}
   </div>
 </section>
 {% include foot.html %}

@@ -2,6 +2,7 @@
 lang: RU
 layout: peinture
 title: Картины
+menutitle: Картины
 sous-menu: Подменю
 active-item: peintures
 

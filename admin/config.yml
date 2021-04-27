@@ -24,7 +24,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'expositions'
     label: 'Expositions / Exhibitions'
-    folder: '_expositions'
+    folder: '_expositions/'
     create: true
     slug: 'exposition-{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -37,6 +37,23 @@ collections:
       - { label: 'Date (en)', name: 'date-en', widget: 'string' }
       - { label: 'Description (en)', name: 'description-en', widget: 'markdown' }
       - { label: 'Date (ru)', name: 'date-ru', widget: 'string' }
+      - { label: 'Description (ru)', name: 'description-ru', widget: 'markdown' }
+  - name: 'retrospective'
+    label: 'Rétrospective'
+    folder: '_retrospective/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre (fr)', name: 'title-fr', widget: 'string' }
+      - { label: 'Titre (en)', name: 'title-en', widget: 'string' }
+      - { label: 'Titre (ru)', name: 'title-ru', widget: 'string' }
+      - { label: 'Photo', name: 'picture', widget: 'image' }
+      - { label: 'Lieu / Place', name: 'place', widget: 'string' }
+      - { label: 'Dimensions', name: 'dimensions', widget: 'string' }
+      - { label: 'Description (fr)', name: 'description-fr', widget: 'markdown' }
+      - { label: 'Description (en)', name: 'description-en', widget: 'markdown' }
       - { label: 'Description (ru)', name: 'description-ru', widget: 'markdown' }
   - name: 'biography-fr'
     label: 'Biographie (fr)'

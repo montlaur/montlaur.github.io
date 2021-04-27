@@ -2,6 +2,7 @@
 lang: EN
 layout: peinture
 title: Paintings
+menutitle: Paintings
 sous-menu: Submenu
 active-item: peintures
 

@@ -1,0 +1,44 @@
+{% include head.html %}
+{% include peinture-menu.html %}
+<section class="bg-background">
+  <div class="container lead">
+    <h2>{{ page.title }}</h2>
+  </div>
+</section>
+<section id="selection" class="bg-alternate">
+  <div class="container lead">
+    <h3 class="text-center">1940 — 1949</h3>
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-40 annees="annees-40" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-40-ru annees="annees-40" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-40 annees="annees-40" %}
+    {% endif %}
+    <h3 class="text-center">1950 — 1959</h3>
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-50 annees="annees-50" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-50-ru annees="annees-50" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-50 annees="annees-50" %}
+    {% endif %}
+    <h3 class="text-center">1960 — 1969</h3>
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-60 annees="annees-60" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-60-ru annees="annees-60" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-60 annees="annees-60" %}
+    {% endif %}
+    <h3 class="text-center">1970 — 1977</h3>
+    {% if page.lang=="EN" %}
+      {% include annees.html data=site.data.annees-70 annees="annees-70" %}
+    {% elsif page.lang=="RU" %}
+      {% include annees.html data=site.data.annees-70-ru annees="annees-70" %}
+    {% else %}
+      {% include annees.html data=site.data.annees-70 annees="annees-70" %}
+    {% endif %}
+  </div>
+</section>
+{% include foot.html %}
