@@ -6,7 +6,7 @@ picture: /photos/wordpress/gnose.jpg
 place: Paris
 annee: 1960-1974
 type: huile
-dimensions: 92 x 60
+dimensions: 92cm × 60cm
 description-fr: >-
   Gnose γνῶσις, (connaissance). Selon cette approche philosophique, le salut de
   l’âme n’est possible que par la connaissance de la divinité, et par là, de la
