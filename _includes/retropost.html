@@ -13,11 +13,11 @@
         </p>
       </div>
         {% if page.lang=="EN" %}
-          {{ include.post.description-en | newline_to_br }}
+          {{ include.post.description-en | markdownify }}
         {% elsif page.lang=="RU" %}
-          {{ include.post.description-ru | newline_to_br }}
+          {{ include.post.description-ru | markdownify }}
         {% else %}
-          {{ include.post.description-fr | newline_to_br }}
+          {{ include.post.description-fr | markdownify }}
         {% endif %}
     </div>
   </div>
