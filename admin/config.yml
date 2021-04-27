@@ -5,6 +5,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'photos/wordpress/'
 publish_mode: editorial_workflow
+show_preview_links: false
 collections:
   - name: 'posts'
     label: 'Blog'
