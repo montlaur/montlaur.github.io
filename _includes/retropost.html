@@ -7,16 +7,17 @@
       <div class="text-center">
         <h3 class="post-title">{{ include.post.title }}</h3>
         <p class="list-inline post-infos">
-          <strong>{{ include.post.place }}, {{ include.post.annee }}</strong><br>
-          {{ include.post.dimensions }}
+          {{ include.post.dimensions }}{% if include.post.type %}, {{ include.post.type }}{% endif %}<br>
+          <strong>{{ include.post.place }}, {{ include.post.annee }}</strong>
+
         </p>
       </div>
         {% if page.lang=="EN" %}
-          {{ include.post.description-en }}
+          {{ include.post.description-en | newline_to_br }}
         {% elsif page.lang=="RU" %}
-          {{ include.post.description-ru }}
+          {{ include.post.description-ru | newline_to_br }}
         {% else %}
-          {{ include.post.description-fr }}
+          {{ include.post.description-fr | newline_to_br }}
         {% endif %}
     </div>
   </div>

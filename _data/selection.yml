@@ -1,20 +1,11 @@
-- Titre: "Oranges et bananes"
+- Titre: "Hommage à Kandinsky"
   Date:
-  Lieu: "Paris"
-  Hauteur: 54
-  Largeur: 65
-  Support: toile
-  Matiere: huile
-  Url: "oranges-et-bananes.jpg"
-
-- Titre: "Chemin de fer"
-  Date: "1/3/1950"
   Lieu: "Nice"
-  Hauteur: 100
-  Largeur: 65
+  Hauteur: 195
+  Largeur: 114
   Support: toile
   Matiere: huile
-  Url: "chemin-de-fer.jpg"
+  Url: "hommage-a-kandinsky.jpg"
 
 - Titre: "Sans titre"
   Date: "1/8/1950"
@@ -25,24 +16,6 @@
   Matiere: huile
   Url: "sans-titre-3.jpg"
 
-- Titre: "Clockwork"
-  Date: "1/6/1953"
-  Lieu: "Fontainebleau"
-  Hauteur: 146
-  Largeur: 114
-  Support: toile
-  Matiere: huile
-  Url: "clockwork.jpg"
-
-- Titre: "Hommage à Kandinsky"
-  Date:
-  Lieu: "Nice"
-  Hauteur: 195
-  Largeur: 114
-  Support: toile
-  Matiere: huile
-  Url: "hommage-a-kandinsky.jpg"
-
 - Titre: "L’espoir a fui"
   Date: "1/3/1960"
   Lieu: "Paris"
@@ -52,42 +25,6 @@
   Matiere: huile
   Url: "l-espoir-a-fui.jpg"
 
-- Titre: "La promesse des fleurs"
-  Date:
-  Lieu: "Franval"
-  Hauteur: 73
-  Largeur: 92
-  Support: toile
-  Matiere: huile
-  Url: "la-promesse-des-fleurs.jpg"
-
-- Titre: "Souvenir d’Issenheim"
-  Date:
-  Lieu: "Paris, rue de Varenne"
-  Hauteur: 60
-  Largeur: 92
-  Support: toile
-  Matiere: huile
-  Url: "souvenir-d-issenheim.jpg"
-
-- Titre: "Il dort"
-  Date: "20/06/1969"
-  Lieu: "Paris"
-  Hauteur: 80.5
-  Largeur: 65
-  Support: toile
-  Matiere: huile
-  Url: "il-dort.jpg"
-
-- Titre: "Le rêve de Berganza"
-  Date: "2/1/1972"
-  Lieu: "Paris"
-  Hauteur: 54.5
-  Largeur: 81
-  Support: toile
-  Matiere: huile
-  Url: "le-reve-de-berganza.jpg"
-
 - Titre: "Souvenir normand"
   Date: "26/7/1972"
   Lieu:
@@ -96,12 +33,3 @@
   Support: "papier sur bois"
   Matiere: huile
   Url: "souvenir-normand.jpg"
-
-- Titre: "Peinture à l’usage des enfants"
-  Date: "3/1/1977"
-  Lieu: "Paris"
-  Hauteur: 92
-  Largeur: 60
-  Support: toile
-  Matiere: huile
-  Url: "peinture-a-l-usage-des-enfants.jpg"

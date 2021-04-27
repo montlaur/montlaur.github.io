@@ -18,7 +18,7 @@ quote:
     title: "Plus sur Wikipedia"
 
 selection:
-  title: "Sélection de&nbsp;peintures"
+  title: "Peinture"
   link:
     url: "/peintures/"
     title: "Voir plus de peintures"
