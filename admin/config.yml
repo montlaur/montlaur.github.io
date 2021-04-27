@@ -51,6 +51,8 @@ collections:
       - { label: 'Titre (ru)', name: 'title-ru', widget: 'string' }
       - { label: 'Photo', name: 'picture', widget: 'image' }
       - { label: 'Lieu / Place', name: 'place', widget: 'string' }
+      - { label: 'Date', name: 'annee', widget: 'string' }
+      - { label: 'Type', name: 'type', widget: 'string' }
       - { label: 'Dimensions', name: 'dimensions', widget: 'string' }
       - { label: 'Description (fr)', name: 'description-fr', widget: 'markdown' }
       - { label: 'Description (en)', name: 'description-en', widget: 'markdown' }
