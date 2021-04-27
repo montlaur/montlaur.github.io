@@ -19,9 +19,7 @@ description-fr: >-
   Pour Montlaur, la connaissance du plus profond de soi, n’a été rendue possible, ironiquement, que par l’éclatement de sa boîte crânienne; la gnose est devenue autopsie. On aperçoit le contour blanc de la tête et du cou et l’éclat d’obus, carré, noir, qui pénétra dans la cavité oculaire du commando Montlaur le matin du 1er novembre 1944 (lors du débarquement allié de Flessingue en Hollande) et le fit souffrir toute sa vie.
 
 
-  Ecoutez les « Gnossiennes » :
-
-  https://www.youtube.com/watch?v=y7kvGqiJC4g&ab_channel=SistaK.
+  Ecoutez les « [Gnossiennes ](https://www.youtube.com/watch?v=y7kvGqiJC4g&ab_channel=SistaK)»
 description-en: >-
   Gnose γνῶσις, (connaissance). Selon cette approche philosophique, le salut de
   l’âme n’est possible que par la connaissance de la divinité, et par là, de la
@@ -34,9 +32,7 @@ description-en: >-
   Pour Montlaur, la connaissance du plus profond de soi, n’a été rendue possible, ironiquement, que par l’éclatement de sa boîte crânienne; la gnose est devenue autopsie. On aperçoit le contour blanc de la tête et du cou et l’éclat d’obus, carré, noir, qui pénétra dans la cavité oculaire du commando Montlaur le matin du 1er novembre 1944 (lors du débarquement allié de Flessingue en Hollande) et le fit souffrir toute sa vie.
 
 
-  Ecoutez les « Gnossiennes » :
-
-  https://www.youtube.com/watch?v=y7kvGqiJC4g&ab_channel=SistaK.
+  Ecoutez les « [Gnossiennes ](https://www.youtube.com/watch?v=y7kvGqiJC4g&ab_channel=SistaK)»
 description-ru: >-
   Gnose γνῶσις, (connaissance). Selon cette approche philosophique, le salut de
   l’âme n’est possible que par la connaissance de la divinité, et par là, de la
