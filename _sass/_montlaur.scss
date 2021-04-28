@@ -48,7 +48,7 @@ nav, footer {
 }
 
 // Navigation
-.title.h1 {
+.title {
   display: inline;
   margin-bottom: 0;
   float: left;
@@ -264,9 +264,10 @@ section, .section {
 // Cadre pour les peintures
 .framed {
   max-height: 90vh;
-  max-width: 90%;
-  box-shadow: 0 0 $spacing $text-color;
+  max-width: 100%;
+  box-sizing: border-box;
   border: $spacing solid #1A1A1A;
+  box-shadow: 0 0 $spacing $text-color;
 
   &:hover {
     border-color: #000;
@@ -324,12 +325,6 @@ figcaption h5 { margin-bottom: 0; }
 }
 
 // blog
-.blog-title::after {
-  display: block;
-  content: "∾";
-  font-style: normal;
-}
-
 .blog-post-list {
   margin-left: 0;
   li { list-style-type: none; }

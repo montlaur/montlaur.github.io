@@ -1,13 +1,13 @@
 {% include head.html %}
 <section class="contact bg-background">
   <div class="container lead">
-    <h1>{{ page.title }}</h1>
     <form name="contact{{page.lang}}"
           action="{{ site.baseurl }}{{ page.contact.thankyou }}"
           method="POST"
           netlify="true">
       <div class="flex-row">
         <div class="seven columns">
+          <h1>{{ page.title }}</h1>
           <label for="name">{{ page.contact.name }}</label>
           <input id="name" type="text" name="_name" placeholder="Robert Montalu" required="required">
           <label for="_replyto">{{ page.contact.email }}</label>
@@ -17,7 +17,19 @@
           <input class="button button-primary" type="submit" value="{{ page.contact.send }}">
         </div>
         <div class="five columns cover-container">
-          <img class="cover" src="{{ site.baseurl }}/contact/nature-morte-aux-livres.jpg" alt="Nature morte aux livres">
+          <div id="nature-morte" class="bigger">
+            <span class="close" onclick="javascript:history.back()"></span>
+            <figure>
+              <a href="#nature-morte">
+                <img class="framed" src="{{ site.baseurl }}/contact/nature-morte-aux-livres.jpg" alt="Nature morte aux livres">
+              </a>
+              <figcaption>
+                <h5>Nature morte aux livres</h5>
+                huile, 61cm &times; 50cm<br>
+                South Salem, NY
+              </figcaption>
+            </figure>
+          </div>
         </div>
       </div>
     </form>

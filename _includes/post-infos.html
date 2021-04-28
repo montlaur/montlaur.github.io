@@ -1,4 +1,4 @@
-<p class="text-{{ include.align }} post-infos">
+<p class="post-infos">
   Publié le <strong><em>{{ include.post.date | date: "%d/%m/%Y" }}</em></strong>
   {% if include.post.auteur %}par <em>{{ include.post.auteur }}</em>{% endif %} —
   <a href="/category/{{ include.post.category }}.html">{{ include.post.category }}</a>

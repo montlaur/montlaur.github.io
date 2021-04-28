@@ -1,24 +1,31 @@
 <div class="excerpt">
   <div class="row">
-    <div class="four columns">
-      <img class="cover u-full-width" src="{{ include.post.picture }}" alt="{{ include.post.title }}">
-    </div>
-    <div class="{% if include.post.picture %}eight {% else %}twelve {% endif %}columns">
-      <div class="text-center">
-        <h3 class="post-title">{{ include.post.title }}</h3>
-        <p class="list-inline post-infos">
-          {{ include.post.dimensions }}{% if include.post.type %}, {{ include.post.type }}{% endif %}<br>
-          <strong>{{ include.post.place }}, {{ include.post.annee }}</strong>
-
-        </p>
+    <div class="five columns">
+      <div id="{{ include.post.title | url_encode | strip_html }}" class="bigger">
+        <span class="close" onclick="javascript:history.back()"></span>
+        <figure>
+          <a href="#{{ include.post.title | url_encode | strip_html }}">
+            <img  class="framed"
+                  src="{{ include.post.picture }}"
+                  alt="{{ include.post.title }}">
+          </a>
+          <figcaption>
+            <h5>{{ include.post.title }}</h5>
+            {% if include.post.type %}{{ include.post.type }}, {% endif %}{{ include.post.dimensions }}<br>
+            {{ include.post.place }}, {{ include.post.annee }}
+          </figcaption>
+        </figure>
       </div>
-        {% if page.lang=="EN" %}
-          {{ include.post.description-en | markdownify }}
-        {% elsif page.lang=="RU" %}
-          {{ include.post.description-ru | markdownify }}
-        {% else %}
-          {{ include.post.description-fr | markdownify }}
-        {% endif %}
+    </div>
+    <div class="seven columns">
+      <h3 class="post-title">{{ include.post.title }}</h3>
+      {% if page.lang=="EN" %}
+        {{ include.post.description-en | markdownify }}
+      {% elsif page.lang=="RU" %}
+        {{ include.post.description-ru | markdownify }}
+      {% else %}
+        {{ include.post.description-fr | markdownify }}
+      {% endif %}
     </div>
   </div>
   {% if include.lienretro == "oui" %}
