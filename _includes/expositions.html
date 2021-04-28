@@ -1,8 +1,8 @@
 <section class="bg-background">
   <div class="container lead">
-    <h2>{{ page.expositions.title }}</h2>
     <div class="flex-row">
       <div class="nine columns">
+        <h2>{{ page.expositions.title }}</h2>
         <table class="u-full-width alternate">
           <thead>
             <tr>
@@ -43,14 +43,26 @@
             {% endif %}
           {% endfor %}
         </table>
+        <p class="text-center">
+          <a class="button older" href="{{ site.baseurl }}{{ page.expositions.link.url }}">{{ page.expositions.link.title }}</a>
+        </p>
         {% include expose.html %}
       </div>
-      <div class="three columns cover-container">
-        <img class="cover" src="{{ site.baseurl }}{{ page.expositions.image.src }}" alt="{{ page.expositions.image.alt }}">
+      <div class="three columns">
+        <div id="pegasus" class="bigger">
+          <span class="close" onclick="javascript:history.back()"></span>
+          <figure>
+            <a href="#pegasus">
+              <img class="framed" src="{{ site.baseurl }}/expositions/Pegasus1.jpg" alt="Pegasus before landing">
+            </a>
+            <figcaption>
+              <h5>Pegasus before landing</h5>
+              huile, 81cm &times; 65cm<br>
+              Fontainebleau, 1956
+            </figcaption>
+          </figure>
+        </div>
       </div>
     </div>
-    <p class="text-center">
-      <a class="button button-primary older" href="{{ site.baseurl }}{{ page.expositions.link.url }}">{{ page.expositions.link.title }}</a>
-    </p>
   </div>
 </section>

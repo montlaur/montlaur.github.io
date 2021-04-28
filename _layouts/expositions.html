@@ -2,9 +2,9 @@
 {% include expo-menu.html %}
 <section id="encours" class="bg-white anchor">
   <div class="container lead">
-    <h2>{{ page.title-1 }}</h2>
     <div class="flex-row">
       <div class="nine columns">
+        <h2>{{ page.title-1 }}</h2>
         <table class="u-full-width alternate">
          <thead>
           <tr>
@@ -39,8 +39,20 @@
        </table>
        {% include expose.html %}
       </div>
-      <div class="three columns cover-container">
-        <img class="contain" src="{{ site.baseurl }}/expositions/Affiche_Montlaur8.jpg" alt="Exposition à Ranville">
+      <div class="three columns">
+        <div id="pegasus" class="bigger">
+          <span class="close" onclick="javascript:history.back()"></span>
+          <figure>
+            <a href="#pegasus">
+              <img class="framed" src="{{ site.baseurl }}/expositions/Pegasus1.jpg" alt="Pegasus before landing">
+            </a>
+            <figcaption>
+              <h5>Pegasus before landing</h5>
+              huile, 81cm &times; 65cm<br>
+              Fontainebleau, 1956
+            </figcaption>
+          </figure>
+        </div>
       </div>
     </div>
   </div>
