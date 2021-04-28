@@ -69,7 +69,7 @@ nav, footer {
 .menu, .sous-menu {
   a {
     text-decoration: none;
-    &:not(.lang-link):hover {
+    &:not(.lang-link):not(.menu-button):hover {
       color: $alternate-color;
     }
   }

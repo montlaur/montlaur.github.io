@@ -10,14 +10,14 @@
       <div class="eight columns menu" id="categories">
         <ul class="list-inline list-menu">
         {% if page.lang=="EN" %}
-          <li><a href="/en/paintings/retrospective">Retrospective</a></li>
-          <li><a href="/en/paintings/selection">Selection</a></li>
+          <li{% if page.layout=='retrospective' %} class="active"{% endif %}><a href="/en/paintings/retrospective">Retrospective</a></li>
+          <li{% if page.layout=='selection' %} class="active"{% endif %}><a href="/en/paintings/selection">Selection</a></li>
         {% elsif page.lang=="RU" %}
-          <li><a href="/ru/paintings/retrospective">Ретроспектива</a></li>
-          <li><a href="/ru/paintings/selection">Выбор</a></li>
+          <li{% if page.layout=='retrospective' %} class="active"{% endif %}><a href="/ru/paintings/retrospective">Ретроспектива</a></li>
+          <li{% if page.layout=='selection' %} class="active"{% endif %}><a href="/ru/paintings/selection">Выбор</a></li>
         {% else %}
-          <li><a href="/peintures/retrospective">Rétrospective</a></li>
-          <li><a href="/peintures/selection">Sélection</a></li>
+          <li{% if page.layout=='retrospective' %} class="active"{% endif %}><a href="/peintures/retrospective">Rétrospective</a></li>
+          <li{% if page.layout=='selection' %} class="active"{% endif %}><a href="/peintures/selection">Sélection</a></li>
         {% endif %}
         </ul>
       </div>
