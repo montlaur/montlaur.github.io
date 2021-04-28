@@ -266,7 +266,7 @@ section, .section {
   max-height: 90vh;
   max-width: 100%;
   box-sizing: border-box;
-  border: $spacing solid #1A1A1A;
+  border: $spacing solid $text-color-trans;
   box-shadow: 0 0 $spacing $text-color;
 
   &:hover {

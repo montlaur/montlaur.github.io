@@ -8,10 +8,24 @@
       {% endif %}
     {% endif %}
     <div class="flex-row">
-      <div class="four columns cover-container text-center">
-        <img class="cover" src="{{ site.baseurl }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
+      <div class="three columns text-center">
+        <div id="quoteimg" class="bigger">
+          <span class="close" onclick="javascript:history.back()"></span>
+          <figure>
+            <a href="#quoteimg">
+              <img class="framed" src="{{ site.baseurl }}{{ page.quote.image.src }}" alt="{{ page.quote.image.alt }}">
+            </a>
+            {% if page.quote.image.caption %}
+              <figcaption>
+                <h5>{{ page.quote.image.alt }}</h5>
+                {{ page.quote.image.caption }}<br>
+                {{ page.quote.image.caption2 }}
+              </figcaption>
+            {% endif %}
+          </figure>
+        </div>
       </div>
-      <div class="eight columns">
+      <div class="nine columns">
         <blockquote>
           {{ content }}
           <p class="quote-footer">

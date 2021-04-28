@@ -5,11 +5,13 @@ title: Guy de Montlaur — Peintre du XXe siècle
 big-title: "Peintre du XXe siècle"
 
 quote:
-  title: "Guy&nbsp;de&nbsp;Montlaur"
+  title: "À propos de Guy&nbsp;de&nbsp;Montlaur"
   footer: "Guy de Montlaur (Petits écrits de nuit, 28&nbsp;septembre&nbsp;1961)"
   image:
     src: "/biographie/Autoportrait_par_Guy_de_Montlaur.jpg"
-    alt: "Autoportrait par Guy de Montlaur"
+    alt: "Auto-portrait sans indulgence"
+    caption: "huile, 36cm &times; 29cm"
+    caption2: "1969"
   link:
     url: "/biographie/"
     title: "Lire la biographie"
