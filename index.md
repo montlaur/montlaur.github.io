@@ -14,7 +14,7 @@ quote:
     caption2: "1969"
   link:
     url: "/biographie/"
-    title: "Lire la biographie"
+    title: "Lire sa biographie"
   link2:
     url: "https://fr.wikipedia.org/wiki/Guy_de_Montlaur"
     title: "Plus sur Wikipedia"
@@ -23,7 +23,7 @@ selection:
   title: "Peinture"
   link:
     url: "/peintures/"
-    title: "Voir plus de peintures"
+    title: "Découvrir sa peinture"
 
 expositions:
   title: "Expositions en&nbsp;cours"

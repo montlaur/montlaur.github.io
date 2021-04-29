@@ -43,10 +43,10 @@
             {% endif %}
           {% endfor %}
         </table>
-        <p class="text-center">
+        {% include expose.html %}
+        <p class="button-container">
           <a class="button older" href="{{ site.baseurl }}{{ page.expositions.link.url }}">{{ page.expositions.link.title }}</a>
         </p>
-        {% include expose.html %}
       </div>
       <div class="three columns">
         <div id="pegasus" class="bigger">

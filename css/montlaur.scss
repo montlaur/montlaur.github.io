@@ -10,6 +10,7 @@ $link-color-trans: #0059B3ee;
 
 $spacing: 1.6rem;
 $double-spacing: 3.2rem;
+$triple-spacing: 4.8rem;
 $quadruple-spacing: 6.4rem;
 
 $breakpoint-xs-1: 399px;
@@ -129,7 +130,7 @@ html { font-size: 62.5%; }
 body {
   color: $text-color;
   font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
-  line-height: 1.6;
+  line-height: 1.5;
   font-family: $sans-serif-family;
   -moz-osx-font-smoothing: antialiased;
    -webkit-font-smoothing: antialiased;
@@ -416,7 +417,7 @@ p,
 ul,
 ol,
 form {
-  margin-bottom: $double-spacing;
+  margin-bottom: $spacing;
 }
 
 

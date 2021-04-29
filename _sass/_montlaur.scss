@@ -23,6 +23,8 @@
 
 .older::after  { content: " ›"; }
 
+.button-container { margin-top: $double-spacing; }
+
 // Header & footer
 nav, footer {
   top: 0;
@@ -45,6 +47,8 @@ nav, footer {
   }
 
   ul, p { margin: $spacing 0; }
+
+  h3 { margin-bottom: 0; }
 }
 
 // Navigation
@@ -186,8 +190,6 @@ section, .section {
       margin-bottom: 0;
     }
   }
-
-  h2 { text-align: center; }
 }
 
 .anchor {
@@ -198,14 +200,7 @@ section, .section {
 .bg-alternate { background-color: $alternate-color; }
 .bg-background { background-color: $background-color; }
 .bg-white { background-color: $white; }
-.bg-blue {
-  background-color: $link-color; }
-
-// Sections de citation
-.big-quote {
-  background-color: rgba(240, 240, 240, 0.9);
-  @include backdrop-filter-blur(5px);
-}
+.bg-blue { background-color: $link-color; }
 
 // Effet journal pour la biographie
 .printy {
@@ -223,42 +218,12 @@ section, .section {
     float: left;
     font-size: 10rem;
     font-style: italic;
-    line-height: .8;
+    line-height: .75;
     padding: $spacing/2 $spacing/2 0 0;
     font-family: $serif-family;
   }
 
-  &:last-child p:last-child::after { content: "●"; }
-}
-
-// Cover pour les photos des big-quotes
-.flex-row {
-  display: flex;
-  flex-wrap: wrap;
-
-  &::after{
-    content: "";
-    display: table;
-    clear: both;
-  }
-}
-
-@media (min-width: $breakpoint-m) {
-  .flex-row {
-
-    .cover-container {
-      position: relative;
-
-      .cover {
-        position: absolute;
-        top: 0;
-        left: 0;
-        height: 100%;
-        width: 100%;
-        object-fit: cover;
-      }
-    }
-  }
+  &:last-child p:last-child::after { content: " ●"; }
 }
 
 // Cadre pour les peintures

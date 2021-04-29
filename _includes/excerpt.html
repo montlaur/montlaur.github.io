@@ -17,23 +17,23 @@
       <h3 class="post-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
       {% include post-infos.html post=include.post align="center" %}
       {{ include.post.excerpt }}
+      <p class="button-container">
+        <a class="button button-primary older" href="{{ include.post.url }}">
+          {% if page.lang=="EN" %}
+            Read more
+          {% elsif page.lang=="RU" %}
+            Прочитайте больше
+          {% else %}
+            Lire la suite
+          {% endif %}
+        </a>
+      </p>
     </div>
   </div>
-  <p class="text-center">
-    <a class="button button-primary" href="{{ include.post.url }}">
-      {% if page.lang=="EN" %}
-        Read more…
-      {% elsif page.lang=="RU" %}
-        Прочитайте больше…
-      {% else %}
-        Lire la suite…
-      {% endif %}
-    </a>
-  </p>
 </div>
 
 {% if page.blog.title %}
-      <p class="text-center"><a class="button overflow" href="{{ page.blog.link.url }}">{{ page.blog.link.title }}</a></p>
+      <p class="text-center"><a class="button overflow older" href="{{ page.blog.link.url }}">{{ page.blog.link.title }}</a></p>
     </div>
   </div>
 {% endif %}

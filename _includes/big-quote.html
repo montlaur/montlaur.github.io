@@ -1,14 +1,7 @@
 <section class="bg-white">
   <div class="container lead">
-    {% if include.notitle != "oui" %}
-      {% if page.quote.title %}
-      <h2>{{ page.quote.title }}</h2>
-      {% else %}
-      <h1>{{ page.title }}</h1>
-      {% endif %}
-    {% endif %}
     <div class="flex-row">
-      <div class="three columns text-center">
+      <div class="four columns text-center">
         <div id="quoteimg" class="bigger">
           <span class="close" onclick="javascript:history.back()"></span>
           <figure>
@@ -25,22 +18,29 @@
           </figure>
         </div>
       </div>
-      <div class="nine columns">
+      <div class="eight columns">
+          {% if include.notitle != "oui" %}
+            {% if page.quote.title %}
+            <h2>{{ page.quote.title }}</h2>
+            {% else %}
+            <h1>{{ page.title }}</h1>
+            {% endif %}
+          {% endif %}
         <blockquote>
           {{ content }}
           <p class="quote-footer">
             {{ page.quote.footer }}
           </p>
         </blockquote>
+        {% if page.quote.link.title %}
+          <p class="button-container text-center">
+            <a class="button button-primary older" href="{{ site.baseurl }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
+            {% if page.quote.link2.title %}
+              <a class="button" href="{{ site.baseurl }}{{ page.quote.link2.url }}">{{ page.quote.link2.title }}</a>
+            {% endif %}
+          </p>
+        {% endif %}
       </div>
     </div>
-    {% if page.quote.link.title %}
-      <p class="text-center">
-        <a class="button button-primary older" href="{{ site.baseurl }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
-        {% if page.quote.link2.title %}
-          <a class="button" href="{{ site.baseurl }}{{ page.quote.link2.url }}">{{ page.quote.link2.title }}</a>
-        {% endif %}
-      </p>
-    {% endif %}
   </div>
 </section>
