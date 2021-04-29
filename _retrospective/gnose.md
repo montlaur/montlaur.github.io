@@ -1,4 +1,9 @@
 ---
+layout: retrospectivepost
+menutitle: Peinture
+sous-menu: Sous-menu
+active-item: peintures
+active-item2: retrospective
 title: Gnose
 title-en: Gnose
 title-ru: γνῶσις
@@ -14,7 +19,7 @@ description-fr: >-
   Gnossiennes » d’Erik Satie qu’il lui arrivait d’écouter lorsqu’il peignait. Il
   avait une grande admiration pour l’œuvre de Satie, l’ami d’Apollinaire.
 
-  « Gnose » - la peinture - a été réalisée en deux fois, commencée en 1960, terminée en 1974. On reconnait bien le geste très dynamique de ses années 1960, la « finition », elle, apporte une richesse chromatique que l’on retrouve dans toutes ses peintures des dernières années. 
+  « Gnose » - la peinture - a été réalisée en deux fois, commencée en 1960, terminée en 1974. On reconnait bien le geste très dynamique de ses années 1960, la « finition », elle, apporte une richesse chromatique que l’on retrouve dans toutes ses peintures des dernières années.
 
   Pour Montlaur, la connaissance du plus profond de soi, n’a été rendue possible, ironiquement, que par l’éclatement de sa boîte crânienne; la gnose est devenue autopsie. On aperçoit le contour blanc de la tête et du cou et l’éclat d’obus, carré, noir, qui pénétra dans la cavité oculaire du commando Montlaur le matin du 1er novembre 1944 (lors du débarquement allié de Flessingue en Hollande) et le fit souffrir toute sa vie.
 
@@ -27,7 +32,7 @@ description-en: >-
   Gnossiennes » d’Erik Satie qu’il lui arrivait d’écouter lorsqu’il peignait. Il
   avait une grande admiration pour l’œuvre de Satie, l’ami d’Apollinaire.
 
-  « Gnose » - la peinture - a été réalisée en deux fois, commencée en 1960, terminée en 1974. On reconnait bien le geste très dynamique de ses années 1960, la « finition », elle, apporte une richesse chromatique que l’on retrouve dans toutes ses peintures des dernières années. 
+  « Gnose » - la peinture - a été réalisée en deux fois, commencée en 1960, terminée en 1974. On reconnait bien le geste très dynamique de ses années 1960, la « finition », elle, apporte une richesse chromatique que l’on retrouve dans toutes ses peintures des dernières années.
 
   Pour Montlaur, la connaissance du plus profond de soi, n’a été rendue possible, ironiquement, que par l’éclatement de sa boîte crânienne; la gnose est devenue autopsie. On aperçoit le contour blanc de la tête et du cou et l’éclat d’obus, carré, noir, qui pénétra dans la cavité oculaire du commando Montlaur le matin du 1er novembre 1944 (lors du débarquement allié de Flessingue en Hollande) et le fit souffrir toute sa vie.
 
@@ -40,7 +45,7 @@ description-ru: >-
   Gnossiennes » d’Erik Satie qu’il lui arrivait d’écouter lorsqu’il peignait. Il
   avait une grande admiration pour l’œuvre de Satie, l’ami d’Apollinaire.
 
-  « Gnose » - la peinture - a été réalisée en deux fois, commencée en 1960, terminée en 1974. On reconnait bien le geste très dynamique de ses années 1960, la « finition », elle, apporte une richesse chromatique que l’on retrouve dans toutes ses peintures des dernières années. 
+  « Gnose » - la peinture - a été réalisée en deux fois, commencée en 1960, terminée en 1974. On reconnait bien le geste très dynamique de ses années 1960, la « finition », elle, apporte une richesse chromatique que l’on retrouve dans toutes ses peintures des dernières années.
 
   Pour Montlaur, la connaissance du plus profond de soi, n’a été rendue possible, ironiquement, que par l’éclatement de sa boîte crânienne; la gnose est devenue autopsie. On aperçoit le contour blanc de la tête et du cou et l’éclat d’obus, carré, noir, qui pénétra dans la cavité oculaire du commando Montlaur le matin du 1er novembre 1944 (lors du débarquement allié de Flessingue en Hollande) et le fit souffrir toute sa vie.
 

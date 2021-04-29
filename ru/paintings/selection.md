@@ -1,5 +1,5 @@
 ---
-lang: EN
+lang: RU
 layout: selection
 title: Selection
 menutitle: Paintings

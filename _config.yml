@@ -27,8 +27,9 @@ permalink: /blog/:categories/:year/:month/:day/:title:output_ext
 
 # Collections
 collections:
-  - expositions
-  - retrospective
+  expositions:
+  retrospective:
+    output: true
 
 # Handling Reading
 safe:                false

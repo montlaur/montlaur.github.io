@@ -1,4 +1,9 @@
 ---
+layout: retrospectivepost
+menutitle: Peinture
+sous-menu: Sous-menu
+active-item: peintures
+active-item2: retrospective
 title: L’étoile se lève claire sur un matin sale
 title-en: L’étoile se lève claire sur un matin sale
 title-ru: L’étoile se lève claire sur un matin sale
