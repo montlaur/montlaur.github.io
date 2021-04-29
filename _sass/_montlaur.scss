@@ -226,6 +226,36 @@ section, .section {
   &:last-child p:last-child::after { content: " ●"; }
 }
 
+// Cover pour les photos des big-quotes et excerpt
+.flex-row {
+  display: flex;
+  flex-wrap: wrap;
+
+  &::after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@media (min-width: $breakpoint-m) {
+  .flex-row {
+
+    .cover-container {
+      position: relative;
+
+      .cover {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+}
+
 // Cadre pour les peintures
 .framed {
   max-height: 90vh;
