@@ -1,8 +1,12 @@
 {% include head.html %}
 {% include blog-menu.html %}
+<section class="bg-background">
+  <div class="container lead">
+    <h2>{{ page.title }}</h2>
+  </div>
+</section>
 <section class="bg-white">
   <div class="container lead">
-    <h1>{{ page.category }}</h1>
     <ul class="blog-post-list">
       {% for post in site.categories[page.category] %}
         <li>

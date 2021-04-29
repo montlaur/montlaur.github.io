@@ -1,5 +1,10 @@
 {% include head.html %}
 {% include blog-menu.html %}
+<section class="bg-background">
+  <div class="container lead">
+    <h2>Tous les articles{% if paginator.page and paginator.page != 1 %} (Page {{ paginator.page }} / {{ paginator.total_pages }}) {% endif %}</h2>
+  </div>
+</section>
 <section class="bg-white">
   <div class="container lead">
     {% for post in paginator.posts %}
