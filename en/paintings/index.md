@@ -5,6 +5,7 @@ title: Paintings
 menutitle: Paintings
 sous-menu: Submenu
 active-item: peintures
+permalink: /en/peintures/
 
 quote:
   footer: "Guy de Montlaur (25<sup>th</sup> September 1961)"

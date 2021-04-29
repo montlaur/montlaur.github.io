@@ -9,4 +9,5 @@ active-item: expositions
 expositions:
   date: Дата
   lieu-description: Место и описание
+permalink: /ru/expositions/
 ---

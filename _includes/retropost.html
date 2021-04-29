@@ -11,7 +11,13 @@
                   {%- unless include.notitle == "yes" -%}loading="lazy"{%- endunless -%}>
           </a>
           <figcaption>
-            <h5>{{ include.post.title }}</h5>
+            {% if page.lang=="EN" %}
+              <h5>{{ include.post.title-en }}</h5>
+            {% elsif page.lang=="RU" %}
+              <h5>{{ include.post.title-ru }}</h5>
+            {% else %}
+              <h5>{{ include.post.title }}</h5>
+            {% endif %}
             {% if include.post.type %}{{ include.post.type }}, {% endif %}{{ include.post.dimensions }}<br>
             {{ include.post.place }}, {{ include.post.annee }}
           </figcaption>
@@ -19,8 +25,12 @@
       </div>
     </div>
     <div class="seven columns">
-      {%- unless include.notitle == "yes" -%}
+      {%- unless include.notitle == "yes" or page.lang -%}
         <h3 class="post-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
+      {%- elsif page.lang == "EN" -%}
+        <h3>{{ include.post.title-en }}</h3>
+      {%- elsif page.lang == "RU" -%}
+        <h3>{{ include.post.title-ru }}</h3>
       {%- else -%}
         <h2>{{ include.post.title }}</h2>
       {%- endunless -%}

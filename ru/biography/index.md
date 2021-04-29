@@ -3,6 +3,7 @@ lang: RU
 layout: default
 title: Биография
 active-item: biographie
+permalink: /ru/biographie/
 ---
 <!-- Ne pas supprimer la balise -->
 <div class="printy">

@@ -1,22 +1,22 @@
 <ul class="list-inline list-menu">
   {% if page.lang=="EN" %}
     <li>
-      <a class="lang-link" data-title="français" href="{{ site.baseurl }}/">fr</a>
+      <a class="lang-link" data-title="français" href="{{ site.baseurl }}/{{ page.url | remove: '/en/' }}">fr</a>
     </li>
     <li>
-      <a class="lang-link" data-title="Русский" href="{{ site.baseurl }}/ru/">ru</a>
+      <a class="lang-link" data-title="Русский" href="{{ site.baseurl }}/ru/{{ page.url | remove: '/en/' }}">ru</a>
     </li>
     <li class="active lang">
-      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/">en</a>
+      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/{{ page.url }}">en</a>
     </li>
     <li class="item-break first{% if page.active-item=='peintures' %} active{% endif %}">
-      <a href="{{ site.baseurl }}/en/paintings/">Paintings</a>
+      <a href="{{ site.baseurl }}/en/peintures/">Paintings</a>
     </li>
     <li {% if page.active-item=='expositions' %}class="active"{% endif %}>
-      <a href="{{ site.baseurl }}/en/exhibitions/">Exhibitions</a>
+      <a href="{{ site.baseurl }}/en/expositions/">Exhibitions</a>
     </li>
     <li class="item-break{% if page.active-item=='biographie' %} active{% endif %}">
-      <a href="{{ site.baseurl }}/en/biography/">Biography</a>
+      <a href="{{ site.baseurl }}/en/biographie/">Biography</a>
     </li>
     <li class="{% if page.active-item=='blog' %} active{% endif %}">
       <a href="{{ site.baseurl }}/blog/">Blog</a>
@@ -26,22 +26,22 @@
     </li>
   {% elsif page.lang=="RU" %}
     <li>
-      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/">en</a>
+      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/{{ page.url | remove: '/ru/' }}">en</a>
     </li>
     <li>
-      <a class="lang-link" data-title="français" href="{{ site.baseurl }}/">fr</a>
+      <a class="lang-link" data-title="français" href="{{ site.baseurl }}/{{ page.url | remove: '/ru/' }}">fr</a>
     </li>
     <li class="active lang">
-      <a class="lang-link" data-title="Русский" href="{{ site.baseurl }}/ru/">ru</a>
+      <a class="lang-link" data-title="Русский" href="{{ site.baseurl }}/ru/{{ page.url| remove: '/ru/' }}">ru</a>
     </li>
     <li class="item-break first{% if page.active-item=='peintures' %} active{% endif %}">
-      <a href="{{ site.baseurl }}/ru/paintings/">Картины</a>
+      <a href="{{ site.baseurl }}/ru/peintures/">Картины</a>
     </li>
     <li {% if page.active-item=='expositions' %}class="active"{% endif %}>
-      <a href="{{ site.baseurl }}/ru/exhibitions/">Выставки</a>
+      <a href="{{ site.baseurl }}/ru/expositions/">Выставки</a>
     </li>
     <li class="item-break{% if page.active-item=='biographie' %} active{% endif %}">
-      <a href="{{ site.baseurl }}/ru/biography/">Биография</a>
+      <a href="{{ site.baseurl }}/ru/biographie/">Биография</a>
     </li>
     <li class="{% if page.active-item=='blog' %} active{% endif %}">
       <a href="{{ site.baseurl }}/blog/">блог</a>
@@ -51,13 +51,13 @@
     </li>
     {% else %}
     <li>
-      <a class="lang-link" data-title="Русский" href="{{ site.baseurl }}/ru/">ru</a>
+      <a class="lang-link" data-title="Русский" href="{{ site.baseurl }}/ru{{ page.url }}">ru</a>
     </li>
     <li>
-      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/">en</a>
+      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en{{ page.url }}">en</a>
     </li>
     <li class="active lang">
-      <a class="lang-link" data-title="français" href="{{ site.baseurl }}/">fr</a>
+      <a class="lang-link" data-title="français" href="{{ site.baseurl }}{{ page.url }}">fr</a>
     </li>
     <li class="item-break first{% if page.active-item=='peintures' %} active{% endif %}">
       <a href="{{ site.baseurl }}/peintures/">Peinture</a>

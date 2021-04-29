@@ -3,6 +3,7 @@ lang: EN
 layout: default
 title: Biography
 active-item: biographie
+permalink: /en/biographie/
 ---
 <!-- Ne pas supprimer la balise -->
 <div class="printy">

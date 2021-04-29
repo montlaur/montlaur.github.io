@@ -5,6 +5,7 @@ title: Картины
 menutitle: Картины
 sous-menu: Подменю
 active-item: peintures
+permalink: /ru/peintures/
 
 quote:
   footer: "Ги де Монлор (25<sup></sup> сентября 1961)"

@@ -9,4 +9,5 @@ active-item: expositions
 expositions:
   date: Date
   lieu-description: Location & description
+permalink: /en/expositions/
 ---
