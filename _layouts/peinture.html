@@ -50,7 +50,8 @@
 </section>
 <section class="bg-background">
   <div class="container lead">
-    {% for post in site.retrospective limit:1 %}
+    {% assign retropost = site.retrospective | reverse %}
+    {% for post in retropost limit:1 %}
       {% include retropost.html post = post lienretro = "oui" %}
     {% endfor %}
   </div>
