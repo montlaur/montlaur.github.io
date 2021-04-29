@@ -18,15 +18,11 @@
       </div>
     </div>
     <div class="seven columns">
-      <h3 class="post-title">
-        {%- unless include.notitle == "yes" -%}
-          <a href="{{ include.post.url }}">
-        {%- endunless -%}
-        {{ include.post.title }}
-        {%- unless include.notitle == "yes" -%}
-          </a>
-        {%- endunless -%}
-      </h3>
+      {%- unless include.notitle == "yes" -%}
+        <h3 class="post-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
+      {%- else -%}
+        <h2>{{ include.post.title }}</h2>
+      {%- endunless -%}
       {% if page.lang=="EN" %}
         {{ include.post.description-en | markdownify }}
       {% elsif page.lang=="RU" %}
