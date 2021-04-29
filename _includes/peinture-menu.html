@@ -2,7 +2,16 @@
   <div class="container lead">
     <div class="row">
       <div class="four columns">
-        <h1 class="title"><a href="./">{{ page.menutitle }}</a></h1>
+        <h1 class="title">
+          {%- if page.lang=="EN" -%}
+          <a href="{{ site.baseurl }}/en/paintings/">
+          {%- elsif page.lang=="RU" -%}
+          <a href="{{ site.baseurl }}/ru/paintings/">
+          {%- else -%}
+          <a href="{{ site.baseurl }}/peintures/">
+          {% endif %}
+          {{ page.menutitle }}</a>
+        </h1>
         <ul class="list-inline accessible-menu">
           <li><a class="button menu-button categories" href="#categories">{{ page.sous-menu }}</a></li>
         </ul>
