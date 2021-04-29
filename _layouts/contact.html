@@ -1,5 +1,10 @@
 {% include head.html %}
-<section class="contact bg-background">
+<section class="bg-background">
+  <div class="container lead">
+    <h1>{{ page.title }}</h1>
+  </div>
+</section>
+<section class="contact bg-white">
   <div class="container lead">
     <form name="contact{{page.lang}}"
           action="{{ site.baseurl }}{{ page.contact.thankyou }}"
@@ -7,7 +12,6 @@
           netlify="true">
       <div class="flex-row">
         <div class="seven columns">
-          <h1>{{ page.title }}</h1>
           <label for="name">{{ page.contact.name }}</label>
           <input id="name" type="text" name="_name" placeholder="Robert Montalu" required="required">
           <label for="_replyto">{{ page.contact.email }}</label>
