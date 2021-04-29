@@ -7,7 +7,8 @@
           <a href="#{{ include.post.title | url_encode | strip_html }}">
             <img  class="framed"
                   src="{{ include.post.picture }}"
-                  alt="{{ include.post.title }}">
+                  alt="{{ include.post.title }}"
+                  {%- unless include.notitle == "yes" -%}loading="lazy"{%- endunless -%}>
           </a>
           <figcaption>
             <h5>{{ include.post.title }}</h5>
