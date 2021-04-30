@@ -15,9 +15,7 @@ dimensions: 55 cm x 46 cm
 description-fr: >-
   Cette peinture respire la félicité et le calme que le peintre retrouvait à
   Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
-  retrouvé le bleu des yeux
-
-
+  pris le bleu des yeux de Gala.
 
 
   La terre est bleue comme une orange\
@@ -58,9 +56,7 @@ description-fr: >-
 description-en: >-
   Cette peinture respire la félicité et le calme que le peintre retrouvait à
   Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
-  retrouvé le bleu des yeux
-
-
+  retrouvé le bleu des yeux de Gala.
 
 
   La terre est bleue comme une orange\
@@ -101,9 +97,7 @@ description-en: >-
 description-ru: >-
   Cette peinture respire la félicité et le calme que le peintre retrouvait à
   Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
-  retrouvé le bleu des yeux
-
-
+  retrouvé le bleu des yeux de Gala.
 
 
   La terre est bleue comme une orange\
