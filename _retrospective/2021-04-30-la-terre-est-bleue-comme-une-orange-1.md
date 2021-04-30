@@ -18,38 +18,38 @@ description-fr: >-
   pris le bleu des yeux de Gala.
 
 
-  La terre est bleue comme une orange\
+  *La terre est bleue comme une orange*\
 
-  Jamais une erreur les mots ne mentent pas\
+  *Jamais une erreur les mots ne mentent pas*\
 
-  Ils ne vous donnent plus à chanter\
+  *Ils ne vous donnent plus à chanter*\
 
-  Au tour des baisers de s’entendre\
+  *Au tour des baisers de s’entendre*\
 
-  Les fous et les amours\
+  *Les fous et les amours*\
 
-  Elle sa bouche d’alliance\
+  *Elle sa bouche d’alliance*\
 
-  Tous les secrets tous les sourires\
+  *Tous les secrets tous les sourires*\
 
-  Et quels vêtements d’indulgence\
+  *Et quels vêtements d’indulgence*\
 
-  À la croire toute nue.
+  *À la croire toute nue.*
 
 
-  Les guêpes fleurissent vert\
+  *Les guêpes fleurissent vert*\
 
-  L’aube se passe autour du cou\
+  *L’aube se passe autour du cou*\
 
-  Un collier de fenêtres\
+  *Un collier de fenêtres*\
 
-  Des ailes couvrent les feuilles\
+  *Des ailes couvrent les feuilles*\
 
-  Tu as toutes les joies solaires\
+  *Tu as toutes les joies solaires*\
 
-  Tout le soleil sur la terre\
+  *Tout le soleil sur la terre*\
 
-  Sur les chemins de ta beauté.
+  *Sur les chemins de ta beauté.*
 
 
   *(Paul Eluard, L’amour la poésie, 1929)*
@@ -59,38 +59,38 @@ description-en: >-
   retrouvé le bleu des yeux de Gala.
 
 
-  La terre est bleue comme une orange\
+  *La terre est bleue comme une orange*\
 
-  Jamais une erreur les mots ne mentent pas\
+  *Jamais une erreur les mots ne mentent pas*\
 
-  Ils ne vous donnent plus à chanter\
+  *Ils ne vous donnent plus à chanter*\
 
-  Au tour des baisers de s’entendre\
+  *Au tour des baisers de s’entendre*\
 
-  Les fous et les amours\
+  *Les fous et les amours*\
 
-  Elle sa bouche d’alliance\
+  *Elle sa bouche d’alliance*\
 
-  Tous les secrets tous les sourires\
+  *Tous les secrets tous les sourires*\
 
-  Et quels vêtements d’indulgence\
+  *Et quels vêtements d’indulgence*\
 
-  À la croire toute nue.
+  *À la croire toute nue.*
 
 
-  Les guêpes fleurissent vert\
+  *Les guêpes fleurissent vert*\
 
-  L’aube se passe autour du cou\
+  *L’aube se passe autour du cou*\
 
-  Un collier de fenêtres\
+  *Un collier de fenêtres*\
 
-  Des ailes couvrent les feuilles\
+  *Des ailes couvrent les feuilles*\
 
-  Tu as toutes les joies solaires\
+  *Tu as toutes les joies solaires*\
 
-  Tout le soleil sur la terre\
+  *Tout le soleil sur la terre*\
 
-  Sur les chemins de ta beauté.
+  *Sur les chemins de ta beauté.*
 
 
   *(Paul Eluard, L’amour la poésie, 1929)*
@@ -100,38 +100,38 @@ description-ru: >-
   retrouvé le bleu des yeux de Gala.
 
 
-  La terre est bleue comme une orange\
+  *La terre est bleue comme une orange*\
 
-  Jamais une erreur les mots ne mentent pas\
+  *Jamais une erreur les mots ne mentent pas*\
 
-  Ils ne vous donnent plus à chanter\
+  *Ils ne vous donnent plus à chanter*\
 
-  Au tour des baisers de s’entendre\
+  *Au tour des baisers de s’entendre*\
 
-  Les fous et les amours\
+  *Les fous et les amours*\
 
-  Elle sa bouche d’alliance\
+  *Elle sa bouche d’alliance*\
 
-  Tous les secrets tous les sourires\
+  *Tous les secrets tous les sourires*\
 
-  Et quels vêtements d’indulgence\
+  *Et quels vêtements d’indulgence*\
 
-  À la croire toute nue.
+  *À la croire toute nue.*
 
 
-  Les guêpes fleurissent vert\
+  *Les guêpes fleurissent vert*\
 
-  L’aube se passe autour du cou\
+  *L’aube se passe autour du cou*\
 
-  Un collier de fenêtres\
+  *Un collier de fenêtres*\
 
-  Des ailes couvrent les feuilles\
+  *Des ailes couvrent les feuilles*\
 
-  Tu as toutes les joies solaires\
+  *Tu as toutes les joies solaires*\
 
-  Tout le soleil sur la terre\
+  *Tout le soleil sur la terre*\
 
-  Sur les chemins de ta beauté.
+  *Sur les chemins de ta beauté.*
 
 
   *(Paul Eluard, L’amour la poésie, 1929)*
