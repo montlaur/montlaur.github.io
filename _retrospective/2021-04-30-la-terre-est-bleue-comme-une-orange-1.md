@@ -5,15 +5,15 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La terre est bleue comme une orange
-title-en: La terre est bleue comme une orange
+title-en: The Earth is Blue like an Orange
 title-ru: La terre est bleue comme une orange
 picture: /photos/wordpress/1552a.jpg
 place: Rothéneuf
-annee: Juillet 1974
+annee: juillet 1974
 type: Huile sur papier sur isorel
 dimensions: 55 cm x 46 cm
 description-fr: >-
-  Cette peinture respire la félicité et le calme que le peintre retrouvait à
+  Cette peinture respire la félicité et le calme que Montlaur  retrouvait à
   Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
   pris le bleu des yeux de Gala.
 
@@ -54,46 +54,47 @@ description-fr: >-
 
   *(Paul Eluard, L’amour la poésie, 1929)*
 description-en: >-
-  Cette peinture respire la félicité et le calme que le peintre retrouvait à
-  Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
-  retrouvé le bleu des yeux de Gala.
+  This painting exudes the happiness and calm that Montlaur found in Rothéneuf.
+  One can see a bowed head, is it that of the beloved? The sky of Brittany is
+  blue like Gala's eyes.
 
 
-  *La terre est bleue comme une orange*\
+  *The earth is blue like an orange*\
 
-  *Jamais une erreur les mots ne mentent pas*\
+  *Never an error, words do not lie*\
 
-  *Ils ne vous donnent plus à chanter*\
+  *They do not give you cause to sing*\
 
-  *Au tour des baisers de s’entendre*\
+  *Turning these kisses to get along*\
 
-  *Les fous et les amours*\
+  *The crazy ones and the lovers*\
 
-  *Elle sa bouche d’alliance*\
+  *Her, her mouth of alliance*\
 
-  *Tous les secrets tous les sourires*\
+  *All the secrets, all the smiles*\
 
-  *Et quels vêtements d’indulgence*\
+  *And what clothing of indulgence*\
 
-  *À la croire toute nue.*
-
-
-  *Les guêpes fleurissent vert*\
-
-  *L’aube se passe autour du cou*\
-
-  *Un collier de fenêtres*\
-
-  *Des ailes couvrent les feuilles*\
-
-  *Tu as toutes les joies solaires*\
-
-  *Tout le soleil sur la terre*\
-
-  *Sur les chemins de ta beauté.*
+  *To believe her naked*
 
 
-  *(Paul Eluard, L’amour la poésie, 1929)*
+  *The wasps bloom green*\
+
+  *The dawn passes around the neck*\
+
+  *Wings cover the leaves*\
+
+  *You have all the joys of the sun*\
+
+  *All the sun in the world*\
+
+  *On the path of your beauty.*
+
+
+  *(Paul Eluard, Love, Poetry, 1929)*
+
+
+  *(Translated by Anna Scanlon)*
 description-ru: >-
   Cette peinture respire la félicité et le calme que le peintre retrouvait à
   Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
