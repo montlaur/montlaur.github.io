@@ -19,7 +19,7 @@
               <h5>{{ include.post.title }}</h5>
             {% endif %}
             {% if include.post.type %}{{ include.post.type }}, {% endif %}{{ include.post.dimensions }}<br>
-            {{ include.post.place }}, {{ include.post.annee | date: "%b %Y" }}
+            {{ include.post.place }}, {{ include.post.annee | date: "%m/%Y" }}
           </figcaption>
         </figure>
       </div>

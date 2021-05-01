@@ -59,7 +59,11 @@ collections:
       - { label: 'Lieu / Place', name: 'place', widget: 'string' }
       - { label: 'Date', name: 'annee', widget: 'date' }
       - { label: 'Type', name: 'type', widget: 'string' }
+      - { label: 'Type (en)', name: 'type-en', widget: 'string' }
+      - { label: 'Type (ru)', name: 'type-ru', widget: 'string' }
       - { label: 'Dimensions', name: 'dimensions', widget: 'string' }
+      - { label: 'Dimensions (en)', name: 'dimensions-en', widget: 'string' }
+      - { label: 'Dimensions (ru)', name: 'dimensions-ru', widget: 'string' }
       - { label: 'Description (fr)', name: 'description-fr', widget: 'markdown' }
       - { label: 'Description (en)', name: 'description-en', widget: 'markdown' }
       - { label: 'Description (ru)', name: 'description-ru', widget: 'markdown' }
