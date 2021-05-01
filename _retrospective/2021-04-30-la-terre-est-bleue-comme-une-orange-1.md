@@ -9,7 +9,7 @@ title-en: La terre est bleue comme une orange - (The Earth is Blue like an Orang
 title-ru: La terre est bleue comme une orange
 picture: /photos/wordpress/1552a.jpg
 place: Rothéneuf
-annee: 07/1974
+annee: 1974-07-29T23:00:00.000Z
 type: Huile sur papier sur isorel
 dimensions: 55 cm x 46 cm
 description-fr: >-

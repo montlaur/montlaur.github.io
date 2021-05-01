@@ -9,7 +9,7 @@ title-en: Étude Machine à remonter le temps - (Study - Time Machine)
 title-ru: Étude Machine à remonter le temps
 picture: /photos/wordpress/etude-machine-à-remonter-le-temps.jpg
 place: Nice
-annee: 01/1952
+annee: 1952-01-29T23:00:00.000Z
 type: Gouache
 dimensions: 24 cm x 31.5 cm
 description-fr: À Nice, devant la Baie des Anges, en 1952, Montlaur a apuré son

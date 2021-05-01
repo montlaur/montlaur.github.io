@@ -9,7 +9,7 @@ title-en: Le maître de Moulins - (The Master of Moulins)
 title-ru: Le maître de Moulins
 picture: /photos/wordpress/le-maître-de-moulins.jpg
 place: Nice
-annee: 07/1952
+annee: 1952-07-29T23:00:00.000Z
 type: Huile sur toile
 dimensions: 73.5 cm x 92 cm
 description-fr: "Montlaur poursuit sa recherche de la peinture parfaite en

@@ -9,7 +9,7 @@ title-en: La nuit d’Aurélia - (Aurelia's night)
 title-ru: La nuit d’Aurélia
 picture: /photos/wordpress/179765175_5507026209368718_6972913337140986288_n.jpg
 place: Paris
-annee: 01/1963 - 01/1974
+annee: 1963-11-29T23:00:00.000Z
 type: huile
 dimensions: 60 cm x 73 cm
 description-fr: >-

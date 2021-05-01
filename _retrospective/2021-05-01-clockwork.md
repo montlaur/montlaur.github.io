@@ -9,7 +9,7 @@ title-en: Clockwork
 title-ru: Clockwork
 picture: /photos/wordpress/clockwork.jpg
 place: Fontainebleau
-annee: 06/1953
+annee: 1953-06-29T23:00:00.000Z
 type: Huile sur toile
 dimensions: 146 cm x 114 cm
 description-fr: En 1953, Montlaur s’installe à Fontainebleau, plus près de ses

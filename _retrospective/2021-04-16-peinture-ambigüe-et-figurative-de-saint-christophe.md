@@ -13,7 +13,7 @@ title-ru: Peinture ambigüe et figurative de Saint Christophe ou There are thing
   that it would be far better not to know
 picture: /photos/wordpress/174555768_5447129608691712_3517750228046646207_n.jpg
 place: Paris
-annee: 01/1974
+annee: 1974-01-28T23:00:00.000Z
 type: huile
 dimensions: 55 cm x 46 cm
 description-fr: >-
