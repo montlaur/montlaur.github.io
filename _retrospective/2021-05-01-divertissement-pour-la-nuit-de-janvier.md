@@ -9,14 +9,14 @@ title-en: Divertissement pour la nuit de Janvier (Entertainment for a Night of J
 title-ru: Divertissement pour la nuit de Janvier
 picture: /photos/wordpress/divertissement-pour-la-nuit-de-janvier.jpg
 place: Fontainebleau
-annee: 01/02/1955
+annee: 1955-02-29T23:00:00.000Z
 type: Huile sur toile
 dimensions: 61 cm x 46 cm
 description-fr: >-
   Montlaur fait à nouveau référence à la fin tragique de Nerval, son suicide Rue
   de la Vieille Lanterne à Paris, la nuit du 25 au 26 janvier 1855. C'était
   quelques jours après la publication de la première partie d'Aurélia où il
-  relatait ses rêves prémonitoires. 
+  relatait ses rêves prémonitoires.
 
 
   Le peintre est en pleine période "Fontainebleau" : il utilise presqu'exclusivement le couteau à palette et joue sur les superpositions des couches de couleurs différentes en grattant celles-ci. Les formes de couleurs vives semblent emprisonnées dans un monde noir d'encre.
@@ -32,7 +32,7 @@ description-ru: >-
   Montlaur fait à nouveau référence à la fin tragique de Nerval, son suicide Rue
   de la Vieille Lanterne à Paris, la nuit du 25 au 26 janvier 1855. C'était
   quelques jours après la publication de la première partie d'Aurélia où il
-  relatait ses rêves prémonitoires. 
+  relatait ses rêves prémonitoires.
 
 
   Le peintre est en pleine période "Fontainebleau" : il utilise presqu'exclusivement le couteau à palette et joue sur les superpositions des couches de couleurs différentes en grattant celles-ci. Les formes de couleurs vives semblent emprisonnées dans un monde noir d'encre.

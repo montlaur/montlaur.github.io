@@ -9,13 +9,13 @@ title-en: Le rêve de Nerval - (Nerval's Dream)
 title-ru: Le rêve de Nerval - (Мечта Нерваля)
 picture: /photos/wordpress/le-rêve-de-nerval.jpg
 place: Fontainebleau
-annee: 01/1955
+annee: 1955-01-29T23:00:00.000Z
 type: Huile sur toile
 dimensions: 60cm x 72 cm
 description-fr: >-
   Montlaur fait références aux rêves hallucinatoires décrits par Gérard de
   Nerval dans *Aurélia.* Ces rêves, à la limite de l'imaginé et du réel, et leur
-  publication précédèrent de peu la mort par suicide du poète. 
+  publication précédèrent de peu la mort par suicide du poète.
 
 
   Le peintre se libère enfin de la forme, de la géométrie. Il troque le pinceau pour le couteau à palette, il détruit les contours. Son imagination peut maintenant exprimer sans entraves le rêve, trop souvent cauchemar, et la réalité.
@@ -29,7 +29,7 @@ description-en: >-
 description-ru: >-
   Montlaur fait références aux rêves hallucinatoires décrits par Gérard de
   Nerval dans *Aurélia.* Ces rêves, à la limite de l'imaginé et du réel, et leur
-  publication précédèrent de peu la mort par suicide du poète. 
+  publication précédèrent de peu la mort par suicide du poète.
 
 
   Le peintre se libère enfin de la forme, de la géométrie. Il troque le pinceau pour le couteau à palette, il détruit les contours. Son imagination peut maintenant exprimer sans entraves le rêve, trop souvent cauchemar, et la réalité.
