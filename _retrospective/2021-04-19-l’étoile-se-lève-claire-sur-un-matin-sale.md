@@ -9,7 +9,7 @@ title-en: L’étoile se lève claire sur un matin sale
 title-ru: L’étoile se lève claire sur un matin sale
 picture: /photos/wordpress/174592244_5461951360542870_2690126117342277266_n.jpg
 place: Paris
-annee: "1974"
+annee: 01/1974
 type: huile
 dimensions: 55cm × 46cm
 description-fr: >
