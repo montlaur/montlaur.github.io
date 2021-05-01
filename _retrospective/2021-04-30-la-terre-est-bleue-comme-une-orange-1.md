@@ -5,11 +5,11 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La terre est bleue comme une orange
-title-en: The Earth is Blue like an Orange
+title-en: La terre est bleue comme une orange - (The Earth is Blue like an Orange)
 title-ru: La terre est bleue comme une orange
 picture: /photos/wordpress/1552a.jpg
 place: Rothéneuf
-annee: juillet 1974
+annee: 07/1974
 type: Huile sur papier sur isorel
 dimensions: 55 cm x 46 cm
 description-fr: >-
