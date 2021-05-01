@@ -10,7 +10,9 @@ title-en: Peinture ambigüe et figurative de Saint Christophe (Ambiguous and
   figurative painting of Saint Christopher) or There are things that it would be
   far better not to know
 title-ru: Peinture ambigüe et figurative de Saint Christophe ou There are things
-  that it would be far better not to know
+  that it would be far better not to know - (Неоднозначное и фигуративное
+  изображение святого Христофора или Есть вещи, которые было было бы гораздо
+  лучше не знать)
 picture: /photos/wordpress/174555768_5447129608691712_3517750228046646207_n.jpg
 place: Paris
 annee: 1974-01-28T23:00:00.000Z
