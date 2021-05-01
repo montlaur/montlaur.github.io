@@ -21,8 +21,8 @@ description-fr: >-
   Le peintre se libère enfin de la forme, de la géométrie. Il troque le pinceau pour le couteau à palette, il détruit les contours. Son imagination peut maintenant exprimer sans entraves le rêve, trop souvent cauchemar, et la réalité.
 description-en: >-
   Montlaur refers to the hallucinatory dreams described by Gérard de Nerval
-  in  *Aurélia.*  These dreams, where real and imagined life are mingled, and
-  their publication shortly preceded the poet's death by suicide.
+  in  *Aurélia.*  The publication of these dreams - where real and imagined life
+  are undistinguishable - very shortly preceded the poet's death by suicide.
 
 
   The painter finally frees himself from form and geometry. He trades the brush for the palette knife, he destroys the outlines. His imagination can now express without hindrance his dreams, too often nightmares, and reality.
