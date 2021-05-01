@@ -5,11 +5,11 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Le soleil du détroit de Messine
-title-en: Le soleil du détroit de Messine
+title-en: Le soleil du détroit de Messine - (The Sun of the Strait of Messina)
 title-ru: Le soleil du détroit de Messine
 picture: /photos/wordpress/173272339_5439025052835501_4913393786078555588_n.jpg
 place: Paris
-annee: janvier 1974
+annee: 01/1974
 type: huile
 dimensions: 92 cm x 65 cm
 description-fr: Le peintre devait avoir en tête le choix tragique d’Ulysse qui
