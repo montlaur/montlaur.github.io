@@ -5,7 +5,8 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: L’étoile se lève claire sur un matin sale
-title-en: L’étoile se lève claire sur un matin sale
+title-en: L’étoile se lève claire sur un matin sale - (The star rises bright on
+  a dirty morning)
 title-ru: L’étoile se lève claire sur un matin sale
 picture: /photos/wordpress/174592244_5461951360542870_2690126117342277266_n.jpg
 place: Paris
