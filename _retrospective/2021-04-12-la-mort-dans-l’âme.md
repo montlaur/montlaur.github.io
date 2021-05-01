@@ -9,7 +9,7 @@ title-en: La mort dans l’âme - (With a Heavy Heart)
 title-ru: La mort dans l’âme
 picture: /photos/wordpress/172188702_5428107453927261_2759989973320134181_n.jpg
 place: Paris
-annee: 11/1973
+annee: 1973-11-29T23:00:00.000Z
 type: huile
 dimensions: 195 cm x 114 cm
 description-fr: Que de désolation dans cette peinture au titre si explicite !
