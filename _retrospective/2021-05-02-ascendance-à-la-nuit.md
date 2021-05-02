@@ -19,9 +19,9 @@ dimensions-ru: 81 см x 54 см
 description-fr: En 1959 le peintre aborde sa période lyrique. Les formes sont
   dynamiques, les couleurs contrastées sont violentes, chargées de souvenirs
   douloureux.
-description-en: In 1959 the painter begins his lyrical period. Shapes are
-  dynamic, colors are highly contrasted, violent and loaded with painful
-  memories.
+description-en: In 1959 the painter begins his lyrical period. Shapes are full
+  of movement, highly contrasted colors are full of movement and loaded with
+  painful memories.
 description-ru: En 1959 le peintre aborde sa période lyrique. Les formes sont
   dynamiques, les couleurs contrastées sont violentes, chargées de souvenirs
   douloureux.
