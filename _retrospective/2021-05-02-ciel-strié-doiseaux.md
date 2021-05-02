@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Ciel strié d'oiseaux
-title-en: Sky Streaked with Birds (Ciel strié d'oiseaux)
+title-en: Ciel strié d'oiseaux - (Sky Streaked with Birds)
 title-ru: Ciel strié d'oiseaux
 picture: /photos/wordpress/ciel-strié-d-oiseaux.jpg
 place: Île de Ré
