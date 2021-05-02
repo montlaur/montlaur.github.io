@@ -5,8 +5,8 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La gloire du matin
-title-en: Morning Glory
-title-ru: Утренняя слава
+title-en: La gloire du matin - (Morning Glory)
+title-ru: La gloire du matin - (Утренняя слава)
 picture: /photos/wordpress/la-gloire-du-matin.jpg
 place: Fontainebleau
 annee: 1954-12-31T23:00:00.000Z
