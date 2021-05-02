@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Ascendance à la nuit
-title-en: Ascendance at night
+title-en: Ascendance à la nuit - (Ascendance at night)
 title-ru: Ascendance à la nuit
 picture: /photos/wordpress/ascendance-à-le-nuit.jpg
 place: Paris
