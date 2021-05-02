@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Portrait par lui-même d'un peintre aveugle
-title-en: Portrait par lui-même d'un peintre aveugle - (Self-portrait by a blind painter)
+title-en: Portrait par lui-même d'un peintre aveugle - (Self-Portrait of a Blind Painter)
 title-ru: Portrait par lui-même d'un peintre aveugle
 picture: /photos/wordpress/portrait-par-lui-même-d-un-peintre-aveugle.jpg
 place: Paris
