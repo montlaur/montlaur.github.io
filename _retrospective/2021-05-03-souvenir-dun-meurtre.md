@@ -20,9 +20,9 @@ description-fr: De quel meurtre s’agit-il ? On ne sait pas. On voit la croix
   bien sûr, le brun de la terre, de la boue, le vert de la décomposition, le
   rouge du sang. Le peintre décrit l’horreur d’un souvenir, de guerre
   certainement.
-description-en: What murder is this? We do not know. The burial cross is
-  obvious, one can see, brown earth, the mud, green decaying matter, red blood.
-  The painter describes the horror of a memory, certainly wartime.
+description-en: What murder is this? We do not know. One can see the obvious
+  burial cross, brown earth, mud, green decaying matter, red blood. The painter
+  describes the horror of a memory, certainly wartime.
 description-ru: De quel meurtre s’agit-il ? On ne sait pas. On voit la croix
   bien sûr, le brun de la terre, de la boue, le vert de la décomposition, le
   rouge du sang. Le peintre décrit l’horreur d’un souvenir, de guerre
