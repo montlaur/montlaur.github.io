@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Souvenir d'un meurtre
-title-en: Souvenir d'un meurtre - (Recollection of a murder)
+title-en: Souvenir d'un meurtre - (Recollection of a Murder)
 title-ru: Souvenir d'un meurtre
 picture: /photos/wordpress/souvenir-d-un-meurtre.jpg
 place: Dinard
