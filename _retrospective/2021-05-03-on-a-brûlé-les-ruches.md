@@ -4,9 +4,9 @@ menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
-title: On a brûlé les ruches
-title-en: On a brûlé les ruches - (The White Beehives have been Burned)
-title-ru: On a brûlé les ruches
+title: On a brûlé les ruches blanches
+title-en: On a brûlé les ruches blanches - (The White Beehives have been Burned)
+title-ru: On a brûlé les ruches blanches
 picture: /photos/wordpress/on-a-brûlé-les-ruches-blanches.jpg
 place: Paris
 annee: 1960-01-02T23:00:00.000Z
