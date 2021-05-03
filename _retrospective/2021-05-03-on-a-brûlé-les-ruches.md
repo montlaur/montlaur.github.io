@@ -23,13 +23,15 @@ description-fr: >-
   guerre, et en particulier lors du débarquement de Normandie.
 
 
-  *L’hiver est mort tout enneigé*[](<>)*On a brûlé les ruches blanches\
+  *L'hiver est mort tout enneigé\
+
+  On a brûlé les ruches blanches\
 
   Dans les jardins et les vergers\
 
   Les oiseaux chantent sur les branches\
 
-  Le printemps clair l’avril léger*
+  Le printemps clair l'avril léger*
 
 
   *Mort d’immortels argyraspides\
@@ -128,13 +130,15 @@ description-ru: >-
   guerre, et en particulier lors du débarquement de Normandie.
 
 
-  *L’hiver est mort tout enneigé*[](<>)*On a brûlé les ruches blanches\
+  *L'hiver est mort tout enneigé\
+
+  On a brûlé les ruches blanches\
 
   Dans les jardins et les vergers\
 
   Les oiseaux chantent sur les branches\
 
-  Le printemps clair l’avril léger*
+  Le printemps clair l'avril léger*
 
 
   *Mort d’immortels argyraspides\
