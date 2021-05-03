@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La promesse des fleurs
-title-en: La promesse des fleurs
+title-en: La promesse des fleurs (The Promise of Flowers)
 title-ru: La promesse des fleurs
 picture: /photos/wordpress/la-promesse-des-fleurs.jpg
 place: Paris
@@ -46,22 +46,25 @@ description-en: >-
   like painful memories that cannot be deleted.
 
 
-  *Nous ne reverrons plus ces fâcheuses années\
+  *Never again will we encounter these sad years\
 
-  Qui pour les plus heureux n’ont produit que des pleurs.\
+  That, for the most fortunate brought nothing but tears.\
 
-  Toute sorte de biens comblera nos familles,\
+  Our families will be laden with all kinds of goods,\
 
-  La moisson de nos champs lassera les faucilles,\
+  The harvest of our fields will become tedious for sickles,\
 
-  Et les fruits passeront la promesse des fleurs.\
+  And fruit will fulfill the promise of flowers.\
 
-  La fin de tant d’ennuis dont nous fûmes la proie\
+  The end of such great trouble we suffered\
 
-  Nous ravira les sens de merveille et de joie ;*
+  Will delight our senses with wonder and with joy;*
 
 
   *(François de Malherbe, 1605)*
+
+
+  *(Translation by G de Montlaur)*
 description-ru: >-
   Le peintre reprend les mots de Malherbe dans la « Prière pour le Roy Henry le
   Grand » où le poète célèbre la paix enfin ramenée au pays par le roi Henri IV.
