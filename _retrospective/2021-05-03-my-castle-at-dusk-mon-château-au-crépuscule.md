@@ -4,7 +4,7 @@ menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
-title: My castle at dusk - (Mon château au crépuscule)
+title: My castle at Dusk - (Mon château au crépuscule)
 title-en: My Castle at Dusk
 title-ru: My Castle at Dusk
 picture: /photos/wordpress/my-castle-at-dusk.jpg
