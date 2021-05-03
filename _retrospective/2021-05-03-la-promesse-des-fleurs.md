@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La promesse des fleurs
-title-en: La promesse des fleurs (The Promise of Flowers)
+title-en: La promesse des fleurs - (The Promise of Flowers)
 title-ru: La promesse des fleurs
 picture: /photos/wordpress/la-promesse-des-fleurs.jpg
 place: Paris
