@@ -20,7 +20,8 @@ description-fr: >-
   Depuis qu'il peint, Montlaur a toujours trouvé son inspiration dans l’œuvre de
   Guillaume Apollinaire, le poète le plus proche de lui au sens figuré, mais
   aussi physiquement : il garda le livre « Alcools » sur lui pendant toute la
-  guerre, et en particulier lors du débarquement de Normandie.
+  guerre, et en particulier lorsqu'il débarqua sur les plages normandes le 6
+  juin 1944.
 
 
   *L'hiver est mort tout enneigé\
@@ -127,7 +128,8 @@ description-ru: >-
   Depuis qu'il peint, Montlaur a toujours trouvé son inspiration dans l’œuvre de
   Guillaume Apollinaire, le poète le plus proche de lui au sens figuré, mais
   aussi physiquement : il garda le livre « Alcools » sur lui pendant toute la
-  guerre, et en particulier lors du débarquement de Normandie.
+  guerre, et en particulier lorsqu'il débarqua sur les plages normandes le 6
+  juin 1944.
 
 
   *L'hiver est mort tout enneigé\
