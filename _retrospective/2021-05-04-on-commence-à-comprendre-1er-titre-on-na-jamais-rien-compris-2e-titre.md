@@ -6,8 +6,8 @@ active-item: peintures
 active-item2: retrospective
 title: On commence à comprendre [1er titre], On n'a jamais rien compris [2e titre]
 title-en: On commence à comprendre [1er titre], On n'a jamais rien compris [2e
-  titre] - (We are starting to understand [1st title], We have never understood
-  anything [2nd title])
+  titre] - (We are Starting to Understand [1st title], We have Never Understood
+  Anything [2nd title])
 title-ru: On commence à comprendre [1er titre], On n'a jamais rien compris [2e titre]
 picture: /photos/wordpress/on-comence-à-comprendre.jpg
 place: Dinard
