@@ -16,7 +16,7 @@ type-ru: Масло, оргалит
 dimensions: 55 cm x 46 cm
 dimensions-en: 55 cm x 46 cm
 dimensions-ru: 55 см x 46 см
-description-fr: Tête d'homme, aux cheveux embrasés, ciel noir en feu. La catastrophe arrive !
+description-fr: Tête d'homme aux cheveux embrasés, ciel noir en feu. La catastrophe arrive !
 description-en: Head of a man, with flaming hair, black sky on fire. The disaster is coming!
-description-ru: Tête d'homme, aux cheveux embrasés, ciel noir en feu. La catastrophe arrive !
+description-ru: Tête d'homme aux cheveux embrasés, ciel noir en feu. La catastrophe arrive !
 ---
