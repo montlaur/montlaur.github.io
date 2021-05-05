@@ -73,7 +73,7 @@ description-en: >-
   Martin Luther in 1524.
 
 
-  The painter-soldier, inspired by the musical work, reproduces on the canvas the war scene, his war: he paints the hand-to-hand combat of the forces of good - the blue forms - against those of evil - the black  forms- in the midst of vermilion flames.
+  The painter-soldier, inspired by the musical work, reproduces on the canvas the war scene, his war: he paints the hand-to-hand combat of the forces of good - the blue forms - against those of evil - the black  forms- in the midst of vermilion flames. Flames.
 
 
   The text  of the 5th stanza of the cantata is as follows:
@@ -96,7 +96,21 @@ description-en: >-
   Halleluja!*
 
 
-  *It was a strange battle**where death and life struggled.**Life won the victory,**it has swallowed up death**Scripture has proclaimed**how one death ate the other,**death has become a mockery.**Alleluia!*
+  *It was a strange battle\
+
+  where death and life struggled.\
+
+  Life won the victory,\
+
+  it has swallowed up death.\
+
+  Scripture has proclaimed\
+
+  how one death ate the other,\
+
+  death has become a mockery.\
+
+  Alleluia!*
 
 
   *(Translated by Francis Brown)*
