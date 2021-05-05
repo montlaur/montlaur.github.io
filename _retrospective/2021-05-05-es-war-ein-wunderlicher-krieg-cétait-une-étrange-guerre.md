@@ -96,7 +96,21 @@ description-en: >-
   Halleluja!*
 
 
-  *It was a strange battle**where death and life struggled.**Life won the victory,**it has swallowed up death**Scripture has proclaimed**how one death ate the other,**death has become a mockery.**Alleluia!*
+  *It was a strange battle\
+
+  where death and life struggled.\
+
+  Life won the victory,\
+
+  it has swallowed up death.\
+
+  Scripture has proclaimed\
+
+  how one death ate the other,\
+
+  death has become a mockery.\
+
+  Alleluia!*
 
 
   *(Translated by Francis Brown)*
