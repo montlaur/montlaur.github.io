@@ -29,7 +29,7 @@ description-fr: >-
   Est-ce le mort que l’on distingue, ombre noire d’une tête derrière un rideau de larmes grises et blanches qui coulent abondamment ? On aperçoit une lumière au centre du tableau : lueur d’espoir et de confiance qu'est  la mort ouvrant la voie au paradis, donc au bonheur.
 
 
-  Pour écouter "Actus Tragicus" : [https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Pour écouter "Actus Tragicus" : <https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety>[](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-en: >-
   Montlaur always painted to music and most of the time he listened to Johann
   Sebastian Bach. The title of this painting is that of cantata BWV 106 “Gottes
@@ -42,7 +42,7 @@ description-en: >-
   Is it the dead we can perceive? The black shadow of a head behind a curtain of gray and white tears that flow profusely? There is a light in the center of the painting: a glimmer of hope and confidence that death is opening the way to paradise, and therefore to happiness.  
 
 
-  Listen to "Actus Tragicus":  [https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Listen to   [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Actus Tragicus](https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety)
 description-ru: >-
   Montlaur peignait toujours en musique et la plupart du temps, il écoutait
   Jean-Sébastien Bach. Le titre de la peinture est celui de la cantate BWV 106 «
@@ -56,5 +56,5 @@ description-ru: >-
   Est-ce le mort que l’on distingue, ombre noire d’une tête derrière un rideau de larmes grises et blanches qui coulent abondamment ? On aperçoit une lumière au centre du tableau : lueur d’espoir et de confiance qu'est  la mort ouvrant la voie au paradis, donc au bonheur.
 
 
-  Слушать "Actus Tragicus":  [https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Слушать "Actus Tragicus":  [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)<https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety>
 ---
