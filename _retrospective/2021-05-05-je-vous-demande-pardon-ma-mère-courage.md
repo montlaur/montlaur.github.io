@@ -19,8 +19,8 @@ dimensions-en: 38 cm x 55 cm
 dimensions-ru: 38 см x 55 см
 description-fr: >-
   C’est un paysage de tempête et de malheur. Le sol est noir, marqué par le feu.
-  La mère, sombre tache tient sa fille morte – forme blanche aux cheveux roux –
-  dans ses bras.
+  La mère – forme noire – tient sa fille morte – forme blanche aux cheveux roux
+  – dans ses bras.
 
 
   Le peintre s’identifie aux soldats meurtriers et réclame son pardon à la mère.
@@ -30,11 +30,11 @@ description-en: >-
   with red hair.
 
 
-  The painter identifies with the murderous soldiers and asks her mother to forgive him.
+  The painter identifies with the murderous soldiers and asks the mother to forgive him.
 description-ru: >-
-  C’est un paysage de tempête et de malheur. Le sol est noir, marqué par le feu.
-  La mère, sombre tache tient sa fille morte – forme blanche aux cheveux roux –
-  dans ses bras.
+  CC’est un paysage de tempête et de malheur. Le sol est noir, marqué par le
+  feu. La mère – forme noire – tient sa fille morte – forme blanche aux cheveux
+  roux – dans ses bras.
 
 
   Le peintre s’identifie aux soldats meurtriers et réclame son pardon à la mère.
