@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Je vous demande pardon, ma Mère Courage
-title-en: Je vous demande pardon, ma Mère Courage - (I Ask for our Pardon, my
+title-en: Je vous demande pardon, ma Mère Courage - (I Ask for your Pardon, my
   Mother Courage)
 title-ru: Je vous demande pardon, ma Mère Courage - (Я прошу прощения, моя Мамаша Кураж)
 picture: /photos/wordpress/je-vous-demande-pardon-ma-mère-courage.jpg
