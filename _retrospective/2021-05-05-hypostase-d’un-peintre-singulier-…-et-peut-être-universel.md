@@ -6,7 +6,7 @@ active-item: peintures
 active-item2: retrospective
 title: Hypostase d’un peintre singulier … et peut-être universel
 title-en: Hypostase d’un peintre singulier … et peut-être universel -
-  (Hypostasis of a singular painter ... and perhaps universal)
+  (Hypostasis of a Singular ... and Perhaps Universal Painter)
 title-ru: Hypostase d’un peintre singulier … et peut-être universel
 picture: /photos/wordpress/hypostase-d-un-peintre-singulier-.jpg
 place: Paris
