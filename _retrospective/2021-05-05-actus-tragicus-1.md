@@ -29,7 +29,7 @@ description-fr: >-
   Est-ce le mort que l’on distingue, ombre noire d’une tête derrière un rideau de larmes grises et blanches qui coulent abondamment ? On aperçoit une lumière au centre du tableau : lueur d’espoir et de confiance qu'est  la mort ouvrant la voie au paradis, donc au bonheur.
 
 
-  Pour écouter "Actus Tragicus" : <https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety>[](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Pour écouter [Actus Tragicus](https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety)[](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-en: >-
   Montlaur always painted to music and most of the time he listened to Johann
   Sebastian Bach. The title of this painting is that of cantata BWV 106 “Gottes
@@ -56,5 +56,5 @@ description-ru: >-
   Est-ce le mort que l’on distingue, ombre noire d’une tête derrière un rideau de larmes grises et blanches qui coulent abondamment ? On aperçoit une lumière au centre du tableau : lueur d’espoir et de confiance qu'est  la mort ouvrant la voie au paradis, donc au bonheur.
 
 
-  Слушать "Actus Tragicus":  [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)<https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety>
+  Слушать [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Actus Tragicus](https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety)
 ---
