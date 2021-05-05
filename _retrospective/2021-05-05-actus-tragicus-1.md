@@ -9,7 +9,7 @@ title-en: Actus Tragicus
 title-ru: Actus Tragicus
 picture: /photos/wordpress/actus-tragicus.jpg
 place: Paris
-annee: 2021-05-05T13:37:44.629Z
+annee: 2021-04-30T22:00:00.000Z
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
