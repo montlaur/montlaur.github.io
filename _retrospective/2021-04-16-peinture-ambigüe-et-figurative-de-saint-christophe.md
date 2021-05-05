@@ -5,7 +5,8 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Peinture ambigüe et figurative de Saint Christophe [1er titre], There are
-  Things that it would be far Better not to Know [2e titre]
+  Things that it would be far Better not to Know - (Il y a des choses qu'il
+  vaudrait bien mieux ne pas connaître) [2e titre]
 title-en: Peinture ambigüe et figurative de Saint Christophe (Ambiguous and
   figurative painting of Saint Christopher) [1st title], There are things that
   it would be far better not to know [2nd title]
@@ -30,12 +31,12 @@ description-fr: >-
 
   Et pourquoi cette phrase sibylline « There are things that it would be far better not to know » (Il y a des choses qu’il vaudrait bien mieux ne jamais connaître) ? De quoi parle le peintre ? Des souvenirs passés ? Choses indicibles mais représentables sur la toile à condition qu'elles soient ambiguës et abstraites.
 description-en: >-
-  On distingue bien, en arrière-plan, la rivière traversée par le saint, la
-  croix derrière lui. La tête ressemble étonnamment à celle du peintre ;
-  celui-ci s’est-il représenté dans le tableau ?
+  We can clearly see, in the background, the river the saint is crossing and the
+  cross he carries. The head, surprisingly, resembles that of the painter; did
+  he really represent himself in the painting?
 
 
-  Et pourquoi cette phrase sibylline « There are things that it would be far better not to know » (Il y a des choses qu’il vaudrait bien mieux ne jamais connaître) ? De quoi parle le peintre ? Des souvenirs passés ? Choses indicibles mais représentables sur la toile à condition qu'elles soient ambiguës et abstraites.
+  And why the cryptic phrase "There are things that it would be far better not to know"? What is the painter referring to? Past memories? Things that are unspeakable but representable on the canvas provided they are ambiguous and abstract.
 description-ru: >-
   On distingue bien, en arrière-plan, la rivière traversée par le saint, la
   croix derrière lui. La tête ressemble étonnamment à celle du peintre ;
