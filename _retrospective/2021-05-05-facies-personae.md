@@ -26,7 +26,7 @@ description-fr: "« Facies personae» pourrait être traduit par « silhouette d
   haut du tableau. On voit bien sûr, un masque sans vie qui occupe tout le
   centre du tableau. À noter le fond noir de la scène, sauf le ciel qui est d’un
   jaune noirci par la fumée issue des fours."
-description-en: "Facies personae\" can be translated as \"silhouette of a
+description-en: "\"Facies personae\" can be translated as \"silhouette of a
   person\" or \"mask of a character\". We have very few elements that would help
   us decipher this painting properly. A resistant friend of the painter,
   Jacqueline Péry d'Alincourt, who had been deported to the Ravensbrück
