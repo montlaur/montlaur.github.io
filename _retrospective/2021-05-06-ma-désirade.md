@@ -17,9 +17,9 @@ dimensions: 60 cm x 92 cm
 dimensions-en: 60 cm x 92 cm
 dimensions-ru: 60 см x 92 см
 description-fr: >-
-  Incroyablement beau poème de Guillaume Apollinaire sur un amour passéLe
+  Incroyablement beau poème de Guillaume Apollinaire sur un amour passé. Le
   tableau laisse voir à travers un hublot la rade, les côtes de l’île pleurée ou
-  la silhouette de la femme aimée ?
+  peut-être la silhouette de la femme aimée ?
 
 
   *Voie lactée ô sœur lumineuse\
