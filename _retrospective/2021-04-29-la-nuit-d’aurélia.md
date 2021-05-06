@@ -30,14 +30,14 @@ description-en: >-
   Gérard de Nerval was one of Montlaur's preferred poets. Several paintings
   refer to his tragic death: "La nuit du 25 janvier 1855 rue de la vieille
   Lanterne" (The night of January 25th 1855, Rue de la Vieille Lanterne) and "La
-  mort du poète" (The death of the Poet), and to his works written just before
-  he committed suicide: "Je suis l'inconsolé" ( I am the inconsable), "Les
-  filles du feu" (The Daughters of Fire) and “ La nuit d'Aurélia" (Aurélia's
+  mort du poète" (The Death of the Poet), and to his works written just before
+  he committed suicide: "Je suis l'inconsolé" ( I am the Inconsable), "Les
+  filles du feu" (The Daughters of Fire) and “ La nuit d'Aurélia" (Aurelia's
   Night ). \
 
   Nerval's prose poem "Aurélia ou le rêve et la vie" (Aurelia or the Dream and the Life) narrates his dream-hallucinations, and his love for Aurélia, now dead, whom he can only meet in the underworld. He speaks of his own madness which, according to Albert Béguin, "is a poetic act par excellence" (L’âme romantique et le rêve, José Corti, 1939, p.358). Nerval mentions that he also translates his dream memories by tracing colored drawings - "series of frescoes" - which he hangs on the wall of his hospital room. For him, the border between dream (delirium) and reality (lucidity) is always blurred, uncertain. Montlaur could not help but be touched by the poet's descriptions. \
 
-  Abstraction allows the painter-reader to convey his perception of "Aurélia" to the viewer of the painting "The Night of Aurélia". Here, he perfectly masters the art of reproducing the blurring of shapes and colors. Hallucination-madness invades the whole painting, we perceive human forms in the foreground "The outlines of their figures varied like the flame of a lamp, and at all times something from one passed into the other; the smile, the voice, the color of the hair, the size, the familiar gestures, were exchanged as if they had lived the same life, and each was thus a composite of all" (Aurelia). In the background, a giant star - is this metamorphosed Aurelia? Protective arms. A dark night sky.
+  Abstraction allows the painter-reader to convey his perception of "Aurélia" to the viewer of the painting "The Night of Aurelia". Here, he perfectly masters the art of reproducing the blurring of shapes and colors. Hallucination-madness invades the whole painting, we perceive human forms in the foreground "The outlines of their figures varied like the flame of a lamp, and at all times something from one passed into the other; the smile, the voice, the color of the hair, the size, the familiar gestures, were exchanged as if they had lived the same life, and each was thus a composite of all" (Aurelia). In the background, a giant star - is this metamorphosed Aurelia? Protective arms. A dark night sky.
 description-ru: >-
   Montlaur avait une grande admiration pour Gérard de Nerval. Plusieurs
   peintures font référence à la mort tragique du poète : « La nuit du 25 janvier
