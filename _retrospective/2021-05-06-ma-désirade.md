@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Ma Désirade
-title-en: Ma Désirade - (My Desired One)
+title-en: "Ma Désirade "
 title-ru: Ma Désirade
 picture: /photos/wordpress/dsc01171a.jpg
 place: Paris
