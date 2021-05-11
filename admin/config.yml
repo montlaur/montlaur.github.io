@@ -56,11 +56,12 @@ collections:
       - { label: 'Titre (en)', name: 'title-en', widget: 'string' }
       - { label: 'Titre (ru)', name: 'title-ru', widget: 'string' }
       - { label: 'Numéro catalogue', name: 'num', widget: 'number' }
+      - { label: 'Date (pour tri)', name: 'annee', widget: 'date' }
+      - { label: 'Date (affichée)', name: 'annee', widget: 'string' }
       - { label: 'Photo', name: 'picture', widget: 'image' }
       - { label: 'Lieu / Place (fr)', name: 'place', widget: 'string' }
       - { label: 'Lieu / Place (en)', name: 'place-en', widget: 'string' }
       - { label: 'Lieu / Place (ru)', name: 'place-ru', widget: 'string' }
-      - { label: 'Date', name: 'annee', widget: 'date' }
       - { label: 'Type', name: 'type', widget: 'string' }
       - { label: 'Type (en)', name: 'type-en', widget: 'string' }
       - { label: 'Type (ru)', name: 'type-ru', widget: 'string' }
