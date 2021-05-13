@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Arma virumque cano
-title-en: Arma virumque cano
+title-en: Arma Virumque Cano
 title-ru: Arma virumque cano
 annee: 1975-11-30T23:00:00.000Z
 annee-aff: 12/1975
