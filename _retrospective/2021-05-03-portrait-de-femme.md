@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Portrait de femme
 title-en: Portrait de femme - (Portrait of a Woman)
 title-ru: Portrait de femme - (Женский портрет)
+annee: 1964-11-30T23:00:00.000Z
+annee-aff: 12/1964
 picture: /photos/wordpress/portrait-de-femme.jpg
 place: "Paris "
-annee: 1963-12-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
