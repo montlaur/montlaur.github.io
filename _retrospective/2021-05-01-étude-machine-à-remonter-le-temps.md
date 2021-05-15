@@ -6,12 +6,19 @@ active-item: peintures
 active-item2: retrospective
 title: Étude Machine à remonter le temps
 title-en: Étude Machine à remonter le temps - (Study - Time Machine)
-title-ru: Étude Machine à remonter le temps
+title-ru: Étude Machine à remonter le temps - (Этюд - Машина времени)
+annee: 1952-10-29T23:00:00.000Z
+annee-aff: 10/1952
 picture: /photos/wordpress/etude-machine-à-remonter-le-temps.jpg
 place: Nice
-annee: 1952-01-29T23:00:00.000Z
+place-en: Nice
+place-ru: Ницца (Франция)
 type: Gouache
-dimensions: 24 cm x 31.5 cm
+type-en: Gouache
+type-ru: Гуашь
+dimensions: 24 cm x 31,5 cm
+dimensions-en: 24 cm x 31.5 cm
+dimensions-ru: 24 см x 31.5 см
 description-fr: À Nice, devant la Baie des Anges, en 1952, Montlaur a apuré son
   style. Les formes sont devenues géométriques, les couleurs sont équilibrées.
 description-en: In Nice, in front of the Baie des Anges, in 1952, Montlaur has
