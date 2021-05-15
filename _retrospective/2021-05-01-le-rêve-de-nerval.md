@@ -7,11 +7,18 @@ active-item2: retrospective
 title: Le rêve de Nerval
 title-en: Le rêve de Nerval - (Nerval's Dream)
 title-ru: Le rêve de Nerval - (Мечта Нерваля)
+annee: 1955-01-29T23:00:00.000Z
+annee-aff: 01/1955
 picture: /photos/wordpress/le-rêve-de-nerval.jpg
 place: Fontainebleau
-annee: 1955-01-29T23:00:00.000Z
+place-en: Fontainebleau (France)
+place-ru: Фонтенбло (Франция)
 type: Huile sur toile
-dimensions: 60cm x 72 cm
+type-en: Oil on canvas
+type-ru: Масло, холст
+dimensions: 60 cm x 72 cm
+dimensions-en: 60 cm x 72 cm
+dimensions-ru: 60  см x 72
 description-fr: >-
   Montlaur fait références aux rêves hallucinatoires décrits par Gérard de
   Nerval dans *Aurélia.* Ces rêves, à la limite de l'imaginé et du réel, et leur
