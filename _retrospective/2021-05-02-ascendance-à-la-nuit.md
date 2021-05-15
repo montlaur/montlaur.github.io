@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Ascendance à la nuit
 title-en: Ascendance à la nuit - (Ascendance at night)
 title-ru: Ascendance à la nuit
+annee: 1959-11-30T23:00:00.000Z
+annee-aff: 12/1959
 picture: /photos/wordpress/ascendance-à-le-nuit.jpg
 place: Paris
-annee: 1959-09-30T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
