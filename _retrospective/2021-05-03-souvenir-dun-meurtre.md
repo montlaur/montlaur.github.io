@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Souvenir d'un meurtre
 title-en: Souvenir d'un meurtre - (Recollection of a Murder)
 title-ru: Souvenir d'un meurtre
+annee: 1960-06-30T23:00:00.000Z
+annee-aff: 07/1960
 picture: /photos/wordpress/souvenir-d-un-meurtre.jpg
 place: Dinard
-annee: 1960-06-30T23:00:00.000Z
+place-en: Dinard (Brittany, France)
+place-ru: Динар (Бретань, Франция)
 type: Huile sur papier sur bois
 type-en: Oil on paper on wood
 type-ru: Масло, бумага, дерево
