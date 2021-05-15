@@ -7,9 +7,12 @@ active-item2: retrospective
 title: La nuit d’Aurélia
 title-en: La nuit d’Aurélia - (Aurelia's night)
 title-ru: La nuit d’Aurélia - (Ночь Аурелии)
+annee: 1962-12-31T23:00:00.000Z
+annee-aff: 1963 - 01/1974
 picture: /photos/wordpress/179765175_5507026209368718_6972913337140986288_n.jpg
 place: Paris
-annee: 1963-11-29T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
