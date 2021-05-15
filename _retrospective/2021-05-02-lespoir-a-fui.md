@@ -7,9 +7,12 @@ active-item2: retrospective
 title: L'espoir a fui
 title-en: L'espoir a fui - (Hope has Fled)
 title-ru: L'espoir a fui
+annee: 1960-02-29T23:00:00.000Z
+annee-aff: 03/1960
 picture: /photos/wordpress/l-espoir-a-fui.jpg
 place: Paris
-annee: 1960-02-29T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
