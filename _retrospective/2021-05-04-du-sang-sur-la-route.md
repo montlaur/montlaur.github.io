@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Du sang sur la route
 title-en: Du sang sur la route - (Blood on the Road)
 title-ru: Du sang sur la route
+annee: 1966-07-31T23:00:00.000Z
+annee-aff: 08/1966
 picture: /photos/wordpress/du-sang-sur-la-route.jpg
 place: Dinard
-annee: 1966-07-31T23:00:00.000Z
+place-en: Dinard (Brittany, France)
+place-ru: Динар (Бретань, Франция)
 type: Huile sur isorel
 type-en: Oil on Board
 type-ru: Масло, оргалит
