@@ -9,9 +9,12 @@ title-en: On commence à comprendre [1er titre], On n'a jamais rien compris [2e
   titre] - (We are Starting to Understand [1st title], We have Never Understood
   Anything [2nd title])
 title-ru: On commence à comprendre [1er titre], On n'a jamais rien compris [2e titre]
+annee: 1966-06-30T23:00:00.000Z
+annee-aff: 07/1966
 picture: /photos/wordpress/on-comence-à-comprendre.jpg
 place: Dinard
-annee: 1966-06-30T23:00:00.000Z
+place-en: Dinard (Brittany, France)
+place-ru: Динар (Бретань, Франция)
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
