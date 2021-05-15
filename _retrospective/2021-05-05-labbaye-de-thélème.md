@@ -7,9 +7,12 @@ active-item2: retrospective
 title: L'abbaye de Thélème
 title-en: L'abbaye de Thélème - (The Abbey of Theleme)
 title-ru: L'abbaye de Thélème - (Телемское аббатство)
+annee: 1967-11-11T23:00:00.000Z
+annee-aff: 02/08 - 12/11/1967
 picture: /photos/wordpress/l-abbaye-de-thélème.jpg
-place: Paris
-annee: 1967-08-01T23:00:00.000Z
+place: Dinard - Paris
+place-en: Dinard (Brittany) - Paris
+place-ru: Динар (Бретань) - Париж
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
