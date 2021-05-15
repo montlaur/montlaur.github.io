@@ -7,11 +7,18 @@ active-item2: retrospective
 title: Clockwork
 title-en: Clockwork
 title-ru: Clockwork
+annee: 1953-06-29T23:00:00.000Z
+annee-aff: 06/1953
 picture: /photos/wordpress/clockwork.jpg
 place: Fontainebleau
-annee: 1953-06-29T23:00:00.000Z
+place-en: Fontainebleau
+place-ru: Фонтенбло (Франция)
 type: Huile sur toile
+type-en: Oil on canvas
+type-ru: Масло, холст
 dimensions: 146 cm x 114 cm
+dimensions-en: 146 cm x 114 cm
+dimensions-ru: 146 см x 114 см
 description-fr: En 1953, Montlaur s’installe à Fontainebleau, plus près de ses
   amis peintres parisiens Atlan, Chapoval, Soulages, Poliakoff. Sa peinture perd
   de sa simplicité géométrique, les couleurs explosent et les contrastes
