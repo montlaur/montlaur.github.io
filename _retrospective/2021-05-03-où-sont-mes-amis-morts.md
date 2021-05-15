@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Où sont mes amis morts ?
 title-en: Où sont mes amis morts ? - (Where are my Dead Friends?)
 title-ru: Où sont mes amis morts ? - (Где мои мертвые друзья?)
+annee: 1963-08-31T23:00:00.000Z
+annee-aff: 09/1963
 picture: /photos/wordpress/où-sont-mes-amis-morts-.jpg
 place: Paris
-annee: 1963-08-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur isorel
 type-en: Oil on bard
 type-ru: Масло, оргалит
