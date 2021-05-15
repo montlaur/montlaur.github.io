@@ -7,11 +7,18 @@ active-item2: retrospective
 title: La terre est bleue comme une orange
 title-en: La terre est bleue comme une orange - (The Earth is Blue like an Orange)
 title-ru: La terre est bleue comme une orange
+annee: 1974-06-30T23:00:00.000Z
+annee-aff: 07/1974
 picture: /photos/wordpress/1552a.jpg
 place: Rothéneuf
-annee: 1974-07-29T23:00:00.000Z
+place-en: Rothéneuf (Brittany, France)
+place-ru: Ротенёф (Бретань, Франция)
 type: Huile sur papier sur isorel
+type-en: Oil on paper on board
+type-ru: Масло, бумага, дерево
 dimensions: 55 cm x 46 cm
+dimensions-en: 55 cm x 46 cm
+dimensions-ru: 55 см x 46 см
 description-fr: >-
   Cette peinture respire la félicité et le calme que Montlaur  retrouvait à
   Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
