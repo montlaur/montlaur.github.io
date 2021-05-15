@@ -7,9 +7,12 @@ active-item2: retrospective
 title: L'ombre d'Anchise
 title-en: L'ombre d'Anchise - (Anchises' Shadow)
 title-ru: L'ombre d'Anchise - (Тень Aнхиса)
+annee: 1962-06-30T23:00:00.000Z
+annee-aff: 07/1962
 picture: /photos/wordpress/l-ombre-d-anchise.jpg
 place: Dinard
-annee: 1962-06-30T23:00:00.000Z
+place-en: Dinard
+place-ru: Динар (Бретань)
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
