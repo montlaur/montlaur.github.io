@@ -8,9 +8,12 @@ title: Je vous demande pardon, ma Mère Courage
 title-en: Je vous demande pardon, ma Mère Courage - (I Ask for your Pardon, my
   Mother Courage)
 title-ru: Je vous demande pardon, ma Mère Courage - (Я прошу прощения, моя Мамаша Кураж)
+annee: 1968-08-24T23:00:00.000Z
+annee-aff: 08/1968
 picture: /photos/wordpress/je-vous-demande-pardon-ma-mère-courage.jpg
 place: Dinard
-annee: 1968-08-24T23:00:00.000Z
+place-en: Dinard (Brittany)
+place-ru: Динар (Бретань)
 type: Huile sur papier sur bois
 type-en: Oil on paper on wood
 type-ru: Масло, бумага, дерево
