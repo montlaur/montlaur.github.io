@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Hommage à Gustave Courbet
 title-en: Hommage à Gustave Courbet - (Tribute to Gustave Courbet)
 title-ru: Hommage à Gustave Courbet
+annee: 1965-05-29T23:00:00.000Z
+annee-aff: 12/1964 - 06/1965
 picture: /photos/wordpress/hommage-à-gustave-courbet.jpg
 place: Paris
-annee: 1965-05-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
