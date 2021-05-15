@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Le soleil du détroit de Messine
 title-en: Le soleil du détroit de Messine - (The Sun of the Strait of Messina)
 title-ru: Le soleil du détroit de Messine
+annee: 1974-01-29T23:00:00.000Z
+annee-aff: 01/1974
 picture: /photos/wordpress/173272339_5439025052835501_4913393786078555588_n.jpg
 place: Paris
-annee: 1974-01-29T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
