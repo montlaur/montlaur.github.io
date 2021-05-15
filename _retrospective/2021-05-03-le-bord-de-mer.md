@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Le bord de mer
 title-en: Le bord de mer - (The Seaside)
 title-ru: Le bord de mer
+annee: 1964-07-31T23:00:00.000Z
+annee-aff: 08/1964
 picture: /photos/wordpress/le-bord-de-mer.jpg
 place: Dinard
-annee: 1964-07-31T23:00:00.000Z
+place-en: Dinard (Brittany, France)
+place-ru: Динар (Бретань, Франция)
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
