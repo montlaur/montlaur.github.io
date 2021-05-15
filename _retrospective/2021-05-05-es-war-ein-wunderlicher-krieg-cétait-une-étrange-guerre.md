@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Es war ein wunderlicher krieg - (C'était une étrange guerre)
 title-en: Es war ein wunderlicher Krieg - (It was a Strange Battle)
 title-ru: Es war ein wunderlicher krieg - (И битва чудная была)
+annee: 1972-12-31T23:00:00.000Z
+annee-aff: 01/1973
 picture: /photos/wordpress/es-war-ein-wunderlicher-kreig.jpg
 place: Paris
-annee: 1972-12-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
