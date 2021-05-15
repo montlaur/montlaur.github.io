@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Souvenir normand
 title-en: Souvenir normand - (Memory from Normandy)
 title-ru: Souvenir normand - (На память о Нормандии)
+annee: 1972-07-25T23:00:00.000Z
+annee-aff: 07/1972
 picture: /photos/wordpress/souvenir-normand.jpg
 place: Rothéneuf
-annee: 1972-06-30T23:00:00.000Z
+place-en: Rothéneuf (Brittany, France)
+place-ru: Ротенёф (Бретань, Франция)
 type: Huile sur papier sur bois
 type-en: Oil on paper on wood
 type-ru: Масло, бумага, дерево
