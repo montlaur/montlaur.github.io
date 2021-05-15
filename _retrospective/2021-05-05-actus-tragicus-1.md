@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Actus Tragicus
 title-en: Actus Tragicus
 title-ru: Actus Tragicus
+annee: 1972-01-03T23:00:00.000Z
+annee-aff: 04/1972
 picture: /photos/wordpress/actus-tragicus.jpg
 place: Paris
-annee: 2021-04-30T22:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
