@@ -8,9 +8,12 @@ title: Hypostase d’un peintre singulier … et peut-être universel
 title-en: Hypostase d’un peintre singulier … et peut-être universel -
   (Hypostasis of a Singular ... and Perhaps Universal Painter)
 title-ru: Hypostase d’un peintre singulier … et peut-être universel
+annee: 1967-06-07T23:00:00.000Z
+annee-aff: 06/1967
 picture: /photos/wordpress/hypostase-d-un-peintre-singulier-.jpg
 place: Paris
-annee: 1967-05-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
