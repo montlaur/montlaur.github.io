@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Cosmogonie pratique
 title-en: Cosmogonie pratique - (Practical Cosmogony)
 title-ru: Cosmogonie pratique
+annee: 1972-04-30T23:00:00.000Z
+annee-aff: 05/1962
 picture: /photos/wordpress/cosmogonie-pratique.jpg
 place: Paris
-annee: 1972-04-30T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
