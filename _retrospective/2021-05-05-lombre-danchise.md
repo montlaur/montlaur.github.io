@@ -11,8 +11,8 @@ annee: 1962-06-30T23:00:00.000Z
 annee-aff: 07/1962
 picture: /photos/wordpress/l-ombre-d-anchise.jpg
 place: Dinard
-place-en: Dinard
-place-ru: Динар (Бретань)
+place-en: Dinard (Brittany, France)
+place-ru: Динар (Бретань, Франция)
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
