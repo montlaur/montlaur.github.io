@@ -7,11 +7,18 @@ active-item2: retrospective
 title: Divertissement pour la nuit de Janvier
 title-en: Divertissement pour la nuit de Janvier (Entertainment for a Night of January)
 title-ru: Divertissement pour la nuit de Janvier
+annee: 1955-03-01T23:00:00.000Z
+annee-aff: 02/1955
 picture: /photos/wordpress/divertissement-pour-la-nuit-de-janvier.jpg
 place: Fontainebleau
-annee: 1955-02-29T23:00:00.000Z
+place-en: Fontainebleau (France)
+place-ru: Фонтенбло (Франция)
 type: Huile sur toile
+type-en: Oil on canvas
+type-ru: Масло, холст
 dimensions: 61 cm x 46 cm
+dimensions-en: 61 cm x 45 cm
+dimensions-ru: 61 см x 45 см
 description-fr: >-
   Montlaur fait à nouveau référence à la fin tragique de Nerval, son suicide Rue
   de la Vieille Lanterne à Paris, la nuit du 25 au 26 janvier 1855. C'était
