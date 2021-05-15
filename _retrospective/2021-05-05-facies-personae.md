@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Facies personae
 title-en: Facies Personae
 title-ru: Facies personae
+annee: 1973-04-30T23:00:00.000Z
+annee-aff: 05/1973
 picture: /photos/wordpress/facies-personae.jpg
 place: Paris
-annee: 1973-04-30T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
