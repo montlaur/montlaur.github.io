@@ -7,9 +7,12 @@ active-item2: retrospective
 title: My castle at Dusk - (Mon château au crépuscule)
 title-en: My Castle at Dusk
 title-ru: My Castle at Dusk
+annee: 1961-07-31T23:00:00.000Z
+annee-aff: 07 - 08/1961
 picture: /photos/wordpress/my-castle-at-dusk.jpg
 place: Dinard
-annee: 1961-07-31T23:00:00.000Z
+place-en: Dinard (Brittany, France)
+place-ru: Динар (Бретань, Франция)
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
