@@ -7,12 +7,15 @@ active-item2: retrospective
 title: Portrait par lui-même d'un peintre aveugle
 title-en: Portrait par lui-même d'un peintre aveugle - (Self-Portrait of a Blind Painter)
 title-ru: Portrait par lui-même d'un peintre aveugle
+annee: 1962-06-30T23:00:00.000Z
+annee-aff: 07/1962
 picture: /photos/wordpress/portrait-par-lui-même-d-un-peintre-aveugle.jpg
 place: Paris
-annee: 1959-12-31T23:00:00.000Z
-type: Huile sur toile
-type-en: Oil on canvas
-type-ru: Масло, холст
+place-en: Paris
+place-ru: Париж
+type: Huile sur isorel
+type-en: Oil on board
+type-ru: Масло, оргалит
 dimensions: 61 cm x 38 cm
 dimensions-en: 61 cm x 38 cm
 dimensions-ru: 61 см x 38 см
