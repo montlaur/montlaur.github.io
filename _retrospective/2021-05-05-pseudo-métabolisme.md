@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Pseudo-métabolisme
 title-en: Pseudo-métabolisme - (Pseudo-Metabolism)
 title-ru: Pseudo-métabolisme - (Псевдо-метаболизм)
+annee: 1971-09-13T23:00:00.000Z
+annee-aff: 09/1971
 picture: /photos/wordpress/pseudo-métabolisme.jpg
 place: Paris
-annee: 1971-08-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur papier sur bois
 type-en: Oil on paper on wood
 type-ru: Масло, бумага, дерево
