@@ -14,9 +14,12 @@ title-ru: Peinture ambigüe et figurative de Saint Christophe, There are Things
   that it would be far Better not to Know - (Неоднозначное и фигуративное
   изображение святого Христофора [1-й титул],                          Есть
   вещи, которые было было бы гораздо лучше не знать [2-й титул])
+annee: 1973-12-31T23:00:00.000Z
+annee-aff: 01/1974
 picture: /photos/wordpress/174555768_5447129608691712_3517750228046646207_n.jpg
 place: Paris
-annee: 1973-12-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur papier sur bois
 type-en: Oil on paper on wood
 type-ru: Масло, бумага, дерево
