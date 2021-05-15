@@ -7,9 +7,12 @@ active-item2: retrospective
 title: La promesse des fleurs
 title-en: La promesse des fleurs - (The Promise of Flowers)
 title-ru: La promesse des fleurs
+annee: 1961-05-31T23:00:00.000Z
+annee-aff: 06/1961
 picture: /photos/wordpress/la-promesse-des-fleurs.jpg
 place: Paris
-annee: 1961-05-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
