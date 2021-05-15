@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Ma Désirade
 title-en: "Ma Désirade "
 title-ru: Ma Désirade
+annee: 1975-11-30T23:00:00.000Z
+annee-aff: 01/1975
 picture: /photos/wordpress/dsc01171a.jpg
 place: Paris
-annee: 1975-11-30T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
