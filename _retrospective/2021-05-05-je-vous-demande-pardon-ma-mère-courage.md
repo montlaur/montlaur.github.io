@@ -12,8 +12,8 @@ annee: 1968-08-24T23:00:00.000Z
 annee-aff: 08/1968
 picture: /photos/wordpress/je-vous-demande-pardon-ma-mère-courage.jpg
 place: Dinard
-place-en: Dinard (Brittany)
-place-ru: Динар (Бретань)
+place-en: Dinard (Brittany, France)
+place-ru: Динар (Бретань, Франция)
 type: Huile sur papier sur bois
 type-en: Oil on paper on wood
 type-ru: Масло, бумага, дерево
