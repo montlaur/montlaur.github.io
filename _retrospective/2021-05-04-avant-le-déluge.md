@@ -7,9 +7,12 @@ active-item2: retrospective
 title: Avant le déluge
 title-en: Avant le déluge - (Before the Flood)
 title-ru: Avant le déluge
+annee: 1965-01-31T23:00:00.000Z
+annee-aff: 02/1965
 picture: /photos/wordpress/avant-le-déluge.jpg
 place: Paris
-annee: 1965-01-31T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur isorel
 type-en: Oil on board
 type-ru: Масло, оргалит
