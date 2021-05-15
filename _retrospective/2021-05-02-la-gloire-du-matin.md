@@ -7,9 +7,12 @@ active-item2: retrospective
 title: La gloire du matin
 title-en: La gloire du matin - (Morning Glory)
 title-ru: La gloire du matin - (Утренняя слава)
+annee: 1955-03-31T23:00:00.000Z
+annee-aff: 04/1955
 picture: /photos/wordpress/la-gloire-du-matin.jpg
 place: Fontainebleau
-annee: 1954-12-31T23:00:00.000Z
+place-en: Fontainebleau (France)
+place-ru: Фонтенбло (Франция)
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
