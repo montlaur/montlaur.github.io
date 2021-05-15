@@ -6,7 +6,7 @@ active-item: peintures
 active-item2: retrospective
 title: On a brûlé les ruches blanches
 title-en: On a brûlé les ruches blanches - (The White Beehives have been Burned)
-title-ru: On a brûlé les ruches blanches
+title-ru: On a brûlé les ruches  blanches
 annee: 1960-01-02T23:00:00.000Z
 annee-aff: 03/1960
 picture: /photos/wordpress/on-a-brûlé-les-ruches-blanches.jpg
