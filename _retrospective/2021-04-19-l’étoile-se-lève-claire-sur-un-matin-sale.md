@@ -8,9 +8,12 @@ title: L’étoile se lève claire sur un matin sale
 title-en: L’étoile se lève claire sur un matin sale - (The star rises bright on
   a dirty morning)
 title-ru: L’étoile se lève claire sur un matin sale
+annee: 1974-01-23T23:00:00.000Z
+annee-aff: 01/1974
 picture: /photos/wordpress/174592244_5461951360542870_2690126117342277266_n.jpg
 place: Paris
-annee: 1974-01-23T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur papier sur bois
 type-en: Oil on paper on wood
 type-ru: Масло, бумага, дерево
