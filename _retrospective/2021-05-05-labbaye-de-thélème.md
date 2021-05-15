@@ -8,7 +8,7 @@ title: L'abbaye de Thélème
 title-en: L'abbaye de Thélème - (The Abbey of Theleme)
 title-ru: L'abbaye de Thélème - (Телемское аббатство)
 annee: 1967-11-11T23:00:00.000Z
-annee-aff: 02/08 - 12/11/1967
+annee-aff: 08 - 11/1967
 picture: /photos/wordpress/l-abbaye-de-thélème.jpg
 place: Dinard - Paris
 place-en: Dinard (Brittany) - Paris
