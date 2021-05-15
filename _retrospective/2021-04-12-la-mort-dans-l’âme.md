@@ -7,9 +7,12 @@ active-item2: retrospective
 title: La mort dans l’âme
 title-en: La mort dans l’âme - (With a Heavy Heart)
 title-ru: La mort dans l’âme
+annee: 1973-11-29T23:00:00.000Z
+annee-aff: 11/1973
 picture: /photos/wordpress/172188702_5428107453927261_2759989973320134181_n.jpg
 place: Paris
-annee: 1973-11-29T23:00:00.000Z
+place-en: Paris
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
