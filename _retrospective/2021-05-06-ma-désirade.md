@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Ma Désirade
-title-en: "Ma Désirade "
+title-en: Ma Désirade (My Desired One)
 title-ru: Ma Désirade
 annee: 1975-11-30T23:00:00.000Z
 annee-aff: 01/1975
