@@ -8,7 +8,9 @@ title: Facies personae
 title-en: Facies Personae
 title-ru: Facies personae
 annee: 1973-04-30T23:00:00.000Z
-annee-aff: 05/1973
+annee-aff: mai 1973
+annee-aff-en: May 1973
+annee-aff-ru: март 1973 г.
 picture: /photos/wordpress/facies-personae.jpg
 place: Paris
 place-en: Paris
