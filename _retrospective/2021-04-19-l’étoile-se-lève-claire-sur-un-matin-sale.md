@@ -9,7 +9,9 @@ title-en: L’étoile se lève claire sur un matin sale - (The star rises bright
   a dirty morning)
 title-ru: L’étoile se lève claire sur un matin sale
 annee: 1974-01-23T23:00:00.000Z
-annee-aff: 01/1974
+annee-aff: janvier 1974
+annee-aff-en: January 1974
+annee-aff-ru: январь 1974 г.
 picture: /photos/wordpress/174592244_5461951360542870_2690126117342277266_n.jpg
 place: Paris
 place-en: Paris
