@@ -8,7 +8,9 @@ title: Du sang sur la route
 title-en: Du sang sur la route - (Blood on the Road)
 title-ru: Du sang sur la route
 annee: 1966-07-31T23:00:00.000Z
-annee-aff: 08/1966
+annee-aff: août 1966
+annee-aff-en: August 1966
+annee-aff-ru: август 1966 г.
 picture: /photos/wordpress/du-sang-sur-la-route.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
