@@ -8,7 +8,9 @@ title: Souvenez-vous
 title-en: Souvenez-vous - (Remember)
 title-ru: Souvenez-vous
 annee: 1966-12-31T23:00:00.000Z
-annee-aff: 01/1967
+annee-aff: janvier 1967
+annee-aff-en: January 1967
+annee-aff-ru: январь 1967 г.
 picture: /photos/wordpress/souvenez-vous.jpg
 place: Paris
 place-en: Paris
