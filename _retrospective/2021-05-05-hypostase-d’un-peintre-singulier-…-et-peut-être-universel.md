@@ -9,7 +9,9 @@ title-en: Hypostase d’un peintre singulier … et peut-être universel -
   (Hypostasis of a Singular ... and Perhaps Universal Painter)
 title-ru: Hypostase d’un peintre singulier … et peut-être universel
 annee: 1967-06-07T23:00:00.000Z
-annee-aff: 06/1967
+annee-aff: juin 1967
+annee-aff-en: June 1967
+annee-aff-ru: июнь 1967 г.
 picture: /photos/wordpress/hypostase-d-un-peintre-singulier-.jpg
 place: Paris
 place-en: Paris
