@@ -8,7 +8,9 @@ title: Es war ein wunderlicher krieg - (C'était une étrange guerre)
 title-en: Es war ein wunderlicher Krieg - (It was a Strange Battle)
 title-ru: Es war ein wunderlicher krieg - (И битва чудная была)
 annee: 1972-12-31T23:00:00.000Z
-annee-aff: 01/1973
+annee-aff: janvier1973
+annee-aff-en: January 1973
+annee-aff-ru: январь 1973 г.
 picture: /photos/wordpress/es-war-ein-wunderlicher-kreig.jpg
 place: Paris
 place-en: Paris
