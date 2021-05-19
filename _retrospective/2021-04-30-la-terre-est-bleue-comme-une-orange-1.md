@@ -8,7 +8,9 @@ title: La terre est bleue comme une orange
 title-en: La terre est bleue comme une orange - (The Earth is Blue like an Orange)
 title-ru: La terre est bleue comme une orange
 annee: 1974-06-30T23:00:00.000Z
-annee-aff: 07/1974
+annee-aff: juillet 1974
+annee-aff-en: July 1974
+annee-aff-ru: июль 1974 г.
 picture: /photos/wordpress/1552a.jpg
 place: Rothéneuf
 place-en: Rothéneuf (Brittany, France)
