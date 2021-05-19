@@ -8,7 +8,9 @@ title: Cosmogonie pratique
 title-en: Cosmogonie pratique - (Practical Cosmogony)
 title-ru: Cosmogonie pratique
 annee: 1972-04-30T23:00:00.000Z
-annee-aff: 05/1962
+annee-aff: mai 1962
+annee-aff-en: May 1962
+annee-aff-ru: мая 1972 г.
 picture: /photos/wordpress/cosmogonie-pratique.jpg
 place: Paris
 place-en: Paris
