@@ -8,7 +8,9 @@ title: Pseudo-métabolisme
 title-en: Pseudo-métabolisme - (Pseudo-Metabolism)
 title-ru: Pseudo-métabolisme - (Псевдо-метаболизм)
 annee: 1971-09-13T23:00:00.000Z
-annee-aff: 09/1971
+annee-aff: septembre 1971
+annee-aff-en: September 1971
+annee-aff-ru: сентябрь 1971 г.
 picture: /photos/wordpress/pseudo-métabolisme.jpg
 place: Paris
 place-en: Paris
