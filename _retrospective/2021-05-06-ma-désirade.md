@@ -8,7 +8,9 @@ title: Ma Désirade
 title-en: Ma Désirade (My Desired One)
 title-ru: Ma Désirade
 annee: 1975-11-30T23:00:00.000Z
-annee-aff: 01/1975
+annee-aff: décembre 1975
+annee-aff-en: December 1975
+annee-aff-ru: декабрь 1975 г.
 picture: /photos/wordpress/dsc01171a.jpg
 place: Paris
 place-en: Paris
