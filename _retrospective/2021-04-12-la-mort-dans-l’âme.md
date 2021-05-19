@@ -8,7 +8,9 @@ title: La mort dans l’âme
 title-en: La mort dans l’âme - (With a Heavy Heart)
 title-ru: La mort dans l’âme
 annee: 1973-11-29T23:00:00.000Z
-annee-aff: 11/1973
+annee-aff: novembre 1973
+annee-aff-en: November 1973
+annee-aff-ru: ноябрь 1973 г.
 picture: /photos/wordpress/172188702_5428107453927261_2759989973320134181_n.jpg
 place: Paris
 place-en: Paris
