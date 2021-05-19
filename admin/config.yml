@@ -57,6 +57,8 @@ collections:
       - { label: 'Titre (ru)', name: 'title-ru', widget: 'string' }
       - { label: 'Date (pour tri)', name: 'annee', widget: 'date' }
       - { label: 'Date (affichée)', name: 'annee-aff', widget: 'string' }
+      - { label: 'Date (affichée en)', name: 'annee-aff-en', widget: 'string' }
+      - { label: 'Date (affichée ru)', name: 'annee-aff-ru', widget: 'string' }
       - { label: 'Photo', name: 'picture', widget: 'image' }
       - { label: 'Lieu / Place (fr)', name: 'place', widget: 'string' }
       - { label: 'Lieu / Place (en)', name: 'place-en', widget: 'string' }

@@ -14,17 +14,16 @@
             {% if page.lang=="EN" %}
               <h5>{{ include.post.title-en }}</h5>
               {% if include.post.type-en %}{{ include.post.type-en }}, {% endif %}{{ include.post.dimensions-en }}<br>
-              {{ include.post.place-en }},
+              {{ include.post.place-en }}, {{ include.post.annee-aff-en }}
             {% elsif page.lang=="RU" %}
               <h5>{{ include.post.title-ru }}</h5>
               {% if include.post.type-ru %}{{ include.post.type-ru }}, {% endif %}{{ include.post.dimensions-ru }}<br>
-              {{ include.post.place-ru }},
+              {{ include.post.place-ru }}, {{ include.post.annee-aff-ru }}
             {% else %}
               <h5>{{ include.post.title }}</h5>
               {% if include.post.type %}{{ include.post.type }}, {% endif %}{{ include.post.dimensions }}<br>
-              {{ include.post.place }},
+              {{ include.post.place }}, {{ include.post.annee-aff }}
             {% endif %}
-            {{ include.post.annee-aff }}
           </figcaption>
         </figure>
       </div>
