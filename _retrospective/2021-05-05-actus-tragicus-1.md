@@ -8,7 +8,9 @@ title: Actus Tragicus
 title-en: Actus Tragicus
 title-ru: Actus Tragicus
 annee: 1972-01-03T23:00:00.000Z
-annee-aff: 04/1972
+annee-aff: avril 1972
+annee-aff-en: April 1972
+annee-aff-ru: апреля 1972 г.
 picture: /photos/wordpress/actus-tragicus.jpg
 place: Paris
 place-en: Paris
