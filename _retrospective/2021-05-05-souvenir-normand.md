@@ -8,7 +8,9 @@ title: Souvenir normand
 title-en: Souvenir normand - (Memory from Normandy)
 title-ru: Souvenir normand - (На память о Нормандии)
 annee: 1972-07-25T23:00:00.000Z
-annee-aff: 07/1972
+annee-aff: juillet 1972
+annee-aff-en: July 1972
+annee-aff-ru: июль 1972 г.
 picture: /photos/wordpress/souvenir-normand.jpg
 place: Rothéneuf
 place-en: Rothéneuf (Brittany, France)
