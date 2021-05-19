@@ -8,7 +8,7 @@ title: La connaissance des choses
 title-en: La connaissance des choses (The Knowledge of Things)
 title-ru: La connaissance des choses
 annee: 1976-01-31T23:00:00.000Z
-annee-aff: Février 1976
+annee-aff: février 1976
 annee-aff-en: February 1976
 annee-aff-ru: февраль 1976 г.
 picture: /photos/wordpress/la-connaissance-des-choses-a.jpg
