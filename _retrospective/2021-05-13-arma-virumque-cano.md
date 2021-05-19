@@ -8,7 +8,9 @@ title: Arma virumque cano
 title-en: Arma Virumque Cano
 title-ru: Arma virumque cano
 annee: 1975-11-30T23:00:00.000Z
-annee-aff: 12/1975
+annee-aff: décembre 1975
+annee-aff-en: December 1975
+annee-aff-ru: декабрь 1975 г.
 picture: /photos/wordpress/arma-virumque-cano.jpg
 place: Paris
 place-en: Paris
