@@ -8,7 +8,9 @@ title: Le bord de mer
 title-en: Le bord de mer - (The Seaside)
 title-ru: Le bord de mer
 annee: 1964-07-31T23:00:00.000Z
-annee-aff: 08/1964
+annee-aff: août 1964
+annee-aff-en: August 1964
+annee-aff-ru: август 1974 г.
 picture: /photos/wordpress/le-bord-de-mer.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
