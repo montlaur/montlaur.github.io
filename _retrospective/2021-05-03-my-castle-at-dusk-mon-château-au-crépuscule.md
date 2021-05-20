@@ -8,7 +8,9 @@ title: My castle at Dusk - (Mon château au crépuscule)
 title-en: My Castle at Dusk
 title-ru: My Castle at Dusk
 annee: 1961-07-31T23:00:00.000Z
-annee-aff: 07 - 08/1961
+annee-aff: juillet - août 1961
+annee-aff-en: July - August 1961
+annee-aff-ru: июль - август 1961 г.
 picture: /photos/wordpress/my-castle-at-dusk.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
