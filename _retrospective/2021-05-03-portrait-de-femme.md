@@ -8,7 +8,9 @@ title: Portrait de femme
 title-en: Portrait de femme - (Portrait of a Woman)
 title-ru: Portrait de femme - (Женский портрет)
 annee: 1964-11-30T23:00:00.000Z
-annee-aff: 12/1964
+annee-aff: décembre 1964
+annee-aff-en: December 1964
+annee-aff-ru: декабрь 1964 г.
 picture: /photos/wordpress/portrait-de-femme.jpg
 place: "Paris "
 place-en: Paris
