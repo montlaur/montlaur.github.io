@@ -8,7 +8,9 @@ title: Portrait par lui-même d'un peintre aveugle
 title-en: Portrait par lui-même d'un peintre aveugle - (Self-Portrait of a Blind Painter)
 title-ru: Portrait par lui-même d'un peintre aveugle
 annee: 1962-06-30T23:00:00.000Z
-annee-aff: 07/1962
+annee-aff: juillet 1962
+annee-aff-en: July 1962
+annee-aff-ru: июль 1962 г.
 picture: /photos/wordpress/portrait-par-lui-même-d-un-peintre-aveugle.jpg
 place: Paris
 place-en: Paris
