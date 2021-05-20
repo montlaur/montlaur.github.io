@@ -14,7 +14,7 @@ annee-aff-ru: март 1977 г.
 picture: /photos/wordpress/peinture-à-l-usage-des-enfants.jpg
 place: Paris
 place-en: Paris
-place-ru: Париж, см
+place-ru: Париж
 type: Huile sur toile
 type-en: Oil on canvas
 type-ru: Масло, холст
