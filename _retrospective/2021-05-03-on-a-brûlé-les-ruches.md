@@ -8,9 +8,9 @@ title: On a brûlé les ruches blanches
 title-en: On a brûlé les ruches blanches - (The White Beehives have been Burned)
 title-ru: On a brûlé les ruches blanches
 annee: 1960-01-02T23:00:00.000Z
-annee-aff: mars 1960
-annee-aff-en: March 1960
-annee-aff-ru: март 1960 г.
+annee-aff: janvier 1960
+annee-aff-en: January 1960
+annee-aff-ru: январь 1960 г.
 picture: /photos/wordpress/on-a-brûlé-les-ruches-blanches.jpg
 place: Paris
 place-en: Paris
