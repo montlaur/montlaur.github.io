@@ -8,7 +8,9 @@ title: Souvenir d'un meurtre
 title-en: Souvenir d'un meurtre - (Recollection of a Murder)
 title-ru: Souvenir d'un meurtre
 annee: 1960-06-30T23:00:00.000Z
-annee-aff: 07/1960
+annee-aff: juillet 1960
+annee-aff-en: July 1960
+annee-aff-ru: июль 1960 г.
 picture: /photos/wordpress/souvenir-d-un-meurtre.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
