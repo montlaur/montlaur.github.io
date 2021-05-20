@@ -8,7 +8,9 @@ title: On commence à comprendre - ou - On n'a jamais rien compris
 title-en: "On commence à comprendre - or - On n'a jamais rien compris  "
 title-ru: On commence à comprendre, - или - On n'a jamais rien compris
 annee: 1966-06-30T23:00:00.000Z
-annee-aff: 07/1966
+annee-aff: " juillet 1966"
+annee-aff-en: July 1966
+annee-aff-ru: июль 1966 г.
 picture: /photos/wordpress/on-comence-à-comprendre.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
