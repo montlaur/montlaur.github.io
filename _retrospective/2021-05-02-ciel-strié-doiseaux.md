@@ -8,7 +8,9 @@ title: Ciel strié d'oiseaux
 title-en: Ciel strié d'oiseaux - (Sky Streaked with Birds)
 title-ru: Ciel strié d'oiseaux
 annee: 1956-06-30T23:00:00.000Z
-annee-aff: "1959"
+annee-aff: juillet 1956
+annee-aff-en: July 1956
+annee-aff-ru: июль 1956 г.
 picture: /photos/wordpress/ciel-strié-d-oiseaux.jpg
 place: Île de Ré
 place-en: Island of Ré (France)
