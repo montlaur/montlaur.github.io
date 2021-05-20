@@ -24,16 +24,17 @@ dimensions-ru: 92 см x 60 см
 description-fr: "Formes géométriques, simplifiées, posées. Couleurs pastel
   soulignées par un noir profond. Ici aussi, les couches de couleurs superposées
   apparaissent au grattage. Pas de violence, le peintre est serein. Il lègue son
-  art, sa technique à la postérité, aux enfants: « voilà ce que je sais faire !
-  »"
+  art, sa technique à la postérité, aux enfants; c'est comme s'il leur disait :
+  « voilà ce que je sais faire ! »"
 description-en: 'The overall structure of the painting is geometric, it is
   composed and simple. Pastel colors are highlighted by deep black shapes. Here
   again, the superimposed layers of color appear when scraped. There is no
   violence, the painter is serene. He bequeaths his art, his technique to
-  posterity, to children: "this is what I know how to do!"'
+  posterity, to children; it is as though he was telling them: "this is what I
+  know how to do!"'
 description-ru: "Formes géométriques, simplifiées, posées. Couleurs pastel
   soulignées par un noir profond. Ici aussi, les couches de couleurs superposées
   apparaissent au grattage. Pas de violence, le peintre est serein. Il lègue son
-  art, sa technique à la postérité, aux enfants: « voilà ce que je sais faire !
-  »"
+  art, sa technique à la postérité, aux enfants; c'est comme s'il leur disait :
+  « voilà ce que je sais faire ! »"
 ---
