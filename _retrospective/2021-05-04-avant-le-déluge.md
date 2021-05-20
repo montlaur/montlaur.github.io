@@ -8,7 +8,9 @@ title: Avant le déluge
 title-en: Avant le déluge - (Before the Flood)
 title-ru: Avant le déluge
 annee: 1965-01-31T23:00:00.000Z
-annee-aff: 02/1965
+annee-aff: février 1965
+annee-aff-en: February 1965
+annee-aff-ru: февраль 1965 г.
 picture: /photos/wordpress/avant-le-déluge.jpg
 place: Paris
 place-en: Paris
