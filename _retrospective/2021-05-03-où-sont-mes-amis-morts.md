@@ -8,7 +8,9 @@ title: Où sont mes amis morts ?
 title-en: Où sont mes amis morts ? - (Where are my Dead Friends?)
 title-ru: Où sont mes amis morts ? - (Где мои мертвые друзья?)
 annee: 1963-08-31T23:00:00.000Z
-annee-aff: 09/1963
+annee-aff: septembre 1963
+annee-aff-en: September 1964
+annee-aff-ru: сентябрь 1964 г.
 picture: /photos/wordpress/où-sont-mes-amis-morts-.jpg
 place: Paris
 place-en: Paris
