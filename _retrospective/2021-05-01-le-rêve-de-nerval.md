@@ -8,7 +8,9 @@ title: Le rêve de Nerval
 title-en: Le rêve de Nerval - (Nerval's Dream)
 title-ru: Le rêve de Nerval - (Мечта Нерваля)
 annee: 1955-01-29T23:00:00.000Z
-annee-aff: 01/1955
+annee-aff: janvier 1955
+annee-aff-en: January 1955
+annee-aff-ru: январь 1955 г.
 picture: /photos/wordpress/le-rêve-de-nerval.jpg
 place: Fontainebleau
 place-en: Fontainebleau (France)
