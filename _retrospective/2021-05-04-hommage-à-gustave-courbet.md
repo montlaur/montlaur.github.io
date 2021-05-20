@@ -8,7 +8,9 @@ title: Hommage à Gustave Courbet
 title-en: Hommage à Gustave Courbet - (Tribute to Gustave Courbet)
 title-ru: Hommage à Gustave Courbet
 annee: 1965-05-29T23:00:00.000Z
-annee-aff: 12/1964 - 06/1965
+annee-aff: décembre 1964 - juin 1965
+annee-aff-en: December 1964 - June 1965
+annee-aff-ru: декабрь 1964 - июнь 1965 г.
 picture: /photos/wordpress/hommage-à-gustave-courbet.jpg
 place: Paris
 place-en: Paris
