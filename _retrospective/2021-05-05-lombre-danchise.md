@@ -8,7 +8,9 @@ title: L'ombre d'Anchise
 title-en: L'ombre d'Anchise - (Anchises' Shadow)
 title-ru: L'ombre d'Anchise - (Тень Aнхиса)
 annee: 1962-06-30T23:00:00.000Z
-annee-aff: 07/1962
+annee-aff: juillet 1962
+annee-aff-en: July 1962
+annee-aff-ru: июль 1962 г.
 picture: /photos/wordpress/l-ombre-d-anchise.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
