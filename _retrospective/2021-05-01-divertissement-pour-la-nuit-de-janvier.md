@@ -8,7 +8,9 @@ title: Divertissement pour la nuit de Janvier
 title-en: Divertissement pour la nuit de Janvier (Entertainment for a Night of January)
 title-ru: Divertissement pour la nuit de Janvier
 annee: 1955-03-01T23:00:00.000Z
-annee-aff: 02/1955
+annee-aff: février 1955
+annee-aff-en: February 1955
+annee-aff-ru: февраль 1955 г.
 picture: /photos/wordpress/divertissement-pour-la-nuit-de-janvier.jpg
 place: Fontainebleau
 place-en: Fontainebleau (France)
