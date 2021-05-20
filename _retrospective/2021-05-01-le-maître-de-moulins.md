@@ -8,7 +8,9 @@ title: Le maître de Moulins
 title-en: Le maître de Moulins - (The Master of Moulins)
 title-ru: "Le maître de Moulins - (Муленский мастер)   "
 annee: 1952-07-29T23:00:00.000Z
-annee-aff: 07/1952
+annee-aff: juillet 1952
+annee-aff-en: July 1952
+annee-aff-ru: июль 1952 г.
 picture: /photos/wordpress/le-maître-de-moulins.jpg
 place: Nice
 place-en: Nice
