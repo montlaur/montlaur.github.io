@@ -23,8 +23,8 @@ dimensions-en: 60 cm x 92 cm
 dimensions-ru: 60 см x 92 см
 description-fr: Le souvenir d’Issenheim est celui du retable éponyme, peint par
   Matthias Grünwald en 1512-1516 et visible maintenant au Musée Unterlinden de
-  Colmar. La peinture de Montlaur rappelle l’un des panneaux, le plus interne du
-  polyptique. Ce dernier représente le tourment de Saint Antoine par des
+  Colmar. La peinture de Montlaur rappelle l’un des panneaux, le plus interne,
+  du polyptique. Ce dernier représente le tourment de Saint Antoine par des
   monstres envoyés par Satan. On reconnait les couleurs jaune et vert des
   monstres mi-oiseaux, mi-humains, le saint est à terre avec sa roble bleue. Le
   chaos est total dans les deux peintures.
