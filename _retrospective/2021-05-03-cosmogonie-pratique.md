@@ -10,7 +10,7 @@ title-ru: Cosmogonie pratique
 annee: 1972-04-30T23:00:00.000Z
 annee-aff: mai 1962
 annee-aff-en: May 1962
-annee-aff-ru: мая 1972 г.
+annee-aff-ru: май 1972 г.
 picture: /photos/wordpress/cosmogonie-pratique.jpg
 place: Paris
 place-en: Paris
