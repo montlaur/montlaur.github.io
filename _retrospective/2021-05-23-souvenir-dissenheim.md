@@ -11,7 +11,7 @@ annee: 1977-04-30T22:00:00.000Z
 annee-aff: Mai 1977
 annee-aff-en: May 1977
 annee-aff-ru: май 1977 г.
-picture: /photos/wordpress/retable-aa.jpg
+picture: /photos/wordpress/souvenir-d-issenheim.jpg
 place: Paris
 place-en: Paris
 place-ru: Париж
@@ -31,7 +31,7 @@ description-fr: >-
   montagnes grises en haut à droite. Le chaos est total dans les deux peintures.
 
 
-  ![](/photos/wordpress/retable-ab.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald")
+  ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald")
 description-en: >-
   **Souvenir of Issenheim** refers to the Issenheim Altarpiece painted by
   Matthias Grünwald and now visible in the Unterlinden Museum in Colmar.
