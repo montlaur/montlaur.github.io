@@ -38,13 +38,15 @@
       {%- else -%}
         <h2>{{ include.post.title }}</h2>
       {%- endunless -%}
-      {% if page.lang=="EN" %}
-        {{ include.post.description-en | markdownify }}
-      {% elsif page.lang=="RU" %}
-        {{ include.post.description-ru | markdownify }}
-      {% else %}
-        {{ include.post.description-fr | markdownify }}
-      {% endif %}
+      <div class="retropost-desc">
+        {% if page.lang=="EN" %}
+          {{ include.post.description-en | markdownify }}
+        {% elsif page.lang=="RU" %}
+          {{ include.post.description-ru | markdownify }}
+        {% else %}
+          {{ include.post.description-fr | markdownify }}
+        {% endif %}
+      </div>
     </div>
   </div>
   {% if include.lienretro == "oui" %}

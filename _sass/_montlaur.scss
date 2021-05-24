@@ -313,6 +313,16 @@ figcaption h5 { margin-bottom: 0; }
   a { color: $background-color; }
 }
 
+// retrospective
+.retropost-desc {
+  img {
+    max-width: 40%;
+    @media (min-width: $breakpoint-m ) {
+      max-width: 25%;
+    }
+  }
+}
+
 // blog
 .blog-post-list {
   margin-left: 0;
