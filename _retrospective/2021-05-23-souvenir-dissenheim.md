@@ -31,7 +31,7 @@ description-fr: >-
   montagnes grises en haut à droite. Le chaos est total dans les deux peintures.
 
 
-  ![Panneau le plus interne du polyptique (côté droit)](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald")
+  ![Panneau le plus interne du polyptique (côté droit)](/photos/wordpress/retable-ab.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald")
 description-en: >-
   **Souvenir of Issenheim** refers to the Issenheim Altarpiece painted by
   Matthias Grünwald and now visible in the Unterlinden Museum in Colmar.
