@@ -24,14 +24,15 @@ dimensions-ru: 60 см x 92 см
 description-fr: >-
   Le **Souvenir d’Issenheim** est celui du retable éponyme, peint par Matthias
   Grünwald et visible maintenant au Musée Unterlinden de Colmar. La peinture de
-  Montlaur rappelle l’un des panneaux, le plus interne du polyptique. Ce dernier
-  représente le tourment de Saint Antoine par des monstres envoyés par Satan. On
-  reconnait les couleurs jaune et vert des monstres mi-bêtes, mi-humains, le
-  saint est à terre avec sa roble bleue, on voit le voile noir derrière lui, les
-  montagnes grises en haut à droite. Le chaos est total dans les deux peintures.
+  Montlaur rappelle l’un des panneaux, le plus interne, du polyptique. Ce
+  dernier représente le tourment de Saint Antoine par des monstres envoyés par
+  Satan. On reconnait les couleurs jaune et vert des monstres mi-bêtes,
+  mi-humains, le saint est à terre avec sa roble bleue, on voit le voile noir
+  derrière lui, les montagnes grises en haut à droite. Le chaos est total dans
+  les deux peintures.
 
 
-  ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald")
+  ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
 description-en: >-
   **Souvenir of Issenheim** refers to the Issenheim Altarpiece painted by
   Matthias Grünwald and now visible in the Unterlinden Museum in Colmar.
@@ -43,7 +44,7 @@ description-en: >-
   paintings is absolute.
 
 
-  ![](/photos/wordpress/retable-aa.jpg "Issenheim Altarpiece - Mathias Grünwald (1512 - 1516)")
+  ![](/photos/wordpress/retable-aa.jpg "Issenheim Altarpiece - Mathias Grünwald (1512 - 1516) - photo Stephen Shankland")
 description-ru: >-
   Le **Souvenir d’Issenheim** est celui du retable éponyme, peint par Matthias
   Grünwald et visible maintenant au Musée Unterlinden de Colmar. La peinture de
@@ -54,5 +55,5 @@ description-ru: >-
   montagnes grises en haut à droite. Le chaos est total dans les deux peintures.
 
 
-  ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald")
+  ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
 ---
