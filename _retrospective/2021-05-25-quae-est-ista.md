@@ -22,22 +22,22 @@ dimensions: 195 cm x 114 cm
 dimensions-en: 195 cm x 114 cm
 dimensions-ru: 195 см x 114 см
 description-fr: >-
-  ***\*Quae est Ista** quae ascendit*\
+  ***Quae est Ista** quae ascendit\
 
-  *sicut aurora consurgens,*\
+  sicut aurora consurgens,\
 
-  *pulchra ut luna, electa ut sol,*\
+  pulchra ut luna, electa ut sol,\
 
-  *terribilis ut castorum acies ordinata?** 
+  terribilis ut castorum acies ordinata?* 
 
 
-  ***\*Quelle est Celle-ci** qui s'élève*\
+  ***Quelle est Celle-ci** qui s'élève\
 
-  *comme l'aurore à son lever,*\
+  comme l'aurore à son lever,\
 
-  *belle comme la lune, exquise comme le soleil,*\
+  belle comme la lune, exquise comme le soleil,\
 
-  *terrible comme une armée rangée en bataille ?** 
+  terrible comme une armée rangée en bataille ?* 
 
 
   *(Cantique des Cantiques, ch.6, v.9)*
@@ -45,22 +45,22 @@ description-fr: >-
 
   Quel plus bel hommage, le peintre aurait-il pu rendre à la Reine du Monde, que cette œuvre magnifique, pleine de majesté, la toute dernière , peinte trois mois seulement avant sa mort ?
 description-en: >-
-  ***\*Quae est Ista** quae ascendit\
+  ***Quae est Ista** quae ascendit*\
 
-  sicut aurora consurgens,\
+  *sicut aurora consurgens,*\
 
-  pulchra ut luna, electa ut sol,\
+  *pulchra ut luna, electa ut sol,*\
 
-  terribilis ut castorum acies ordinata?** 
+  *terribilis ut castorum acies ordinata?* 
 
 
-  ***\*Who is This** who ascends\
+  ***Who is This** who ascends*\
 
-  like the rising dawn,\
+  *like the rising dawn,*\
 
-  beautiful as the moon, bright as the sun,\
+  *beautiful as the moon, bright as the sun,*\
 
-  terrible as an army drawn up in battle array?** 
+  *terrible as an army drawn up in battle array?* 
 
 
   *(Song of songs, 6:9)*
@@ -68,22 +68,22 @@ description-en: >-
 
   What more beautiful tribute, could the painter have paid to the Queen of the World, than this magnificent work, full of majesty, his very last, painted three months before his death?
 description-ru: >-
-  ***\*Quae est Ista** quae ascendit\
+  ***Quae est Ista** quae ascendit*\
 
-  sicut aurora consurgens,\
+  *sicut aurora consurgens,*\
 
-  pulchra ut luna, electa ut sol,\
+  *pulchra ut luna, electa ut sol,*\
 
-  terribilis ut castorum acies ordinata?** 
+  *terribilis ut castorum acies ordinata?* 
 
 
-  ***\*Quelle est Celle-ci** qui s'élève\
+  ***Quelle est Celle-ci** qui s'élève*\
 
-  comme l'aurore à son lever,\
+  *comme l'aurore à son lever,*\
 
-  belle comme la lune, exquise comme le soleil,\
+  *belle comme la lune, exquise comme le soleil,*\
 
-  terrible comme une armée rangée en bataille ?** 
+  *terrible comme une armée rangée en bataille ?* 
 
 
   *(Cantique des Cantiques, ch.6, v.9)*
