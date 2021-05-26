@@ -22,7 +22,16 @@ dimensions: 33 cm x 55 cm
 dimensions-en: 33 cm x 55 cm
 dimensions-ru: 33 см x 55 см
 description-fr: >-
-  
+  Montlaur s’est inspiré du « Jugement de Pâris » attribué à Giulio Romano
+  (Jules Romain), peintre italien 1499 – 1546, disciple de Raphaël. On peut même
+  parler d'une copie « abstractisée ». Les trois déesses Aphrodite, Athéna et
+  Héra sont sur le point de voir l’une d’entre elles, Aphrodite, être déclarée
+  la plus belle déesse de l'Olympe par le berger Pâris,  et recevoir la pomme.
+  Dans la peinture de Montlaur, on voit le corps dénudé d'Aphrodite assise au
+  pied d'arbres massifs, on distingue Athéna debout , et Héra avec les volutes
+  de son écharpe. L’arrière-plan est également reproduit : le ciel et le paysage
+  au loin, bleu-vert , l’ocre clair de la terre.
+
 
   ![](/photos/wordpress/jugement-de-paris-g-romano.jpg "Le jugement de Pâris - attribué à Giulio Romano  (16e siècle)")
 description-en: >-
