@@ -21,13 +21,22 @@ type-ru: Масло, оргалит
 dimensions: 61 cm x 38 cm
 dimensions-en: 61 cm x 38 cm
 dimensions-ru: 61 см x 38 см
-description-fr: Foule de visages ensanglantés des camarades morts, cauchemar
-  récurrent du peintre qui revit sans cesse ses combats. Surtout ne pas oublier
-  !
-description-en: Crowd of dead comrades, their faces covered with blood.
-  Recurring nightmare of the painter who endlessly relives his battles. Lest we
-  forget!
-description-ru: Foule de visages ensanglantés des camarades morts, cauchemar
-  récurrent du peintre qui revit sans cesse ses combats. Surtout ne pas oublier
-  !
+description-fr: >-
+  Foule de visages ensanglantés des camarades morts, cauchemar récurrent du
+  peintre qui revit sans cesse ses combats. 
+
+
+  Surtout ne pas oublier !
+description-en: >-
+  Crowd of dead comrades, their faces covered with blood. Recurring nightmare of
+  the painter who endlessly relives his battles. 
+
+
+  Lest we forget!
+description-ru: >-
+  Foule de visages ensanglantés des camarades morts, cauchemar récurrent du
+  peintre qui revit sans cesse ses combats. 
+
+
+  Surtout ne pas oublier !
 ---
