@@ -5,8 +5,8 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Souvenir d'Issenheim
-title-en: Souvenir d'Issenheim (Souvenir of Issenheim)
-title-ru: Souvenir d'Issenheim (Сувенир Изенхайма)
+title-en: "Souvenir d'Issenheim "
+title-ru: "Souvenir d'Issenheim "
 annee: 1977-04-30T22:00:00.000Z
 annee-aff: Mai 1977
 annee-aff-en: May 1977
