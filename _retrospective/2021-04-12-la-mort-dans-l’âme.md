@@ -28,12 +28,12 @@ description-fr: Que de désolation dans cette peinture au titre si explicite !
   l’entourent. Contraste également avec les toits ocre rouge de la ville, et
   avec les montagnes, derrière, aux couleurs irréelles.
 description-en: >-
-  **La Mort dans l'âme (With a Heavy Heart)**
+  **(With a Heavy Heart)**
 
 
   There is so much grief in this painting with such an explicit title! The work leaves room for the imagination of the observer, it imposes it. Is this the painter we see, standing, his shoulders down? The blue of his back and arms contrasts with the black of the terrifying creatures surrounding him. Contrast also with the red ocher roofs of the city, and with the mountains, behind, with unreal colors.
 description-ru: >-
-  **La Mort dans l'âme** **(С тяжелым сердцем)**
+  **(С тяжелым сердцем)**
 
 
   В этой картине с таким ясным названием  столько горя! Изображение оставляет простор для воображения наблюдателя. Возможно, перед нами художник с опущенными плечами? Синий цвет его спины и рук контрастирует с черным цветом окружающих его ужасающих существ. Его фигура противопоставлена красно-охровым крышами города и горам позади, выполненным в нереальных тонах.
