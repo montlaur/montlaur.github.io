@@ -4,9 +4,9 @@ menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
-title: Es war ein wunderlicher krieg - (C'était une étrange guerre)
-title-en: Es war ein wunderlicher Krieg - (It was a Strange Battle)
-title-ru: Es war ein wunderlicher krieg - (И битва чудная была)
+title: Es war ein wunderlicher krieg
+title-en: Es war ein wunderlicher Krieg
+title-ru: Es war ein wunderlicher krieg
 annee: 1972-12-31T23:00:00.000Z
 annee-aff: janvier1973
 annee-aff-en: January 1973
@@ -35,7 +35,7 @@ description-fr: >-
   Le texte de la 5e strophe de la cantate est le suivant :
 
 
-  *Es war ein wunderlicher Krieg,\
+  ***Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -52,7 +52,7 @@ description-fr: >-
   Halleluja!*
 
 
-  *Ce fut une étrange guerre\
+  ***Ce fut une étrange guerre**\
 
   Qui opposa la mort à la vie,\
 
@@ -84,7 +84,7 @@ description-en: >-
   The text  of the 5th stanza of the cantata is as follows:
 
 
-  *Es war ein wunderlicher Krieg,\
+  ***Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -101,7 +101,7 @@ description-en: >-
   Halleluja!*
 
 
-  *It was a strange battle\
+  ***It was a strange battle**\
 
   where death and life struggled.\
 
@@ -136,7 +136,7 @@ description-ru: >-
   Le texte de la 5e strophe de la cantate est le suivant :
 
 
-  *Es war ein wunderlicher Krieg,\
+  ***Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -153,7 +153,7 @@ description-ru: >-
   Halleluja!*
 
 
-  *И битва чудная была*\
+  ***И битва чудная была***\
 
   *меж смертию и жизнью.*\
 
