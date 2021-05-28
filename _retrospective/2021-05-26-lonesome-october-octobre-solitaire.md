@@ -4,9 +4,9 @@ menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
-title: "Lonesome October (Octobre solitaire) "
+title: Lonesome October
 title-en: Lonesome October
-title-ru: Lonesome October (Одинокий октябрь)
+title-ru: Lonesome October
 annee: 1968-10-31T23:00:00.000Z
 annee-aff: novembre 1968
 annee-aff-en: November 1968
@@ -22,9 +22,10 @@ dimensions: 65 cm x 92 cm
 dimensions-en: 65 cm x 92 cm
 dimensions-ru: 65 см x 92 см
 description-fr: >-
-  Le château de Montlaur vu par Montlaur en 1968. Le peintre a représenté la
-  façade renaissance du château avec la chapelle et son toit rouge, l'entrée
-  majestueuse surmontée de la fenêtre à croisée. 
+  **(Octobre solitaire)** 
+
+
+  Le château de Montlaur vu par Montlaur en 1968. Le peintre a représenté la façade renaissance du château avec la chapelle et son toit rouge, l'entrée majestueuse surmontée de la fenêtre à croisée. 
 
 
   Le château de Montlaur (11e siècle) est le berceau de la Maison de Montlaur. Il est situé à 18km au Nord-Est de Montpellier. Il n'est plus habité depuis 1622 date à laquelle il fut pris et partiellement rasé par les troupes protestantes du duc de Rohan.  
@@ -42,9 +43,10 @@ description-en: >-
 
   ![](/photos/wordpress/montlaur-1968-a.jpg "Chateau de Montlaur (Hérault, Languedoc)")
 description-ru: >-
-  Le château de Montlaur vu par Montlaur en 1968. Le peintre a représenté la
-  façade renaissance du château avec la chapelle et son toit rouge, l'entrée
-  majestueuse surmontée de la fenêtre à croisée. 
+  **(Одинокий октябрь)**
+
+
+  Le château de Montlaur vu par Montlaur en 1968. Le peintre a représenté la façade renaissance du château avec la chapelle et son toit rouge, l'entrée majestueuse surmontée de la fenêtre à croisée. 
 
 
   Le château de Montlaur (11e siècle) est le berceau de la Maison de Montlaur. Il est situé à 18km au Nord-Est de Montpellier. Il n'est plus habité depuis 1622 date à laquelle il fut pris et partiellement rasé par les troupes protestantes du duc de Rohan.  
