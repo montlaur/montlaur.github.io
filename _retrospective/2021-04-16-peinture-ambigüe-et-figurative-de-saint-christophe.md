@@ -32,9 +32,9 @@ description-fr: >-
 
   Et pourquoi cette phrase sibylline « There are things that it would be far better not to know » (Il y a des choses qu’il vaudrait bien mieux ne jamais connaître) ? De quoi parle le peintre ? Des souvenirs passés ? Choses indicibles mais représentables sur la toile à condition qu'elles soient ambiguës et abstraites.
 description-en: >-
-  The painting has two titles: "Peinture ambigüe et figurative de Saint
-  Christophe" (Ambiguous and figurative painting of Saint Christopher)
-  and  "There are things that it would be far better not to know"
+  The painting has two titles: "**Peinture ambigüe et figurative de Saint
+  Christophe**" (**Ambiguous and figurative painting of Saint Christopher**)
+  and  "**There are things that it would be far better not to know**"
 
 
   One can clearly see, in the background, the river the saint is crossing and the cross he carries. The head, surprisingly, resembles that of the painter; did he really represent himself in the painting?
