@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Souvenir d'un meurtre
-title-en: Souvenir d'un meurtre - (Recollection of a Murder)
+title-en: Souvenir d'un meurtre
 title-ru: Souvenir d'un meurtre
 annee: 1960-06-30T23:00:00.000Z
 annee-aff: juillet 1960
@@ -25,11 +25,14 @@ description-fr: De quel meurtre s’agit-il ? On ne sait pas. On voit la croix
   bien sûr, le brun de la terre, de la boue, le vert de la décomposition, le
   rouge du sang. Le peintre décrit l’horreur d’un souvenir, de guerre
   certainement.
-description-en: What murder is this? We do not know. One can see the obvious
-  burial cross, brown earth, mud, green decaying matter, red blood. The painter
-  describes the horror of a memory, certainly wartime.
-description-ru: De quel meurtre s’agit-il ? On ne sait pas. On voit la croix
-  bien sûr, le brun de la terre, de la boue, le vert de la décomposition, le
-  rouge du sang. Le peintre décrit l’horreur d’un souvenir, de guerre
-  certainement.
+description-en: >-
+  **(Recollection of a Murder)**
+
+
+  What murder is this? We do not know. One can see the obvious burial cross, brown earth, mud, green decaying matter, red blood. The painter describes the horror of a memory, certainly wartime.
+description-ru: >-
+  **(Воспоминание об убийстве)**
+
+
+  De quel meurtre s’agit-il ? On ne sait pas. On voit la croix bien sûr, le brun de la terre, de la boue, le vert de la décomposition, le rouge du sang. Le peintre décrit l’horreur d’un souvenir, de guerre certainement.
 ---
