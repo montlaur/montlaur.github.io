@@ -22,7 +22,7 @@ dimensions: 61 cm x 38 cm
 dimensions-en: 61 cm x 38 cm
 dimensions-ru: 61 см x 38 см
 description-fr: >-
-  Foule de visages ensanglantés des camarades morts, cauchemar récurrent du
+  Foule de visages ensanglantés de camarades morts, cauchemar récurrent du
   peintre qui revit sans cesse ses combats. 
 
 
@@ -39,10 +39,7 @@ description-ru: >-
   **(Где мои мертвые друзья?)**
 
 
-  Foule de visages ensangla
-
-
-  ntés des camarades morts, cauchemar récurrent du peintre qui revit sans cesse ses combats. 
+  Foule de visages ensanglantés de camarades morts, cauchemar récurrent du peintre qui revit sans cesse ses combats. 
 
 
   Surtout ne pas oublier !
