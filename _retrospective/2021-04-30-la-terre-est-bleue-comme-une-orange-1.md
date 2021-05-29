@@ -68,7 +68,7 @@ description-en: >-
   blue like Gala's eyes.
 
 
-  *The earth is blue like an orange*\
+  ***The earth is blue like an orange***\
 
   *Never an error, words do not lie*\
 
