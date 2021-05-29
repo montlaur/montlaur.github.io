@@ -28,6 +28,9 @@ description-en: >-
 
 
   Montlaurian version of the creation of the world. Note the star that is born from the earth under a radiant sky.
-description-ru: Version montlaurienne de la création du monde. À noter l’étoile
-  qui nait de la terre sous un ciel radieux.
+description-ru: >-
+  **(Практическая космогония)**
+
+
+  Version montlaurienne de la création du monde. À noter l’étoile qui nait de la terre sous un ciel radieux.
 ---
