@@ -28,8 +28,9 @@ description-fr: En 1953, Montlaur s’installe à Fontainebleau, plus près de s
 description-en: In 1953, Montlaur moves to Fontainebleau, closer to his Parisian
   painter friends Atlan, Chapoval, Soulages, Poliakoff. His painting style loses
   its geometric simplicity, colors explode and contrasts are accentuated.
-description-ru: En 1953, Montlaur s’installe à Fontainebleau, plus près de ses
-  amis peintres parisiens Atlan, Chapoval, Soulages, Poliakoff. Sa peinture perd
-  de sa simplicité géométrique, les couleurs explosent et les contrastes
-  s’accentuent.
+description-ru: >-
+  **(Заводной / Часовой механизм?)**
+
+
+  En 1953, Montlaur s’installe à Fontainebleau, plus près de ses amis peintres parisiens Atlan, Chapoval, Soulages, Poliakoff. Sa peinture perd de sa simplicité géométrique, les couleurs explosent et les contrastes s’accentuent.
 ---
