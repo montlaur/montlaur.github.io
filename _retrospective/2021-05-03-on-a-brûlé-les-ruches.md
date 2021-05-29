@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: On a brûlé les ruches blanches
-title-en: On a brûlé les ruches blanches - (The White Beehives have been Burned)
+title-en: On a brûlé les ruches blanches
 title-ru: On a brûlé les ruches blanches
 annee: 1960-01-02T23:00:00.000Z
 annee-aff: janvier 1960
@@ -31,7 +31,7 @@ description-fr: >-
 
   *L'hiver est mort tout enneigé\
 
-  On a brûlé les ruches blanches\
+  **On a brûlé les ruches blanches**\
 
   Dans les jardins et les vergers\
 
@@ -83,7 +83,7 @@ description-en: >-
 
   *Winter is dead covered in snow\
 
-  The white beehives have been burnt\
+  **The white beehives have been burnt**\
 
   In gardens and orchards\
 
@@ -139,7 +139,7 @@ description-ru: >-
 
   *L'hiver est mort tout enneigé\
 
-  On a brûlé les ruches blanches\
+  **On a brûlé les ruches blanches**\
 
   Dans les jardins et les vergers\
 
