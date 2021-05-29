@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Portrait par lui-même d'un peintre aveugle
-title-en: Portrait par lui-même d'un peintre aveugle - (Self-Portrait of a Blind Painter)
+title-en: Portrait par lui-même d'un peintre aveugle
 title-ru: Portrait par lui-même d'un peintre aveugle
 annee: 1962-06-30T23:00:00.000Z
 annee-aff: juillet 1962
@@ -24,10 +24,14 @@ dimensions-ru: 61 см x 38 см
 description-fr: Montlaur, tout en autodérision, continue d’expérimenter sa
   technique des couleurs. Il utilisera les glacis sur toutes ses œuvres futures.
   Le fond noir, celui de ses nuits et de ses souvenirs, restera omniprésent.
-description-en: Montlaur, while self-deprecating, continues to experiment with
-  his color technique. He uses the glazing process on all his future works. The
-  black background of his nights and his memories, will remain omnipresent.
-description-ru: Montlaur, tout en autodérision, continue d’expérimenter sa
-  technique des couleurs. Il utilisera les glacis sur toutes ses œuvres futures.
-  Le fond noir, celui de ses nuits et de ses souvenirs, restera omniprésent.
+description-en: >-
+  **(Self-Portrait of a Blind Painter)**
+
+
+  Montlaur, while self-deprecating, continues to experiment with his color technique. He uses the glazing process on all his future works. The black background of his nights and his memories, will remain omnipresent.
+description-ru: >-
+  **(Автопортрет слепого художника)**
+
+
+  Montlaur, tout en autodérision, continue d’expérimenter sa technique des couleurs. Il utilisera les glacis sur toutes ses œuvres futures. Le fond noir, celui de ses nuits et de ses souvenirs, restera omniprésent.
 ---
