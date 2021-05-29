@@ -6,7 +6,7 @@ active-item: peintures
 active-item2: retrospective
 title: Étude Machine à remonter le temps
 title-en: Étude Machine à remonter le temps
-title-ru: Étude Machine à remonter le temps - (Этюд - Машина времени)
+title-ru: Étude Machine à remonter le temps
 annee: 1952-10-29T23:00:00.000Z
 annee-aff: octobre 1952
 annee-aff-en: October 1952
