@@ -88,7 +88,7 @@ description-fr: >-
 
   O marguerite exfoliée\
 
-  Mon île au loin ma Désirade\
+  Mon île au loin **ma Désirade**\
 
   Ma rose mon giroflier*
 
