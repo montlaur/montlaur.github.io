@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: L'ombre d'Anchise
-title-en: L'ombre d'Anchise - (Anchises' Shadow)
+title-en: "L'ombre d'Anchise "
 title-ru: L'ombre d'Anchise - (Тень Aнхиса)
 annee: 1962-06-30T23:00:00.000Z
 annee-aff: juillet 1962
@@ -25,12 +25,14 @@ description-fr: "Énée accompagnée de la sibylle de Cumes descend aux enfers p
   ramener son père Anchise. Ce dernier lui présente ses descendants : Romulus et
   Remus, Pompée, César et Auguste . Il refuse de remonter au monde des vivants.
   (Enéide, livre VI)."
-description-en: "Aeneas accompanied by the Cumaean Sibyl descends into hell to
-  bring back her father Anchises. The latter introduces him to his descendants:
-  Romulus and Remus, Pompey, Caesar and Augustus. He refuses to go back to the
-  world of the living. (Aeneid, book VI)."
-description-ru: "Énée accompagnée de la sibylle de Cumes descend aux enfers pour
-  ramener son père Anchise. Ce dernier lui présente ses descendants : Romulus et
-  Remus, Pompée, César et Auguste . Il refuse de remonter au monde des vivants.
-  (Enéide, livre VI)."
+description-en: >-
+  **(The Shade of Anchises)**
+
+
+  Aeneas accompanied by the Cumaean Sibyl descends into hell to bring back her father Anchises. The latter introduces him to his descendants: Romulus and Remus, Pompey, Caesar and Augustus. He refuses to go back to the world of the living. (Aeneid, book VI).
+description-ru: >-
+  **(Призрак Анхиса)** 
+
+
+  Énée accompagnée de la sibylle de Cumes descend aux enfers pour ramener son père Anchise. Ce dernier lui présente ses descendants : Romulus et Remus, Pompée, César et Auguste . Il refuse de remonter au monde des vivants. (Enéide, livre VI).
 ---
