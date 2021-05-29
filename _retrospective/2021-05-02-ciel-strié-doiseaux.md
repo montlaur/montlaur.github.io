@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Ciel strié d'oiseaux
-title-en: Ciel strié d'oiseaux - (Sky Streaked with Birds)
+title-en: Ciel strié d'oiseaux
 title-ru: Ciel strié d'oiseaux
 annee: 1956-06-30T23:00:00.000Z
 annee-aff: juillet 1956
@@ -27,11 +27,17 @@ description-fr: >-
 
   Les oiseaux, tels des Stukas sont noirs et menaçants , ils ont envahi le ciel qui explose de couleurs fulgurantes. Les cauchemars ne quittent plus les nuits du peintre.
 description-en: >-
+  **(Sky Streaked with Birds)**
+
+
   Expressionist style period.
 
 
   The birds are like Stukas, black and threatening. They have invaded the sky which explodes with blinding colors. Nightmares never leave the painter's nights.
 description-ru: >-
+  **(Небо, усыпанное птицами)**
+
+
   Période expressionniste. 
 
 
