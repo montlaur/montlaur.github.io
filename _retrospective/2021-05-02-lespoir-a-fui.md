@@ -60,7 +60,7 @@ description-fr: >-
 
   *\- Qu'il était bleu, le ciel, et grand, l'espoir !*\
 
-  *\- L'espoir a fui, vaincu, vers le ciel noir.*
+  *\- **L'espoir a fui**, vaincu, vers le ciel noir.*
 
 
   *Tels ils marchaient dans les avoines folles,*\
@@ -108,7 +108,7 @@ description-en: >-
 
    *Skies were so blue and hopes so high, so proud!\
 
-  Defeated hope has fled in a sombre cloud.*
+  Defeated **hope has fled** in a sombre cloud.*
 
 
   *Thus did they walk in the wild grass swaying.\
@@ -159,7 +159,7 @@ description-ru: >-
 
   *\- Qu'il était bleu, le ciel, et grand, l'espoir !*\
 
-  *\- L'espoir a fui, vaincu, vers le ciel noir.*
+  *\- **L'espoir a fui**, vaincu, vers le ciel noir.*
 
 
   *Tels ils marchaient dans les avoines folles,*\
