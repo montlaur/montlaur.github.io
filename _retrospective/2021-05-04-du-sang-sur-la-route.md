@@ -32,7 +32,7 @@ description-en: >-
 
   In August 1966, Montlaur was on vacation in Brittany. The car in which he is a passenger collides with a young boy on the road. Montlaur assists him, he tries to reassure him but the boy quickly dies. This tragic episode will deeply and for a long time mark the painter. The horror of the painting does not need to be described. The title says it all.
 description-ru: >-
-  (Кровь на дороге)
+  **(Кровь на дороге)**
 
 
   En août 1966, Montlaur est en vacances en Bretagne. La voiture dont il est passager heurte un jeune garçon sur la route. Montlaur lui porte assistance, il essaie de le rassurer mais le garçon meurt rapidement. Cet épisode tragique va profondément et pour longtemps marquer le peintre. L’horreur du tableau n’a pas besoin d‘être décrite. Le titre dit tout.
