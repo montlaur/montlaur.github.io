@@ -27,15 +27,17 @@ description-fr: Les formes, ici, ne sont plus disposées géométriquement -
   contrastées. On est en Bretagne, la mer est agitée, bleue et verte, les
   rochers sont sinistres.
 description-en: >-
-  The painting has two titles: “On commence à comprendre" (We are Starting to
-  Understand) and "On n'a jamais rien compris" (We have Never Understood
-  Anything).
+  The painting has two titles: “**On commence à comprendre**" **(We are Starting
+  to Understand)** and "**On n'a jamais rien compris**" **(We have Never
+  Understood Anything)**.
 
 
   Unlike in older paintings, the shapes are no longer geometrically arranged. We thought we understood, now everything is blurred, but the harmony is intact, the colors are strong and contrasting. We are in Brittany, the sea is rough, blue and green, the rocks are evil.
-description-ru: Les formes, ici, ne sont plus disposées géométriquement -
-  contrairement aux peintures plus anciennes. On pensait avoir compris, tout est
-  flou maintenant, mais l’harmonie est intacte, les couleurs sont fortes et
-  contrastées. On est en Bretagne, la mer est agitée, bleue et verte, les
-  rochers sont sinistres.
+description-ru: >-
+  The painting has two titles: “**On commence à comprendre**" **(Мы начинаем
+  понимать)** and "**On n'a jamais rien compris**" **(Мы никогда ничего не
+  понимали)**.
+
+
+  Les formes, ici, ne sont plus disposées géométriquement - contrairement aux peintures plus anciennes. On pensait avoir compris, tout est flou maintenant, mais l’harmonie est intacte, les couleurs sont fortes et contrastées. On est en Bretagne, la mer est agitée, bleue et verte, les rochers sont sinistres.
 ---
