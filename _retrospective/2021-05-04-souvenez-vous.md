@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Souvenez-vous
-title-en: Souvenez-vous - (Remember)
+title-en: Souvenez-vous
 title-ru: Souvenez-vous
 annee: 1966-12-31T23:00:00.000Z
 annee-aff: janvier 1967
@@ -28,14 +28,18 @@ description-fr: >-
 
   De quoi, de qui faut-il se souvenir ? Que regarde le sphinx ? Nous protège-t-il ?
 description-en: >-
-  The painting is peaceful and strong. We can see a sphinx, majestic, powerful
-  and patient. He is surrounded with light and fire.
+  **(Remember)**
+
+
+  The painting is peaceful and strong. We can see a sphinx, majestic, powerful and patient. He is surrounded with light and fire.
 
 
   What and who should we remember? What is the sphinx looking at? Does he protect us?
 description-ru: >-
-  La peinture est forte et sereine. On aperçoit un sphinx, majestueux, puissant
-  et patient. Il est enveloppé de lumière et de feu.
+  **(Помните)**
+
+
+  La peinture est forte et sereine. On aperçoit un sphinx, majestueux, puissant et patient. Il est enveloppé de lumière et de feu.
 
 
   De quoi, de qui faut-il se souvenir ? Que regarde le sphinx ? Nous protège-t-il ?
