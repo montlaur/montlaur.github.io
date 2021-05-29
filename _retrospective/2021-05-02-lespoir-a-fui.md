@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: L'espoir a fui
-title-en: L'espoir a fui - (Hope has Fled)
+title-en: L'espoir a fui
 title-ru: L'espoir a fui
 annee: 1960-02-29T23:00:00.000Z
 annee-aff: mars 1960
