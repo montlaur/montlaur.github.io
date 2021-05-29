@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Hommage à Gustave Courbet
-title-en: Hommage à Gustave Courbet - (Tribute to Gustave Courbet)
+title-en: Hommage à Gustave Courbet
 title-ru: Hommage à Gustave Courbet
 annee: 1965-05-29T23:00:00.000Z
 annee-aff: décembre 1964 - juin 1965
@@ -27,6 +27,9 @@ description-fr: >-
 
   Montlaur avait une grande admiration pour l’œuvre de Gustave Courbet et pour sa participation à la Commune de Paris (18 mars au 28 mai 1871). Il faut rappeler que Courbet fut élu de la Commune et y fut président de la Fédération des Artistes. Il permit, entre autres, la protection des œuvres du Louvre.
 description-en: >-
+  **(A Tribute to Gustave Courbet)**
+
+
   How can one not to see Courbet's "The Origin of the World" in this painting?
 
 
