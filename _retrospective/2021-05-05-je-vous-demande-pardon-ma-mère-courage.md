@@ -5,9 +5,8 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Je vous demande pardon, ma Mère Courage
-title-en: Je vous demande pardon, ma Mère Courage - (I Ask for your Pardon, my
-  Mother Courage)
-title-ru: Je vous demande pardon, ma Mère Courage - (Я прошу прощения, моя Мамаша Кураж)
+title-en: Je vous demande pardon, ma Mère Courage
+title-ru: Je vous demande pardon, ma Mère Courage
 annee: 1968-08-24T23:00:00.000Z
 annee-aff: août 1968
 annee-aff-en: August 1968
@@ -30,16 +29,18 @@ description-fr: >-
 
   Le peintre s’identifie aux soldats meurtriers et réclame son pardon à la mère.
 description-en: >-
-  It is a vision of storm and calamity. The ground is black, marked by fire. The
-  mother, a dark shape, is holding in her arms her dead daughter -a white form
-  with red hair.
+  **(I Ask for your Pardon, my Mother Courage)**
+
+
+  It is a vision of storm and calamity. The ground is black, marked by fire. The mother, a dark shape, is holding in her arms her dead daughter -a white form with red hair.
 
 
   The painter identifies with the murderous soldiers and asks the mother to forgive him.
 description-ru: >-
-  CC’est un paysage de tempête et de malheur. Le sol est noir, marqué par le
-  feu. La mère – forme noire – tient sa fille morte – forme blanche aux cheveux
-  roux – dans ses bras.
+  **(Я прошу прощения, моя Мамаша Кураж)**
+
+
+  C’est un paysage de tempête et de malheur. Le sol est noir, marqué par le feu. La mère – forme noire – tient sa fille morte – forme blanche aux cheveux roux – dans ses bras.
 
 
   Le peintre s’identifie aux soldats meurtriers et réclame son pardon à la mère.
