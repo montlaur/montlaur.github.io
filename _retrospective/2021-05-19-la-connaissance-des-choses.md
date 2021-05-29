@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La connaissance des choses
-title-en: La connaissance des choses (The Knowledge of Things)
+title-en: La connaissance des choses
 title-ru: La connaissance des choses
 annee: 1976-01-31T23:00:00.000Z
 annee-aff: février 1976
