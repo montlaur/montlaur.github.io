@@ -29,48 +29,19 @@ description-fr: >-
 
   En février 1977, à 5 mois de sa mort, Montlaur ne craignait pas celle qui avait été si proche de lui depuis si longtemps.
 description-en: >-
-  Montlaur never lacked of courage during the war years. During the autumn and
-  winter 1939, member of the "Corps Francs", he participated in numerous
-  commando-type raids in the Saar on the other side of the German border. In
-  May-June 40, he fought fiercely against the German advance well after the
-  shameful armistice signed by Pétain and the Nazi regime. His courage is
-  mentioned by Professor Guy Vourc’h in his tribute to his friend's at his
-  funeral on August 13, 1977: “I saw him when he arrived early 1943 *(note: in
-  London)*. I offered him the chance to join the Commandos which were the modern
-  equivalent of cavalry, an arm used for reconnaissance and lightly armed bold
-  raids. From that time onward, we were always together. First as group leaders,
-  then as section leaders, training together with Commandant Kieffer, Lofi,
-  Hattu, Chausse, Bégot, and Wallerand, we built up together an instrument of
-  attack, which had the honor of being chosen as first to land, here, on our
-  native soil of France. When all the officers of my company were wounded, it
-  was Guy de Montlaur who took over in command. Later, at Flushing and
-  Walcheren, wounded as he was near me, he refused to be evacuated. His courage
-  was close to insolence; he was not just fighting but humiliating the enemy: by
-  the age of 25 he had received seven citations for valor in battle and the
-  French Légion d’Honneur.”
+  **(Courage)**
 
 
-  In February 1977, five months before the end of his life, Montlaur did not fear death, she had been her companion  for such a long time.
+  Montlaur never lacked of courage during the war years. During the autumn and winter 1939, member of the "Corps Francs", he participated in numerous commando-type raids in the Saar on the other side of the German border. In May-June 40, he fought fiercely against the German advance well after the shameful armistice signed by Pétain and the Nazi regime. His courage is mentioned by Professor Guy Vourc’h in his tribute to his friend's at his funeral on August 13, 1977: “I saw him when he arrived early 1943 *(note: in London)*. I offered him the chance to join the Commandos which were the modern equivalent of cavalry, an arm used for reconnaissance and lightly armed bold raids. From that time onward, we were always together. First as group leaders, then as section leaders, training together with Commandant Kieffer, Lofi, Hattu, Chausse, Bégot, and Wallerand, we built up together an instrument of attack, which had the honor of being chosen as first to land, here, on our native soil of France. When all the officers of my company were wounded, it was Guy de Montlaur who took over in command. Later, at Flushing and Walcheren, wounded as he was near me, he refused to be evacuated. His courage was close to insolence; he was not just fighting but humiliating the enemy: by the age of 25 he had received seven citations for valor in battle and the French Légion d’Honneur.”
+
+
+  In February 1977, five months before the end of his life, Montlaur did not fear death, it had been his companion  for such a long time.
 description-ru: >-
-  De courage, Montlaur n'en a pas manqué pendant les années de guerre. Dès
-  l'automne 1939, membre des Corps Francs, il participa à de nombreux raids de
-  type commando en Sarre allemande, en mai-juin 40, il lutte avec acharnement
-  contre l'avance allemande au-delà de la honteuse armistice signée par Pétain
-  et le régime nazi. Son courage est mentionné par le professeur Guy Vourc’h
-  dans son hommage prononcé lors de l’enterrement de son ami le 13 août 1977 :
-  «Я увиделся с ним в начале 1943 года и предложил ему присоединиться к
-  Британским коммандос, бывшими тогда современным аналогом кавалерии,
-  вооруженными, как разведка, для быстрых вылазок. С этого времени мы
-  практически всегда были вместе. Сначала как командиры отделений, затем
-  взводов, оттачивая военное мастерство бок о бок с Кифером, Лофи, Атту, Шоссом,
-  Бего, Валлераном, мы превратили наши подразделения в настоящее орудие атаки, и
-  были удостоены высокой чести первыми высадиться на родную землю Франции. Когда
-  все офицеры нашего подразделения были ранены, именно Ги де Монлор взял
-  командование на себя. А позже, раненный под Флиссингеном на Валхерене, он
-  отказался покинуть поле боя. Его отвага была сродни вызову, он не просто
-  сражался, он унижал своим презрением врага. Он был удостоен семи упоминаний в
-  числе особо отличившихся и получил Орден Почетного легиона в возрасте 25 лет».
+  **(Храбрость)**
 
 
-  <!--EndFragment-->
+  De courage, Montlaur n'en a pas manqué pendant les années de guerre. Dès l'automne 1939, membre des Corps Francs, il participa à de nombreux raids de type commando en Sarre allemande, en mai-juin 40, il lutte avec acharnement contre l'avance allemande au-delà de la honteuse armistice signée par Pétain et le régime nazi. Son courage est mentionné par le professeur Guy Vourc’h dans son hommage prononcé lors de l’enterrement de son ami le 13 août 1977 : «Я увиделся с ним в начале 1943 года *(примечание: в лондон)* и предложил ему присоединиться к Британским коммандос, бывшими тогда современным аналогом кавалерии, вооруженными, как разведка, для быстрых вылазок. С этого времени мы практически всегда были вместе. Сначала как командиры отделений, затем взводов, оттачивая военное мастерство бок о бок с Кифером, Лофи, Атту, Шоссом, Бего, Валлераном, мы превратили наши подразделения в настоящее орудие атаки, и были удостоены высокой чести первыми высадиться на родную землю Франции. Когда все офицеры нашего подразделения были ранены, именно Ги де Монлор взял командование на себя. А позже, раненный под Флиссингеном на Валхерене, он отказался покинуть поле боя. Его отвага была сродни вызову, он не просто сражался, он унижал своим презрением врага. Он был удостоен семи упоминаний в числе особо отличившихся и получил Орден Почетного легиона в возрасте 25 лет».
+
+
+  En février 1977, à 5 mois de sa mort, Montlaur ne craignait pas celle qui avait été si proche de lui depuis si longtemps.
 ---
