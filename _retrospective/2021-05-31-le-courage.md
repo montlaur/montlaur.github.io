@@ -22,20 +22,34 @@ dimensions: 54.5 cm x 65 cm
 dimensions-en: 54.5 cm x 65 cm
 dimensions-ru: 54.5 см x 65 см
 description-fr: >-
-  
+  De courage, Montlaur n'en a pas manqué pendant les années de guerre. À partir
+  d'octobre 1940, il participa à de nombreux raids de type commando avec les
+  "Corps Francs", en Sarre allemande. En mai-juin 40, il lutte avec acharnement
+  contre l'avance allemande au-delà de la honteuse armistice signée par Pétain
+  et le régime nazi. Son courage est mentionné par le professeur Guy Vourc’h
+  dans son hommage prononcé lors de l’enterrement de son ami le 13 août 1977 :
+  « Je le vis arriver *(note : à Londres)* au début de 1943, et lui offris
+  d’entrer dans les Commandos, version moderne de la cavalerie, arme des
+  reconnaissances, des coups de main audacieux. Nous ne nous sommes plus
+  quittés. Chef de groupe, puis chef de section, ensemble, avec le Commandant
+  Keiffer, avec Lofi, Hattu, Chausse, Bégot, Wallerand, nous avons forgé cet
+  instrument d’attaque qui devait avoir l’honneur d’être choisi pour débarquer
+  le premier, ici-même, sur le sol de France. Tous les officiers de ma compagnie
+  blessés, c’est lui qui en prit le commandement. Puis ce fut Flessingue et
+  Walcheren. Blessé à mes côtés, il refuse de se laisser évacuer. Son courage
+  touchait à l’insolence ; il était humiliant pour l’ennemi : sept citations et
+  la Légion d’Honneur à 25 ans.  »
 
-  De courage, Montlaur n'en a pas manqué pendant les années de guerre. Dès l'automne 1939, membre des Corps Francs, il participa à de nombreux raids de type commando en Sarre allemande, en mai-juin 40, il lutte avec acharnement contre l'avance allemande au-delà de la honteuse armistice signée par Pétain et le régime nazi. Son courage est mentionné par le professeur Guy Vourc’h dans son hommage prononcé lors de l’enterrement de son ami le 13 août 1977 : « Je le vis arriver *(note : à Londres)* au début de 1943, et lui offris d’entrer dans les Commandos, version moderne de la cavalerie, arme des reconnaissances, des coups de main audacieux. Nous ne nous sommes plus quittés. Chef de groupe, puis chef de section, ensemble, avec le Commandant Keiffer, avec Lofi, Hattu, Chausse, Bégot, Wallerand, nous avons forgé cet instrument d’attaque qui devait avoir l’honneur d’être choisi pour débarquer le premier, ici-même, sur le sol de France. Tous les officiers de ma compagnie blessés, c’est lui qui en prit le commandement. Puis ce fut Flessingue et Walcheren. Blessé à mes côtés, il refuse de se laisser évacuer. Son courage touchait à l’insolence ; il était humiliant pour l’ennemi : sept citations et la Légion d’Honneur à 25 ans.  »
 
-
-  En février 1977, à 5 mois de sa mort, Montlaur ne craignait pas celle qui avait été si proche de lui depuis si longtemps.
+  En février 1977, à 5 mois de sa mort, Montlaur ne craignait pas celle-là, si proche de lui depuis si longtemps.
 description-en: >-
   **(Courage)**
 
 
-  Montlaur never lacked of courage during the war years. During the autumn and winter 1939, member of the "Corps Francs", he participated in numerous commando-type raids in the Saar on the other side of the German border. In May-June 40, he fought fiercely against the German advance well after the shameful armistice signed by Pétain and the Nazi regime. His courage is mentioned by Professor Guy Vourc’h in his tribute to his friend's at his funeral on August 13, 1977: “I saw him when he arrived early 1943 *(note: in London)*. I offered him the chance to join the Commandos which were the modern equivalent of cavalry, an arm used for reconnaissance and lightly armed bold raids. From that time onward, we were always together. First as group leaders, then as section leaders, training together with Commandant Kieffer, Lofi, Hattu, Chausse, Bégot, and Wallerand, we built up together an instrument of attack, which had the honor of being chosen as first to land, here, on our native soil of France. When all the officers of my company were wounded, it was Guy de Montlaur who took over in command. Later, at Flushing and Walcheren, wounded as he was near me, he refused to be evacuated. His courage was close to insolence; he was not just fighting but humiliating the enemy: by the age of 25 he had received seven citations for valor in battle and the French Légion d’Honneur.”
+  Montlaur never lacked of courage during the war years. From October 1940, he fought with the "Corps Francs", and carried-out numerous commando-type raids in the Saar region, on the other side of the German border. In May-June 40, he fought fiercely against the German advance well after the shameful armistice signed by Pétain and the Nazi regime. His courage is mentioned by Professor Guy Vourc’h in his tribute to his friend's at his funeral on August 13, 1977: “I saw him when he arrived early 1943 *(note: in London)*. I offered him the chance to join the Commandos which were the modern equivalent of cavalry, an arm used for reconnaissance and lightly armed bold raids. From that time onward, we were always together. First as group leaders, then as section leaders, training together with Commandant Kieffer, Lofi, Hattu, Chausse, Bégot, and Wallerand, we built up together an instrument of attack, which had the honor of being chosen as first to land, here, on our native soil of France. When all the officers of my company were wounded, it was Guy de Montlaur who took over in command. Later, at Flushing and Walcheren, wounded as he was near me, he refused to be evacuated. His courage was close to insolence; he was not just fighting but humiliating the enemy: by the age of 25 he had received seven citations for valor in battle and the French Légion d’Honneur.”
 
 
-  In February 1977, five months before the end of his life, Montlaur did not fear death, it had been his companion  for such a long time.
+  In February 1977, five months before the end of his life, Montlaur did not fear death which had been his intimate companion for so many years.
 description-ru: >-
   **(Храбрость)**
 
