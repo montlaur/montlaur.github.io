@@ -21,21 +21,20 @@ type-ru: Масло, бумага, дерево
 dimensions: 55cm × 46cm
 dimensions-en: 55cm × 46cm
 dimensions-ru: 55 см x 46 см
-description-fr: >
-  Les couleurs sont moins violentes que de coutume, presque pastel ; elles sont
-  appliquées par couches successives qui sont grattées au couteau à palette
-  laissant apparaître d’extraordinaires superpositions. La forme est très
-  construite. On voit l’étoile exploser au milieu de ce tableau et l’inonder de
-  son rayonnement. On sent très bien l’évolution de la technique du peintre
-  durant dans les 10 dernières années de sa vie.
+description-fr: Les couleurs sont moins violentes que de coutume, presque pastel
+  ; elles sont appliquées par couches successives qui sont grattées au couteau à
+  palette laissant apparaître d’extraordinaires superpositions. La forme est
+  très construite. On voit l’étoile exploser au milieu de ce tableau et
+  l’inonder de son rayonnement. On sent très bien l’évolution de la technique du
+  peintre durant les dix dernières années de sa vie.
 description-en: >-
   **(The star rises bright on a dirty morning)**
 
 
-  The colors are less strong than usual, they are almost pastel; they are applied in successive layers which are partially scraped with a palette knife revealing extraordinary overlays. The overall form is very constructed. We see can see a star explode in the middle of this painting and flood it with its radiance. We can clearly feel the evolution of the painter's technique during the last 10 years of his life.
+  The colors are less strong than usual, they are almost pastel; they are applied in successive layers which are partially scraped with a palette knife revealing extraordinary overlays. The overall form is very constructed. We see can see a star explode in the middle of this painting and flood it with its radiance. We can clearly feel the evolution of the painter's technique during the last ten years of his life.
 description-ru: >-
   **(Звезда ярко встает грязным утром)**
 
 
-  Les couleurs sont moins violentes que de coutume, presque pastel ; elles sont appliquées par couches successives qui sont grattées au couteau à palette laissant apparaître d’extraordinaires superpositions. La forme est très construite. On voit l’étoile exploser au milieu de ce tableau et l’inonder de son rayonnement. On sent très bien l’évolution de la technique du peintre durant dans les 10 dernières années de sa vie.
+  Les couleurs sont moins violentes que de coutume, presque pastel ; elles sont appliquées par couches successives qui sont grattées au couteau à palette laissant apparaître d’extraordinaires superpositions. La forme est très construite. On voit l’étoile exploser au milieu de ce tableau et l’inonder de son rayonnement. On sent très bien l’évolution de la technique du peintre durant les dix dernières années de sa vie.
 ---
