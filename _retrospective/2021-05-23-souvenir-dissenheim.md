@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Souvenir d'Issenheim
 title-en: "Souvenir d'Issenheim "
 title-ru: "Souvenir d'Issenheim "
-annee: 1977-04-30T22:00:00.000Z
+annee: 1977-05-14T22:00:00.000Z
 annee-aff: Mai 1977
 annee-aff-en: May 1977
 annee-aff-ru: май 1977 г.
@@ -29,7 +29,10 @@ description-fr: >-
   Satan. On reconnait les couleurs jaune et vert des monstres mi-bêtes,
   mi-humains, le saint est à terre avec sa roble bleue, on voit le voile noir
   derrière lui, les montagnes grises en haut à droite. Le chaos est total dans
-  les deux peintures.
+  les deux peintures. 
+
+
+  Le Souvenir d'Issenheim est le dernier tableau peint par Guy de Montlaur.
 
 
   ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
@@ -44,6 +47,9 @@ description-en: >-
   paintings is absolute.
 
 
+  Le Souvenir d'Issenheim was the last painting by Guy de Montlaur.
+
+
   ![](/photos/wordpress/retable-aa.jpg "Issenheim Altarpiece - Mathias Grünwald (1512 - 1516) - photo Stephen Shankland")
 description-ru: >-
   Le **Souvenir d’Issenheim** est celui du retable éponyme, peint par Matthias
@@ -53,6 +59,9 @@ description-ru: >-
   reconnait les couleurs jaune et vert des monstres mi-bêtes, mi-humains, le
   saint est à terre avec sa roble bleue, on voit le voile noir derrière lui, les
   montagnes grises en haut à droite. Le chaos est total dans les deux peintures.
+
+
+  Le souvenir d'Issenheim - последняя картина, написанная Ги де Монлором.
 
 
   ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
