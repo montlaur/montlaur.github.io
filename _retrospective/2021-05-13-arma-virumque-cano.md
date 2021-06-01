@@ -27,30 +27,18 @@ description-fr: >-
   guerre. Il n’y a pas, dans cette évocation, toute l’horreur du souvenir, pas
   de sang, peu de noir. Les couleurs, ici sont très inhabituelles, claires et
   vives et contrastent avec le brouillard vert et bleu du paysage. Au point
-  focal e la peinture, on aperçoit une structure d’un jaune vif, solaire qui
+  focal de la peinture, on aperçoit une structure d’un jaune vif, solaire qui
   pourrait représenter Lavium, fondée par Énée l’ancêtre des jumeaux fondateurs
   de Rome.
 
 
-  ***Arma virumque cano**, Troiae qui primus ab oris*\
-
-  *Italiam, fato profugus, Laviniaque venit*\
-
-  *litora, multum ille et terris iactatus et alto*\
-
-  *vi superum saevae memorem Iunonis ob iram;*\
-
-  *multa quoque et bello passus, dum conderet urbem,*\
-
-  *inferretque deos Latio, genus unde Latinum,*\
-
-  *Albanique patres, atque altae moenia Romae.*
+  **\*Arma virumque cano**, Troiae qui primus ab orisItaliam, fato profugus, Laviniaque venitlitora, multum ille et terris iactatus et altovi superum saevae memorem Iunonis ob iram;multa quoque et bello passus, dum conderet urbem,inferretque deos Latio, genus unde Latinum,Albanique patres, atque altae moenia Romae.*
 
 
   *(*Publii Vergili Maronis, Aeneidos liber primus, 1-7*)*
 
 
-  ***Je chante les combats, et ce héros**, qui, longtemps jouet du Destin, aborda le premier des champs de Troie aux plaines d’Italus, aux rivages de Lavinie. Objet de la rigueur du Ciel et du long courroux de l’altière Junon, mille dangers l’assaillirent sur la terre et sur l’onde ; mille hasards éprouvèrent sa valeur, avant qu’il pût fonder son nouvel empire, et reposer enfin ses dieux au sein du Latium : du Latium, noble berceau des Latins, des monarques d’Albe, et de la superbe Rome.*
+  **\*Je chante les combats, et ce héros**, qui, longtemps jouet du Destin, aborda le premier des champs de Troie aux plaines d’Italus, aux rivages de Lavinie. Objet de la rigueur du Ciel et du long courroux de l’altière Junon, mille dangers l’assaillirent sur la terre et sur l’onde ; mille hasards éprouvèrent sa valeur, avant qu’il pût fonder son nouvel empire, et reposer enfin ses dieux au sein du Latium : du Latium, noble berceau des Latins, des monarques d’Albe, et de la superbe Rome.*
 
 
   *(Virgile, Énéide, Chant 1-7)*
@@ -99,30 +87,18 @@ description-ru: >-
   guerre. Il n’y a pas, dans cette évocation, toute l’horreur du souvenir, pas
   de sang, peu de noir. Les couleurs, ici sont très inhabituelles, claires et
   vives et contrastent avec le brouillard vert et bleu du paysage. Au point
-  focal e la peinture, on aperçoit une structure d’un jaune vif, solaire qui
+  focal de la peinture, on aperçoit une structure d’un jaune vif, solaire qui
   pourrait représenter Lavium, fondée par Énée l’ancêtre des jumeaux fondateurs
   de Rome.
 
 
-  ***Arma virumque cano**, Troiae qui primus ab oris*\
-
-  *Italiam, fato profugus, Laviniaque venit*\
-
-  *litora, multum ille et terris iactatus et alto*\
-
-  *vi superum saevae memorem Iunonis ob iram;*\
-
-  *multa quoque et bello passus, dum conderet urbem,*\
-
-  *inferretque deos Latio, genus unde Latinum,*\
-
-  *Albanique patres, atque altae moenia Romae.*
+  **\*Arma virumque cano**, Troiae qui primus ab orisItaliam, fato profugus, Laviniaque venitlitora, multum ille et terris iactatus et altovi superum saevae memorem Iunonis ob iram;multa quoque et bello passus, dum conderet urbem,inferretque deos Latio, genus unde Latinum,Albanique patres, atque altae moenia Romae.*
 
 
   *(Publii Vergili Maronis, Aeneidos liber primus, 1-7)*
 
 
-  ***Je chante les combats, et ce héros**, qui, longtemps jouet du Destin, aborda le premier des champs de Troie aux plaines d’Italus, aux rivages de Lavinie. Objet de la rigueur du Ciel et du long courroux de l’altière Junon, mille dangers l’assaillirent sur la terre et sur l’onde ; mille hasards éprouvèrent sa valeur, avant qu’il pût fonder son nouvel empire, et reposer enfin ses dieux au sein du Latium : du Latium, noble berceau des Latins, des monarques d’Albe, et de la superbe Rome.*
+  **\*Je chante les combats, et ce héros**, qui, longtemps jouet du Destin, aborda le premier des champs de Troie aux plaines d’Italus, aux rivages de Lavinie. Objet de la rigueur du Ciel et du long courroux de l’altière Junon, mille dangers l’assaillirent sur la terre et sur l’onde ; mille hasards éprouvèrent sa valeur, avant qu’il pût fonder son nouvel empire, et reposer enfin ses dieux au sein du Latium : du Latium, noble berceau des Latins, des monarques d’Albe, et de la superbe Rome.*
 
 
   *(Virgile, Énéide, Chant 1-7)*
