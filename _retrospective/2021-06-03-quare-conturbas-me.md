@@ -51,9 +51,10 @@ description-fr: >-
 
 
   *(Psaume 43) attribué à David, Bible de Jérusalem)*
-description-en: >-
-  
 
+
+  Comme dans le psaume, l’œuvre peinte montre l’abattement, la tristesse, symbolisés par le dos courbé et les bras ballants du personnage. L’espoir est là pourtant, c’est le soleil rouge et doré qui a pris la place du cœur.
+description-en: >-
   **(Why are you creating disorder within me?)**
 
 
@@ -83,6 +84,9 @@ description-en: >-
 
 
   *(Psalm 43, King James version)*
+
+
+   As in the psalm, the painting shows weariness and sadness, symbolized by the shape’s bent back and hanging arms. However, hope is present, it is the red and golden sun that has taken the place of the heart.
 description-ru: >-
   **(Pourquoi mets-tu le trouble en moi ?)**
 
@@ -113,4 +117,7 @@ description-ru: >-
 
 
   *(Psaume 43) attribué à David, Bible de Jérusalem)*
+
+
+  Comme dans le psaume, l’œuvre peinte montre l’abattement, la tristesse, symbolisés par le dos courbé et les bras ballants du personnage. L’espoir est là pourtant, c’est le soleil rouge et doré qui a pris la place du cœur.
 ---
