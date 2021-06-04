@@ -50,7 +50,7 @@ description-fr: >-
   *Pourquoi donc, ô mon âme, es-tu si abattue et gémis-tu sur moi ? Mets ton espoir en Dieu ! Je le louerai encore, mon Sauveur et mon Dieu.*
 
 
-  *(Psaume 43) attribué à David, Bible de Jérusalem)*
+  *(Psaume 43, attribué à David, traduction Bible de Jérusalem)*
 
 
   Comme dans le psaume, l’œuvre peinte montre l’abattement, la tristesse, symbolisés par le dos courbé et les bras ballants du personnage. L’espoir est là pourtant, c’est le soleil rouge et doré qui a pris la place du cœur.
@@ -116,7 +116,7 @@ description-ru: >-
   *Pourquoi donc, ô mon âme, es-tu si abattue et gémis-tu sur moi ? Mets ton espoir en Dieu ! Je le louerai encore, mon Sauveur et mon Dieu.*
 
 
-  *(Psaume 43) attribué à David, Bible de Jérusalem)*
+  *(Psaume 43, attribué à David, taduction Bible de Jérusalem)*
 
 
   Comme dans le psaume, l’œuvre peinte montre l’abattement, la tristesse, symbolisés par le dos courbé et les bras ballants du personnage. L’espoir est là pourtant, c’est le soleil rouge et doré qui a pris la place du cœur.
