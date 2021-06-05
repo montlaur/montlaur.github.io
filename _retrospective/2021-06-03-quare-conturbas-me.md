@@ -47,7 +47,7 @@ description-fr: >-
 
   *Alors j'avancerai jusqu'à l'autel de Dieu, vers toi, Dieu de ma joie et de mon allégresse. Alors je te louerai en m'accompagnant de la lyre. O Dieu: tu es mon Dieu !*\
 
-  *Pourquoi donc, ô mon âme, es-tu si abattue et gémis-tu sur moi ? Mets ton espoir en Dieu ! Je le louerai encore, mon Sauveur et mon Dieu.*
+  *Pourquoi donc, ô mon âme, es-tu si abattue et gémis-tu sur moi ? Mets ton espoir en Dieu ! Je le louerai encore, mon Sauveur et mon Dieu.*
 
 
   *(Psaume 43, attribué à David, traduction Bible de Jérusalem)*
