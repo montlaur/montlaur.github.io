@@ -8,7 +8,7 @@ title: Souvenir d'Issenheim
 title-en: "Souvenir d'Issenheim "
 title-ru: "Souvenir d'Issenheim "
 annee: 1977-05-14T22:00:00.000Z
-annee-aff: Mai 1977
+annee-aff: mai 1977
 annee-aff-en: May 1977
 annee-aff-ru: май 1977 г.
 picture: /photos/wordpress/souvenir-d-issenheim.jpg
