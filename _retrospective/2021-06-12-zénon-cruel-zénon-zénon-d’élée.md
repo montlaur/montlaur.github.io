@@ -27,7 +27,7 @@ description-fr: |-
   Qui vibre, vole, et qui ne vole pas !\
   Le son m’enfante et la flèche me tue !\
   Ah ! le soleil… Quelle ombre de tortue\
-  Pour l’âme, Achille immobile à grands pas !**\
+  Pour l’âme, Achille immobile à grands pas !\
   Non, non !… Debout ! Dans l’ère successive !\
   Brisez, mon corps, cette forme pensive !\
   Buvez, mon sein, la naissance du vent !\
