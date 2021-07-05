@@ -25,7 +25,7 @@ description-fr: Le peintre devait avoir en tête le choix tragique d’Ulysse qu
   sacrifia une partie de son équipage en préférant passer à proximité de Scylla
   plutôt que de Charybde. Le tableau représente bien le héros, debout sur son
   navire, les violentes vagues du détroit et le soleil rouge et or. Les têtes
-  noires de Scylla arrachent et dévorent les corps de ses compagnons.
+  noires de Scylla arrachent et dévorent les corps de ses compagnons.  XXX
 description-en: >-
   **(The Sun of the Strait of Messina)**
 
