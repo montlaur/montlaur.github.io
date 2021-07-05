@@ -31,7 +31,7 @@ description-en: >-
   **(With a Heavy Heart)**
 
 
-  There is so much grief in this painting with such an explicit title! The work leaves room for the imagination of the observer, it imposes it. Is this the painter we see, standing, his shoulders down? The blue of his back and arms contrasts with the black of the terrifying creatures surrounding him. Contrast also with the red ocher roofs of the city, and with the mountains, behind, with unreal colors.
+  There is so much grief in this painting with such an explicit title! The work leaves room for the imagination of the observer, it imposes it. Is this the painter we see standing, his shoulders down? The blue of his back and arms contrasts with the black of the terrifying creatures surrounding him. Contrast also with the red ocher roofs of the city and with the mountains behind with unreal colors.
 description-ru: >-
   **(С тяжелым сердцем)**
 
