@@ -25,7 +25,7 @@ description-fr: Tête d'homme aux cheveux embrasés, ciel noir en feu. La catast
 description-en: |-
   **(Before the Flood)**
 
-  Head of a man, with flaming hair, black sky on fire. The disaster is coming!
+  Head of a man, with flaming hair, black sky on fire. Disaster is coming!
 description-ru: |-
   **(Перед потопом)**
 
