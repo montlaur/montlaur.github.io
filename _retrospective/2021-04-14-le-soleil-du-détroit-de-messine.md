@@ -30,7 +30,7 @@ description-en: >-
   **(The Sun of the Strait of Messina)**
 
 
-  The painter must have had in mind the tragic choice of Ulysses who sacrificed part of his crew by preferring to pass near Scylla rather than Charybdis. The painting represents the hero, standing on his ship, the violent waves of the strait and the red and gold sun. Scylla's black heads tear off and devour the bodies of his companions.
+  The painter must have had in mind the tragic choice of Ulysses who sacrificed part of his crew by opting to pass near Scylla rather than Charybdis. The painting represents the hero, standing on his ship, the violent waves of the strait and a red and gold sun. Scylla's black heads tear off and devour the bodies of his companions.
 description-ru: >-
   **(Солнце Мессинского пролива)**
 
