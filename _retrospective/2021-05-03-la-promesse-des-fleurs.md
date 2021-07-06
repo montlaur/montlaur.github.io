@@ -45,10 +45,10 @@ description-fr: >-
 
   *(François de Malherbe, 1605)*
 description-en: >-
-  The painter uses Malherbe's words in his “Prayer for King Henry the Great” in
-  which the poet celebrates the peace finally brought back to the country by
-  King Henry IV. The colors remain violent, there are threatening black shapes,
-  like painful memories that cannot be deleted.
+  The artist uses Malherbe's words in his “Prayer for King Henry the Great” in
+  which the poet celebrates peace finally brought back to France by King Henry
+  IV. The colors remain violent, there are threatening black shapes, like
+  painful memories that cannot be deleted.
 
 
   *Never again will we encounter these sad years\
