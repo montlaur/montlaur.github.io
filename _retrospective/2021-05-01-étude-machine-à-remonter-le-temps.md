@@ -27,7 +27,7 @@ description-en: >-
   **(Study for a Time Machine)**
 
 
-  In Nice, in front of the Baie des Anges, in 1952, Montlaur has refined his style. The shapes have become geometric, the colors are balanced.
+  In Nice, in front of the Baie des Anges, in 1952, Montlaur has refined his style. Shapes have become geometric and colors are balanced.
 description-ru: >-
   **(Этюд для машины времени)**
 
