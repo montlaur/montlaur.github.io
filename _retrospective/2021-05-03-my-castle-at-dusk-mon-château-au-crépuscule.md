@@ -26,7 +26,7 @@ description-fr: >-
 
 
   Le tableau fut peint l’été, en Bretagne. Les formes et couleurs sont apaisées mais témoignent néanmoins de la mélancolie du paysage crépusculaire marin.
-description-en: This picture was painted in the summer in Brittany. The shapes
+description-en: This picture was painted during the summer in Brittany. Shapes
   and colors are calm but nevertheless bear witness to the melancholy of the
   seascape at dusk.
 description-ru: >-
