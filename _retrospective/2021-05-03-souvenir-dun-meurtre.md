@@ -29,7 +29,7 @@ description-en: >-
   **(Recollection of a Murder)**
 
 
-  What murder is this? We do not know. One can see the obvious burial cross, brown earth, mud, green decaying matter, red blood. The painter describes the horror of a memory, certainly wartime.
+  What murder is this? We do not know. One can see the obvious burial cross, brown earth, mud, green decaying matter, red blood. The artist describes the horror of a memory, certainly in wartime.
 description-ru: >-
   **(Воспоминание об убийстве)**
 
