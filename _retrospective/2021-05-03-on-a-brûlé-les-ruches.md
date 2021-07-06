@@ -74,10 +74,10 @@ description-fr: >-
 
   *(Alcools, Voie lactée - 1)*
 description-en: >-
-  Ever since he started painting, Montlaur found his inspiration in the works of
-  Guillaume Apollinaire, the poet closest to him figuratively but also
-  physically. Montlaur kept Apollinaire's “Alcohols” with him throughout the
-  war, and in particular when he landed on the Normandy beaches on D-Day.
+  **(The white beehives have been burnt)**
+
+
+  Ever since he started painting, Montlaur found his inspiration in the works of Guillaume Apollinaire, the poet closest to him figuratively but also physically. Montlaur kept Apollinaire's “*Alcools*” with him throughout the war, and in particular when he landed on the Normandy beaches on D-Day.
 
 
   *Winter is dead covered in snow\
