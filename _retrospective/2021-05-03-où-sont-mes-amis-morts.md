@@ -31,7 +31,7 @@ description-en: >-
   **(Where are my Dead Friends?)**
 
 
-  Crowd of dead comrades, their faces covered with blood. Recurring nightmare of the painter who endlessly relives his battles. 
+  Crowd of dead comrades, their faces covered with blood. Recurring nightmare of the artist who endlessly relives his battles. 
 
 
   Lest we forget!
