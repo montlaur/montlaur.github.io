@@ -25,7 +25,7 @@ description-fr: Magnifique portrait de femme, pleine de vie.
 description-en: |-
   **(Portrait of a Woman)**
 
-  Beautiful portrait of a woman, full of life
+  Beautiful portrait of a woman, full of life.
 description-ru: |-
   **(Женский портрет)**
 
