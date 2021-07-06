@@ -36,7 +36,7 @@ description-en: >-
   **(The Master of Moulins)**
 
 
-  Montlaur pursues his search for perfection. He associates shapes and colors following the principles of his friend, the painter Gino Severini: "the colors are determined in an almost mathematical way and follow rigorously from the forms" (*Du cubisme au classisisme, 1921*). Here, the painter was inspired by the triptych of the cathedral of Moulins where the virgin and the child are encompassed in a mandorla, a nebulous sun shining in the blue of the sky.
+  Montlaur pursues his search for perfection. He associates shapes and colors following the principles of his friend, the painter Gino Severini: "the colors are determined in an almost mathematical way and follow rigorously from the forms" (*Du cubisme au classisisme, 1921*). Here, the artist was inspired by the triptych of the cathedral of Moulins where Virgin and Child are framed in a mandorla, with a nebulous sun shining in the blue of the sky.
 
 
   ![](/photos/wordpress/m-de-moulins-tript.jpg "The Moulins Triptych, c. 1498, Moulins Cathedral (Wikipedia)")
