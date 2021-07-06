@@ -24,7 +24,7 @@ dimensions-ru: 61 см x 45 см
 description-fr: >-
   Montlaur fait à nouveau référence à la fin tragique de Nerval, son suicide Rue
   de la Vieille Lanterne à Paris, la nuit du 25 au 26 janvier 1855. C'était
-  quelques jours après la publication de la première partie d'Aurélia où il
+  quelques jours après la publication de la première partie d'*Aurélia* où il
   relatait ses rêves prémonitoires.
 
 
@@ -42,7 +42,7 @@ description-en: >-
   ![](/photos/wordpress/rue-de-la-vieille-lanterne.jpg "Rue de la Vieille-Lanterne (Paris) - ©Brown University Library / Public domain")
 
 
-  The painter is right in the middle of his "Fontainebleau" period: he uses almost exclusively the palette knife and plays on the superimpositions of layers of different colors by scratching them. The brightly colored shapes seem trapped in an ink-black world.
+  This is the crux of the artist's "Fontainebleau" period: he uses almost exclusively a palette knife and plays with the superimpositions of layers of different colors by scraping them. The brightly colored shapes seem trapped in an ink-black world.
 description-ru: >-
   **(Развлечения в ночь на январь)**
 
