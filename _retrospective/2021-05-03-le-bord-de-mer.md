@@ -24,12 +24,10 @@ dimensions-ru: 38 см x 55 см
 description-fr: Peinture un peu figurative de la côte bretonne. On y voit la
   mer, le sable, un ciel noir parcouru d'oiseaux. Un bateau à voile rouge ?
 description-en: >-
-  
-
   **(The Seaside)**
 
 
-  Seemingly figurative painting of the Breton coast. One can see the sea, the sand, a black sky with birds. A red sail boat?
+  Seemingly figurative painting of Brittany's coast. One can see the sea, the sand, a black sky with birds. A red sail boat?
 description-ru: >-
   **(Le bord de mer)**
 
