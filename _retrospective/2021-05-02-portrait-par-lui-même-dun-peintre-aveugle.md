@@ -28,7 +28,7 @@ description-en: >-
   **(Self-Portrait of a Blind Painter)**
 
 
-  Montlaur, while self-deprecating, continues to experiment with his color technique. He uses the glazing process on all his future works. The black background of his nights and his memories, will remain omnipresent.
+  Montlaur, all in self-deprecation, continues to experiment with his color technique. He uses the glazing process on all his future works. The black background of his nights and his memories remain omnipresent.
 description-ru: >-
   **(Автопортрет слепого художника)**
 
