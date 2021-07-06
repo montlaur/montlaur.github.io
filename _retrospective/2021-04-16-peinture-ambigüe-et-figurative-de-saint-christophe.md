@@ -37,7 +37,7 @@ description-en: >-
   and  "**There are things that it would be far better not to know**"
 
 
-  In the background, one can clearly see the river the saint is crossing and the cross he carries. Surprisingly, the head resembles that of the artist; did he really represent himself in the painting?
+  In the background, one can clearly see the river the saint is crossing and the cross he carries. Surprisingly, his head resembles that of the artist; did he really represent himself in the painting?
 
 
   And why the cryptic phrase "There are things that it would be far better not to know"? What is the artist referring to? Past memories? Things that are unspeakable but representable on the canvas provided they are ambiguous and abstract.
