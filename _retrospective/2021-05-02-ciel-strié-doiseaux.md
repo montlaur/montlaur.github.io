@@ -30,7 +30,7 @@ description-en: >-
   **(Sky Streaked with Birds)**
 
 
-  Expressionist style period.
+  Expressionist period.
 
 
   The birds are like Stukas, black and threatening. They have invaded the sky which explodes with blinding colors. Nightmares never leave the painter's nights.
