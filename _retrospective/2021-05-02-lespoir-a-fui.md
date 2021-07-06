@@ -70,7 +70,7 @@ description-fr: >-
 
   *(Paul Verlaine, Colloque sentimental)*
 description-en: >-
-  The painter quotes Verlaine who, in his *"Colloque sentimental"*, recalls his
+  The artist quotes Verlaine who, in his *"Colloque sentimental"*, recalls his
   past love. \
 
   In the painting, shapes are cold and bloody, they pierce the black sky.
