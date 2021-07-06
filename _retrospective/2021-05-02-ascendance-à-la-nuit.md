@@ -28,7 +28,7 @@ description-en: >-
   **(Ascendance at night)**
 
 
-  In 1959 the painter begins his lyrical period. Shapes are full of movement, highly contrasted colors are full of movement and loaded with painful memories.
+  In 1959 the painter begins his lyrical period. Shapes are dynamic, highly contrasted colors are full of movement and loaded with painful memories.
 description-ru: >-
   **(Восхождение ночью)**
 
