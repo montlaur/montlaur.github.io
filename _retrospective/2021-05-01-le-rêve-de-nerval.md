@@ -32,10 +32,10 @@ description-en: >-
   **(Nerval's Dream)**
 
 
-  Montlaur refers to the hallucinatory dreams described by Gérard de Nerval in  *Aurélia.*  The publication of these dreams - where real and imagined life are undistinguishable - very shortly preceded the poet's death by suicide.
+  Montlaur refers to the hallucinatory dreams described by Gérard de Nerval in *Aurélia.*  The publication of these dreams - where real and imagined life are hardly distinguishable - preceded the poet's suicide by a very short time.
 
 
-  The painter finally frees himself from form and geometry. He trades the brush for the palette knife, he destroys the outlines. His imagination can now express without hindrance his dreams, too often nightmares, and reality.
+  The artist finally frees himself from form and geometry. He trades the brush for the palette knife, he destroys the outlines. His imagination can now express without hindrance his dreams, too often nightmares, and reality.
 description-ru: >-
   **(Мечта Нерваля)**
 
