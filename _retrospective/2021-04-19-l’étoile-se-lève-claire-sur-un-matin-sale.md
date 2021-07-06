@@ -31,7 +31,7 @@ description-en: >-
   **(The star rises bright on a dirty morning)**
 
 
-  The colors are less strong than usual, they are almost pastel; they are applied in successive layers which are partially scraped with a palette knife revealing extraordinary overlays. The overall form is very constructed. We see can see a star explode in the middle of this painting and flood it with its radiance. We can clearly feel the evolution of the painter's technique during the last ten years of his life.
+  The colors are not as strong as usual, they are almost pastel; they are applied in successive layers which are partially scraped with a palette knife revealing extraordinary overlays. The overall form is very constructed. We can see a star explode in the middle of the painting and flood it with its radiance. We can clearly feel the evolution of the painter's technique during the last ten years of his life.
 description-ru: >-
   **(Звезда ярко встает грязным утром)**
 
