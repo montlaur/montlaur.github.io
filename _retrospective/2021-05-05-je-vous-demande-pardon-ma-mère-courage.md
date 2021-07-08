@@ -29,7 +29,7 @@ description-fr: >-
 
   Le peintre s’identifie aux soldats meurtriers et réclame son pardon à la mère.
 description-en: >-
-  **(I Ask for your Pardon, my Mother Courage)**
+  **(I Ask for your Forgiveness, my Mother Courage)**
 
 
   It is a vision of storm and calamity. The ground is black, marked by fire. The mother, a dark shape, is holding in her arms her dead daughter -a white form with red hair.
