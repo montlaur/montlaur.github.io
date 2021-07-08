@@ -31,10 +31,10 @@ description-en: >-
   **(Remember)**
 
 
-  The painting is peaceful and strong. We can see a sphinx, majestic, powerful and patient. He is surrounded with light and fire.
+  This painting is peaceful and strong. We can see a sphinx, majestic, powerful, and patient. He is surrounded with light and fire.
 
 
-  What and who should we remember? What is the sphinx looking at? Does he protect us?
+  What and whom should we remember? What is the sphinx looking at? Is he protecting us?
 description-ru: >-
   **(Помните)**
 
