@@ -98,10 +98,10 @@ description-en: >-
   **(My Desired One)** (La Désirade is also an Island off Guadeloupe)
 
 
-  Apollinaire's beautiful poem about a past love
+  Apollinaire's beautiful poem about a past love.
 
 
-  The painting show through a porthole the harbor, the coast of the island or the silhouette of the beloved woman?
+  The painting shows through a porthole the harbor, the coast of the island, or perhaps the beloved's silhouette?
 
 
   *O Milky Way, whose sisterly*\
