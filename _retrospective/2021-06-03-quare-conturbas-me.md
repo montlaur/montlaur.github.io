@@ -86,7 +86,7 @@ description-en: >-
   *(Psalm 43, King James version)*
 
 
-   As in the psalm, the painting shows weariness and sadness, symbolized by the shape’s bent back and hanging arms. However, hope is present, it is the red and golden sun that has taken the place of the heart.
+   As in the psalm, the painting shows weariness and sadness, symbolized by the shape’s bent back and hanging arms. However, hope is present: a red and golden sun has taken the place of the heart.
 description-ru: >-
   **(Pourquoi mets-tu le trouble en moi ?)**
 
