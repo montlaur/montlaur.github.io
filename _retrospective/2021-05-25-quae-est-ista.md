@@ -22,7 +22,7 @@ dimensions: 195 cm x 114 cm
 dimensions-en: 195 cm x 114 cm
 dimensions-ru: 195 см x 114 см
 description-fr: >-
-  ***Quae est Ista** quae ascendit\
+  **\*Quae est Ista** quae ascendit\
 
   sicut aurora consurgens,\
 
@@ -31,7 +31,7 @@ description-fr: >-
   terribilis ut castorum acies ordinata?* 
 
 
-  ***Quelle est Celle-ci** qui s'élève\
+  **\*Quelle est Celle-ci** qui s'élève\
 
   comme l'aurore à son lever,\
 
@@ -43,7 +43,7 @@ description-fr: >-
   *(Cantique des Cantiques, ch.6, v.9)*
 
 
-  Quel plus bel hommage, le peintre aurait-il pu rendre à la Reine du Monde, que cette œuvre magnifique, pleine de majesté, la toute dernière , peinte trois mois seulement avant sa mort ?
+  Quel plus bel hommage, le peintre aurait-il pu rendre à la Reine du Monde, que cette œuvre magnifique, pleine de majesté, la toute dernière, peinte trois mois seulement avant sa mort ?
 description-en: >-
   ***Quae est Ista** quae ascendit*\
 
