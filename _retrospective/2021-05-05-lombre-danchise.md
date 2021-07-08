@@ -21,15 +21,15 @@ type-ru: Масло, оргалит
 dimensions: 61 cm x 38 cm
 dimensions-en: 61 cm x 38 cm
 dimensions-ru: 61 см x 38 см
-description-fr: "Énée accompagnée de la sibylle de Cumes descend aux enfers pour
+description-fr: "Énée accompagné de la sibylle de Cumes descend aux enfers pour
   ramener son père Anchise. Ce dernier lui présente ses descendants : Romulus et
   Remus, Pompée, César et Auguste . Il refuse de remonter au monde des vivants.
   (Enéide, livre VI)."
 description-en: >-
-  **(The Shade of Anchises)**
+  **(Anchises' Shadow)**
 
 
-  Aeneas accompanied by the Cumaean Sibyl descends into hell to bring back her father Anchises. The latter introduces him to his descendants: Romulus and Remus, Pompey, Caesar and Augustus. He refuses to go back to the world of the living. (Aeneid, book VI).
+  Aeneas accompanied by the Cumaean Sibyl descends into hell to bring back his father Anchises. The latter introduces him to his descendants: Romulus and Remus, Pompey, Caesar and Augustus. He refuses to go back to the world of the living. (Aeneid, book VI).
 description-ru: >-
   **(Тень Aнхиса)** 
 
