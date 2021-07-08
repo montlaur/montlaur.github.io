@@ -46,7 +46,7 @@ description-fr: >-
 
   *(Traduction J.N.M. de Guerle., Delalain, 1825)*
 description-en: >-
-  Montlaur quotes the first verse of the Aeneid to explain the object of his
+  Montlaur quotes the first verse of the *Aeneid* to explain the object of his
   painting: he sings about the hero’s feats of arms and his long journey after
   the war. One does not feel the horror of memory in this evocation, there is no
   blood, little black. The colors here are very unusual, they are clear and
@@ -56,25 +56,13 @@ description-en: >-
   founders of Rome.
 
 
-  ***Arma virumque cano**, Troiae qui primus ab oris*\
-
-  *Italiam, fato profugus, Laviniaque venit*\
-
-  *litora, multum ille et terris iactatus et alto*\
-
-  *vi superum saevae memorem Iunonis ob iram;*\
-
-  *multa quoque et bello passus, dum conderet urbem,*\
-
-  *inferretque deos Latio, genus unde Latinum,*\
-
-  *Albanique patres, atque altae moenia Romae.*
+  **\*Arma virumque cano**, Troiae qui primus ab orisItaliam, fato profugus, Laviniaque venitlitora, multum ille et terris iactatus et altovi superum saevae memorem Iunonis ob iram;multa quoque et bello passus, dum conderet urbem,inferretque deos Latio, genus unde Latinum,Albanique patres, atque altae moenia Romae.*
 
 
   *(Publii Vergili Maronis, Aeneidos liber primus, 1-7)*
 
 
-  ***I sing of arms and the man**, he who, exiled by fate, first came from the coast of Troy to Italy, and to Lavinian shores – hurled about endlessly by land and sea, by the will of the gods, by cruel Juno’s remorseless anger, long suffering also in war, until he founded a city and brought his gods to Latium: from that the Latin people came, the lords of Alba Longa, the walls of noble Rome.*
+  **\*I sing of arms and the man**, he who, exiled by fate, first came from the coast of Troy to Italy, and to Lavinian shores – hurled about endlessly by land and sea, by the will of the gods, by cruel Juno’s remorseless anger, long suffering also in war, until he founded a city and brought his gods to Latium: from that the Latin people came, the lords of Alba Longa, the walls of noble Rome.*
 
 
   *(Virgil, Aeneid (Book 1.1-7)*
