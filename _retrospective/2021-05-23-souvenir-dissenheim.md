@@ -32,7 +32,7 @@ description-fr: >-
   les deux peintures. 
 
 
-  Le Souvenir d'Issenheim est le dernier tableau peint par Guy de Montlaur.
+  Le Souvenir d'Issenheim est l'un des derniers tableaux peints par Guy de Montlaur.
 
 
   ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
@@ -47,7 +47,7 @@ description-en: >-
   paintings is absolute.
 
 
-  Le Souvenir d'Issenheim is the last painting by Guy de Montlaur.
+  Le Souvenir d'Issenheim is one of the last paintings by Guy de Montlaur.
 
 
   ![](/photos/wordpress/retable-aa.jpg "Issenheim Altarpiece - Mathias Grünwald (1512 - 1516) - photo Stephen Shankland")
