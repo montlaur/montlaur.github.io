@@ -30,7 +30,7 @@ description-en: >-
   **(The Ferryman of Future Days - Death of a Star)**
 
 
-  Premonition of the painter's death. The ferryman of future days is the guardian of the Styx: he is the center of attraction in this painting, dark red, color of blood, color of death. He is at the entrance of a world illuminated with pure white light. The painting was started in 1975 and completed in 1977, only a few months before Montlaur's death.
+  Premonition of the painter's death. The ferryman of future days is the guardian of the Styx: he is the focal point of this painting, dark red, color of blood, color of death. He is at the entrance of a world illuminated with pure white light. The painting was started in 1975 and completed in 1977, just a few months before Montlaur's death.
 description-ru: >-
   **(Паромщик грядущих дней - Смерть звезды)**
 
