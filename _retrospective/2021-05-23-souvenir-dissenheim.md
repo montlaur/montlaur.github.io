@@ -26,8 +26,8 @@ description-fr: >-
   Grünwald et visible maintenant au Musée Unterlinden de Colmar. La peinture de
   Montlaur rappelle l’un des panneaux, le plus interne, du polyptique. Ce
   dernier représente le tourment de Saint Antoine par des monstres envoyés par
-  Satan. On reconnait les couleurs jaune et vert des monstres mi-bêtes,
-  mi-humains, le saint est à terre avec sa roble bleue, on voit le voile noir
+  Satan. On reconnaît les couleurs jaune et verte des monstres mi-bêtes,
+  mi-humains, le saint est à terre avec sa robe bleue, on voit le voile noir
   derrière lui, les montagnes grises en haut à droite. Le chaos est total dans
   les deux peintures. 
 
@@ -38,16 +38,16 @@ description-fr: >-
   ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
 description-en: >-
   **Souvenir of Issenheim** refers to the Issenheim Altarpiece painted by
-  Matthias Grünwald and now visible in the Unterlinden Museum in Colmar.
+  Matthias Grünwald and now visible at the Unterlinden Museum in Colmar.
   Montlaur’s painting reminds us of the innermost panel of the polyptich
-  representing the torment of Saint Anthony by half-human, half- bird monsters
+  representing the torment of Saint Anthony by half-human, half-bird monsters
   sent by Satan. One can recognize the yellow and green colors of the monsters.
   The saint is lying on the ground with his blue robe. We can see the black veil
   behind him and the gray mountains at the top right. The chaos in both
   paintings is absolute.
 
 
-  Le Souvenir d'Issenheim was the last painting by Guy de Montlaur.
+  Le Souvenir d'Issenheim is the last painting by Guy de Montlaur.
 
 
   ![](/photos/wordpress/retable-aa.jpg "Issenheim Altarpiece - Mathias Grünwald (1512 - 1516) - photo Stephen Shankland")
