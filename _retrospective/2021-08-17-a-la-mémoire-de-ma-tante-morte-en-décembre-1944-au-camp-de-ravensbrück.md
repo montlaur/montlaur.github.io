@@ -39,10 +39,10 @@ description-en: >-
   concentration camp.**
 
 
-  Montlaur pays tribute to his aunt, Arlette de Villardi de Montlaur. Died for France, Dead in deportation. Croix de Guerre (French WWII War Cross) with Palm and Medal of the Resistance, posthumously.
+  Montlaur pays tribute to his aunt, Arlette de Villardi de Montlaur. Arlette died for France, she died in deportation. She was posthumously awarded the the Croix de Guerre (French WWII War Cross) with Palm and the Médaille de la Résistance (Medal of the Resistance).
 
 
-  Maiden name: Arlette de Failly, born on March 19, 1891 in Lille. Arlette belonged to a resistance network in the Compiègne region that harbored English pilots and wanted resistance fighters. She was arrested by the Gestapo on July 7, 1943. Imprisoned in the Paris prison of Fresnes until December 2, 1943 then in Romainville and then in Compiègne. She was deported under number 27567 on January 31, 1944 in the so-called "twenty-seven thousand" convoy. She was assassinated on December 1, 1944 in Ravensbrück (Germany). Arlette was the wife of Guy de Montlaur's father’s brother.
+  Her maiden name was Arlette de Failly, she was born on March 19, 1891 in Lille. Arlette belonged to a resistance network in the Compiègne region that harbored English pilots and wanted resistance fighters. She was arrested by the Gestapo on July 7, 1943. Imprisoned in the Paris prison of Fresnes until December 2, 1943 then in Romainville and then in Compiègne. She was deported under number 27567 on January 31, 1944 in the so-called "twenty-seven thousand" convoy. She was assassinated on December 1, 1944 in Ravensbrück (Germany). Arlette was the wife of Guy de Montlaur's father’s brother.
 
 
   Among the French women deported to Ravensbrück at the same time as Arlette de Montlaur, we can list: Geneviève de Gaulle-Antonioz, Anne de Bauffremont, Marie-José Chombart de Lauwe, Yvonne de La Rochefoucauld, Jacqueline Péry d'Alincourt, Germaine Tillon, Marie-Claude Vaillant-Couturier
