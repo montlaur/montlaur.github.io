@@ -21,13 +21,28 @@ type-ru: Масло, оргалит
 dimensions: 55 cm x 46 cm
 dimensions-en: 55 cm x 46 cm
 dimensions-ru: 55 см x 46 см
-description-fr: Tête d'homme aux cheveux embrasés, ciel noir en feu. La catastrophe arrive !
-description-en: |-
+description-fr: >-
+  Le peintre  évoque les présages de la guerre qui changea le cours de sa vie.
+  De l’insouciant étudiant-peintre,  il devint soldat : il connut les combats,
+  le sang , la mort, le feu.  Ces éléments se retrouvent  dans ce tableau :
+  abstrait mais tellement expressionniste.
+
+
+  On voit une tête d'homme aux cheveux embrasés, le ciel noir est en feu.
+description-en: >-
   **(Before the Flood)**
 
-  Head of a man, with flaming hair, black sky on fire. Disaster is coming!
-description-ru: |-
+
+  The painter evokes the omens of the war which changed the course of his life. The carefree student became a soldier: he got to know blood, death, fire. These elements are found in this abstract but very expressionist painting
+
+
+  One can see the head of a man, with flaming hair, the black sky is on fire. Disaster is coming.
+description-ru: >-
   **(Перед потопом)**
 
-  Tête d'homme aux cheveux embrasés, ciel noir en feu. La catastrophe arrive !
+
+  Le peintre  évoque les présages de la guerre qui changea le cours de sa vie. De l’insouciant étudiant-peintre,  il devint soldat : il connut les combats, le sang , la mort, le feu.  Ces éléments se retrouvent  dans ce tableau : abstrait mais tellement expressionniste.
+
+
+  On voit une tête d'homme aux cheveux embrasés, le ciel noir est en feu.
 ---
