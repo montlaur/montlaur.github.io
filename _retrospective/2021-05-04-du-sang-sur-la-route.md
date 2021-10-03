@@ -21,19 +21,29 @@ type-ru: Масло, оргалит
 dimensions: 61 cm x 38 cm
 dimensions-en: 61 cm x 38 cm
 dimensions-ru: 61 см x 38 см
-description-fr: En août 1966, Montlaur est en vacances en Bretagne. La voiture
-  dont il est passager heurte un jeune garçon en mobylette. Montlaur lui porte
-  assistance et essaie de le rassurer, mais le garçon meurt cette nuit-là. Cet
-  épisode tragique va profondément et pour longtemps marquer le peintre.
-  L’horreur du tableau n’a pas besoin d‘être décrite. Le titre dit tout.
+description-fr: >-
+  Un épisode tragique va profondément et pour longtemps marquer le peintre. En
+  août 1966, Montlaur est en vacances en Bretagne. La voiture dont il est
+  passager heurte un jeune garçon en mobylette. Il lui porte assistance et reste
+  auprès de lui un long moment, lui parlant , essayant de le rassurer. Mais le
+  garcon meurt. 
+
+
+  L’horreur du tableau n’a pas besoin d‘être décrite.
 description-en: >-
   **(Blood on the Road)**
 
 
-  In August 1966, Montlaur was on vacation in Brittany. The car in which he was a passenger collided with a young boy riding a moped. Montlaur assisted him and tried to reassure him but the boy died during the night. This tragic episode will affect the artist deeply and for a long time. The horror of the painting does not need to be described. The title says it all.
+  A tragic event will will affect the artist deeply and for a long time. In August 1966, Montlaur was on vacation in Brittany. The car in which he was a passenger collided with a young boy on a moped. He helped him and stayed with him for a long time, speaking to him, trying to reassure him while the child was dying.
+
+
+  The horror of the painting does not need to be described.
 description-ru: >-
   **(Кровь на дороге)**
 
 
-  En août 1966, Montlaur est en vacances en Bretagne. La voiture dont il est passager heurte un jeune garçon en mobylette. Montlaur lui porte assistance et essaie de le rassurer mais le garçon meurt rapidement. Cet épisode tragique va profondément et pour longtemps marquer le peintre. L’horreur du tableau n’a pas besoin d‘être décrite. Le titre dit tout.
+  Un épisode tragique va profondément et pour longtemps marquer le peintre. En août 1966, Montlaur est en vacances en Bretagne. La voiture dont il est passager heurte un jeune garçon en mobylette. Il lui porte assistance et reste auprès de lui un long moment, lui parlant , essayant de le rassurer. Mais le garcon meurt. 
+
+
+  L’horreur du tableau n’a pas besoin d‘être décrite.
 ---
