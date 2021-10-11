@@ -20,9 +20,9 @@ quote:
     title: "Plus sur Wikipedia"
 
 selection:
-  title: "Peinture"
+  title: "Sélection"
   link:
-    url: "/peintures/"
+    url: "/peintures/selection"
     title: "Découvrir sa peinture"
 
 expositions:

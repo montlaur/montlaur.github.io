@@ -12,7 +12,7 @@ quote:
     src: "/biographie/Autoportrait_par_Guy_de_Montlaur.jpg"
     alt: "Автопортрет без лести"
   link:
-    url: "/ru/biography/"
+    url: "/ru/biographie/"
     title: "Его биография"
   link2:
     url: "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%BB%D0%BE%D1%80,_%D0%93%D0%B8_%D0%B4%D0%B5"
@@ -21,7 +21,7 @@ quote:
 selection:
   title: "Избранные произведения"
   link:
-    url: "/ru/paintings/"
+    url: "/ru/peintures/selection"
     title: "Другие картины"
 
 expositions:
@@ -30,7 +30,7 @@ expositions:
     src: "/expositions/Pegasus1.jpg"
     alt: "Пегас перед высадкой"
   link:
-    url: "/ru/exhibits/"
+    url: "/ru/expositions/"
     title: "Прошлые выставки"
 
 blog:

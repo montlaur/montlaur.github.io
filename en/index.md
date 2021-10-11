@@ -12,7 +12,7 @@ quote:
     src: "/biographie/Autoportrait_par_Guy_de_Montlaur.jpg"
     alt: "Autoportrait by Guy de Montlaur"
   link:
-    url: "/en/biography/"
+    url: "/en/biographie/"
     title: "His biography"
   link2:
     url: "https://en.wikipedia.org/wiki/Guy_de_Montlaur"
@@ -21,7 +21,7 @@ quote:
 selection:
   title: "Paintings selection"
   link:
-    url: "/en/paintings/"
+    url: "/en/peintures/selection"
     title: "More paintings"
 
 expositions:
@@ -30,7 +30,7 @@ expositions:
     src: "/expositions/Pegasus1.jpg"
     alt: "Pegasus before landing"
   link:
-    url: "/en/exhibits/"
+    url: "/en/expositions/"
     title: "Passed exhibitions"
 
 blog:

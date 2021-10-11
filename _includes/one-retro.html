@@ -1,0 +1,15 @@
+<section class="bg-background">
+  <div class="container lead">
+    {% if page.lang=="EN" %}
+      <h2>Retrospective</h2>
+    {% elsif page.lang=="RU" %}
+      <h2>Ретроспектива</h2>
+    {% else %}
+      <h2>Rétrospective</h2>
+    {% endif %}
+    {% assign retropost = site.retrospective | reverse %}
+    {% for post in retropost offset: 1 limit:1 %}
+      {% include retropost.html post = post lienretro = "oui" %}
+    {% endfor %}
+  </div>
+</section>
