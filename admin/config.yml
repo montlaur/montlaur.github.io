@@ -55,10 +55,16 @@ collections:
       - { label: 'Titre (fr)', name: 'title', widget: 'string' }
       - { label: 'Titre (en)', name: 'title-en', widget: 'string' }
       - { label: 'Titre (ru)', name: 'title-ru', widget: 'string' }
+      - { label: 'Theme (fr)', name: 'theme', widget: 'string' }
+      - { label: 'Theme (en)', name: 'theme-en', widget: 'string' }
+      - { label: 'Theme (ru)', name: 'theme-ru', widget: 'string' }
       - { label: 'Date (pour tri)', name: 'annee', widget: 'date' }
       - { label: 'Date (affichée)', name: 'annee-aff', widget: 'string' }
       - { label: 'Date (affichée en)', name: 'annee-aff-en', widget: 'string' }
       - { label: 'Date (affichée ru)', name: 'annee-aff-ru', widget: 'string' }
+      - { label: 'Era', name: 'era', widget: 'string' }
+      - { label: 'Era (en)', name: 'era-en', widget: 'string' }
+      - { label: 'Era (ru)', name: 'era-ru', widget: 'string' }
       - { label: 'Photo', name: 'picture', widget: 'image' }
       - { label: 'Lieu / Place (fr)', name: 'place', widget: 'string' }
       - { label: 'Lieu / Place (en)', name: 'place-en', widget: 'string' }

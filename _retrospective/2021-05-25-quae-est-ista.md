@@ -7,6 +7,12 @@ active-item2: retrospective
 title: Quae est Ista
 title-en: Quae est Ista
 title-ru: Quae est Ista
+theme: Poésie
+theme-en: Poetry
+theme-ru: Поэзия
+era: Dernières années
+era-en: Last years
+era-ru: В последние годы
 annee: 1977-05-01T22:00:00.000Z
 annee-aff: mai 1977
 annee-aff-en: May 1977
@@ -28,7 +34,7 @@ description-fr: >-
 
   pulchra ut luna, electa ut sol,\
 
-  terribilis ut castorum acies ordinata?* 
+  terribilis ut castorum acies ordinata?*
 
 
   ***Quelle est Celle-ci** qui s'élève\
@@ -37,7 +43,7 @@ description-fr: >-
 
   belle comme la lune, exquise comme le soleil,\
 
-  terrible comme une armée rangée en bataille ?* 
+  terrible comme une armée rangée en bataille ?*
 
 
   *(Cantique des Cantiques, ch.6, v.9)*
@@ -51,7 +57,7 @@ description-en: >-
 
   *pulchra ut luna, electa ut sol,*\
 
-  *terribilis ut castorum acies ordinata?* 
+  *terribilis ut castorum acies ordinata?*
 
 
   ***Who is This** who ascends*\
@@ -60,7 +66,7 @@ description-en: >-
 
   *beautiful as the moon, bright as the sun,*\
 
-  *terrible as an army drawn up in battle array?* 
+  *terrible as an army drawn up in battle array?*
 
 
   *(Song of songs, 6:9)*
@@ -74,7 +80,7 @@ description-ru: >-
 
   *pulchra ut luna, electa ut sol,*\
 
-  *terribilis ut castorum acies ordinata?* 
+  *terribilis ut castorum acies ordinata?*
 
 
   ***Quelle est Celle-ci** qui s'élève*\
@@ -83,7 +89,7 @@ description-ru: >-
 
   *belle comme la lune, exquise comme le soleil,*\
 
-  *terrible comme une armée rangée en bataille ?* 
+  *terrible comme une armée rangée en bataille ?*
 
 
   *(Cantique des Cantiques, ch.6, v.9)*

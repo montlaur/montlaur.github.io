@@ -29,6 +29,20 @@
       </div>
     </div>
     <div class="seven columns">
+      {% if include.post.era and include.post.theme %}
+        <ul class="list-inline theme-era">
+          {% if page.lang=="EN" %}
+            <li class="post-infos">{{ include.post.theme-en }}</li>
+            <li class="post-infos">{{ include.post.era-en }}</li>
+          {% elsif page.lang=="RU" %}
+            <li class="post-infos">{{ include.post.theme-ru }}</li>
+            <li class="post-infos">{{ include.post.era-ru }}</li>
+          {% else %}
+            <li class="post-infos">{{ include.post.theme }}</li>
+            <li class="post-infos">{{ include.post.era }}</li>
+          {% endif %}
+        </ul>
+      {% endif %}
       {%- unless include.notitle == "yes" or page.lang -%}
         <h3 class="post-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
       {%- elsif page.lang == "EN" -%}
