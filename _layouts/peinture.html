@@ -1,8 +1,30 @@
 {% include head.html %}
 {% include peinture-menu.html %}
 {% include big-quote.html notitle = "oui" %}
+<section class="bg-background">
+  <div class="container lead">
+    {% if page.lang=="EN" %}
+      <h2>Retrospective</h2>
+    {% elsif page.lang=="RU" %}
+      <h2>Ретроспектива</h2>
+    {% else %}
+      <h2>Rétrospective</h2>
+    {% endif %}
+    {% assign retropost = site.retrospective | reverse %}
+    {% for post in retropost offset: 1 limit:1 %}
+      {% include retropost.html post = post lienretro = "oui" %}
+    {% endfor %}
+  </div>
+</section>
 <section class="bg-alternate">
   <div class="container lead">
+    {% if page.lang=="EN" %}
+      <h2 class="text-center">Selection</h2>
+    {% elsif page.lang=="RU" %}
+      <h2 class="text-center">Выбор</h2>
+    {% else %}
+      <h2 class="text-center">Sélection</h2>
+    {% endif %}
     <div class="row text-center">
       {% for peinture in site.data.annees-40 offset:5 limit:1 %}
         <div class="three columns">
@@ -46,14 +68,6 @@
         <a class="button button-primary older" href="/peintures/selection">Voir la sélection</a>
       {% endif %}
     </p>
-  </div>
-</section>
-<section class="bg-background">
-  <div class="container lead">
-    {% assign retropost = site.retrospective | reverse %}
-    {% for post in retropost limit:1 %}
-      {% include retropost.html post = post lienretro = "oui" %}
-    {% endfor %}
   </div>
 </section>
 {% include foot.html %}
