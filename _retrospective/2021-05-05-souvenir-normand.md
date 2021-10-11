@@ -30,7 +30,7 @@ description-en: >-
   **(Memory from Normandy)**
 
 
-  The painting depicts the day of June 6, 1944 when Montlaur, the soldier, landed on French lands, at Colleville-sur-Orne (now Colleville-Montgomery). We can only see flashes, explosions, shards of black metal, blood. This is how Montlaur, the painter, remembers Normandy on D-Day, 28 years later.
+  This painting depicts June 6, 1944 when Montlaur, the soldier, landed on the French beaches, at Colleville-sur-Orne (now Colleville-Montgomery). We can only see flashes, explosions, shards of black metal, blood. This is how Montlaur, the artist, remembers Normandy on D-Day, 28 years later.
 description-ru: >-
   **(На память о Нормандии)**
 

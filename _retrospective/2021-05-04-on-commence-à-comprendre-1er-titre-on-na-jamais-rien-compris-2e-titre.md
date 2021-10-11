@@ -32,7 +32,7 @@ description-en: >-
   Understood Anything)**.
 
 
-  Unlike in older paintings, the shapes are no longer geometrically arranged. We thought we understood, now everything is blurred, but the harmony is intact, the colors are strong and contrasting. We are in Brittany, the sea is rough, blue and green, the rocks are evil.
+  Shapes are no longer geometrically arranged as they were in older paintings. We thought we understood, now everything is blurred but the harmony is intact, the colors are strong and contrasting. We are in Brittany, the sea is rough, blue and green, the rocks are sinister.
 description-ru: >-
   The painting has two titles: “**On commence à comprendre**" **(Мы начинаем
   понимать)** and "**On n'a jamais rien compris**" **(Мы никогда ничего не

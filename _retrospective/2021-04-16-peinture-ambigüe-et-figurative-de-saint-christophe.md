@@ -37,10 +37,10 @@ description-en: >-
   and  "**There are things that it would be far better not to know**"
 
 
-  One can clearly see, in the background, the river the saint is crossing and the cross he carries. The head, surprisingly, resembles that of the painter; did he really represent himself in the painting?
+  In the background, one can clearly see the river the saint is crossing and the cross he carries. Surprisingly, his head resembles that of the artist; did he really represent himself in the painting?
 
 
-  And why the cryptic phrase "There are things that it would be far better not to know"? What is the painter referring to? Past memories? Things that are unspeakable but representable on the canvas provided they are ambiguous and abstract.
+  And why the cryptic phrase "There are things that it would be far better not to know"? What is the artist referring to? Past memories? Things that are unspeakable but representable on the canvas provided they are ambiguous and abstract.
 description-ru: >-
   La peinture a deux titres : "**Peinture ambigüe et figurative de Saint
   Christophe**" **(Неоднозначное и фигуративное изображение святого

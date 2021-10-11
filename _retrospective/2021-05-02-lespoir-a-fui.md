@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: L'espoir a fui
-title-en: L'espoir a fui - (Hope has Fled)
+title-en: L'espoir a fui
 title-ru: L'espoir a fui
 annee: 1960-02-29T23:00:00.000Z
 annee-aff: mars 1960
@@ -60,7 +60,7 @@ description-fr: >-
 
   *\- Qu'il était bleu, le ciel, et grand, l'espoir !*\
 
-  *\- L'espoir a fui, vaincu, vers le ciel noir.*
+  *\- **L'espoir a fui**, vaincu, vers le ciel noir.*
 
 
   *Tels ils marchaient dans les avoines folles,*\
@@ -70,7 +70,7 @@ description-fr: >-
 
   *(Paul Verlaine, Colloque sentimental)*
 description-en: >-
-  The painter quotes Verlaine who, in his *"Colloque sentimental"*, recalls his
+  The artist quotes Verlaine who, in his *"Colloque sentimental"*, recalls his
   past love. \
 
   In the painting, shapes are cold and bloody, they pierce the black sky.
@@ -108,7 +108,7 @@ description-en: >-
 
    *Skies were so blue and hopes so high, so proud!\
 
-  Defeated hope has fled in a sombre cloud.*
+  Defeated **hope has fled** in a sombre cloud.*
 
 
   *Thus did they walk in the wild grass swaying.\
@@ -159,7 +159,7 @@ description-ru: >-
 
   *\- Qu'il était bleu, le ciel, et grand, l'espoir !*\
 
-  *\- L'espoir a fui, vaincu, vers le ciel noir.*
+  *\- **L'espoir a fui**, vaincu, vers le ciel noir.*
 
 
   *Tels ils marchaient dans les avoines folles,*\

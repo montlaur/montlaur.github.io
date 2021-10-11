@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La terre est bleue comme une orange
-title-en: La terre est bleue comme une orange - (The Earth is Blue like an Orange)
+title-en: La terre est bleue comme une orange
 title-ru: La terre est bleue comme une orange
 annee: 1974-06-30T23:00:00.000Z
 annee-aff: juillet 1974
@@ -27,7 +27,7 @@ description-fr: >-
   pris le bleu des yeux de Gala.
 
 
-  *La terre est bleue comme une orange*\
+  ***La terre est bleue comme une orange***\
 
   *Jamais une erreur les mots ne mentent pas*\
 
@@ -68,7 +68,7 @@ description-en: >-
   blue like Gala's eyes.
 
 
-  *The earth is blue like an orange*\
+  ***The earth is blue like an orange***\
 
   *Never an error, words do not lie*\
 
@@ -110,7 +110,7 @@ description-ru: >-
   retrouvé le bleu des yeux de Gala.
 
 
-  *La terre est bleue comme une orange*\
+  ***La terre est bleue comme une orange***\
 
   *Jamais une erreur les mots ne mentent pas*\
 

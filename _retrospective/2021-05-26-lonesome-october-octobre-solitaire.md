@@ -33,12 +33,12 @@ description-fr: >-
 
   ![](/photos/wordpress/montlaur-1968-a.jpg "Château de Montlaur (Hérault)")
 description-en: >-
-  The chateau de Montlaur as seen by Montlaur in 1968. The painter represented
+  The Chateau de Montlaur as seen by Montlaur in 1968. The painter represented
   the Renaissance facade of the castle with the chapel and its red roof and the
   majestic entrance surmounted by a cross-window.
 
 
-  The chateau de Montlaur (11th century) is the cradle of the Montlaur family. It is located 18km North-East of Montpellier. It has not been inhabited since 1622 when it was besieged, taken and partially razed by the Protestant troops of the Duke of Rohan.
+  The Chateau de Montlaur (11th century) is the cradle of the Montlaur family. It is located 18km North-East of Montpellier. It has not been inhabited since 1622 when it was besieged, taken, and partially razed by the Duke of Rohan's Protestant troops.
 
 
   ![](/photos/wordpress/montlaur-1968-a.jpg "Chateau de Montlaur (Hérault, Languedoc)")

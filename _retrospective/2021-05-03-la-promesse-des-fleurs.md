@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: La promesse des fleurs
-title-en: La promesse des fleurs - (The Promise of Flowers)
+title-en: La promesse des fleurs
 title-ru: La promesse des fleurs
 annee: 1961-05-31T23:00:00.000Z
 annee-aff: juin 1961
@@ -36,7 +36,7 @@ description-fr: >-
 
   La moisson de nos champs lassera les faucilles,\
 
-  Et les fruits passeront la promesse des fleurs.\
+  Et les fruits passeront **la promesse des fleurs**.\
 
   La fin de tant d’ennuis dont nous fûmes la proie\
 
@@ -45,10 +45,10 @@ description-fr: >-
 
   *(François de Malherbe, 1605)*
 description-en: >-
-  The painter uses Malherbe's words in his “Prayer for King Henry the Great” in
-  which the poet celebrates the peace finally brought back to the country by
-  King Henry IV. The colors remain violent, there are threatening black shapes,
-  like painful memories that cannot be deleted.
+  The artist uses Malherbe's words in his “Prayer for King Henry the Great” in
+  which the poet celebrates peace finally brought back to France by King Henry
+  IV. The colors remain violent, there are threatening black shapes, like
+  painful memories that cannot be deleted.
 
 
   *Never again will we encounter these sad years\
@@ -59,7 +59,7 @@ description-en: >-
 
   The harvest of our fields will become tedious for sickles,\
 
-  And fruit will fulfill the promise of flowers.\
+  And fruit will fulfill **the promise of flowers**.\
 
   The end of such great trouble we suffered\
 
@@ -85,7 +85,7 @@ description-ru: >-
 
   La moisson de nos champs lassera les faucilles,\
 
-  Et les fruits passeront la promesse des fleurs.\
+  Et les fruits passeront **la promesse des fleurs**.\
 
   La fin de tant d’ennuis dont nous fûmes la proie\
 

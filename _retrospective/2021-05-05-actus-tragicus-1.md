@@ -36,15 +36,15 @@ description-fr: >-
 
   Pour écouter [Actus Tragicus](https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety)[](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-en: >-
-  Montlaur always painted to music and most of the time he listened to Johann
-  Sebastian Bach. The title of this painting is that of cantata BWV 106 “Gottes
-  Zeit ist die Allerbeste Zeit” (God's time is the best of times), a short work
-  composed when Bach was about 23 years old. The theme is that of death which
-  arrives at the time chosen by God. The recorders are particularly moving. The
-  voices are consoling but remain very sad.
+  Montlaur always painted while listening to music, mostly by Johann Sebastian
+  Bach. The title of this painting is that of Cantata BWV 106 “Gottes Zeit ist
+  die Allerbeste Zeit” (God's time is the best of times), a short work composed
+  when Bach was about 23 years old. The theme is that of death which happens at
+  a time chosen by God. The flutes are particularly moving. The voices are
+  consoling but remain very sad.
 
 
-  Is it the dead we can perceive? The black shadow of a head behind a curtain of gray and white tears that flow profusely? There is a light in the center of the painting: a glimmer of hope and confidence that death is opening the way to paradise, and therefore to happiness.  
+  Is it the dead we can perceive - the black shadow of a head behind a curtain of gray and white tears that flow profusely? There is a light in the center of the painting: a glimmer of hope and confidence that death is opening the way to paradise, and therefore to happiness.  
 
 
   Listen to   [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Actus Tragicus](https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety)

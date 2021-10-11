@@ -26,7 +26,7 @@ description-fr: >-
   fondement, substance première.
 
 
-  Le peintre est hermétique, comme souvent; parle-t-il de son âme engendrée – ou non – par son intellect ? Croit-il pouvoir atteindre la beauté (… universelle) par le biais de l’abstraction ? Son tableau ne l’est pas moins, hermétique : au premier plan, on aperçoit une silhouette à la chevelure rouge, humble, l'auteur, au-dessus de celle-ci, une autre forme, menaçante et violente, toute de feu et de lumière sous un ciel ténébreux.
+  Le peintre est hermétique, comme souvent; parle-t-il de son âme engendrée – ou non – par son intellect ? Croit-il pouvoir atteindre la beauté (… universelle) par le biais de l’abstraction ? Son tableau ne l’est pas moins, hermétique : au premier plan, on aperçoit une silhouette à la chevelure rouge, humble, l'auteur; au-dessus de celle-ci, une autre forme, menaçante et violente, toute de feu et de lumière sous un ciel ténébreux.
 description-en: >-
   **(Hypostasis of a Singular ... and Perhaps Universal Painter)**
 
@@ -34,7 +34,7 @@ description-en: >-
   Hypostasis: (ὑπόστασις) action of placing oneself (στάσις) below (ὑπό-) = foundation, first substance.
 
 
-  The painter is hermetic, as is often the case; is he talking about his soul engendered - or not - by his intellect? Does he believe he can achieve (universal) beauty through abstraction? Yet, his painting remains hermetic: in the foreground, we can see a humble silhouette with red hair, the author and above it, another form, threatening and violent, all of fire and light under a dark sky.
+  The artist is hermetic, as is often the case; is he talking about his soul engendered - or not - by his intellect? Does he believe he can achieve (universal) beauty through abstraction? Yet, his painting remains hermetic: in the foreground, we can see a humble silhouette with red hair, the author; and above it, another form, threatening and violent, all of fire and light under a dark sky.
 description-ru: >-
   **(Hypostase d’un peintre singulier … et peut-être universel)**
 

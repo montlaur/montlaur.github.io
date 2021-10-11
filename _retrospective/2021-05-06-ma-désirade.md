@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Ma Désirade
-title-en: Ma Désirade (My Desired One)
+title-en: Ma Désirade
 title-ru: Ma Désirade
 annee: 1975-11-30T23:00:00.000Z
 annee-aff: décembre 1975
@@ -88,18 +88,20 @@ description-fr: >-
 
   O marguerite exfoliée\
 
-  Mon île au loin ma Désirade\
+  Mon île au loin **ma Désirade**\
 
   Ma rose mon giroflier*
 
 
   *(Alcools, La chanson du Mal-Aimé)*
 description-en: >-
-  
+  **(My Desired One)** (La Désirade is also an Island off Guadeloupe)
 
-  Apollinaire's beautiful poem about a past love
 
-  The painting show through a porthole the harbor, the coast of the island or the silhouette of the beloved woman?
+  Apollinaire's beautiful poem about a past love.
+
+
+  The painting shows through a porthole the harbor, the coast of the island, or perhaps the beloved's silhouette?
 
 
   *O Milky Way, whose sisterly*\
@@ -173,9 +175,10 @@ description-en: >-
 
   *(Translated by C. John Holcombe)*
 description-ru: >-
-  Incroyablement beau poème de Guillaume Apollinaire sur un amour passéLe
-  tableau laisse voir à travers un hublot la rade, les côtes de l’île pleurée ou
-  la silhouette de la femme aimée ?
+  **(My Desired One)** (La Désirade is also an Island off Guadeloupe)
+
+
+  Incroyablement beau poème de Guillaume Apollinaire sur un amour passéLe tableau laisse voir à travers un hublot la rade, les côtes de l’île pleurée ou la silhouette de la femme aimée ?
 
 
   *Voie lactée ô sœur lumineuse\

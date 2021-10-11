@@ -46,7 +46,7 @@ description-en: >-
   *(Translated by Sir Thomas Urquhart of Cromarty and Peter Antony Motteux)*
 
 
-  The abbey occupies the center of attraction of the painting. Its shape is triangular rather than hexagonal. One can clearly see the round towers as well as the Loire river. The painting is balanced and reflects the joie de vivre of the monks of the abbey.
+  The abbey occupies the center of the painting. Its shape is triangular rather than hexagonal. One can clearly see the round towers as well as the Loire river. The painting is balanced and reflects the joie de vivre of the monks of the Abbey.
 description-ru: >-
   **(Телемское аббатство)** 
 

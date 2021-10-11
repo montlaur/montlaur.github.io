@@ -71,20 +71,20 @@ description-fr: >-
 
   Pour écouter [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-en: >-
-  The title given to the painting is the first verse of the 5th movement of
-  Johann Sebastian Bach cantata BWV n ° 4 “Christ Lag in Todes Banden” (Christ
-  Lied in the Ties of Death) in which the musician celebrates the victory of
-  life over death in a strange battle. The text  of the cantata was written by
-  Martin Luther in 1524.
+  This painting's title is the first verse of the 5th movement of Johann
+  Sebastian Bach's Cantata BWV n ° 4 “Christ Lag in Todes Banden” (Christ Lied
+  in the Ties of Death), in which the musician celebrates the victory of life
+  over death in a strange battle. The text of the cantata was written by Martin
+  Luther in 1524.
 
 
-  The painter-soldier, inspired by the musical work, reproduces on the canvas the war scene, his war: he paints the hand-to-hand combat of the forces of good - the blue forms - against those of evil - the black  forms- in the midst of vermilion flames.
+  Inspired by this music, the artist-soldier reproduces the war scene - his war - on canvas: he paints the hand-to-hand combat of the forces of good - the blue forms - against those of evil - the black  forms- in the midst of vermilion flames.
 
 
   The text  of the 5th stanza of the cantata is as follows:
 
 
-  ***Es war ein wunderlicher Krieg**,\
+  **\*Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -101,7 +101,7 @@ description-en: >-
   Halleluja!*
 
 
-  ***It was a strange battle**\
+  **\*It was a strange battle**\
 
   where death and life struggled.\
 

@@ -30,11 +30,14 @@ description-en: >-
   **(A Tribute to Gustave Courbet)**
 
 
-  How can one not to see Courbet's "The Origin of the World" in this painting?
+  How can one not see Courbet's "The Origin of the World" in this painting?
 
 
-  Montlaur had great admiration for the work of Gustave Courbet and for his participation in the Paris Commune (March 18 to May 28, 1871). It should be remembered that Courbet was an elected representative of the Commune and was elected President of the Federation of Artists. He prevented, among other things, the Louvre collections to be looted and damaged.
+  Montlaur had great admiration for the work of Gustave Courbet and for his participation in the Paris Commune (March 18 to May 28, 1871). It should be remembered that Courbet was an elected representative of the Commune and was elected President of the Federation of Artists. Among others, he prevented the Louvre collections from being looted and damaged.
 description-ru: >-
+  **(Дань уважения Гюставу Курбе)**
+
+
   Comment ne pas voir « L’origine du Monde » dans cette peinture ?
 
 

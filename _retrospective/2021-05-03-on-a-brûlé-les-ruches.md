@@ -5,7 +5,7 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: On a brûlé les ruches blanches
-title-en: On a brûlé les ruches blanches - (The White Beehives have been Burned)
+title-en: On a brûlé les ruches blanches
 title-ru: On a brûlé les ruches blanches
 annee: 1960-01-02T23:00:00.000Z
 annee-aff: janvier 1960
@@ -22,16 +22,15 @@ dimensions: 61 cm x 38 cm
 dimensions-en: 61 cm x 38 cm
 dimensions-ru: 61 см x 38 см
 description-fr: >-
-  Depuis qu'il peint, Montlaur a toujours trouvé son inspiration dans l’œuvre de
-  Guillaume Apollinaire, le poète le plus proche de lui au sens figuré, mais
-  aussi physiquement : il garda le livre « Alcools » sur lui pendant toute la
-  guerre, et en particulier lorsqu'il débarqua sur les plages normandes le 6
-  juin 1944.
+  Depuis qu'il peint, Montlaur trouve son inspiration dans l’œuvre de Guillaume
+  Apollinaire, le poète le plus proche de lui au sens figuré, mais aussi
+  physiquement : il garda le livre « Alcools » sur lui pendant toute la guerre,
+  et en particulier lorsqu'il débarqua sur les plages normandes, le 6 juin 1944.
 
 
   *L'hiver est mort tout enneigé\
 
-  On a brûlé les ruches blanches\
+  **On a brûlé les ruches blanches**\
 
   Dans les jardins et les vergers\
 
@@ -75,15 +74,15 @@ description-fr: >-
 
   *(Alcools, Voie lactée - 1)*
 description-en: >-
-  Ever since he painted, Montlaur has always found his inspiration in the works
-  of Guillaume Apollinaire, the poet closest to him figuratively but also
-  physically. Montlaur kept Apollinaire's “Alcohols” with him throughout the
-  war, and in particularly when he landed on D-Day, on the Normandy beaches.
+  **(The white beehives have been burnt)**
+
+
+  Ever since he started painting, Montlaur found his inspiration in the works of Guillaume Apollinaire, the poet closest to him figuratively but also physically. Montlaur kept Apollinaire's “*Alcools*” with him throughout the war, and in particular when he landed on the Normandy beaches on D-Day.
 
 
   *Winter is dead covered in snow\
 
-  The white beehives have been burnt\
+  **The white beehives have been burnt**\
 
   In gardens and orchards\
 
@@ -139,7 +138,7 @@ description-ru: >-
 
   *L'hiver est mort tout enneigé\
 
-  On a brûlé les ruches blanches\
+  **On a brûlé les ruches blanches**\
 
   Dans les jardins et les vergers\
 
