@@ -174,7 +174,6 @@ nav, footer {
 // Sections
 section, .section {
   padding: $quadruple-spacing 0 $double-spacing ;
-  overflow: scroll;
 
   &:not(.contact) {
     .column, .columns {
