@@ -1,0 +1,4 @@
+on:
+  schedule:
+  - cron: "0 4 * * *"
+run: curl -X POST -d {} https://api.netlify.com/build_hooks/618014c418edaa61e3f0db87
