@@ -8,10 +8,8 @@
       <h2>Rétrospective</h2>
     {% endif %}
     {% assign retropost = site.retrospective | reverse %}
-    {% assign min = 1 %}
-    {% assign max = site.retrospective | size %}
-    {% assign diff = max | minus: min %}
-    {% assign randomNumber = site.time | date: "%s" | modulo: diff | plus: min %}
+    {% assign max = site.retrospective | size | minus: 1 %}
+    {% assign randomNumber = site.time | date: "%s" | modulo: max %}
     {% for post in retropost offset:randomNumber limit:1 %}
       {% include retropost.html post = post lienretro = "oui" %}
     {% endfor %}
