@@ -8,4 +8,4 @@ jobs:
     - name: curl
       uses: wei/curl@v1
       with:
-        args: -X POST -d {} https://api.netlify.com/build_hooks/618014c418edaa61e3f0db87
+        args: -X POST -d {} https://api.netlify.com/build_hooks/$NETLIFY_KEY
