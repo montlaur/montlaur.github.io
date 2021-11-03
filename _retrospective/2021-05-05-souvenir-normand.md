@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Souvenir normand
 title-en: Souvenir normand
 title-ru: Souvenir normand
+theme: Guerre
+theme-en: War
+theme-ru: Война
 annee: 1972-07-25T23:00:00.000Z
 annee-aff: juillet 1972
 annee-aff-en: July 1972
 annee-aff-ru: июль 1972 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/souvenir-normand.jpg
 place: Rothéneuf
 place-en: Rothéneuf (Brittany, France)
