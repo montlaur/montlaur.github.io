@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Clockwork
 title-en: Clockwork
 title-ru: Clockwork
+theme: "-"
+theme-en: "-"
+theme-ru: "-"
 annee: 1953-06-29T23:00:00.000Z
 annee-aff: juin 1953
 annee-aff-en: June 1953
 annee-aff-ru: июнь 1953 г.
+era: 50-59
+era-en: 50-59
+era-ru: 50-59
 picture: /photos/wordpress/clockwork.jpg
 place: Fontainebleau
 place-en: Fontainebleau
