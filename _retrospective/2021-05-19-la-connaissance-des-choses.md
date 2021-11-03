@@ -7,10 +7,16 @@ active-item2: retrospective
 title: La connaissance des choses
 title-en: La connaissance des choses
 title-ru: La connaissance des choses
+theme: Philosophie
+theme-en: Philosphy
+theme-ru: "Философия "
 annee: 1976-01-31T23:00:00.000Z
 annee-aff: février 1976
 annee-aff-en: February 1976
 annee-aff-ru: февраль 1976 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/la-connaissance-des-choses-a.jpg
 place: Paris
 place-en: Paris
