@@ -7,10 +7,16 @@ active-item2: retrospective
 title: La promesse des fleurs
 title-en: La promesse des fleurs
 title-ru: La promesse des fleurs
+theme: Poésie
+theme-en: Poetry
+theme-ru: Поэзия
 annee: 1961-05-31T23:00:00.000Z
 annee-aff: juin 1961
 annee-aff-en: June 1961
 annee-aff-ru: июнь 1961 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/la-promesse-des-fleurs.jpg
 place: Paris
 place-en: Paris
