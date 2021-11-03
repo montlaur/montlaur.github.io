@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Cosmogonie pratique
 title-en: Cosmogonie pratique
 title-ru: Cosmogonie pratique
-annee: 1972-04-30T23:00:00.000Z
+theme: "-"
+theme-en: "-"
+theme-ru: "-"
+annee: 1962-04-30T23:00:00.000Z
 annee-aff: mai 1962
 annee-aff-en: May 1962
-annee-aff-ru: май 1972 г.
+annee-aff-ru: май 1962 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/cosmogonie-pratique.jpg
 place: Paris
 place-en: Paris
