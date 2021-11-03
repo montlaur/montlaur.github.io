@@ -7,10 +7,16 @@ active-item2: retrospective
 title: La gloire du matin
 title-en: La gloire du matin
 title-ru: La gloire du matin
+theme: Paysage
+theme-en: Landscape
+theme-ru: Пейзаж
 annee: 1955-03-31T23:00:00.000Z
 annee-aff: avril 1955
 annee-aff-en: April 1955
 annee-aff-ru: апрель 1955 г.
+era: 50-59
+era-en: 50-59
+era-ru: 50-59
 picture: /photos/wordpress/la-gloire-du-matin.jpg
 place: Fontainebleau
 place-en: Fontainebleau (France)
