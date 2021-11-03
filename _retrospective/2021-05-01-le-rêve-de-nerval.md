@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Le rêve de Nerval
 title-en: Le rêve de Nerval
 title-ru: Le rêve de Nerval
+theme: Littérature française
+theme-en: French literature
+theme-ru: Французская литература
 annee: 1955-01-29T23:00:00.000Z
 annee-aff: janvier 1955
 annee-aff-en: January 1955
 annee-aff-ru: январь 1955 г.
+era: 50-59
+era-en: 50-59
+era-ru: 50-59
 picture: /photos/wordpress/le-rêve-de-nerval.jpg
 place: Fontainebleau
 place-en: Fontainebleau (France)
