@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Avant le déluge
 title-en: Avant le déluge
 title-ru: Avant le déluge
+theme: Guerre
+theme-en: War
+theme-ru: Война
 annee: 1965-01-31T23:00:00.000Z
 annee-aff: février 1965
 annee-aff-en: February 1965
 annee-aff-ru: февраль 1965 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/avant-le-déluge.jpg
 place: Paris
 place-en: Paris
