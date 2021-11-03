@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Le passeur des jours futurs - La mort d'une étoile
 title-en: Le passeur des jours futurs - La mort d'une étoile
 title-ru: Le passeur des jours futurs - La mort d'une étoile
+theme: La mort
+theme-en: Death
+theme-ru: Смерть
 annee: 1976-12-31T23:00:00.000Z
 annee-aff: 1975 - 1977
 annee-aff-en: 1975 - 1977
 annee-aff-ru: 1975 - 1977
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/le-passeur-de-jours-futurs-a.jpg
 place: Franval
 place-en: Franval (Normandy, France)
