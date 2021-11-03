@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Souvenez-vous
 title-en: Souvenez-vous
 title-ru: Souvenez-vous
+theme: "-"
+theme-en: "-"
+theme-ru: "-"
 annee: 1966-12-31T23:00:00.000Z
 annee-aff: janvier 1967
 annee-aff-en: January 1967
 annee-aff-ru: январь 1967 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/souvenez-vous.jpg
 place: Paris
 place-en: Paris
