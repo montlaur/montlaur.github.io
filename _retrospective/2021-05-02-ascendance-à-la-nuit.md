@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Ascendance à la nuit
 title-en: Ascendance à la nuit
 title-ru: Ascendance à la nuit
+theme: "-"
+theme-en: "-"
+theme-ru: "-"
 annee: 1959-11-30T23:00:00.000Z
 annee-aff: décembre 1959
 annee-aff-en: December 1959
 annee-aff-ru: декабрь 1959 г.
+era: 50-59
+era-en: 50-59
+era-ru: 50-59
 picture: /photos/wordpress/ascendance-à-le-nuit.jpg
 place: Paris
 place-en: Paris
