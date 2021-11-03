@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Ciel strié d'oiseaux
 title-en: Ciel strié d'oiseaux
 title-ru: Ciel strié d'oiseaux
+theme: 50-59
+theme-en: 50-59
+theme-ru: 50-59
 annee: 1956-06-30T23:00:00.000Z
 annee-aff: juillet 1956
 annee-aff-en: July 1956
 annee-aff-ru: июль 1956 г.
+era: Guerre
+era-en: War
+era-ru: Война
 picture: /photos/wordpress/ciel-strié-d-oiseaux.jpg
 place: Île de Ré
 place-en: Island of Ré (France)
