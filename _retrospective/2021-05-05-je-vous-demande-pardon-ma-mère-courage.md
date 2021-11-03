@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Je vous demande pardon, ma Mère Courage
 title-en: Je vous demande pardon, ma Mère Courage
 title-ru: Je vous demande pardon, ma Mère Courage
+theme: Littérature allemande
+theme-en: German literature
+theme-ru: Немецкая литература
 annee: 1968-08-24T23:00:00.000Z
 annee-aff: août 1968
 annee-aff-en: August 1968
 annee-aff-ru: август 1968 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/je-vous-demande-pardon-ma-mère-courage.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
