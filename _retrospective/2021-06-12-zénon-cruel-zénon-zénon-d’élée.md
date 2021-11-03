@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Zénon ! Cruel Zénon ! Zénon d’Élée !
 title-en: Zénon ! Cruel Zénon ! Zénon d’Élée !
 title-ru: Zénon ! Cruel Zénon ! Zénon d’Élée !
+theme: Poésie
+theme-en: Poetry
+theme-ru: Поэзия
 annee: 1975-07-31T23:00:00.000Z
 annee-aff: Août 1975
 annee-aff-en: August 1975
 annee-aff-ru: август 1975 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/dsc_0185.jpg
 place: Franval
 place-en: Franval, Normandy, France
