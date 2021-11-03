@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Divertissement pour la nuit de Janvier
 title-en: Divertissement pour la nuit de Janvier
 title-ru: Divertissement pour la nuit de Janvier
+theme: Littérature française
+theme-en: French Literature
+theme-ru: Французская литература
 annee: 1955-03-01T23:00:00.000Z
 annee-aff: mars 1955
 annee-aff-en: March 1955
 annee-aff-ru: март 1955 г.
+era: 50-59
+era-en: 50-59
+era-ru: 50-59
 picture: /photos/wordpress/divertissement-pour-la-nuit-de-janvier.jpg
 place: Fontainebleau
 place-en: Fontainebleau (France)
