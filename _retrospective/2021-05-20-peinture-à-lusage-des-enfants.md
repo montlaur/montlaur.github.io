@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Peinture à l'usage des enfants
 title-en: Peinture à l'usage des enfants
 title-ru: Peinture à l'usage des enfants
+theme: Peinture
+theme-en: Painting
+theme-ru: Живопись
 annee: 1977-02-28T23:00:00.000Z
 annee-aff: mars 1977
 annee-aff-en: March 1977
 annee-aff-ru: март 1977 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/peinture-à-l-usage-des-enfants.jpg
 place: Paris
 place-en: Paris
