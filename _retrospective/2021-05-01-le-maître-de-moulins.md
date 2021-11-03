@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Le maître de Moulins
 title-en: Le maître de Moulins
 title-ru: Le maître de Moulins
+theme: Peinture
+theme-en: Painting
+theme-ru: Живопись
 annee: 1952-07-29T23:00:00.000Z
 annee-aff: juillet 1952
 annee-aff-en: July 1952
 annee-aff-ru: июль 1952 г.
+era: 50-59
+era-en: 50-59
+era-ru: 50-59
 picture: /photos/wordpress/le-maître-de-moulins.jpg
 place: Nice
 place-en: Nice
