@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Souvenir d'Issenheim
 title-en: "Souvenir d'Issenheim "
 title-ru: "Souvenir d'Issenheim "
+theme: Peinture
+theme-en: Painting
+theme-ru: Живопись
 annee: 1977-05-14T22:00:00.000Z
 annee-aff: mai 1977
 annee-aff-en: May 1977
 annee-aff-ru: май 1977 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/souvenir-d-issenheim.jpg
 place: Paris
 place-en: Paris
