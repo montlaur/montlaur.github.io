@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Quare conturbas me?
 title-en: Quare conturbas me?
 title-ru: Quare conturbas me?
+theme: Religieux
+theme-en: Religious
+theme-ru: "Религиозный "
 annee: 1976-08-06T22:00:00.000Z
 annee-aff: juillet 1976
 annee-aff-en: July 1976
 annee-aff-ru: июль 1976 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/quare-conturbas-me.jpg
 place: Franval
 place-en: Franval (Normandy, France)
