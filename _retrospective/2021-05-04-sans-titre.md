@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Sans titre
 title-en: Untitled
 title-ru: Без названия
+theme: "-"
+theme-en: "-"
+theme-ru: "-"
 annee: 1965-02-28T23:00:00.000Z
 annee-aff: mars 1965
 annee-aff-en: March 1965
 annee-aff-ru: март 1965 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/sans-titre-0365.jpg
 place: Paris
 place-en: Paris
