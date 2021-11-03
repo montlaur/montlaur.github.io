@@ -7,9 +7,9 @@ active-item2: retrospective
 title: Où sont mes amis morts ?
 title-en: Où sont mes amis morts ?
 title-ru: Où sont mes amis morts ?
-theme: La guerre - la mort
-theme-en: War - death
-theme-ru: Война - смерть
+theme: La mort - la guerre
+theme-en: Death - war
+theme-ru: Смерть - война
 annee: 1963-08-31T23:00:00.000Z
 annee-aff: septembre 1963
 annee-aff-en: September 1963
