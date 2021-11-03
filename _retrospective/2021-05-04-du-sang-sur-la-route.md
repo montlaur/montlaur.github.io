@@ -7,9 +7,9 @@ active-item2: retrospective
 title: Du sang sur la route
 title-en: Du sang sur la route
 title-ru: Du sang sur la route
-theme: Guerre
-theme-en: War
-theme-ru: Война
+theme: La mort - la guerre
+theme-en: Death - War
+theme-ru: Смерть - война
 annee: 1966-07-31T23:00:00.000Z
 annee-aff: août 1966
 annee-aff-en: August 1966
