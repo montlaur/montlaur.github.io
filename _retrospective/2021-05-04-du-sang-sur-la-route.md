@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Du sang sur la route
 title-en: Du sang sur la route
 title-ru: Du sang sur la route
+theme: Guerre
+theme-en: War
+theme-ru: Война
 annee: 1966-07-31T23:00:00.000Z
 annee-aff: août 1966
 annee-aff-en: August 1966
 annee-aff-ru: август 1966 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/du-sang-sur-la-route.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
