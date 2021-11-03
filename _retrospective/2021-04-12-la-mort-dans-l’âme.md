@@ -7,10 +7,16 @@ active-item2: retrospective
 title: La mort dans l’âme
 title-en: La mort dans l’âme
 title-ru: La mort dans l’âme
+theme: "-"
+theme-en: "-"
+theme-ru: "-"
 annee: 1973-11-29T23:00:00.000Z
 annee-aff: novembre 1973
 annee-aff-en: November 1973
 annee-aff-ru: ноябрь 1973 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/172188702_5428107453927261_2759989973320134181_n.jpg
 place: Paris
 place-en: Paris
