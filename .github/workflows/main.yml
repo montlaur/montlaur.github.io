@@ -1,11 +1,11 @@
 on:
   schedule:
-  - cron: "0 4 * * *"
+  - cron: "0 7 * * *"
 jobs:
   curl:
     runs-on: ubuntu-latest
     steps:
     - name: curl
-      uses: wei/curl@v1
+      uses: wei/curl@master
       with:
         args: -X POST -d {} https://api.netlify.com/build_hooks/$NETLIFY_KEY
