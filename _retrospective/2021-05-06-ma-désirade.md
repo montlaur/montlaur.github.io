@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Ma Désirade
 title-en: Ma Désirade
 title-ru: Ma Désirade
+theme: Poésie
+theme-en: Poetry
+theme-ru: Поэзия
 annee: 1975-11-30T23:00:00.000Z
 annee-aff: décembre 1975
 annee-aff-en: December 1975
 annee-aff-ru: декабрь 1975 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/dsc01171a.jpg
 place: Paris
 place-en: Paris
