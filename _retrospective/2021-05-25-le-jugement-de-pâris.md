@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Le jugement de Pâris
 title-en: Le jugement de Pâris
 title-ru: Le jugement de Pâris
+theme: Peinture
+theme-en: Painting
+theme-ru: Живопись
 annee: 1964-01-31T23:00:00.000Z
 annee-aff: février 1964
 annee-aff-en: February 1964
 annee-aff-ru: феврие 1964
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/le-jugement-de-paris.jpg
 place: Paris
 place-en: Paris
