@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Hommage à Gustave Courbet
 title-en: Hommage à Gustave Courbet
 title-ru: Hommage à Gustave Courbet
+theme: Peinture
+theme-en: Painting
+theme-ru: Живопись
 annee: 1965-05-29T23:00:00.000Z
 annee-aff: décembre 1964 - juin 1965
 annee-aff-en: December 1964 - June 1965
 annee-aff-ru: декабрь 1964 - июнь 1965 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/hommage-à-gustave-courbet.jpg
 place: Paris
 place-en: Paris
