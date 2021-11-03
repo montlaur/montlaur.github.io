@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Arma virumque cano
 title-en: Arma Virumque Cano
 title-ru: Arma virumque cano
+theme: Littérature classique
+theme-en: Classical literature
+theme-ru: Классическая литература
 annee: 1975-11-30T23:00:00.000Z
 annee-aff: décembre 1975
 annee-aff-en: December 1975
 annee-aff-ru: декабрь 1975 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/arma-virumque-cano.jpg
 place: Paris
 place-en: Paris
