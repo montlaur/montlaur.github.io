@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Lonesome October
 title-en: Lonesome October
 title-ru: Lonesome October
+theme: Paysage
+theme-en: Landscape
+theme-ru: Пейзаж
 annee: 1968-10-31T23:00:00.000Z
 annee-aff: novembre 1968
 annee-aff-en: November 1968
 annee-aff-ru: ноябрь 1968 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/lonesome-october.jpg
 place: Paris
 place-en: Paris
