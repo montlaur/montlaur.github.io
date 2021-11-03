@@ -7,10 +7,16 @@ active-item2: retrospective
 title: La nuit d’Aurélia
 title-en: La nuit d’Aurélia
 title-ru: La nuit d’Aurélia
+theme: Littérature française
+theme-en: French literature
+theme-ru: Французская литература
 annee: 1973-12-31T23:00:00.000Z
 annee-aff: 1963 - 1974
 annee-aff-en: 1963 - 1974
 annee-aff-ru: 1963 - 1974 г.
+era: 60-69, 70-77
+era-en: 60-69, 70-77
+era-ru: 60-69, 70-77
 picture: /photos/wordpress/179765175_5507026209368718_6972913337140986288_n.jpg
 place: Paris
 place-en: Paris
