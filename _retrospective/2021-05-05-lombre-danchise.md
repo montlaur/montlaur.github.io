@@ -7,10 +7,16 @@ active-item2: retrospective
 title: L'ombre d'Anchise
 title-en: "L'ombre d'Anchise "
 title-ru: L'ombre d'Anchise
+theme: Littérature classique
+theme-en: Classical Literature
+theme-ru: Классическая литература
 annee: 1962-06-30T23:00:00.000Z
 annee-aff: juillet 1962
 annee-aff-en: July 1962
 annee-aff-ru: июль 1962 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/l-ombre-d-anchise.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
