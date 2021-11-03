@@ -7,10 +7,16 @@ active-item2: retrospective
 title: L'espoir a fui
 title-en: L'espoir a fui
 title-ru: L'espoir a fui
+theme: Poésie
+theme-en: Poetry
+theme-ru: Поэзия
 annee: 1960-02-29T23:00:00.000Z
 annee-aff: mars 1960
 annee-aff-en: March 1960
 annee-aff-ru: март 1960 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/l-espoir-a-fui.jpg
 place: Paris
 place-en: Paris
