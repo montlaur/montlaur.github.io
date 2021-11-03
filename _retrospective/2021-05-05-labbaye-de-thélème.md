@@ -7,10 +7,16 @@ active-item2: retrospective
 title: L'abbaye de Thélème
 title-en: L'abbaye de Thélème
 title-ru: L'abbaye de Thélème
+theme: Littérature française
+theme-en: French literature
+theme-ru: Французская литература
 annee: 1967-11-11T23:00:00.000Z
 annee-aff: août - novembre 1967
 annee-aff-en: August - November 1967
 annee-aff-ru: август - ноябрь 1967 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/l-abbaye-de-thélème.jpg
 place: Dinard - Paris
 place-en: Dinard (Brittany) - Paris
