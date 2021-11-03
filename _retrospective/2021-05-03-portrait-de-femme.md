@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Portrait de femme
 title-en: Portrait de femme
 title-ru: Portrait de femme
+theme: Portrait
+theme-en: Portrait
+theme-ru: Портрет
 annee: 1964-11-30T23:00:00.000Z
 annee-aff: décembre 1964
 annee-aff-en: December 1964
 annee-aff-ru: декабрь 1964 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/portrait-de-femme.jpg
 place: "Paris "
 place-en: Paris
