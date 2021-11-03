@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Souvenir d'un meurtre
 title-en: Souvenir d'un meurtre
 title-ru: Souvenir d'un meurtre
+theme: La mort - la guerre
+theme-en: Death - war
+theme-ru: Смерть - война
 annee: 1960-06-30T23:00:00.000Z
 annee-aff: juillet 1960
 annee-aff-en: July 1960
 annee-aff-ru: июль 1960 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/souvenir-d-un-meurtre.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
