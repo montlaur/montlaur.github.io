@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Le soleil du détroit de Messine
 title-en: Le soleil du détroit de Messine
 title-ru: Le soleil du détroit de Messine
+theme: Littérature classique
+theme-en: Classical literature
+theme-ru: Классическая литература
 annee: 1974-01-29T23:00:00.000Z
 annee-aff: janvier 1974
 annee-aff-en: January 1974
 annee-aff-ru: январь 1974 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/173272339_5439025052835501_4913393786078555588_n.jpg
 place: Paris
 place-en: Paris
