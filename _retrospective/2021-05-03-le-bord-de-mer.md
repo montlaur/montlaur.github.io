@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Le bord de mer
 title-en: Le bord de mer
 title-ru: Le bord de mer
+theme: Paysage marin
+theme-en: Seascape
+theme-ru: Морской пейзаж
 annee: 1964-07-31T23:00:00.000Z
 annee-aff: août 1964
 annee-aff-en: August 1964
 annee-aff-ru: август 1964 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/le-bord-de-mer.jpg
 place: Dinard
 place-en: Dinard (Brittany, France)
