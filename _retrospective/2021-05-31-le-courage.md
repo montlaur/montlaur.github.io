@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Le courage
 title-en: Le courage
 title-ru: Le courage
+theme: Philosophie - guerre
+theme-en: Philosophy - war
+theme-ru: Философия - война
 annee: 1977-01-31T23:00:00.000Z
 annee-aff: août 1976 - février 1977
 annee-aff-en: August 1976 - February 1977
 annee-aff-ru: август 1976 - февраль 1977 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/le-courage.jpg
 place: Paris
 place-en: Paris
