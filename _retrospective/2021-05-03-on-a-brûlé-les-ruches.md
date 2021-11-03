@@ -7,10 +7,16 @@ active-item2: retrospective
 title: On a brûlé les ruches blanches
 title-en: On a brûlé les ruches blanches
 title-ru: On a brûlé les ruches blanches
+theme: Poésie
+theme-en: Poetry
+theme-ru: Поэзия
 annee: 1960-01-02T23:00:00.000Z
 annee-aff: janvier 1960
 annee-aff-en: January 1960
 annee-aff-ru: январь 1960 г.
+era: 60-69
+era-en: 60-69
+era-ru: 60-69
 picture: /photos/wordpress/on-a-brûlé-les-ruches-blanches.jpg
 place: Paris
 place-en: Paris
