@@ -7,10 +7,16 @@ active-item2: retrospective
 title: La terre est bleue comme une orange
 title-en: La terre est bleue comme une orange
 title-ru: La terre est bleue comme une orange
+theme: Poésie
+theme-en: Poetry
+theme-ru: Поэзия
 annee: 1974-06-30T23:00:00.000Z
 annee-aff: juillet 1974
 annee-aff-en: July 1974
 annee-aff-ru: июль 1974 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/1552a.jpg
 place: Rothéneuf
 place-en: Rothéneuf (Brittany, France)
