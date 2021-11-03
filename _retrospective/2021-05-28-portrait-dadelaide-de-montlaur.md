@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Portrait d'Adelaide de Montlaur
 title-en: Portrait d'Adelaide de Montlaur
 title-ru: Portrait d'Adelaide de Montlaur
+theme: Portrait
+theme-en: Portrait
+theme-ru: Портрет
 annee: 1947-12-31T23:00:00.000Z
 annee-aff: "1948"
 annee-aff-en: "1948"
 annee-aff-ru: "1948"
+era: 39-49
+era-en: 39-49
+era-ru: 39-49
 picture: /photos/wordpress/a-de-montlaur.jpg
 place: USA
 place-en: USA
