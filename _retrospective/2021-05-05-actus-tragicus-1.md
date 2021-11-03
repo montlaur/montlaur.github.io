@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Actus Tragicus
 title-en: Actus Tragicus
 title-ru: Actus Tragicus
+theme: Musique
+theme-en: Music
+theme-ru: Музыка
 annee: 1972-01-03T23:00:00.000Z
 annee-aff: janvier1972
 annee-aff-en: January 1972
 annee-aff-ru: январь 1972 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/actus-tragicus.jpg
 place: Paris
 place-en: Paris
