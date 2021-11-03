@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Pseudo-métabolisme
 title-en: Pseudo-métabolisme
 title-ru: Pseudo-métabolisme
+theme: Médical - guerre
+theme-en: Medical - war
+theme-ru: "Медицинский - война "
 annee: 1971-09-13T23:00:00.000Z
 annee-aff: septembre 1971
 annee-aff-en: September 1971
 annee-aff-ru: сентябрь 1971 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/pseudo-métabolisme.jpg
 place: Paris
 place-en: Paris
