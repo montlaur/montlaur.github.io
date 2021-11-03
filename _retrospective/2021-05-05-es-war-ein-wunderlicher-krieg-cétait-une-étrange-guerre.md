@@ -7,10 +7,16 @@ active-item2: retrospective
 title: Es war ein wunderlicher krieg
 title-en: Es war ein wunderlicher Krieg
 title-ru: Es war ein wunderlicher krieg
+theme: Guerre - musique
+theme-en: War - music
+theme-ru: " Война - музыка"
 annee: 1972-12-31T23:00:00.000Z
 annee-aff: janvier1973
 annee-aff-en: January 1973
 annee-aff-ru: январь 1973 г.
+era: 70-77
+era-en: 70-77
+era-ru: 70-77
 picture: /photos/wordpress/es-war-ein-wunderlicher-kreig.jpg
 place: Paris
 place-en: Paris
