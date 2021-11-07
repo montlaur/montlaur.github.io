@@ -2,10 +2,10 @@ on:
   schedule:
   - cron: "0 7 * * *"
 jobs:
-  curl:
-    runs-on: ubuntu-latest
-    steps:
-    - name: curl
-      uses: wei/curl@master
-      with:
-        args: -X POST -d {} https://api.netlify.com/build_hooks/$NETLIFY_KEY
+  - name: Fetch URL
+    # You may pin to the exact commit or the version.
+    # uses: boyeborg/fetch-url-action@ff420affd24e1d8131bc65b8cd4c1b9bdd9fb11f
+    uses: boyeborg/fetch-url-action@v1.1
+    with:
+      # The url to fetch
+      url: 
