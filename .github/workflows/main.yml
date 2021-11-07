@@ -1,6 +1,6 @@
 on:
   schedule:
-  - cron: "0 19 * * *"
+  - cron: "20 18 * * *"
 jobs:
   build:
     name: Request Netlify Webhook
