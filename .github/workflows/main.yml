@@ -8,4 +8,4 @@ jobs:
     uses: boyeborg/fetch-url-action@v1.1
     with:
       # The url to fetch
-      url: 
+      url: https://api.netlify.com/build_hooks/618014c418edaa61e3f0db87
