@@ -2,10 +2,9 @@ on:
   schedule:
   - cron: "0 7 * * *"
 jobs:
-  - name: Fetch URL
-    # You may pin to the exact commit or the version.
-    # uses: boyeborg/fetch-url-action@ff420affd24e1d8131bc65b8cd4c1b9bdd9fb11f
-    uses: boyeborg/fetch-url-action@v1.1
-    with:
-      # The url to fetch
-      url: https://api.netlify.com/build_hooks/618014c418edaa61e3f0db87
+  build:
+    name: Request Netlify Webhook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl request
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/618014c418edaa61e3f0db87
