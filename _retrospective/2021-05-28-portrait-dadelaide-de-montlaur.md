@@ -14,9 +14,9 @@ annee: 1947-12-31T23:00:00.000Z
 annee-aff: "1948"
 annee-aff-en: "1948"
 annee-aff-ru: "1948"
-era: 39-49
-era-en: 39-49
-era-ru: 39-49
+era: 46-49
+era-en: 46-49
+era-ru: 46-49
 picture: /photos/wordpress/a-de-montlaur.jpg
 place: USA
 place-en: USA
