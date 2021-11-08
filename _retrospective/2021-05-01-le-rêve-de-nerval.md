@@ -14,9 +14,9 @@ annee: 1955-01-29T23:00:00.000Z
 annee-aff: janvier 1955
 annee-aff-en: January 1955
 annee-aff-ru: январь 1955 г.
-era: 50-59
-era-en: 50-59
-era-ru: 50-59
+era: 54-55
+era-en: 54-55
+era-ru: 54-55
 picture: /photos/wordpress/le-rêve-de-nerval.jpg
 place: Fontainebleau
 place-en: Fontainebleau (France)
