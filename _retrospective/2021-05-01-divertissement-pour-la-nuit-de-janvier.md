@@ -14,9 +14,9 @@ annee: 1955-03-01T23:00:00.000Z
 annee-aff: mars 1955
 annee-aff-en: March 1955
 annee-aff-ru: март 1955 г.
-era: 50-59
-era-en: 50-59
-era-ru: 50-59
+era: 54-55
+era-en: 54-55
+era-ru: 54-55
 picture: /photos/wordpress/divertissement-pour-la-nuit-de-janvier.jpg
 place: Fontainebleau
 place-en: Fontainebleau (France)
