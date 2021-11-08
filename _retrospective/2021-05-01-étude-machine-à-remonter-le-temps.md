@@ -14,9 +14,9 @@ annee: 1952-10-29T23:00:00.000Z
 annee-aff: octobre 1952
 annee-aff-en: October 1952
 annee-aff-ru: октябрь 1952 г.
-era: 50-59
-era-en: 50-59
-era-ru: 50-59
+era: 50-54
+era-en: 50-54
+era-ru: 50-54
 picture: /photos/wordpress/etude-machine-à-remonter-le-temps.jpg
 place: Nice
 place-en: Nice
