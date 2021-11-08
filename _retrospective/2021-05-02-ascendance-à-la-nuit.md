@@ -14,9 +14,9 @@ annee: 1959-11-30T23:00:00.000Z
 annee-aff: décembre 1959
 annee-aff-en: December 1959
 annee-aff-ru: декабрь 1959 г.
-era: 50-59
-era-en: 50-59
-era-ru: 50-59
+era: 56-59
+era-en: 56-59
+era-ru: 56-59
 picture: /photos/wordpress/ascendance-à-le-nuit.jpg
 place: Paris
 place-en: Paris
