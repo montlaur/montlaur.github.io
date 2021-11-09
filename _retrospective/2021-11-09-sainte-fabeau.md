@@ -4,9 +4,9 @@ menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
-title: Sainte Fabeau
-title-en: Sainte Fabeau
-title-ru: Sainte Fabeau
+title: Sainte-Fabeau
+title-en: Sainte-Fabeau
+title-ru: Sainte-Fabeau
 theme: Poésie
 theme-en: Poetry
 theme-ru: Поэзия
