@@ -31,14 +31,11 @@ description-fr: >-
   Ce tableau est représentatif de la période où Montlaur vivait à Fontainebleau.
   Ce style caractéristique succède au style « abstrait-géométrique » du début
   des années 50 où formes et couleurs sont parfaitement définies et bien
-  délimitées. Là, le peintre, après avoir « couvert la toile » — selon ses
-  propres mots — passe du pinceau au couteau à palette : il casse les formes,
-  gratte les couches de peintures pour faire apparaître la ou les couleurs
-  sous-jacentes, les formes résultantes devenant des créatures fantomatiques,
-  fantastiques, de sombres habitants de ses cauchemars incessants, de ses
-  souvenirs de guerre.
-
-
+  délimitées. Le peintre, après avoir « couvert la toile » — selon ses propres
+  mots — passe du pinceau au couteau à palette : il casse les formes, gratte les
+  couches de peintures pour faire apparaître la ou les couleurs sous-jacentes,
+  les formes résultantes devenant des créatures fantomatiques, fantastiques, de
+  sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
 
 
   Le titre de la peinture, provient du poème de Guillaume Apollinaire « Les sept épées ». Sainte-Fabeau est la cinquième de ces épées.
@@ -55,7 +52,9 @@ description-fr: >-
   Et chaque nuit c’est un flambeau*[](#_ftn1)
 
 
-  *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Les sept épées)*
+  *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé,\
+
+  Les sept épées)*
 
 
   Dans cette strophe, c’est la mort qui est représentée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. On peut y voir également l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur les couleurs et les formes de ses créations.
@@ -83,10 +82,9 @@ description-en: >-
   in torches' flaming, night on night.*
 
 
-  *(Guillaume Apollinaire, La Chanson du mal-aimé, The Seven Swords)*
+  *(Guillaume Apollinaire, La Chanson du mal-aimé,\
 
-
-  *(Translated by C. John Holcombe)*
+  The Seven Swords -Translated by C. John Holcombe)*
 
 
    This stanza is about death: the distaff in the hands of the Fate, the cypress, the tomb. The sword is one that pierced the heart of the Virgin Mary and maybe also one of the seven deadly sins. As always, Apollinaire plays on the meaning of words, in the same way, the painter plays on the colors and the shapes of his creations.
