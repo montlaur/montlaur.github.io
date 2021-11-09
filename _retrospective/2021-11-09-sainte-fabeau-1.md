@@ -31,11 +31,11 @@ description-fr: >-
   Ce tableau est représentatif de la période où Montlaur vivait à Fontainebleau.
   Ce style caractéristique succède au style « abstrait-géométrique » du début
   des années 50 où formes et couleurs sont parfaitement définies et bien
-  délimitées. Le peintre, après avoir « couvert la toile » — comme il dit —
-  passe du pinceau au couteau à palette : il casse les formes, gratte les
+  délimitées. Le peintre, après avoir « couvert la toile » , comme il dit,
+  substitue le couteau à palette au pinceau : il casse les formes, gratte les
   couches de peintures pour faire apparaître la ou les couleurs sous-jacentes,
-  les formes résultantes devenant des créatures fantomatiques, fantastiques, de
-  sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
+  les formes résultantes deviennent des créatures fantomatiques, fantastiques,
+  de sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
 
 
   Le titre de la peinture, provient du poème de Guillaume Apollinaire « Les sept épées ». Sainte-Fabeau est la cinquième de ces épées.
@@ -52,12 +52,10 @@ description-fr: >-
   Et chaque nuit c’est un flambeau*[](#_ftn1)
 
 
-  *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé,\
-
-  Les sept épées)*
+  *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Les sept épées)*
 
 
-  Dans cette strophe, c’est la mort qui est représentée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. On peut y voir également l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur la lumière, les couleurs et les formes de ses créations.
+  Dans cette strophe, c’est la mort qui est évoquée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. L'épée peut être l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur la lumière, les couleurs et les formes de ses créations.
 
 
   On voit, couchée dans le bas du tableau une forme grise avec un croix rouge, est-ce le tombeau ? d’autres formes, blanches tombent du ciel, d'autres, bleues et noires, agenouillées sont les quatre vents. Montlaur connaissait parfaitement tous les poèmes d’*Alcools*, il est certain qu’il a voulu reproduire fidèlement dans sa peinture les mots hermétiques du poète.
@@ -87,16 +85,19 @@ description-en: >-
   The Seven Swords -Translated by C. John Holcombe)*
 
 
-   This stanza is about death: the distaff in the hands of the Fate, the cypress, the tomb. The sword is one that pierced the heart of the Virgin Mary and maybe also one of the seven deadly sins. As always, Apollinaire plays on the meaning of words, in the same way, the painter plays on the colors and the shapes of his creations.
+  This stanza is about death: the distaff in the hands of the Fate, the cypress, the tomb. The sword is one that pierced the heart of the Virgin Mary and maybe also one of the seven deadly sins. As always, Apollinaire plays on the meaning of words, in the same way, the painter plays on the colors and the shapes of his creations.
 
 
   One can see, lying at the bottom of the painting a gray shape with a red cross, is this the tomb? White forms fall from the sky, others, black and blue are kneeling. Montlaur was perfectly acquainted with the poems of "Alcools", it is certain that he wanted to faithfully reproduce in his painting the hermetic words of the poet.
 description-ru: >-
-  
-
-  Ce tableau est représentatif de la période où Montlaur vivait à Fontainebleau. Ce style caractéristique succède au style « abstrait-géométrique » du début des années 50 où formes et couleurs sont parfaitement définies et bien délimitées. Là, le peintre, après avoir « couvert la toile » — selon ses propres mots — passe du pinceau au couteau à palette : il casse les formes, gratte les couches de peintures pour faire apparaître la ou les couleurs sous-jacentes, les formes résultantes devenant des créatures fantomatiques, fantastiques, de sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
-
-
+  Ce tableau est représentatif de la période où Montlaur vivait à Fontainebleau.
+  Ce style caractéristique succède au style « abstrait-géométrique » du début
+  des années 50 où formes et couleurs sont parfaitement définies et bien
+  délimitées. Le peintre, après avoir « couvert la toile » , comme il dit,
+  substitue le couteau à palette au pinceau : il casse les formes, gratte les
+  couches de peintures pour faire apparaître la ou les couleurs sous-jacentes,
+  les formes résultantes deviennent des créatures fantomatiques, fantastiques,
+  de sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
 
 
   Le titre de la peinture, provient du poème de Guillaume Apollinaire « Les sept épées ». Sainte-Fabeau est la cinquième de ces épées.
@@ -116,7 +117,7 @@ description-ru: >-
   *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Les sept épées)*
 
 
-  Dans cette strophe, c’est la mort qui est représentée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. On peut y voir également l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur les couleurs et les formes de ses créations.
+  Dans cette strophe, c’est la mort qui est évoquée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. L'épée peut être l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur la lumière, les couleurs et les formes de ses créations.
 
 
   On voit, couchée dans le bas du tableau une forme grise avec un croix rouge, est-ce le tombeau ? d’autres formes, blanches tombent du ciel, d'autres, bleues et noires, agenouillées sont les quatre vents. Montlaur connaissait parfaitement tous les poèmes d’*Alcools*, il est certain qu’il a voulu reproduire fidèlement dans sa peinture les mots hermétiques du poète.
