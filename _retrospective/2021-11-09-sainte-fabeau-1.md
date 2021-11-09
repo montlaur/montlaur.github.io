@@ -31,8 +31,8 @@ description-fr: >-
   Ce tableau est représentatif de la période où Montlaur vivait à Fontainebleau.
   Ce style caractéristique succède au style « abstrait-géométrique » du début
   des années 50 où formes et couleurs sont parfaitement définies et bien
-  délimitées. Le peintre, après avoir « couvert la toile » — selon ses propres
-  mots — passe du pinceau au couteau à palette : il casse les formes, gratte les
+  délimitées. Le peintre, après avoir « couvert la toile » — comme il dit —
+  passe du pinceau au couteau à palette : il casse les formes, gratte les
   couches de peintures pour faire apparaître la ou les couleurs sous-jacentes,
   les formes résultantes devenant des créatures fantomatiques, fantastiques, de
   sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
@@ -57,7 +57,7 @@ description-fr: >-
   Les sept épées)*
 
 
-  Dans cette strophe, c’est la mort qui est représentée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. On peut y voir également l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur les couleurs et les formes de ses créations.
+  Dans cette strophe, c’est la mort qui est représentée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. On peut y voir également l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur la lumière, les couleurs et les formes de ses créations.
 
 
   On voit, couchée dans le bas du tableau une forme grise avec un croix rouge, est-ce le tombeau ? d’autres formes, blanches tombent du ciel, d'autres, bleues et noires, agenouillées sont les quatre vents. Montlaur connaissait parfaitement tous les poèmes d’*Alcools*, il est certain qu’il a voulu reproduire fidèlement dans sa peinture les mots hermétiques du poète.
