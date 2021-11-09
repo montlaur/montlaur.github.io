@@ -32,10 +32,11 @@ description-fr: >-
   Ce style caractéristique succède au style « abstrait-géométrique » du début
   des années 50 où formes et couleurs sont parfaitement définies et bien
   délimitées. Le peintre, après avoir « couvert la toile » , comme il dit,
-  substitue le couteau à palette au pinceau : il casse les formes, gratte les
-  couches de peintures pour faire apparaître la ou les couleurs sous-jacentes,
-  les formes résultantes deviennent des créatures fantomatiques, fantastiques,
-  de sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
+  substitue le couteau à palette au pinceau : il casse les contours, les
+  déforme, gratte les couches de peintures pour faire apparaître la ou les
+  couleurs sous-jacentes, les formes résultantes deviennent des créatures
+  fantomatiques, fantastiques, de sombres habitants de ses cauchemars
+  incessants, de ses souvenirs de guerre.
 
 
   Le titre de la peinture, provient du poème de Guillaume Apollinaire « Les sept épées ». Sainte-Fabeau est la cinquième de ces épées.
