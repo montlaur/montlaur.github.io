@@ -4,9 +4,9 @@ menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
-title: La licorne et le capricrne
-title-en: La licorne et le capricrne
-title-ru: La licorne et le capricrne
+title: La licorne et le capricorne
+title-en: La licorne et le capricorne
+title-ru: La licorne et le capricorne
 theme: Poésie
 theme-en: Poetry
 theme-ru: Поэзия
