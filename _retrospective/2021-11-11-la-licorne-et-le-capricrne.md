@@ -94,13 +94,13 @@ description-en: >-
   The Milky Way -Translated by C. John Holcombe)*
 
 
-  **The Unicorn and the Capricorn** was painted in 1974, three years before Montlaur's death. It is one of his most completed paintings. The technique he has acquired allows him to express on the canvas what he could not say in words. He writes: “\[Painting] appeared to me as the way to say those important things that we could not talk about”. He adds: “I do not understand \[that people] cannot guess all the distress which is there, before their eyes, as it was during the war: clamor, death, love, betrayal, lie and fear. And much more that I cannot say, but that I know how to do. I repeat: I know how to do.” (*Petits Écrits de Nuit*)
+  **The Unicorn and the Capricorn** was painted in 1974, three years before Montlaur's death. It is one of his most completed paintings. The technique he has acquired allows him to express on the canvas what he could not say in words. He writes: “\[Painting] appeared to me as the way to say those important things that we could not talk about.” He adds: “I do not understand \[that people] cannot guess all the distress which is there, before their eyes, as it was during the war: clamor, death, love, betrayal, lie and fear. And much more that I cannot say, but that I know how to do. I repeat: I know how to do.” (*Petits Écrits de Nuit*)
 
 
-  Apollinaire had already explained that Picasso's painting was “an admirable language that no literature can explain, for our words are made in advance. Alas!” (*Journal intime*).
+  Apollinaire had already explained that Picasso's painting was “an admirable language that no literature can explain, for our words are made in advance. Alas!” (*Journal intime*)
 
 
-  In his poem, Apollinaire reproaches his grief for “doubling future mourning”, that is to say for scaring away his soul - the unicorn, and his body, - the Capricorn. Pain being love, a divine pyre that lasts all night (from stars to flowers).
+  In his poem, Apollinaire reproaches his grief for “doubling future mourning”, that is to say for scaring away his soul - the unicorn, and his body - the Capricorn. Pain being love, a divine pyre that lasts all night (from stars to flowers).
 
 
   We can find these symbols in the painting: the capricorn is a green silhouette, seen in profile at the top and to the left of the painting. The unicorn is smaller, it is shaped like a heart, red, blue and white to the right of the center of the painting. The pyre-grief is the bright yellow and red spot of light in the upper right quadrant. We can guess a shape (a black horse?) and creatures that are difficult to identify at the bottom of the painting.
