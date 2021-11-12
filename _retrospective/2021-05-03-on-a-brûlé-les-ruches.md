@@ -30,10 +30,8 @@ dimensions-ru: 61 см x 38 см
 description-fr: >-
   Depuis qu'il peint, Montlaur trouve son inspiration dans l’œuvre de Guillaume
   Apollinaire, le poète le plus proche de lui au sens figuré, mais aussi
-  physiquement : il garda le livre « Alcools » sur lui pendant toute la guerre,
+  physiquement : il garda lsur lui le livre « Alcools » pendant toute la guerre,
   et en particulier lorsqu'il débarqua sur les plages normandes, le 6 juin 1944.
-
-
 
 
   *Et toi qui me suis en rampant\
@@ -55,7 +53,10 @@ description-fr: >-
 
   Tu es à moi en n'étant rien\
 
-  Ô mon ombre en deuil de moi-même**\
+  Ô mon ombre en deuil de moi-même*
+
+
+  *\
 
   L'hiver est mort tout enneigé\
 
@@ -71,7 +72,7 @@ description-fr: >-
   *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Voie lactée)*
 
 
-  Comme dans *Sainte-Fabeau* et *La licorne et le capricorne*, le peintre reproduit sur la toile les vers d'Apollinaire dans  *La chanson du mal-Aimé*. Ici, le poète demande à son ombre, « sa ténébreuse épouse », de combien d'empans de terre il aura besoin pour creuser sa tombe. Mais l'hiver est mort, les ruches ont gelé et brûlent, les oiseaux chantent, c'est le printemps.
+  Comme dans *Sainte-Fabeau* et *La licorne et le capricorne*, le peintre reproduit sur la toile les vers de  *La chanson du mal-Aimé*. Ici, le poète demande à son ombre, « sa ténébreuse épouse », de combien d'empans de terre il aura besoin pour creuser sa tombe. Mais l'hiver est mort, les ruches ont gelé et brûlent, les oiseaux chantent, c'est le printemps.
 
 
   On reconnait bien la ruche blanche, les flammes jaunes et rouges, le ciel bleu. On reconnait également les quelques empans de terre en bas du tableau.
@@ -84,7 +85,9 @@ description-en: >-
 
   *And you crawling after me\
 
-  God of my gods who die in autumn*Who measure out what life*\
+  God of my gods who die in autumn\
+
+  Who measure out what life\
 
   I have a right to\
 
@@ -93,7 +96,11 @@ description-en: >-
 
   *Since you adore it I led you\
 
-  To the sun remember*Shadow wife I loveBecause you are nothing you are mine*\
+  To the sun remember\
+
+  Shadow wife I love\
+
+  Because you are nothing you are mine\
 
   O my shadow mourning me*
 
@@ -109,22 +116,20 @@ description-en: >-
   Bright April airy Spring*
 
 
-  *(Guillaume Apollinaire, La Chanson du mal-aimé,\
+  *(Guillaume Apollinaire, La Chanson du Mal-Aimé,\
 
   The Milky Way -Translated by Martin Sorell)*
 
 
-  As in his paintings *Sainte-Fabeau*  and  *La licorne et le capricorne* , Montlaur reproduces on the canvas verses fromApollinaire's *La chanson du mal-Aimé* . The poet asks his shadow, "his dark wife", how many spans of earth he will need to dig his grave. Now winter is dead, the beehives have frozen and are burning, the birds are singing, it is springtime.
+  As in his paintings *Sainte-Fabeau*  and  *La licorne et le capricorne* , Montlaur reproduces on the canvas verses from Apollinaire's *La Chanson du Mal-Aimé*. The poet asks his shadow, "his dark wife", how many spans of earth he will need to dig his grave. Now winter is dead, the beehives have frozen and are burning, the birds are singing, it is springtime.
 
 
-  One can easily recognize the white beehive, with yellow and red flames, a blue sky. there are a few spans of earth at the bottom of the painting.
+  One can easily recognize the white beehive, with yellow and red flames, a blue sky. There are a few spans of earth at the bottom of the painting.
 description-ru: >-
   Depuis qu'il peint, Montlaur trouve son inspiration dans l’œuvre de Guillaume
   Apollinaire, le poète le plus proche de lui au sens figuré, mais aussi
-  physiquement : il garda le livre « Alcools » sur lui pendant toute la guerre,
+  physiquement : il garda lsur lui le livre « Alcools » pendant toute la guerre,
   et en particulier lorsqu'il débarqua sur les plages normandes, le 6 juin 1944.
-
-
 
 
   *Et toi qui me suis en rampant\
@@ -146,7 +151,10 @@ description-ru: >-
 
   Tu es à moi en n'étant rien\
 
-  Ô mon ombre en deuil de moi-même**\
+  Ô mon ombre en deuil de moi-même*
+
+
+  *\
 
   L'hiver est mort tout enneigé\
 
@@ -162,7 +170,7 @@ description-ru: >-
   *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Voie lactée)*
 
 
-  Comme dans *Sainte-Fabeau* et *La licorne et le capricorne*, le peintre reproduit sur la toile les vers d'Apollinaire dans  *La chanson du mal-Aimé*. Ici, le poète demande à son ombre, « sa ténébreuse épouse », de combien d'empans de terre il aura besoin pour creuser sa tombe. Mais l'hiver est mort, les ruches ont gelé et brûlent, les oiseaux chantent, c'est le printemps.
+  Comme dans *Sainte-Fabeau* et *La licorne et le capricorne*, le peintre reproduit sur la toile les vers de  *La chanson du mal-Aimé*. Ici, le poète demande à son ombre, « sa ténébreuse épouse », de combien d'empans de terre il aura besoin pour creuser sa tombe. Mais l'hiver est mort, les ruches ont gelé et brûlent, les oiseaux chantent, c'est le printemps.
 
 
   On reconnait bien la ruche blanche, les flammes jaunes et rouges, le ciel bleu. On reconnait également les quelques empans de terre en bas du tableau.
