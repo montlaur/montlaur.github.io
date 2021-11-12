@@ -59,7 +59,7 @@ description-fr: >-
   Apollinaire, déjà, avait expliqué que la peinture de Picasso était un « admirable langage que nulle littérature ne peut indiquer, car nos mots sont faits d’avance. Hélas ! » (*Journal intime*). 
 
 
-  Dans le poème, Apollinaire reproche à sa douleur de « doubler » ses destins, c’est-à-dire de faire fuir son âme - la licorne, de son corps - le capricorne. La douleur étant l’amour, bûcher divin qui dure toute la nuit (des astres aux fleurs).
+  Dans le poème, Apollinaire reproche à sa douleur de « doubler » ses destins, c’est-à-dire de faire fuir son âme – la licorne – de son corps – le capricorne. La douleur étant l’amour, bûcher divin qui dure toute la nuit (des astres aux fleurs).
 
 
   On retrouve ces symboles dans la peinture : le capricorne est la silhouette verte, vue de profil, en haut et à gauche du tableau. La licorne a la forme d’un cœur, rouge, bleu et blanc à droite du centre de la peinture. La douleur-bûcher est la tache de lumière jaune-vif et rouge dans le quart supérieur droit. On devine une forme (un cheval noir ?) et des créatures difficilement identifiables dans le bas du tableau.
@@ -100,7 +100,7 @@ description-en: >-
   Apollinaire had already explained that Picasso's painting was “an admirable language that no literature can explain, for our words are made in advance. Alas!” (*Journal intime*)
 
 
-  In his poem, Apollinaire reproaches his grief for “doubling future mourning”, that is to say for scaring away his soul - the unicorn, and his body - the Capricorn. Pain being love, a divine pyre that lasts all night (from stars to flowers).
+  In his poem, Apollinaire reproaches his grief for “doubling future mourning”, that is to say for scaring away his soul – the unicorn – from his body – the capricorn. Grief is love, a divine pyre that lasts all night (from stars to flowers).
 
 
   We can find these symbols in the painting: the capricorn is a green silhouette, seen in profile at the top and to the left of the painting. The unicorn is smaller, it is shaped like a heart, red, blue and white to the right of the center of the painting. The pyre-grief is the bright yellow and red spot of light in the upper right quadrant. We can guess a shape (a black horse?) and creatures that are difficult to identify at the bottom of the painting.
