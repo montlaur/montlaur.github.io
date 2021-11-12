@@ -10,10 +10,10 @@ title-ru: La licorne et le capricorne
 theme: Poésie
 theme-en: Poetry
 theme-ru: Поэзия
-annee: 1974-01-31T13:43:35.676Z
-annee-aff: décembre 1974
-annee-aff-en: December 1974
-annee-aff-ru: Декабрь 1974 г.
+annee: 1974-01-03T13:43:35.676Z
+annee-aff: janvier 1974
+annee-aff-en: January 1974
+annee-aff-ru: январь 1974 г.
 era: 70-77
 era-en: 70-77
 era-ru: 70-77
