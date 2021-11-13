@@ -28,11 +28,11 @@ dimensions: 37 cm x 30,5 cm
 dimensions-en: 37 cm x 30.5 cm
 dimensions-ru: 37 см x 30,5 см
 description-fr: >-
-  Dans les jours qui suivirent le débarquement Le sergent de Montlaur et ses
-  camarades du 1er BFMC (le Bataillon de Fusiliers Marins Commandos appelé «
-  Commando Kieffer ») participèrent à d'intenses et violents combats contre les
-  troupes allemandes stationnées au nord de l'Orne à proximité de Sallenelles,
-  et du Bois de Bavent au nord de l'Orne. 
+  Dans les jours qui suivirent le débarquement de Normandie, le sergent de
+  Montlaur et ses camarades du *1er BFMC* (le *Bataillon de Fusiliers Marins
+  Commandos* appelé « *Commando Kieffer* ») participèrent à d'intenses et
+  violents combats contre les troupes allemandes stationnées à proximité de
+  Sallenelles et du Bois de Bavent au nord de l'Orne. 
 
 
   Le peintre ne pourrait être plus réaliste : l'impact de la balle, le sang qui a coulé de la blessure mortelle, l'aspect verdâtre et bleu du visage de « son ami » sont reproduits dans ce tableau dans toute leur horreur.
@@ -40,9 +40,9 @@ description-en: >-
   **(On the Road near Sallenelles, a Friend)**
 
 
-  In the days which followed the D-Day landings, Sergeant de Montlaur and his comrades of the 1st BFMC (Battalion de Fusiliers Marins Commandos also called "Commando Kieffer") took part in intense and violent fighting against the German troops stationed near the village of Sallenelles, and the  Bavent Woods on the North bank of the Orne River.
+  In the days which following the D-Day landings, Sergeant de Montlaur and his comrades of the Free-French No. 4 Commando 1st BFMC (*Battaillon de Fusiliers Marins Commando*s also called "*Kieffer Commando*") took part in intense and violent fighting against the German troops stationed near the village of Sallenelles and the  Bavent Woods on the North bank of the Orne River.
 
 
-  The painter could not be more realistic: the deadly impact of the bullet, the blood which flowed from the wound, the greenish and blue tint of the face of "his friend" are reproduced in this painting in all their horror.
+  The painter could not be more realistic: the deadly impact of the bullet, the blood which has flowed from the wound, the greenish and blue tint of the face of "his friend" are reproduced in this painting in all their horror.
 description-ru: "**(На дороге, возле Сальнеля, друг)**"
 ---
