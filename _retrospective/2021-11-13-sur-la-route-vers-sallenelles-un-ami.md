@@ -27,7 +27,11 @@ type-ru: масло, бумага, холст
 dimensions: 37 cm x 30,5 cm
 dimensions-en: 37 cm x 30.5 cm
 dimensions-ru: 37 см x 30,5 см
-description-fr: x
+description-fr: Dans les jours qui suivirent le débarquement Le sergent de
+  Montlaur et les hommes du 1er BFMC (Bataillon de Fusiliers Marins Commandos
+  dits " Commandos Kieffer") participèrent à de violents combats contre les
+  soldats allemands au nord de l'Orne à proximité de Sallenelles, et du Bois de
+  Bavent au nord de l'Orne.
 description-en: x
-description-ru: x
+description-ru: "**(На дороге, возле Сальнеля, друг)**"
 ---
