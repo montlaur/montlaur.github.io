@@ -7,9 +7,9 @@ active-item2: retrospective
 title: Quae est Ista
 title-en: Quae est Ista
 title-ru: Quae est Ista
-theme: Religieux
-theme-en: Religious
-theme-ru: "Религиозный "
+theme: Religion
+theme-en: Religion
+theme-ru: Религия
 annee: 1977-05-01T22:00:00.000Z
 annee-aff: mai 1977
 annee-aff-en: May 1977
