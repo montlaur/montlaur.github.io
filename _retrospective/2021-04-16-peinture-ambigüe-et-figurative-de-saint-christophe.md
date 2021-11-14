@@ -10,9 +10,9 @@ title-en: Peinture ambigüe et figurative de Saint Christophe - or - There are
   things that it would be far better not to know
 title-ru: "Peinture ambigüe et figurative de Saint Christophe - или - There are
   Things that it would be far Better not to Know "
-theme: Religieux
-theme-en: Religious
-theme-ru: Религиозный
+theme: Religion
+theme-en: Religion
+theme-ru: Религия
 annee: 1973-12-31T23:00:00.000Z
 annee-aff: janvier 1974
 annee-aff-en: January 1974
