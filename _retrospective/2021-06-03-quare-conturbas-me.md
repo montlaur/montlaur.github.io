@@ -7,9 +7,9 @@ active-item2: retrospective
 title: Quare conturbas me?
 title-en: Quare conturbas me?
 title-ru: Quare conturbas me?
-theme: Religieux
-theme-en: Religious
-theme-ru: "Религиозный "
+theme: Religion
+theme-en: Religion
+theme-ru: Религия
 annee: 1976-08-06T22:00:00.000Z
 annee-aff: juillet 1976
 annee-aff-en: July 1976
