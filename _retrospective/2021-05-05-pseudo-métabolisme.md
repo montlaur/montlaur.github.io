@@ -8,7 +8,7 @@ title: Pseudo-métabolisme
 title-en: Pseudo-métabolisme
 title-ru: Pseudo-métabolisme
 theme: Médecine - guerre
-theme-en: Mediecin - war
+theme-en: Medicine - war
 theme-ru: "Медицина - война "
 annee: 1971-09-13T23:00:00.000Z
 annee-aff: septembre 1971
