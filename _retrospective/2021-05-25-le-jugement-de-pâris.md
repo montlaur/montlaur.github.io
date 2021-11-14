@@ -13,7 +13,7 @@ theme-ru: Живопись
 annee: 1964-01-31T23:00:00.000Z
 annee-aff: février 1964
 annee-aff-en: February 1964
-annee-aff-ru: феврие 1964
+annee-aff-ru: февраль 1964 г.
 era: 60-69
 era-en: 60-69
 era-ru: 60-69
