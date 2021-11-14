@@ -7,9 +7,9 @@ active-item2: retrospective
 title: Pseudo-métabolisme
 title-en: Pseudo-métabolisme
 title-ru: Pseudo-métabolisme
-theme: Médical - guerre
-theme-en: Medical - war
-theme-ru: "Медицинский - война "
+theme: Médecine - guerre
+theme-en: Medicine - war
+theme-ru: "Медицина - война "
 annee: 1971-09-13T23:00:00.000Z
 annee-aff: septembre 1971
 annee-aff-en: September 1971
