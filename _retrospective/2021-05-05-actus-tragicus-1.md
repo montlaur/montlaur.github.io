@@ -55,16 +55,15 @@ description-en: >-
 
   Listen to   [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Actus Tragicus](https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety)
 description-ru: >-
-  Montlaur peignait toujours en musique et la plupart du temps, il écoutait
-  Jean-Sébastien Bach. Le titre de la peinture est celui de la cantate BWV 106 «
-  Gottes Zeit ist die allerbeste Zeit » (Le temps de Dieu est le meilleur des
-  temps), une œuvre courte composée lorsque Bach avait environ 23 ans. Le thème
-  est celui de la mort qui arrive au moment choisi par Dieu. Les flûtes à bec
-  sont particulièrement émouvantes. Les voix consolent mais demeurent d’une
-  grande tristesse.
+  (Actus Tragicus) Монлор всегда рисовал, слушая музыку, в основном Иоганна
+  Себастьяна Баха. Название этой картины - кантата BWV 106 «Gottes Zeit ist die
+  Allerbeste Zeit» (Божья пора - лучшая пора), короткое произведение, написанное
+  23-летним композитором. Тема кантаты - смерть, которая приходит в избранное
+  Богом время. Особенно активны в этом произведении флейты. Голоса звучат
+  успокаивающе, но неизменно выдерживают трагическое звучание.
 
 
-  Est-ce le mort que l’on distingue, ombre noire d’une tête derrière un rideau de larmes grises et blanches qui coulent abondamment ? On aperçoit une lumière au centre du tableau : lueur d’espoir et de confiance qu'est  la mort ouvrant la voie au paradis, donc au bonheur.
+  Можно воспринимать черные фрагменты на картине как образы мертвых - например, как черную тень головы за завесой серо-белых слез, которые  текут нескончаемыми потоками. В центре картины расположено  светлое пятно: проблеск надежды и уверенности в том, что смерть открывает путь в рай, а значит, и к счастью.
 
 
   Слушать [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Actus Tragicus](https://www.youtube.com/watch?v=xXMUpqSyJJo&ab_channel=NetherlandsBachSociety)
