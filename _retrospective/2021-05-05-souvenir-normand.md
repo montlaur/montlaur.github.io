@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Souvenir normand
 title-en: Souvenir normand
 title-ru: Souvenir normand
-theme: Guerre
+theme: La guerre
 theme-en: War
 theme-ru: Война
 annee: 1972-07-25T23:00:00.000Z
