@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Avant le déluge
 title-en: Avant le déluge
 title-ru: Avant le déluge
-theme: Guerre
+theme: La guerre
 theme-en: War
 theme-ru: Война
 annee: 1965-01-31T23:00:00.000Z
