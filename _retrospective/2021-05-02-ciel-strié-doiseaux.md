@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Ciel strié d'oiseaux
 title-en: Ciel strié d'oiseaux
 title-ru: Ciel strié d'oiseaux
-theme: Guerre
+theme: La guerre
 theme-en: War
 theme-ru: Война
 annee: 1956-06-30T23:00:00.000Z
