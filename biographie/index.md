@@ -7,7 +7,7 @@ active-item: biographie
 
 <div class="printy">
 
-Guy de Villardi, Comte de Montlaur appartenait à l’une des plus anciennes maisons de France. Son ancêtre Bernard II de Montlaur, seigneur de Vailhauquès, avait combattu avec Raymond de Saint-Gilles, comte de Toulouse lors de la Première Croisade en 1096. Le berceau de la famille est Montlaur, un château du Xème siècle au nord de Montpellier en Languedoc. Guy de Montlaur était également brésilien par sa mère.
+Guy de Villardi, comte de Montlaur appartenait à l’une des plus anciennes maisons du Languedoc. Son ancêtre Bernard II de Montlaur, seigneur de Vailhauquès, avait combattu avec Raymond de Saint-Gilles, comte de Toulouse lors de la Première Croisade en 1096. Le berceau de la famille est Montlaur, un château du Xe-XIe siècle au nord de Montpellier. 
 
 Écolier à Paris, il passe ses jeudis au Louvre où il retrouve ses peintres préférés&nbsp;: Ucello, Mantegna, Ghirlandaio, Jérôme Bosch, Botticelli, Le Titien, Le Lorrain, Poussin, Ingres, Delacroix, Courbet, et parmi les Modernes, Kandinsky.
 
@@ -23,9 +23,9 @@ Guy de Montlaur étudie la philosophie à la Sorbonne et la peinture à l’Acad
 
 <div class="printy">
 
-En octobre 1938, juste après Munich, il commence son Service Militaire dans un régiment de Cavalerie à Sarguemines, près de la frontière allemande. Pendant la campagne de 1940, il fait partie d’une unité de reconnaissance ‘Les Corps Francs’ et participe à des raids en territoire allemand. Il rejoint l’Angleterre et est incorporé dans la Brigade des Fusiliers Commandos de la Marine, du Commando N°4 de Lord Lovat. Il débarque le 6 juin 1944 en Normandie, à Colleville, près de Ouistreham.
+En octobre 1938, juste après Munich, il commence son Service Militaire dans un régiment de Cavalerie à Sarguemines, près de la frontière allemande. Pendant la campagne de 1939-40, il fait partie d’une unité de reconnaissance ‘Les Corps Francs’ et participe à des raids en territoire allemand. Il rejoint l’Angleterre en 1942 et demande à être incorporé dans la Brigade des Fusiliers Marins Commandos (1er BFMC, sous les ordres du Commandant Kieffer), du Commando N°4 de Lord Lovat. Il débarque le 6 juin 1944 en Normandie, à Colleville-sur-Mer (maintenant Colleville-Montgomery), près de Ouistreham Riva-Bella.
 
-Tous les officiers étant blessés, il prend le commandement de sa section. Le 1er novembre 1944, il participe au débarquement allié de Walcheren, en Hollande et à la libération de Flessingue (Vlissingen). Le Capitaine Guy Vourc’h, son officier dit de lui&nbsp;: *“Blessé à mes côtés, il refuse de se laisser évacuer. Son courage touchait à l’insolence&nbsp;; il était humiliant pour l’ennemi&nbsp;: sept citations et la Légion d’Honneur à 25&nbsp;ans.”*
+Tous les officiers étant blessés, il prend le commandement de sa section. Le 1er novembre 1944, il participe au débarquement allié de Walcheren, au Pays-Bas et à la libération de Flessingue (Vlissingen). Le Capitaine Guy Vourc’h, son officier dit de lui&nbsp;: *“Blessé à mes côtés, il refuse de se laisser évacuer. Son courage touchait à l’insolence&nbsp;; il était humiliant pour l’ennemi&nbsp;: sept citations et la Légion d’Honneur à 25&nbsp;ans.”*
 
 <!-- Ne pas supprimer la balise -->
 
