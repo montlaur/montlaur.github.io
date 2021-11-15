@@ -94,7 +94,7 @@ description-en: >-
   The Milky Way -Translated by C. John Holcombe)*
 
 
-  **The Unicorn and the Capricorn** was painted in 1974, three years before Montlaur's death. It is one of his most completed paintings. The technique he has acquired allows him to express on the canvas what he could not say in words. He writes: “\[Painting] appeared to me as the way to say those important things that we could not talk about.” He adds: “I do not understand \[that people] cannot guess all the distress which is there, before their eyes, as it was during the war: clamor, death, love, betrayal, lie and fear. And much more that I cannot say, but that I know how to do. I repeat: I know how to do.” (*Petits Écrits de Nuit*)
+  **The Unicorn and the Capricorn** was painted in 1974, three years before Montlaur's death. It is one of his most completed paintings. The technique he has acquired allows him to express on the canvas what he could not say in words. He writes: “\[Painting] appeared to me as the way to say those important things that we could not talk about.” He adds: “I do not understand \[that people] cannot guess all the distress which is there, before their eyes, as it was during the war: clamor, death, love, betrayal, lie and fear. And much more that I cannot say, but this is what I know how to do. I repeat: I know how to do.” (*Petits Écrits de Nuit*)
 
 
   Apollinaire had already explained that Picasso's painting was “an admirable language that no literature can explain, for our words are made in advance. Alas!” (*Journal intime*)
