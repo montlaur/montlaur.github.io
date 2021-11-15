@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Le courage
 title-en: Le courage
 title-ru: Le courage
-theme: Philosophie - guerre
+theme: Philosophie - la guerre
 theme-en: Philosophy - war
 theme-ru: Философия - война
 annee: 1977-01-31T23:00:00.000Z
