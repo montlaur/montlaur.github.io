@@ -7,9 +7,9 @@ active-item2: retrospective
 title: Je vous demande pardon, ma Mère Courage
 title-en: Je vous demande pardon, ma Mère Courage
 title-ru: Je vous demande pardon, ma Mère Courage
-theme: Littérature allemande
-theme-en: German literature
-theme-ru: Немецкая литература
+theme: Littérature allemande - la guerre
+theme-en: German literature - war
+theme-ru: Немецкая литература - война
 annee: 1968-08-24T23:00:00.000Z
 annee-aff: août 1968
 annee-aff-en: August 1968
