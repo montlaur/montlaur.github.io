@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Facies personae
 title-en: Facies Personae
 title-ru: Facies personae
-theme: Guerre
+theme: La guerre
 theme-en: War
 theme-ru: "Война "
 annee: 1973-04-30T23:00:00.000Z
