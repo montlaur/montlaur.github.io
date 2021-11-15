@@ -31,15 +31,15 @@ description-fr: >-
   Comment ne pas voir « L’origine du Monde » dans cette peinture ?
 
 
-  Montlaur avait une grande admiration pour l’œuvre de Gustave Courbet et pour sa participation à la Commune de Paris (18 mars au 28 mai 1871). Il faut rappeler que Courbet fut élu de la Commune et y fut président de la Fédération des Artistes. Il permit, entre autres, la protection des œuvres du Louvre.
+  Montlaur avait une grande admiration pour l’œuvre de Gustave Courbet et pour l'homme, en particulier sa participation à la Commune de Paris (du 18 mars au 28 mai 1871). Il faut rappeler que Courbet fut élu de la Commune et y fut président de la Fédération des Artistes. Il permit, entre autres, la protection des œuvres du Louvre.
 description-en: >-
   **(A Tribute to Gustave Courbet)**
 
 
-  How can one not see Courbet's "The Origin of the World" in this painting?
+  How could one not see Courbet's "The Origin of the World" in this painting?
 
 
-  Montlaur had great admiration for the work of Gustave Courbet and for his participation in the Paris Commune (March 18 to May 28, 1871). It should be remembered that Courbet was an elected representative of the Commune and was elected President of the Federation of Artists. Among others, he prevented the Louvre collections from being looted and damaged.
+  Montlaur had great admiration for the work of Gustave Courbet and for Courbet himself, in particular his participation in the Paris Commune (from March 18 to May 28, 1871). It should be remembered that Courbet was an elected representative of the Commune and was elected President of the Federation of Artists. He prevented the Louvre collections from being looted and damaged.
 description-ru: >-
   **(Дань уважения Гюставу Курбе)**
 
@@ -47,5 +47,5 @@ description-ru: >-
   Comment ne pas voir « L’origine du Monde » dans cette peinture ?
 
 
-  Montlaur avait une grande admiration pour l’œuvre de Gustave Courbet et pour sa participation à la Commune de Paris (18 mars au 28 mai 1871). Il faut rappeler que Courbet fut élu de la Commune et y fut président de la Fédération des Artistes. Il permit, entre autres, la protection des œuvres du Louvre.
+  Montlaur avait une grande admiration pour l’œuvre de Gustave Courbet et pour l'homme, en particulier sa participation à la Commune de Paris (du 18 mars au 28 mai 1871). Il faut rappeler que Courbet fut élu de la Commune et y fut président de la Fédération des Artistes. Il permit, entre autres, la protection des œuvres du Louvre.
 ---
