@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Es war ein wunderlicher krieg
 title-en: Es war ein wunderlicher Krieg
 title-ru: Es war ein wunderlicher krieg
-theme: Guerre - musique
+theme: La guerre - musique
 theme-en: War - music
 theme-ru: " Война - музыка"
 annee: 1972-12-31T23:00:00.000Z
