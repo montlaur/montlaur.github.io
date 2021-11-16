@@ -47,7 +47,7 @@ description-en: >-
   **(The Fall of Icarus)**
 
 
-  Montlaur used the same titles as Brueghel the Elder. The original work, painted around 1558, has disappeared. Two copies are known, one of which (below) was dated 1583; it is exhibited at the Van Buuren Museum in Brussels.
+  Montlaur used the same title as Brueghel the Elder. The original work, painted around 1558, has disappeared. Two copies are known, one of which (below) was dated 1583; it is exhibited at the Van Buuren Museum in Brussels.
 
 
   ![](/photos/wordpress/pieter_bruegell-a-chute-d-icare.jpg "The Fall of Icarus (or Landscape with the Fall of Icarus) by Pieter Brueghel the Elder, copy, Van Buuren Museum, Brussels")
@@ -59,7 +59,7 @@ description-en: >-
   ![](/photos/wordpress/pieter_bruegel_-icare-détails-2.jpg "Landscape with the Fall of Icarus by Pieter Brueghel the Elder, copy, detail.")
 
 
-  Montlaur's painting is much far more violent than Brueghel's. The neo-aeronaut's legs are clearly visible in the midst of tumultuous blue and green waves: they are the black shapes visible in the lower half of the painting.
+  Montlaur's painting is far more violent than Brueghel's. The neo-aeronaut's legs are clearly visible in the midst of tumultuous blue and green waves: they are the black shapes in the lower half of the painting.
 description-ru: >-
   **(Падение Икара)**
 
