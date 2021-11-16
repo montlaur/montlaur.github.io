@@ -65,5 +65,15 @@ description-en: >-
 
 
   Montlaur's painting is much far more violent than Brueghel's. The neo-aeronaut's legs are clearly visible in the midst of tumultuous blue and green waves: they are the black shapes visible in the lower half of the painting.
-description-ru: draft
+description-ru: >-
+  **(Падение Икара)**
+
+
+  ![](/photos/wordpress/pieter_bruegell-a-chute-d-icare.jpg "Падение Икара. Питер Брейгель Старший, копия, Музей Ван Бюрен, Брюссель")
+
+
+  xxx
+
+
+  ![](/photos/wordpress/pieter_bruegel_-icare-détails-2.jpg "Падение Икара. Питер Брейгель Старший, копия, Музей Ван Бюрен, Брюссель, деталь")
 ---
