@@ -28,20 +28,15 @@ dimensions: 55 cm x 46 cm
 dimensions-en: 55 cm x 46 cm
 dimensions-ru: 55 см x 46 см
 description-fr: >-
-  
-
-  Montlaur a repris le titre d'un tableau de Brueghel l'Ancien. L'original, peint vers 1558 a disparu. Deux copies sont connues dont l'une (ci-dessous) a été datée de 1583; elle est exposée au Musée Van Buuren à Bruxelles.
+  Montlaur a repris le titre d'un tableau de Brueghel l'Ancien. L'original,
+  peint vers 1558 a disparu. Deux copies sont connues dont l'une (ci-dessous) a
+  été datée de 1583; elle est exposée au Musée Van Buuren à Bruxelles.
 
 
   ![](/photos/wordpress/pieter_bruegell-a-chute-d-icare.jpg "La chute d'Icare par Pieter Brueghel l'Ancien, copie, Musée Van Buuren, Bruxelles")
 
 
   Si l'on examine de près le tableau de Brueghel, on voit, entre le navire et le pêcheur à la ligne, les jambes du malheureux Icare en train de se noyer (détail dans l'image ci-dessous).
-
-
-
-
-  Dans le tableau de Montlaur qui est beaucoup plus violent que celui de Brueghel, les jambes du néo-aéronaute sont bien visibles au milieu des flots tumultueux bleus et verts : ce sont les formes noires visibles dans la moitié inférieure du tableau.
 
 
   ![](/photos/wordpress/pieter_bruegel_-icare-détails-2.jpg "La chute d'Icare par Pieter Brueghel l'Ancien, copie, détail.")
