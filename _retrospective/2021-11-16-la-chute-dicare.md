@@ -61,9 +61,7 @@ description-en: >-
   If we take a close look at Brueghel's painting, we can see, between the ship and the angler, the legs of the unfortunate Icarus drowning (detail in the image below).
 
 
-
-
-  Im2 Landscape with the Fall of Icarus by Pieter Brueghel the Elder, copy, detail.
+  ![](/photos/wordpress/pieter_bruegel_-icare-détails-2.jpg "Landscape with the Fall of Icarus by Pieter Brueghel the Elder, copy, detail.")
 
 
   Montlaur's painting is much far more violent than Brueghel's. The neo-aeronaut's legs are clearly visible in the midst of tumultuous blue and green waves: they are the black shapes visible in the lower half of the painting.
