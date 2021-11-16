@@ -27,7 +27,13 @@ type-ru: Масло, оргалит
 dimensions: 55 cm x 46 cm
 dimensions-en: 55 cm x 46 cm
 dimensions-ru: 55 см x 46 см
-description-fr: draft
-description-en: draft
+description-fr: |-
+  ![](/photos/wordpress/pieter_bruegell-a-chute-d-icare.jpg)
+
+  draft
+description-en: |-
+  draft
+
+  ![](/photos/wordpress/pieter_bruegel_-icare-détails-2.jpg)
 description-ru: draft
 ---
