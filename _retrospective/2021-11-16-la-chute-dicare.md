@@ -55,10 +55,12 @@ description-en: >-
   Montlaur used the same titles as Brueghel the Elder. The original work, painted around 1558, has disappeared. Two copies are known, one of which (below) was dated 1583; it is exhibited at the Van Buuren Museum in Brussels.
 
 
-  Im1  The Fall of Icarus (or Landscape with the Fall of Icarus) by Pieter Brueghel the Elder, copy, Van Buuren Museum, Brussels
+  ![](/photos/wordpress/pieter_bruegell-a-chute-d-icare.jpg "The Fall of Icarus (or Landscape with the Fall of Icarus) by Pieter Brueghel the Elder, copy, Van Buuren Museum, Brussels")
 
 
   If we take a close look at Brueghel's painting, we can see, between the ship and the angler, the legs of the unfortunate Icarus drowning (detail in the image below).
+
+
 
 
   Im2 Landscape with the Fall of Icarus by Pieter Brueghel the Elder, copy, detail.
