@@ -28,21 +28,42 @@ dimensions: 55 cm x 46 cm
 dimensions-en: 55 cm x 46 cm
 dimensions-ru: 55 см x 46 см
 description-fr: >-
-  ssssssssssss
+  
+
+  Montlaur a repris le titre d'un tableau de Brueghel l'Ancien. L'original, peint vers 1558 a disparu. Deux copies sont connues dont l'une (ci-dessous) a été datée de 1583; elle est exposée au Musée Van Buuren à Bruxelles.
 
 
-  ssssssssssss
+  ![](/photos/wordpress/pieter_bruegell-a-chute-d-icare.jpg "La chute d'Icare par Pieter Brueghel l'Ancien, copie, Musée Van Buuren, Bruxelles")
 
 
-  ![Copie ](/photos/wordpress/pieter_bruegell-a-chute-d-icare.jpg "La chute d'Icare par Pieter Brueghel l'Ancien, copie datée vers 1583 (Musée Van Buuren, Bruxelles)")
+  Si l'on examine de près le tableau de Brueghel, on voit, entre le navire et le pêcheur à la ligne, les jambes du malheureux Icare en train de se noyer (détail dans l'image ci-dessous).
 
 
-  draft
 
 
+  Dans le tableau de Montlaur qui est beaucoup plus violent que celui de Brueghel, les jambes du néo-aéronaute sont bien visibles au milieu des flots tumultueux bleus et verts : ce sont les formes noires visibles dans la moitié inférieure du tableau.
 
 
   ![](/photos/wordpress/pieter_bruegel_-icare-détails-2.jpg "La chute d'Icare par Pieter Brueghel l'Ancien, copie, détail.")
-description-en: draft
+
+
+  Le tableau de Montlaur est beaucoup plus violent que celui de Brueghel. Les jambes du néo-aéronaute sont bien visibles au milieu des flots tumultueux bleus et verts : ce sont les formes noires visibles dans la moitié inférieure du tableau.
+description-en: >-
+  **(The Fall of Icarus)**
+
+
+  Montlaur used the same titles as Brueghel the Elder. The original work, painted around 1558, has disappeared. Two copies are known, one of which (below) was dated 1583; it is exhibited at the Van Buuren Museum in Brussels.
+
+
+  Im1  The Fall of Icarus (or Landscape with the Fall of Icarus) by Pieter Brueghel the Elder, copy, Van Buuren Museum, Brussels
+
+
+  If we take a close look at Brueghel's painting, we can see, between the ship and the angler, the legs of the unfortunate Icarus drowning (detail in the image below).
+
+
+  Im2 Landscape with the Fall of Icarus by Pieter Brueghel the Elder, copy, detail.
+
+
+  Montlaur's painting is much far more violent than Brueghel's. The neo-aeronaut's legs are clearly visible in the midst of tumultuous blue and green waves: they are the black shapes visible in the lower half of the painting.
 description-ru: draft
 ---
