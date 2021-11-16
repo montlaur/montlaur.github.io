@@ -17,7 +17,7 @@ annee-aff-ru: март 1965 г.
 era: 60-69
 era-en: 60-69
 era-ru: 60-69
-picture: /photos/wordpress/dsc_0503.jpg
+picture: /photos/wordpress/dsc_0503-copie-v1.jpg
 place: Paris
 place-en: Paris
 place-ru: Париж
