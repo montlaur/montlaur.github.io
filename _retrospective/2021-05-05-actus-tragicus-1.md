@@ -7,7 +7,7 @@ active-item2: retrospective
 title: Actus Tragicus
 title-en: Actus Tragicus
 title-ru: Actus Tragicus
-theme: Musique
+theme: musique
 theme-en: Music
 theme-ru: Музыка
 annee: 1972-01-03T23:00:00.000Z
