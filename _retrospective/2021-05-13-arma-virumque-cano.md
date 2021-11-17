@@ -62,7 +62,7 @@ description-en: >-
   founders of Rome.
 
 
-  ***Arma virumque cano**, Troiae qui primus ab orisItaliam, fato profugus, Laviniaque venitlitora, multum ille et terris iactatus et altovi superum saevae memorem Iunonis ob iram;multa quoque et bello passus, dum conderet urbem,inferretque deos Latio, genus unde Latinum,Albanique patres, atque altae moenia Romae.*
+  ***Arma virumque cano**, Troiae qui primus ab orisItaliam, fato profugus, Laviniaque venitlitora, multum ille et terris iactatus et altovi superum saevae memorem Iunonis ob iram;multa quoque et bello passus, dum conderet urbem,inferretque deos Latio, genus unde Latinum, Albanique patres, atque altae moenia Romae.*
 
 
   *(Publii Vergili Maronis, Aeneidos liber primus, 1-7)*
@@ -93,6 +93,12 @@ description-ru: >-
 
 
   ***Je chante les combats, et ce héros**, qui, longtemps jouet du Destin, aborda le premier des champs de Troie aux plaines d’Italus, aux rivages de Lavinie. Objet de la rigueur du Ciel et du long courroux de l’altière Junon, mille dangers l’assaillirent sur la terre et sur l’onde ; mille hasards éprouvèrent sa valeur, avant qu’il pût fonder son nouvel empire, et reposer enfin ses dieux au sein du Latium : du Latium, noble berceau des Latins, des monarques d’Albe, et de la superbe Rome.*
+
+
+  *(Virgile, Énéide, Chant 1-7)*
+
+
+  *(Traduction J.N.M. de Guerle., Delalain, 1825)*
 
 
   *(Virgile, Énéide, Chant 1-7)*
