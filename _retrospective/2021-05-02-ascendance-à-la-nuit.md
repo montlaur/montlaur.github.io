@@ -39,5 +39,5 @@ description-ru: >-
   **(Восхождение ночью)**
 
 
-  En 1959 le peintre aborde sa période lyrique. Les formes sont dynamiques, les couleurs contrastées sont violentes, chargées de souvenirs douloureux.
+  В 1959 году начинается лирический период. Формы динамичны, контрастные цвета полны движения и наполнены болезненными воспоминаниями.
 ---
