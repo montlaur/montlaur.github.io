@@ -47,8 +47,8 @@ description-ru: >-
   **(Перед потопом)**
 
 
-  Le peintre  évoque les présages de la guerre qui changea le cours de sa vie. De l’insouciant étudiant-peintre,  il devint soldat : il connut les combats, le sang , la mort, le feu.  Ces éléments se retrouvent  dans ce tableau : abstrait mais tellement expressionniste.
+  На картине - предзнаменования войны, изменившей ход его жизни. Из беззаботного ученика-живописца он превратился в солдата: познал бой, кровь, смерть, огонь. Все эти знаки - абстрактные, но очень экспрессивные - можно увидеть на полотне.
 
 
-  On voit une tête d'homme aux cheveux embrasés, le ciel noir est en feu.
+  Мы видим мужскую голову с пылающими волосами, горит черное небо.
 ---
