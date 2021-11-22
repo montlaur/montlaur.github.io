@@ -44,8 +44,8 @@ description-ru: >-
   **(Небо, усыпанное птицами)**
 
 
-  Période expressionniste. 
+  Период экспрессионизма. 
 
 
-  Les oiseaux, tels des Stukas sont noirs et menaçants , ils ont envahi le ciel qui explose de couleurs fulgurantes. Les cauchemars ne quittent plus les nuits du peintre.
+  Птицы похожи на пикирующие Юнкерсы, черные и угрожающие. Они вторглись в небо, которое взрывается ослепляющими цветами. Кошмары не покидают ночей художника.
 ---
