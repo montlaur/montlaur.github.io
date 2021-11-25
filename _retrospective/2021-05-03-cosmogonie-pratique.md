@@ -38,5 +38,5 @@ description-ru: >-
   **(Практическая космогония)**
 
 
-  Version montlaurienne de la création du monde. À noter l’étoile qui nait de la terre sous un ciel radieux.
+  Сотворение мира от Монлора. Обратите внимание на звезду, рожденную Землей под сияющим небом.
 ---
