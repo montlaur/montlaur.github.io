@@ -50,14 +50,14 @@ description-en: >-
 
   This is the crux of the artist's "Fontainebleau" period: he uses almost exclusively a palette knife and plays with the superimpositions of layers of different colors by scraping them. The brightly colored shapes seem trapped in an ink-black world.
 description-ru: >-
-  **(Развлечения в ночь на январь)**
+  **(Развлечения январской ночью)**
 
 
-  Montlaur fait à nouveau référence à la fin tragique de Nerval, son suicide Rue de la Vieille Lanterne à Paris, la nuit du 25 au 26 janvier 1855. C'était quelques jours après la publication de la première partie d'Aurélia où il relatait ses rêves prémonitoires.
+  Монтлор не в первый раз отзывается на трагический конец Нерваля - его самоубийство в ночь с 25 на 26 января 1855 года на улице Вьей Лантерн в Париже, всего несколько дней спустя после публикации первой части его книги «Аурелия», где он описал свои сны-предчувствия.
 
 
   ![](/photos/wordpress/rue-de-la-vieille-lanterne.jpg "Rue de la Vieille-Lanterne (Paris) - ©Brown University Library / Public domain")
 
 
-  Le peintre est en pleine période "Fontainebleau" : il utilise presqu'exclusivement le couteau à palette et joue sur les superpositions des couches de couleurs différentes en grattant celles-ci. Les formes de couleurs vives semblent emprisonnées dans un monde noir d'encre.
+  Полотно помогает почувствовать суть всего периода творчества художника, условно названного "Фонтебло": Монлор почти исключительно использует  мастихин и играет с наложением слоев разных цветов, соскабливая их. Ярко окрашенные формы кажутся погруженными в чернильно-черный мир.
 ---
