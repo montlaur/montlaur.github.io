@@ -77,17 +77,16 @@ description-fr: >-
 
   Pour écouter [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-en: >-
-  This painting's title is the first verse of the 5th movement of Johann
-  Sebastian Bach's Cantata BWV n ° 4 “Christ Lag in Todes Banden” (Christ Lied
-  in the Ties of Death), in which the musician celebrates the victory of life
-  over death in a strange battle. The text of the cantata was written by Martin
-  Luther in 1524.
+  Название этой картины является первым стихом 4-й части кантаты BWV № 4 Иоганна
+  Себастьяна Баха “Christ Lag in Todes Banden” ("Христос лежал в оковах
+  смерти"), в которой композитор празднует победу жизни над смертью в этой
+  непостижимой битве. Текст кантаты был написан Мартином Лютером в 1524 году.
 
 
-  Inspired by this music, the artist-soldier reproduces the war scene - his war - on canvas: he paints the hand-to-hand combat of the forces of good - the blue forms - against those of evil - the black  forms- in the midst of vermilion flames.
+  Вдохновленный этой музыкой, художник-солдат воспроизводит сцену войны - свою войну - на холсте: он рисует рукопашный бой сил добра (синие формы) против сил зла (черные формы) - посреди алого пламени.
 
 
-  The text  of the 5th stanza of the cantata is as follows:
+  Текст 4-й строфы кантаты следующий:
 
 
   **\*Es war ein wunderlicher Krieg**,\
@@ -107,27 +106,24 @@ description-en: >-
   Halleluja!*
 
 
-  **\*It was a strange battle**\
+  **И была непостижимая война**\
 
-  where death and life struggled.\
+  между смертью и жизнью.\
 
-  Life won the victory,\
+  Жизнь одержала победу,\
 
-  it has swallowed up death.\
+  она поглотила смерть.\
 
-  Scripture has proclaimed\
+  Писание возвестило это,\
 
-  how one death ate the other,\
+  как смерть пожерта иным,\
 
-  death has become a mockery.\
+  вменена в посмешище.\
 
-  Alleluia!*
-
-
-  *(Translated by Francis Brown)*
+  Аллилуия!
 
 
-  To listen [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[s](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Слушать: [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[s](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-ru: >-
   Le titre donné au tableau est le premier vers de la 5e strophe de la cantate
   BWV n°4 de Jean-Sebastien Bach « Christ Lag in Todes Banden » (Христос лежал в
