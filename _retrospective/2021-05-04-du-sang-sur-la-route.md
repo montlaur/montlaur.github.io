@@ -48,8 +48,8 @@ description-ru: >-
   **(Кровь на дороге)**
 
 
-  Un épisode tragique va profondément et pour longtemps marquer le peintre. En août 1966, Montlaur est en vacances en Bretagne. La voiture dont il est passager heurte un jeune garçon en mobylette. Il lui porte assistance et reste auprès de lui un long moment, lui parlant , essayant de le rassurer. Mais le garcon meurt. 
+  Трагическое событие глубоко и надолго потрясло художника. В августе 1966 года Монлор отдыхал в Бретани. Автомобиль, в котором он был пассажиром, сбил мальчика на мопеде. Пока остальные искали помощь, Монлор сидел с мальчиком на обочине, пытаясь остановить кровь, разговаривая с ним и успокаивая его. Но мальчик умер на его руках.
 
 
-  L’horreur du tableau n’a pas besoin d‘être décrite.
+  Ужас картины не нужно описывать.
 ---
