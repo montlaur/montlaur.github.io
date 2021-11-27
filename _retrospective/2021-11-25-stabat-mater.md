@@ -13,20 +13,20 @@ theme-ru: Religion
 annee: 1959-11-30T23:00:00.000Z
 annee-aff: décembre 1959
 annee-aff-en: december 1959
-annee-aff-ru: december 1959
+annee-aff-ru: Декабрь 1959 г.
 era: 60-69
 era-en: 60-69
 era-ru: 60-69
 picture: /photos/wordpress/stabat-mater-e.jpg
 place: Paris
 place-en: Paris
-place-ru: Paris
+place-ru: Париж
 type: Huile sur toile
-type-en: Huile sur toile
-type-ru: Huile sur toile
+type-en: Oil on canvas
+type-ru: Масло, холст
 dimensions: 73 cm x 50 cm
 dimensions-en: 73 cm x 50 cm
-dimensions-ru: 73 cm x 50 cm
+dimensions-ru: 73 см x 50 см
 description-fr: >-
   Les images se superposent, la vierge Marie le visage envahi par la douleur et
   la tête pleine de souffrance du Christ sur la croix. Une fusion s'opère entre
@@ -38,6 +38,9 @@ description-fr: >-
 
 
   Cette peinture se trouve chez les Pères Passionistes de l'église Saint Joseph, 50 avenue Hoche à Paris
+
+
+  Pour écouter le Stabat Mater : <https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli>  [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[](https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli)      (Pergolesi - Stabat mater, Margaret Marshall, Lucia Valentini Terrani, London Symphony Orchestra - *Deutsche Grammophon* )[](https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli)[](https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli)
 description-en: >-
   Les images se superposent, la vierge Marie le visage envahi par la douleur et
   la tête pleine de souffrance du Christ sur la croix. Une fusion s'opère entre
