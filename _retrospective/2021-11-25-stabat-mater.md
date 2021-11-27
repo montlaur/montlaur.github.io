@@ -53,14 +53,16 @@ description-en: >-
 
   Cette peinture se trouve chez les Pères Passionistes de l'église Saint Joseph, 50 avenue Hoche à Paris
 description-ru: >-
-  Les images se superposent, la vierge Marie le visage envahi par la douleur et
-  la tête pleine de souffrance du Christ sur la croix. Une fusion s'opère entre
-  la mère et le fils et on hésite, qui est qui ?\
-
-  On les voit mieux en écoutant le Stabat Mater de Pergolèse que Montlaur aimait se passer lorsqu'il peignait. L'émotion de la musique est la même qui transperce de la toile, abstraite si on ne "voit" pas.\
-
-  Le mystère est profond.
+  (Стояла Мать)
 
 
-  Cette peinture se trouve chez les Pères Passionistes de l'église Saint Joseph, 50 avenue Hoche à Paris
+  Изображения накладываются друг на друга: Дева Мария с лицом, охваченным болью, и  лик Христа на кресте, полный страданий. Между матерью и сыном происходит слияние, и мы сомневаемся, кто есть кто. \
+
+  Суть картины можно понять глубже, послушав "Stabat Mater" ("Стояла Мать (скорбящая)") Перголези. Эту музыку Монлор слушал беспрерывно, когда писал картину. Эмоции музыки те же самые, что пронизывают холст, даже если изображение кажется нам абстрактным, и мы не «видим» образы. Тайна этой картины глубоко спрятана.
+
+
+  Эту картину можно найти в церкви Святого Иосифа ордена пассионистов на авеню Ош, 50 в Париже.
+
+
+  Слушать Stabat Mater : <https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli>  [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[](https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli)      (Pergolesi - Stabat mater, Margaret Marshall, Lucia Valentini Terrani, London Symphony Orchestra - *Deutsche Grammophon* )
 ---
