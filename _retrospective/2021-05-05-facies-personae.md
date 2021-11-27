@@ -37,16 +37,16 @@ description-fr: "« **Facies personae**» pourrait être traduit par « **silhou
   crématoires en haut du tableau. On voit bien sûr, un masque sans vie qui
   occupe tout le centre du tableau. À noter le fond noir de la scène, sauf le
   ciel qui est d’un jaune noirci par la fumée issue des fours."
-description-en: "\"**Facies personae**\" can be translated as \"**silhouette of
-  a person**\" or \"**mask of a character**\". We have very few elements that
-  would help us decipher this painting properly. A resistant friend of the
-  artist, Jacqueline Péry d'Alincourt, who had been deported to the Ravensbrück
-  concentration camp (from April 1944 to April 1945) and had survived, told him
-  that she could find in this painting fragments of her memories of the camp:
-  silhouettes of deportees, the smoking chimney of the crematorium ovens at the
-  top of the painting. We can see of course, a lifeless mask occupying the
-  entire center of the painting. Note the black background of the scene and
-  yellow sky blackened by the ovens' smoke."
+description-en: "**\" Facies personae \"** можно перевести как « **силуэт
+  человека** » или « **маска персонажа** ». Здесь не так много элементов,
+  которые помогли бы нам правильно расшифровать эту картину.  Подруга художника
+  Жаклин Пери д'Алинкур, которая была депортирована в концлагерь Равенсбрюк (с
+  апреля 1944 г. по апрель 1945 г.) и выжила, сказала ему, что может разгадать
+  на этой картине фрагменты своих воспоминаний о лагере: силуэты пленников
+  концлагеря, дымящуюся трубу печей крематория в верхней части картины.
+  Несомненно, различима безжизненная маска, занимающая весь центр картины.
+  Обратите внимание на черный фон сцены и желтое небо, почерневшее от дыма
+  печей."
 description-ru: "« **Facies personae**» pourrait être traduit par « **silhouette
   d'une personne** » ou « **masque de personnage** » .Nous avons très peu
   d’éléments qui nous aideraient à bien décrypter cette peinture. Une amie
