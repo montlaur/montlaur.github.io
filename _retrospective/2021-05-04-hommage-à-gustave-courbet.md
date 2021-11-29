@@ -44,8 +44,8 @@ description-ru: >-
   **(Дань уважения Гюставу Курбе)**
 
 
-  Comment ne pas voir « L’origine du Monde » dans cette peinture ?
+  Как можно было не увидеть на этой картине «Происхождение мира» Курбе?
 
 
-  Montlaur avait une grande admiration pour l’œuvre de Gustave Courbet et pour l'homme, en particulier sa participation à la Commune de Paris (du 18 mars au 28 mai 1871). Il faut rappeler que Courbet fut élu de la Commune et y fut président de la Fédération des Artistes. Il permit, entre autres, la protection des œuvres du Louvre.
+  Монтлор всегда восхищался творчеством Гюстава Курбе и им самим, в частности его участием в Парижской Коммуне (18 марта – 28 мая 1871 г.). Следует напомнить, что Курбе был избранным представителем Коммуны, а также был избран президентом Федерации художников. Он предотвратил разграбление и повреждение коллекций Лувра.
 ---
