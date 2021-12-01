@@ -46,8 +46,8 @@ description-ru: >-
   **(Я прошу прощения, моя Мамаша Кураж)**
 
 
-  C’est un paysage de tempête et de malheur. Le sol est noir, marqué par le feu. La mère – forme noire – tient sa fille morte – forme blanche aux cheveux roux – dans ses bras.
+  Это предвидение бури и бедствий. Земля черная, размеченная огнем. Мать, темная фигура, держит на руках свою мертвую дочь - белую фигуру с рыжими волосами.
 
 
-  Le peintre s’identifie aux soldats meurtriers et réclame son pardon à la mère.
+  Художник отождествляет себя с солдатами-убийцами и просит мать простить его.
 ---
