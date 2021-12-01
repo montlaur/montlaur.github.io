@@ -57,11 +57,14 @@ description-ru: >-
   **(Телемское аббатство)** 
 
 
-  *« Le bastiment feut en figure exagone, en telle faczon que à chascun angle estoyt bastie une grosse tour ronde à la capacité de soixante pas en diametre, et estoient toutes pareilles en grosseurs et portraict. La riviere de Loyre decoulloyt sus l’aspect de Septentrion. Au pied d’icelle estoyt une des tours assise, nommée Artisse. »* 
+  "Здание имело шестиугольную форму, и на каждом углу была выстроена большая круглая башня, диаметром в шестьдесят шагов. Все они были одинаковы по величине и по форме. Река Луара протекала с севера. У реки была расположена одна из башен, называемая Артис..."
 
 
-  *(François Rabelais, Gargantua, édition Mireille Huchon, Paris, Gallimard, 2007, p.459).*
+  (Франсуа Рабле, Гаргантюа и Пантагрюэль, книга I, глава LIII) *
 
 
-  L’abbaye occupe le centre d’attraction du tableau. Sa forme est triangulaire plutôt qu’hexagonale, on distingue bien les tours rondes ainsi que la Loire. La peinture est équilibrée et reflète la joie de vivre des moines de l’abbaye.
+  * (Перевод В. А. Пяста) *
+
+
+  Аббатство занимает центр картины. Его форма скорее треугольная, чем шестиугольная. Хорошо видны круглые башни, а также река Луара. Картина четко сбалансирована и отражает жизнерадостность монахов аббатства.
 ---
