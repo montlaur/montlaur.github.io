@@ -32,10 +32,10 @@ description-fr: "Énée accompagné de la sibylle de Cumes descend aux enfers po
   Remus, Pompée, César et Auguste . Il refuse de remonter au monde des vivants.
   (Enéide, livre VI)."
 description-en: >-
-  **(Anchises' Shadow)**
+  **(Тень Анхиса)**
 
 
-  Aeneas accompanied by the Cumaean Sibyl descends into hell to bring back his father Anchises. The latter introduces him to his descendants: Romulus and Remus, Pompey, Caesar and Augustus. He refuses to go back to the world of the living. (Aeneid, book VI).
+  Эней в сопровождении Кумской жрицы Аполлона Сивиллы спускается в ад, чтобы вернуть своего отца Анхиса. Последний знакомит его с его потомками: Ромулом и Ремом, Помпеем, Цезарем и Августом. Он отказывается вернуться в мир живых. (Энеида, книга VI).
 description-ru: >-
   **(Тень Aнхиса)** 
 
