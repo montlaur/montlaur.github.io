@@ -127,51 +127,59 @@ description-en: >-
 
   *(Translation : Peter Low)*
 description-ru: >-
-  Le peintre cite Verlaine qui, dans son Colloque Sentimental, se rappelle son
-  amour passé.\
+  Художник цитирует Верлена, который в своем «Коллоке сентиментальности» *
+  вспоминает о своей былой любви. \
 
-  Dans le tableau, les formes sont froides et sanglantes, elles transpercent le ciel noir.
-
-
-  *Dans le vieux parc solitaire et glacé*\
-
-  *Deux formes ont tout à l'heure passé.*
+  На картине формы холодные и кровавые, они пронзают черное небо.
 
 
-  *Leurs yeux sont morts et leurs lèvres sont molles,*\
-
-  *Et l'on entend à peine leurs paroles.*
+  *В саду, где стужей веет от земли,* 
 
 
-  *Dans le vieux parc solitaire et glacé*\
-
-  *Deux spectres ont évoqué le passé.*
+  *Два привиденья только что прошли,*
 
 
-  *\- Te souvient-il de notre extase ancienne?*\
-
-  *\- Pourquoi voulez-vous donc qu'il m'en souvienne?*
+  *Глаза мертвы, давно уста увяли.* 
 
 
-  *\- Ton cœur bat-il toujours à mon seul nom?*\
-
-  *Toujours vois-tu mon âme en rêve? - Non.*
+  *Расслышать можно шёпот их едва ли.*
 
 
-  *Ah ! les beaux jours de bonheur indicible*\
-
-  *Où nous joignions nos bouches ! - C'est possible.*
+  *Двум призракам напомнил старый сад* 
 
 
-  *\- Qu'il était bleu, le ciel, et grand, l'espoir !*\
-
-  *\- **L'espoir a fui**, vaincu, vers le ciel noir.*
+  *О том, что было много лет назад.*
 
 
-  *Tels ils marchaient dans les avoines folles,*\
-
-  *Et la nuit seule entendit leurs paroles.*
+  *— Ты помнишь наши прежние свиданья?* 
 
 
-  *(Paul Verlaine, Colloque sentimental)*
+  *— Помилуйте, к чему воспоминанья?*
+
+
+  *— Тебе я снюсь? Трепещешь ты в ответ,* 
+
+
+  *Когда моё раздастся имя? — Нет.*
+
+
+  *— Блаженство наше было столь безмерно.* 
+
+
+  *Мы целовались... Помнишь? — Да, наверно.*
+
+
+  *— Надежда, как лазурь, была светла.* 
+
+
+  *— Надежда в чёрном небе умерла.*
+
+
+  *В полях туманных призраки пропали.* 
+
+
+  *Их слышал только мрак... И то едва ли.*
+
+
+  *(Поль Верлен. Сентиментальный разговор. Пер. В. Микушевича)*
 ---
