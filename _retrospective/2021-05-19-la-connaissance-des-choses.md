@@ -55,11 +55,11 @@ description-ru: >-
   **(Знание вещей)**
 
 
-  C’est une tempête de couleurs, très vives, jamais élémentaires : les noirs ne sont pas noirs, mais tachés de jaune, de vert, de bleu, pas du tout sinistres. Les blancs sont peu ‘sales’ (selon l’expression du peintre). Les rouges sont vermillons et carmins, plutôt sang. Les couleurs sont presque toutes "grattées", laissant entrevoir, parfois même franchement voir la couleur de la couche sous-jacente, on distingue par endroits la trame de la toile.
+  Эта картина – буря красок, ярких и всегда смешанных: черный окрашен желтым, зеленым, синим, он не несет ничего зловещего. Белые цвета, как говорил сам художник, слегка «грязные». Красные – киноварь и кармин – напоминают кровь. Пятна цвета почти всегда «процарапаны», иногда слегка, часто откровенно, раскрывая цвет нижележащего слоя. В некоторых местах чувствуется фактура холста.
 
 
-  Que distingue-t-on ? Une silhouette noire tendant les deux bras. On voit un étrange ciel rouge foncé, des formes rectangulaires noires, vertes, rouges jaunes.
+  Можно различить черную фигуру, протягивающую обе руки. Над нею – странное темно-красное небо и прямоугольные формы черного, зеленого, красного и желтого цветов.
 
 
-  Le titre : « **La connaissance des choses** ». Qu’a voulu dire le peintre ? Parlait-il de la connaissance du monde ? Connaissance scientifique et philosophique ? Dans ce cas, pourquoi la silhouette noire ? Rien dans la peinture ne paraît confirmer cette interprétation. Voulait-il dire : « Je connais mon destin » ? On est en 1976, le peintre est mort 18 mois après avoir achevé cette peinture. Il sait qu’il a peu de temps à vivre. Il attend sa vieille connaissance, la Mort. Il ne la craint pas. Dernière hypothèse, proche de celle que nous venons d’envisager : le peintre, le soldat au passé si lourd va subir son jugement dernier. Il est debout, il a les mains tendues vers le « Juge » qui connait toutes les choses ; il a confiance.
+  Название – «Знание вещей». Что имеет в виду художник? Это о познании предметов, то есть о научном и философском знании? Тогда почему черный силуэт? Кажется, ничто в картине не подтверждает эту интерпретацию. Он имел в виду: «Я знаю свою судьбу»? Год 1976: художник скончался через 18 месяцев после завершения этой картины. Он, вероятно, знает, что у него мало времени на жизнь. Он ждет свою старую знакомую, Смерть. Он ее не боится. Последняя гипотеза, близкая к той, которую мы только что рассмотрели: солдат-художник с таким тяжелым прошлым подвергнется последнему суду. Он стоит, его руки протянуты к «Судье», знающему все.
 ---
