@@ -44,8 +44,8 @@ description-ru: >-
   **(Утренняя слава)**
 
 
-  Période « Fontainebleau ».
+  Период  «Фонтенбло».
 
 
-  Le peintre se remémore 17 ans plus tard les hauts fourneaux de Forbach qu’il a vus en 1938 lorsqu’il faisait son service militaire au 18e de chasseurs à Saint-Avold en 1938.
+  17 лет спустя художник вспоминает домны Форбаха, которые он видел в 1938 году во время военной службы в «18e de Chasseurs» (кавалерийский охотничий батальон) в Сен-Авольде в 1938 году.
 ---
