@@ -105,39 +105,30 @@ description-en: >-
 
   We can find these symbols in the painting: the capricorn is a green silhouette, seen in profile at the top and to the left of the painting. The unicorn is smaller, it is shaped like a heart, red, blue and white to the right of the center of the painting. The pyre-grief is the bright yellow and red spot of light in the upper right quadrant. We can guess a shape (a black horse?) and creatures that are difficult to identify at the bottom of the painting.
 description-ru: >-
-  *Les satyres et les pyraustes\
-
-  Les égypans les feux follets\
-
-  Et les destins damnés ou faustes\
-
-  La corde au cou comme à Calais\
-
-  Sur ma douleur quel holocauste*
+  **(Единорог  и  Козерог)**
 
 
-  *Douleur qui doubles les destins\
+  \    Колодники с веревками на шее
+                       И фавны и болотные огни
+                       Вторгаются в мое воображенье
+                       Везде меня преследуют они
+                       О Господи какое всесожженье
 
-  **La licorne et le capricorne**\
+  \    Меня тоска преследует как рок
+                       Я знаю что душа и тело бренны
+                       Они единорог и козерог
+                       Пугаются тебя огонь священный
+                       Багрово-красный утренний цветок
 
-  Mon âme et mon corps incertains\
+  *(Гийом Аполлинер, Песня злосчастного в любви,*Млечный путь - пер. А. Давыдова*)*
 
-  Te fuient ô bûcher divin qu'ornent\
+   **Единорог и Козерог**  были написаны в 1974 году, за три года до смерти Монлора. Это одна из самых совершенных его картин. Освоенная художественная техника позволяет ему выразить на холсте то, что он не мог сказать словами. Он пишет: «\[Живопись] казалась мне способом сказать те важные вещи, о которых мы не могли говорить». Он добавляет: «Я не понимаю, почему люди не могут разгадать все, что находится перед их глазами, как это было во время войны: шум, смерть, любовь, предательство, ложь и страх. И многое другое, чего я не могу сказать, но это то, что я могу изобразить. Повторяю: я знаю, как это сделать на холсте». ( *Petits Écrits de Nuit - "Ночные заметки"*)
 
-  Des astres des fleurs du matin*
-
-
-  *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Voie lactée)*
-
-
-  *La Licorne et le Capricorne,* peinte en 1974, trois ans avant sa mort, fait partie des peintures les plus achevées de Montlaur. La technique qu’il a acquise lui permet d’exprimer sur la toile ce qu’il ne pouvait dire avec des mots. Il écrit :  « (La peinture) m’apparut comme le moyen justement de dire ces choses importantes dont nous ne pouvions parler ». Il rajoute : « je ne comprends pas \[que les gens] ne puissent deviner toute la détresse qui est là, sous les yeux, comme elle était à la guerre : la clameur, la mort, l’amour, la trahison, le mensonge et la peur. Et beaucoup plus encore que je ne puis dire, mais que je sais faire. Je dis bien : je sais faire. » (*Petits écrits de nuit*)
-
-
-  Apollinaire, déjà, avait expliqué que la peinture de Picasso était un « admirable langage que nulle littérature ne peut indiquer, car nos mots sont faits d’avance. Hélas ! » (*Journal intime*). 
-
-
-  Dans le poème, Apollinaire reproche à sa douleur de « doubler » ses destins, c’est-à-dire de faire fuir son âme - la licorne, de son corps - le capricorne. La douleur étant l’amour, bûcher divin qui dure toute la nuit (des astres aux fleurs).
+  Аполлинер говорил, что картина Пикассо была написана «замечательным языком, который никакая литература не может объяснить, потому что наши слова сделаны заранее. Увы!" ( *Дневник* )
 
 
-  On retrouve ces symboles dans la peinture : le capricorne est la silhouette verte, vue de profil, en haut et à gauche du tableau. La licorne a la forme d’un cœur, rouge, bleu et blanc à droite du centre de la peinture. La douleur-bûcher est la tache de lumière jaune-vif et rouge dans le quart supérieur droit. On devine une forme (un cheval noir ?) et des créatures difficilement identifiables dans le bas du tableau.
+  В своем стихотворении Аполлинер упрекает свое горе в том, что оно «удваивает скорбь о будущем», то есть отпугивает его душу - единорога - от тела - козерога. Горе - это любовь, божественный костер, который длится всю ночь (от звезд до цветов).
+
+
+  Мы можем видеть эти символы на картине: козерог - это зеленый силуэт, видимый в профиль вверху и слева. Единорог меньше по размеру, он имеет форму сердца, красного, синего и белого цветов (справа от центра картины). Костер (горе, тоска) – это ярко-желто-красное пятно света в правом верхнем квадрате. Мы можем угадать какие-то фигуры (например, похожую на черного коня и существ, которых сложно идентифицировать, в нижней части картины).
 ---
