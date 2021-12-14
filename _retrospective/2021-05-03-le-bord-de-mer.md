@@ -35,8 +35,8 @@ description-en: >-
 
   Seemingly figurative painting of Brittany's coast. One can see the sea, the sand, a black sky with birds. A red sail boat?
 description-ru: >-
-  **(Le bord de mer)**
+  **(Морской пейзаж)**
 
 
-  Peinture un peu figurative de la côte bretonne. On y voit la mer, le sable, un ciel noir parcouru d'oiseaux. Un bateau à voile rouge ?
+  На первый взгляд перед нами вполне узнаваемая  картина побережья Бретани.  Море, песок, черное небо с птицами. Красный парусник?
 ---
