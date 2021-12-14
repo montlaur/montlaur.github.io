@@ -111,44 +111,58 @@ description-en: >-
 
   *(Translated by Anna Scanlon)*
 description-ru: >-
-  Cette peinture respire la félicité et le calme que le peintre retrouvait à
-  Rothéneuf. Voit-on une tête penchée, la tête de l’aimée ? Le ciel breton a
-  retrouvé le bleu des yeux de Gala.
+  Эта картина излучает счастье и спокойствие, которые Монлор обрел в Ротенефе.
+  Видна склоненная голова, это голова любимой? Небо Бретани голубое, как глаза
+  Галы.
 
 
-  ***La terre est bleue comme une orange***\
-
-  *Jamais une erreur les mots ne mentent pas*\
-
-  *Ils ne vous donnent plus à chanter*\
-
-  *Au tour des baisers de s’entendre*\
-
-  *Les fous et les amours*\
-
-  *Elle sa bouche d’alliance*\
-
-  *Tous les secrets tous les sourires*\
-
-  *Et quels vêtements d’indulgence*\
-
-  *À la croire toute nue.*
+  ***Земля вся синяя как апельсин***
 
 
-  *Les guêpes fleurissent vert*\
-
-  *L’aube se passe autour du cou*\
-
-  *Un collier de fenêtres*\
-
-  *Des ailes couvrent les feuilles*\
-
-  *Tu as toutes les joies solaires*\
-
-  *Tout le soleil sur la terre*\
-
-  *Sur les chemins de ta beauté.*
+  *Отныне заблужденье невозможно слова не лгут*
 
 
-  *(Paul Eluard, L’amour la poésie, 1929)*
+  *Они не позволяют больше петь*
+
+
+  *Лишь понимать друг друга в поцелуях*
+
+
+  *Безумцы и объятия любви*
+
+
+  *Она ее с моими слитые уста*
+
+
+  *Все тайны все улыбки*
+
+
+  *И снисходительность одежд*
+
+
+  *Прикрывших наготу.*
+
+
+  *Цветут как травы осы*
+
+
+  *Заря себе на шею надевает*
+
+
+  *Ожерелье окон*
+
+
+  *Под крыльями упрятана листва*
+
+
+  *Все солнечные радости твои отныне*
+
+
+  *Все солнце на земле*
+
+
+  *На всех дорогах красоты твоей.*
+
+
+   *(Поль Элюар, "Любовь-поэзия", 1929; перевод Мориса Ваксмахера)*
 ---
