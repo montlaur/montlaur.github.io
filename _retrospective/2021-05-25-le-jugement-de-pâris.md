@@ -52,8 +52,8 @@ description-ru: >-
   **(Суд Париса)**
 
 
-  Montlaur s’est inspiré du « Jugement de Pâris » attribué à Giulio Romano (Jules Romain), peintre italien 1499 – 1546, disciple de Raphaël. On peut même parler d'une copie « abstractisée ». Les trois déesses Aphrodite, Athéna et Héra sont sur le point de voir l’une d’entre elles, Aphrodite, être déclarée la plus belle déesse de l'Olympe par le berger Pâris,  et recevoir la pomme. Dans la peinture de Montlaur, on voit le corps dénudé d'Aphrodite assise au pied d'arbres massifs, on distingue Athéna debout , et Héra avec les volutes de son écharpe. L’arrière-plan est également reproduit : le ciel et le paysage au loin, bleu-vert , l’ocre clair de la terre.
+  Картина Монлора вдохновлена «Судом Париса», приписываемым итальянскому художнику эпохи Возрождения Джулио Романо (1499–1546), ученику Рафаэля. Это можно  даже назвать «абстрактной» копией работы Романо. Три богини: Афродита, Афина и Гера – вот-вот увидят, как одна из них, Афродита, будет объявлена Парисом самой красивой богиней Олимпа и получит яблоко. В «Суде» Монлора мы видим Афродиту – обнаженную, сидящую у подножия массивных и темных деревьев, Афину – она стоит, а также и Геру – очевидны складки ее шарфа. Также воспроизведен фон: небо и далекий пейзаж одинаково синего и зеленого цвета, земля цвета охры.
 
 
-  ![](/photos/wordpress/jugement-de-paris-g-romano.jpg "Le jugement de Pâris - attribué à Giulio Romano (16e siècle)")
+  ![](/photos/wordpress/jugement-de-paris-g-romano.jpg "Суд Париса - приписывается Джулио Романо (XVI век)")
 ---
