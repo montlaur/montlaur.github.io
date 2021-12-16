@@ -50,8 +50,8 @@ description-ru: >-
   **(Муленский мастер)**   
 
 
-  Montlaur poursuit sa recherche de la peinture parfaite en associant les formes et les couleurs et en suivant les principes de son ami, le peintre Gino Severini : « les couleurs sont déterminées de manière quasi mathématique et découlent rigoureusement des formes » (Du cubisme au classisisme, 1921). Ici, le peintre s’est inspiré du triptyque de la cathédrale de Moulins où la vierge et l’enfant sont englobés dans une mandorle, soleil nébuleux rayonnant dans le bleu du ciel.
+  Монлор продолжает поиск идеальной живописи, сочетая формы и цвета и следуя принципам своего друга, художника Джино Северини: «...цвета определяются почти математическим способом и строго следуют из форм» (Du cubisme au classisme, 1921). Здесь художника вдохновил триптих в Муленском соборе, где Дева и Младенец заключены в мандорлу - туманное солнце, сияющее на синем небе.
 
 
-  ![](/photos/wordpress/m-de-moulins-tript.jpg "Maître de Moulins - Triptyque, vers 1498, Cathédrale de Moulins (Wikipedia)")
+  ![](/photos/wordpress/m-de-moulins-tript.jpg "Муленская Богоматерь - триптих, около 1498, Муленский собор (Википедия)")
 ---
