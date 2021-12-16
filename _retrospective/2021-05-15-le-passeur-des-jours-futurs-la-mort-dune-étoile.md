@@ -41,5 +41,5 @@ description-ru: >-
   **(Паромщик грядущих дней - Смерть звезды)**
 
 
-  Prémonition de la mort du peintre. Le passeur des jours futurs est celui du Styx : on ne voit que lui, rouge sombre, couleur du sang, couleur de la mort. Il est à l'entrée d'un monde illuminé de lumière blanche crue. Le tableau a été peint en 1975 et terminé en 1977, quelques mois avant la mort du peintre.
+  Предчувствие смерти художника. Перевозчик будущих дней - страж Стикса - центральный элемент этой картины, темно-красный, цвета крови, цвета смерти. Он находится у входа в мир, освещенный чистым белым светом. Картина была начата в 1975-м и завершена в 1977 году, всего за несколько месяцев до смерти Монлора.
 ---
