@@ -52,10 +52,10 @@ description-ru: >-
   **(Одинокий октябрь)**
 
 
-  Le château de Montlaur vu par Montlaur en 1968. Le peintre a représenté la façade renaissance du château avec la chapelle et son toit rouge, l'entrée majestueuse surmontée de la fenêtre à croisée. 
+  Замок Монлор, каким его видел Монлор в 1968 году. Художник изобразил фасад замка в стиле ренессанс с часовней, красной крышей и величественным входом, увенчанным крестообразным окном.
 
 
-  Le château de Montlaur (11e siècle) est le berceau de la Maison de Montlaur. Il est situé à 18km au Nord-Est de Montpellier. Il n'est plus habité depuis 1622 date à laquelle il fut pris et partiellement rasé par les troupes protestantes du duc de Rohan.  
+  Замок Монлор (XI век) – колыбель семьи Монтлор. Он расположен в 18 км к северо-востоку от Монпелье. Замок пустовал с 1622 года, когда он был осажден, взят и частично разрушен протестантскими войсками герцога Роханского.  
 
 
   ![](/photos/wordpress/montlaur-1968-a.jpg "Замок Монлор (Эро, Лангедок)")
