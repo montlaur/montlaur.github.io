@@ -46,8 +46,8 @@ description-ru: >-
   **(Мечта Нерваля)**
 
 
-  Montlaur fait références aux rêves hallucinatoires décrits par Gérard de Nerval dans *Aurélia.* Ces rêves, à la limite de l'imaginé et du réel, et leur publication précédèrent de peu la mort par suicide du poète.
+  Монлор отсылает нас к галлюцинаторным снам, описанным Жераром де Нервалем в «Аурелии». Публикация этих снов – в которых реальная и воображаемая жизнь почти не различимы – непосредственно предшествовала самоубийству поэта.
 
 
-  Le peintre se libère enfin de la forme, de la géométrie. Il troque le pinceau pour le couteau à palette, il détruit les contours. Son imagination peut maintenant exprimer sans entraves le rêve, trop souvent cauchemar, et la réalité.
+  Художник окончательно освобождается от формы и геометрии. Он меняет кисть на мастихин, разрушает контуры. Его воображение теперь может беспрепятственно выражать его сны, слишком часто кошмары, и реальность.
 ---
