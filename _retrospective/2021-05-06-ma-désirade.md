@@ -181,77 +181,81 @@ description-en: >-
 
   *(Translated by C. John Holcombe)*
 description-ru: >-
-  **(My Desired One)** (La Désirade is also an Island off Guadeloupe)
+  **(Моя желанная)**
 
 
-  Incroyablement beau poème de Guillaume Apollinaire sur un amour passéLe tableau laisse voir à travers un hublot la rade, les côtes de l’île pleurée ou la silhouette de la femme aimée ?
+  (Ла Дезирад – "желанная" – это также остров у берегов Гваделупы).
 
 
-  *Voie lactée ô sœur lumineuse\
-
-  Des blancs ruisseaux de Chanaan\
-
-  Et des corps blancs des amoureuses\
-
-  Nageurs morts suivrons-nous d'ahan\
-
-  Ton cours vers d'autres nébuleuses*
+  Невероятно красивое стихотворение Гийома Аполлинера о прошедшей любви. Видим ли мы на картине гавань через иллюминатор, берега оплакиваемого острова или силуэт любимой женщины?
 
 
-  *Regrets des yeux de la putain\
-
-  Et belle comme une panthère\
-
-  Amours vos baisers florentins\
-
-  Avaient une saveur amère\
-
-  Qui a rebuté nos destins*
+  Всем ручейкам молочным Ханаана
 
 
-  *Ses regards laissaient une traîne\
+  О Млечный путь ты светозарный брат\
 
-  D'étoiles dans les soirs tremblants\
+  Ты курс нам указуешь постоянно\
 
-  Dans ses yeux nageaient les sirènes\
+  К туманностям куда сквозь звездопад\
 
-  Et nos baisers mordus sanglants\
-
-  Faisaient pleurer nos fées marraines*
+  Летят тела возлюбленных слиянно
 
 
-  *Mais en vérité je l'attends\
+  Достойная пантеры красота\
 
-  Avec mon cœur avec mon âme\
+  Взгляд шлюхи с сожаленьем и мольбою\
 
-  Et sur le pont des Reviens-t'en\
+  Моя великолепная тогда\
 
-  Si jamais reviens cette femme\
+  Мне чудилось что даже над судьбою\
 
-  Je lui dirai Je suis content*
-
-
-  *Mon cœur et ma tête se vident\
-
-  Tout le ciel s'écoule par eux\
-
-  O mes tonneaux des Danaïdes\
-
-  Comment faire pour être heureux\
-
-  Comme un petit enfant candide*
+  Всевластны эти горькие уста
 
 
-  *Je ne veux jamais l'oublier\
+  Дорожки оставляли ее взгляды\
 
-  Ma colombe ma blanche rade\
+  Как по ночам следы падучих звезд\
 
-  O marguerite exfoliée\
+  В ее глазницах плавали наяды\
 
-  Mon île au loin ma Désirade\
+  И наших фей печалили до слез\
 
-  Ma rose mon giroflier*
+  Лобзанья где пылало пламя ада
 
 
-  *(Alcools, La chanson du Mal-Aimé)*
+  Но все равно живу я и теперь\
+
+  Надеждою одной на нашу встречу\
+
+  И на мосту Вернувшихся потерь\
+
+  Я на ее приветствие отвечу\
+
+  Любимая я рад тебе поверь
+
+
+  Пустеют сердца и ума сосуды\
+
+  Как из бочонков Данаид вода\
+
+  Так утекают небеса оттуда\
+
+  Вернется ль вновь покой и чистота\
+
+  Как сделать чтоб свершилось это чудо
+
+
+  Я никогда теперь уж не смогу\
+
+  Расстаться с нежностью к моей Желанной\
+
+  К поломанному ветром васильку\
+
+  Моя голубка берег долгожданный\
+
+  И гавань на далеком берегу...
+
+
+  *(Гийом Аполлинер, "Алкоголи", Песнь злосчастного в любви. Пер. А. Давыдова)*
 ---
