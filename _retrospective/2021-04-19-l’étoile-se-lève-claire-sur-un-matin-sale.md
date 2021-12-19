@@ -42,5 +42,5 @@ description-ru: >-
   **(Звезда ярко встает грязным утром)**
 
 
-  Les couleurs sont moins violentes que de coutume, presque pastel ; elles sont appliquées par couches successives qui sont grattées au couteau à palette laissant apparaître d’extraordinaires superpositions. La forme est très construite. On voit l’étoile exploser au milieu de ce tableau et l’inonder de son rayonnement. On sent très bien l’évolution de la technique du peintre durant les dix dernières années de sa vie.
+  Цвета менее яркие, чем обычно, почти пастельные; они наносятся последовательными слоями, которые соскабливаются мастихином, обнажая необычные наложения. Четко просматриваются формы. Мы видим, как звезда взрывается в середине этой картины и заливает ее своим сиянием. Очевидна эволюция техники художника за последние десять лет его жизни.
 ---
