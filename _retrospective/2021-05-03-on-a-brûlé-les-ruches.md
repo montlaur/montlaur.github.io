@@ -124,52 +124,57 @@ description-en: >-
 
   One can easily recognize the white beehive, with yellow and red flames, a blue sky. There are a few spans of earth at the bottom of the painting.
 description-ru: >-
-  Depuis qu'il peint, Montlaur trouve son inspiration dans l’œuvre de Guillaume
-  Apollinaire, le poète le plus proche de lui au sens figuré, mais aussi
-  physiquement : il garda lsur lui le livre « Alcools » pendant toute la guerre,
-  et en particulier lorsqu'il débarqua sur les plages normandes, le 6 juin 1944.
+  С тех пор, как Монтлор начал писать картины, он черпал вдохновение в
+  творчестве Гийома Аполлинера – поэта, наиболее близкого ему не только по духу,
+  но даже и физически: он носил книгу «Алкоголи» с собой на протяжении всей
+  войны, в том числе когда он высадился на пляжах Нормандии 6 июня 1944 года.
 
 
-  *Et toi qui me suis en rampant\
-
-  Dieu de mes dieux morts en automne\
-
-  Tu mesures combien d'empans\
-
-  J'ai droit que la terre me donne\
-
-  O mon ombre ô mon vieux serpent*
+  В переводе "Песен злосчастного в любви" А. Давыдова строчка, которой озаглавлена картина, не переведена дословно ("Белые ульи сожжены") и заменена условным объяснением этой метафоры: "Приветствуя приход поры бесснежной":
 
 
-  *Au soleil parce que tu l'aimes\
+  *Змеей струишься ты за мной в пыли*\
 
-  Je t'ai menée souviens-t'en bien\
+  *Куда б ни шел как тень ползешь ты сзади*\
 
-  Ténébreuse épouse que j'aime\
+  *Бог тех богов что в осень полегли*\
 
-  Tu es à moi en n'étant rien\
+  *Ты скользким брюхом отмеряешь пяди*\
 
-  Ô mon ombre en deuil de moi-même*
-
-
-  *\
-
-  L'hiver est mort tout enneigé\
-
-  **On a brûlé les ruches blanches**\
-
-  Dans les jardins et les vergers\
-
-  Les oiseaux chantent sur les branches\
-
-  Le printemps clair l'Avril léger* [](#_ftn1)
+  *По праву отошедшей мне земли*
 
 
-  *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Voie lactée)*
+  *Не позабыла ль ты мою услугу*\
+
+  *Что вывел я тебя на свет дневной*\
+
+  *Влачишься ты печальная супруга*\
+
+  *Как траурная тень всегда за мной*\
+
+  *Ведь мы неотделимы друг от друга*
 
 
-  Comme dans *Sainte-Fabeau* et *La licorne et le capricorne*, le peintre reproduit sur la toile les vers de  *La chanson du mal-Aimé*. Ici, le poète demande à son ombre, « sa ténébreuse épouse », de combien d'empans de terre il aura besoin pour creuser sa tombe. Mais l'hiver est mort, les ruches ont gelé et brûlent, les oiseaux chantent, c'est le printemps.
+  *В апреле зиму погребли снега*\
+
+  *Приветствуя приход поры бесснежной*\
+
+  *И в поле и в сады и на луга*\
+
+  *Слетелись стаи птиц спешащих нежный*\
+
+  *Апрель восславить с каждого сука*
 
 
-  On reconnait bien la ruche blanche, les flammes jaunes et rouges, le ciel bleu. On reconnait également les quelques empans de terre en bas du tableau.
+
+
+  \
+
+  [](#_ftn1)*(Гийом Аполлинер, "Алкоголи", "Песнь злосчастного в любви", пер. А. Давыдова)*
+
+
+  Как и в «Сент-Фабо» и «Единороге и козероге», художник воспроизводит на холсте строки «Песней злосчастного в любви». Поэт вопрошает свою тень, «свою темную жену», сколько пролетов земли ему понадобится, чтобы выкопать могилу. Но зима умерла, ульи замерзли и горят, птицы поют, весна.
+
+
+  Мы легко распознаем белый улей, желтое и красное пламя, голубое небо, а также несколько участков земли в нижней части холста.
 ---
