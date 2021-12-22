@@ -45,8 +45,8 @@ description-ru: >-
   **(Где мои мертвые друзья?)**
 
 
-  Foule de visages ensanglantés de camarades morts, cauchemar récurrent du peintre qui revit sans cesse ses combats. 
+  Толпа окровавленных лиц погибших товарищей, повторяющийся кошмар художника, бесконечно переживающего свои битвы.
 
 
-  Surtout ne pas oublier !
+  Главное – не забыть!
 ---
