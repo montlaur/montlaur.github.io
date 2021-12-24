@@ -48,14 +48,12 @@ description-en: >-
 
   And why the cryptic phrase "There are things that it would be far better not to know"? What is the artist referring to? Past memories? Things that are unspeakable but representable on the canvas provided they are ambiguous and abstract.
 description-ru: >-
-  La peinture a deux titres : "**Peinture ambigüe et figurative de Saint
-  Christophe**" **(Неоднозначное и фигуративное изображение святого
-  Христофора)** et "**There are Things that it would be far Better not to
-  Know**" (**Есть вещи, которые было было бы гораздо лучше не знать**)
+  У картины два названия: "Неоднозначное и фигуративное изображение святого
+  Христофора"  и "Есть вещи, которые было бы гораздо лучше не знать".
 
 
-  On distingue bien, en arrière-plan, la rivière traversée par le saint, la croix derrière lui. La tête ressemble étonnamment à celle du peintre ; celui-ci s’est-il représenté dans le tableau ?
+  На заднем плане хорошо видна река, которую пересекает святой, за ним крест. Голова удивительно напоминает голову художника; не автопортрет ли на картине?
 
 
-  Et pourquoi cette phrase sibylline « There are things that it would be far better not to know » (Il y a des choses qu’il vaudrait bien mieux ne jamais connaître) ? De quoi parle le peintre ? Des souvenirs passés ? Choses indicibles mais représentables sur la toile à condition qu'elles soient ambiguës et abstraites.
+  И о чем загадочная фраза «Есть вещи, о которых было бы гораздо лучше не знать»? Что имеет в виду  художник? Прошлые воспоминания? Вещи невыразимые, но представимые на холсте при условии, что они неоднозначны и абстрактны...
 ---
