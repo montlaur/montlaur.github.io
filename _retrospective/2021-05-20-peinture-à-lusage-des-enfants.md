@@ -41,5 +41,5 @@ description-ru: >-
   **(Живопись для детей)**
 
 
-  Formes géométriques, simplifiées, posées. Couleurs pastel soulignées par un noir profond. Ici aussi, les couches de couleurs superposées apparaissent au grattage. Pas de violence, le peintre est serein. Il lègue son art, sa technique à la postérité, aux enfants; c'est comme s'il leur disait : « voilà ce que je sais faire ! »
+  Геометрические, упрощенные, поставленные формы. Пастельные тона подчеркнуты глубоким черным. И здесь мы можем видеть, как художник приоткрывает наложенные друг на друга слои цвета. Никакого насилия, художник безмятежен. Он передает свое искусство, свою технику потомкам, детям; как если бы он говорил им: «вот что я могу сделать!»
 ---
