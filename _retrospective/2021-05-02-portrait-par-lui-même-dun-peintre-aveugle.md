@@ -39,5 +39,5 @@ description-ru: >-
   **(Автопортрет слепого художника)**
 
 
-  Montlaur, tout en autodérision, continue d’expérimenter sa technique des couleurs. Il utilisera les glacis sur toutes ses œuvres futures. Le fond noir, celui de ses nuits et de ses souvenirs, restera omniprésent.
+  Монлор продолжает экспериментировать со своей цветовой техникой. Он будет использовать лессировку на всех своих будущих работах. Черный фон его ночей и его воспоминаний станет лейтмотивом.
 ---
