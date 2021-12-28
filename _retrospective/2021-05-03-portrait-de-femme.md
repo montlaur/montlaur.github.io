@@ -35,5 +35,5 @@ description-en: |-
 description-ru: |-
   **(Женский портрет)**
 
-  Magnifique portrait de femme, pleine de vie.
+  Прекрасный портрет женщины, полной жизни.
 ---
