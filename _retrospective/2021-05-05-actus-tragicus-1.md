@@ -34,7 +34,7 @@ description-fr: >-
   temps), une œuvre courte composée lorsque Bach avait environ 23 ans. Le thème
   est celui de la mort qui arrive au moment choisi par Dieu. Les flûtes à bec
   sont particulièrement émouvantes. Les voix consolent mais demeurent d’une
-  grande tristesse.   XXXXXXXXXXXXX
+  grande tristesse.
 
 
   Est-ce le mort que l’on distingue, ombre noire d’une tête derrière un rideau de larmes grises et blanches qui coulent abondamment ? On aperçoit une lumière au centre du tableau : lueur d’espoir et de confiance qu'est  la mort ouvrant la voie au paradis, donc au bonheur.
