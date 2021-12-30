@@ -74,7 +74,7 @@ description-en: >-
 
   What more beautiful tribute, could the painter have paid to the Queen of the World, than this magnificent work, full of majesty, his very last, painted three months before his death?
 description-ru: >-
-  ***Quae est Ista** quae ascendit\
+  **\*Quae est Ista** quae ascendit\
 
   sicut aurora consurgens,\
 
@@ -83,17 +83,20 @@ description-ru: >-
   terribilis ut castorum acies ordinata?*
 
 
-  ***Quelle est Celle-ci** qui s'élève\
-
-  comme l'aurore à son lever,\
-
-  belle comme la lune, exquise comme le soleil,\
-
-  terrible comme une armée rangée en bataille ?**
+  Кто эта, блистающая, как заря, 
 
 
-  *(Cantique des Cantiques, ch.6, v.9)*
+  прекрасная, как луна, 
 
 
-  Quel plus bel hommage, le peintre aurait-il pu rendre à la Reine du Monde, que cette œuvre magnifique, pleine de majesté, la toute dernière , peinte trois mois seulement avant sa mort ?
+  светлая, как солнце, 
+
+
+  грозная, как полки со знаменами?
+
+
+  *(Песнь песней, гл. 6, ч. 10)*
+
+
+  Разве художник мог воздать больше уважения Королеве мира, чем это великолепное, полное величия произведение, самое последнее, написанное всего за три месяца до его смерти?
 ---
