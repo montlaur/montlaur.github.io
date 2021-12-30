@@ -44,5 +44,5 @@ description-ru: >-
   **(Псевдо-метаболизм)**
 
 
-  Le peintre se sent-il atteint d’une affection qu’il ne qu’il ne maîtrise pas ? On apperçoit au centre de la peinture une forme noire englobant, écrasant un cœur écarlate. Peut-on interpréter cette forme comme les souvenirs de guerre (l’information ou le « matériau » au sens de Fritz Perls, fondateur de la gestalt thérapie) qui ne sont pas assimilés (« métabolisés ») et sont projetés sous forme d’agressivité ? J’imagine que Montlaur a pu discuter de Perls avec son ami le professeur André-Dominique Nenna, médecin et collectionneur, grand amateur de peinture, celle de Montlaur en particulier.
+  Чувствует ли художник  себя пораженным болезнью, которую он не может контролировать? В центре картины мы видим черную фигуру, охватывающую и сокрушающую алое сердце. Можем ли мы интерпретировать это как военные воспоминания (информация или «материал» согласно теории Фрица Перлза, основателя гештальт-терапии), которые не могут быть ассимилированы («метаболизированы») и проецируются в форме агрессии? Есть основания  полагать, что Монлор  обсуждал эту теорию со своим другом профессором Андре-Домиником Ненна, доктором и коллекционером произведений искусства, большим любителем картин, в особенности картин самого Монлора.
 ---
