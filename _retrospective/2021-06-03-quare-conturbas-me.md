@@ -111,19 +111,37 @@ description-ru: >-
   *(Ps 43)*
 
 
-  *Fais-moi justice, ô Dieu, et prends en main ma cause contre un peuple infidèle! Sauve-moi de ces gens menteurs et criminels !*\
-
-  *O Dieu, tu es ma forteresse, pourquoi donc me rejettes-tu, et pourquoi me faut-il vivre dans la tristesse, pressé par l'ennemi ?*\
-
-  *Fais-moi voir ta lumière, avec ta vérité pour qu'elles m'accompagnent et qu'elles soient mes guides vers ta montagne sainte jusque dans ta demeure.*\
-
-  *Alors j'avancerai jusqu'à l'autel de Dieu, vers toi, Dieu de ma joie et de mon allégresse. Alors je te louerai en m'accompagnant de la lyre. O Dieu: tu es mon Dieu !*\
-
-  *Pourquoi donc, ô mon âme, es-tu si abattue et gémis-tu sur moi ? Mets ton espoir en Dieu ! Je le louerai encore, mon Sauveur et mon Dieu.*
+  Суди меня, Боже, и вступись в тяжбу мою с народом недобрым. 
 
 
-  *(Psaume 43, attribué à David, taduction Bible de Jérusalem)*
+  От человека лукавого и несправедливого избавь меня,
+
+  ибо Ты Бог крепости моей. Для чего Ты отринул меня? 
 
 
-  Comme dans le psaume, l’œuvre peinte montre l’abattement, la tristesse, symbolisés par le dos courbé et les bras ballants du personnage. L’espoir est là pourtant, c’est le soleil rouge et doré qui a pris la place du cœur.
+  для чего я сетуя хожу от оскорблений врага? 
+
+  Пошли свет Твой и истину Твою; 
+
+
+  да ведут они меня и приведут на святую гору Твою и в обители Твои.
+
+  И подойду я к жертвеннику Божию, к Богу радости и веселия моего, 
+
+
+  и на гуслях буду славить Тебя, Боже, Боже мой!
+
+  Что унываешь ты, душа моя, и что смущаешься? 
+
+
+  Уповай на Бога; ибо я буду еще славить Его, 
+
+
+  Спасителя моего и Бога моего.
+
+
+  *(Псалом 42)*
+
+
+  Как и в псалме, картина показывает усталость и печаль, которые символизируются изогнутой спиной и свисающими руками фигуры. Однако все не безнадежно: красно-золотое солнце заняло место сердца.
 ---
