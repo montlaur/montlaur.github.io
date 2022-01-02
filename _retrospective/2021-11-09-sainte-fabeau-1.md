@@ -90,36 +90,25 @@ description-en: >-
 
 
   One can see, lying at the bottom of the painting a gray shape with a red cross, is this the tomb? White forms fall from the sky, others, black and blue are kneeling. Montlaur was perfectly acquainted with the poems of "Alcools", it is certain that he wanted to faithfully reproduce in his painting the hermetic words of the poet.
-description-ru: >-
-  Ce tableau est représentatif de la période où Montlaur vivait à Fontainebleau.
-  Ce style caractéristique succède au style « abstrait-géométrique » du début
-  des années 50 où formes et couleurs sont parfaitement définies et bien
-  délimitées. Le peintre, après avoir « couvert la toile » , comme il dit,
-  substitue le couteau à palette au pinceau : il casse les formes, gratte les
-  couches de peintures pour faire apparaître la ou les couleurs sous-jacentes,
-  les formes résultantes deviennent des créatures fantomatiques, fantastiques,
-  de sombres habitants de ses cauchemars incessants, de ses souvenirs de guerre.
+description-ru: >-2
+   **(Сен-Фаго)** 
+
+  Эта картина представляет период, когда Монлор жил в Фонтенбло. Этот характерный стиль следует его абстрактно-геометрическому периоду начала 50-х годов, когда формы и цвета были четко определены и идеально разграничены. На первом этапе художник «покрывает холст» (по его собственным словам), а затем заменяет кисть мастихином. Он ломает формы, соскребает толстые слои краски, чтобы выявить нижележащий цвет. Получившиеся формы становятся призрачными фантастическими существами, темными обитателями его нескончаемых кошмаров, его воспоминаниями о войне.
 
 
-  Le titre de la peinture, provient du poème de Guillaume Apollinaire « Les sept épées ». Sainte-Fabeau est la cinquième de ces épées.
+  Название картины происходит от стихотворения Гийома Аполлинера «Les Sept épées» (Семь мечей). Сен-Фаго (Saint-Faggot) – пятый из этих мечей.
 
 
-  *La cinquième Sainte-Fabeau\
-
-  C’est la plus belle des quenouilles\
-
-  C’est un cyprès sur un tombeau\
-
-  Où les quatre vents s’agenouillent\
-
-  Et chaque nuit c’est un flambeau*[](#_ftn1)
+  * В-пятых, Сен-Фаго – яркий \
+    и прекраснейший из прял.
+    Кипарис на могиле горит, \
+    где четыре ветра преклоняют колени и навязывают свои тяги \
+    в пламени факелов, ночь за ночью. *
+  * (Гийом Аполлинер, Песнь злосчастного в любви) *
 
 
-  *(Guillaume Apollinaire, Alcools, La chanson du Mal-Aimé, Les sept épées)*
+  Эта строфа о смерти: прялка в руках Судьбы, кипарис, могила. Этот меч пронзил сердце Девы Марии и, возможно, также был одним из семи смертных грехов. Как всегда, Аполлинер играет на значении слов, точно так же художник играет на цветах и ​​формах своих творений.
 
 
-  Dans cette strophe, c’est la mort qui est évoquée : la quenouille dans les mains de la Parque, le cyprès, le tombeau. L'épée peut être l’un des sept péchés capitaux ou l'un des glaives ayant transpercé le cœur de la Vierge. Comme toujours, Apollinaire joue sur le sens des mots, de même, le peintre joue sur la lumière, les couleurs et les formes de ses créations.
-
-
-  On voit, couchée dans le bas du tableau une forme grise avec un croix rouge, est-ce le tombeau ? d’autres formes, blanches tombent du ciel, d'autres, bleues et noires, agenouillées sont les quatre vents. Montlaur connaissait parfaitement tous les poèmes d’*Alcools*, il est certain qu’il a voulu reproduire fidèlement dans sa peinture les mots hermétiques du poète.
+  Видно, что внизу картины лежит серая фигура с красным крестом,  могила ли это? Белые формы падают с неба, другие – черные и синие – преклоняют колени. Монлор был прекрасно знаком со стихами сборника «Алкоголи»; несомненно, что он хотел точно воспроизвести в своей картине герметически закрытые по смыслу слова поэта.
 ---
