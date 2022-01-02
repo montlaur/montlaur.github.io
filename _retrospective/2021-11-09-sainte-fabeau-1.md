@@ -91,7 +91,7 @@ description-en: >-
 
   One can see, lying at the bottom of the painting a gray shape with a red cross, is this the tomb? White forms fall from the sky, others, black and blue are kneeling. Montlaur was perfectly acquainted with the poems of "Alcools", it is certain that he wanted to faithfully reproduce in his painting the hermetic words of the poet.
 description-ru: >-2
-   **(Сен-Фаго)** 
+   **(Сен-Фабо)** 
 
   Эта картина представляет период, когда Монлор жил в Фонтенбло. Этот характерный стиль следует его абстрактно-геометрическому периоду начала 50-х годов, когда формы и цвета были четко определены и идеально разграничены. На первом этапе художник «покрывает холст» (по его собственным словам), а затем заменяет кисть мастихином. Он ломает формы, соскребает толстые слои краски, чтобы выявить нижележащий цвет. Получившиеся формы становятся призрачными фантастическими существами, темными обитателями его нескончаемых кошмаров, его воспоминаниями о войне.
 
