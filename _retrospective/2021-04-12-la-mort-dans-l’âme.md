@@ -27,12 +27,12 @@ type-ru: Масло, холст
 dimensions: 195 cm x 114 cm
 dimensions-en: 195 cm x 114 cm
 dimensions-ru: 195 см x 114 см
-description-fr: Que de désolation dans cette peinture au titre si explicite !
+description-fr: " Que de désolation dans cette peinture au titre si explicite !
   L’œuvre, elle, laisse place à l’imagination de l’observateur, elle l’impose,
   même. Est-ce le peintre que l’on voit , debout, les épaules basses ? Le bleu
   de son dos et ses bras contrastent avec le noir des silhouettes sinistres qui
   l’entourent. Contraste également avec les toits ocre rouge de la ville, et
-  avec les montagnes, derrière, aux couleurs irréelles.
+  avec les montagnes, derrière, aux couleurs irréelles."
 description-en: >-
   **(With a Heavy Heart)**
 
