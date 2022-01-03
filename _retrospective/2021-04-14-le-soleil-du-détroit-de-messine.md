@@ -37,8 +37,12 @@ description-en: >-
 
 
   The painter must have had in mind the tragic choice of Ulysses who sacrificed part of his crew by opting to pass near Scylla rather than Charybdis. The painting represents the hero, standing on his ship, the violent waves of the strait and a red and gold sun. Scylla's black heads tear off and devour the bodies of his companions.
-description-ru: |-
+description-ru: >-
   **(Солнце Мессинского пролива)**
 
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+  Le peintre devait avoir en tête le choix tragique d’Ulysse qui sacrifia une partie de son équipage en préférant passer à proximité de Scylla plutôt que de Charybde. Le tableau représente bien le héros, debout sur son navire, les violentes vagues du détroit et le soleil rouge et or. Les têtes noires de Scylla arrachent et dévorent les corps de ses compagnons.
 ---
