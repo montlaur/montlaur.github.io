@@ -41,5 +41,10 @@ description-ru: >-
   **(Солнце Мессинского пролива)**
 
 
-  Художник, должно быть, имел в виду трагический выбор Улисса, который пожертвовал частью своей команды, решив пройти мимо Сциллы, а не Харибды. На картине изображен герой, стоящий на своем корабле, бушующие волны пролива и красно-золотое солнце. Черные головы Сциллы отрывают и пожирают тела его товарищей.
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+  Le peintre devait avoir en tête le choix tragique d’Ulysse qui sacrifia une partie de son équipage en préférant passer à proximité de Scylla plutôt que de Charybde. Le tableau représente bien le héros, debout sur son navire, les violentes vagues du détroit et le soleil rouge et or. Les têtes noires de Scylla arrachent et dévorent les corps de ses compagnons.
 ---
