@@ -45,8 +45,8 @@ description-ru: >-
   **(Помните)**
 
 
-  La peinture est forte et sereine. On aperçoit un sphinx, majestueux, puissant et patient. Il est enveloppé de lumière et de feu.
+  Картина сильная и безмятежная. Мы видим сфинкса, величественного, могущественного и терпеливого. Он окутан светом и огнем.
 
 
-  De quoi, de qui faut-il se souvenir ? Que regarde le sphinx ? Nous protège-t-il ?
+  Что, кого мы должны помнить? На что смотрит сфинкс? Он защищает нас?
 ---
