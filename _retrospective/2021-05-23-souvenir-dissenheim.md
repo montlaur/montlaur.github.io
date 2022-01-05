@@ -58,17 +58,17 @@ description-en: >-
 
   ![](/photos/wordpress/retable-aa.jpg "Issenheim Altarpiece - Mathias Grünwald (1512 - 1516) - photo Stephen Shankland")
 description-ru: >-
-  Le **Souvenir d’Issenheim** est celui du retable éponyme, peint par Matthias
-  Grünwald et visible maintenant au Musée Unterlinden de Colmar. La peinture de
-  Montlaur rappelle l’un des panneaux, le plus interne du polyptique. Ce dernier
-  représente le tourment de Saint Antoine par des monstres envoyés par Satan. On
-  reconnait les couleurs jaune et vert des monstres mi-bêtes, mi-humains, le
-  saint est à terre avec sa roble bleue, on voit le voile noir derrière lui, les
-  montagnes grises en haut à droite. Le chaos est total dans les deux peintures.
+  Воспоминание об Иссенхайме - речь об алтаре Иссенхайма, расписанном Матиасом
+  Грюнвальдом и теперь хранимом в музее Унтерлинден в Кольмаре. Картина Монлора
+  напоминает нам внутреннюю панель полиптиха, изображающую мучения святого
+  Антония, совершенные чудовищами-полулюдьми-полуптицами, посланными сатаной. Мы
+  видим желтый и зеленый цвета монстров. Святой лежит на земле в синем одеянии.
+  Мы видим черную вуаль позади него и серые горы вверху справа. На обеих
+  картинах – абсолютный хаос.
 
 
-  Le souvenir d'Issenheim - последняя картина, написанная Ги де Монлором.
+  Le Souvenir d'Issenheim - одна из последних картин Ги де Монлора.
 
 
-  ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
+  ![](/photos/wordpress/retable-aa.jpg "Иссенхаймский алтарь (1512-1516), Матиас Грюнвальд - фото Стивена Шенкленда")
 ---
