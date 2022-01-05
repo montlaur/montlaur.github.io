@@ -40,5 +40,5 @@ description-ru: >-
   **(Воспоминание об убийстве)**
 
 
-  De quel meurtre s’agit-il ? On ne sait pas. On voit la croix bien sûr, le brun de la terre, de la boue, le vert de la décomposition, le rouge du sang. Le peintre décrit l’horreur d’un souvenir, de guerre certainement.
+  Что это за убийство? Мы не знаем. Явно виден погребальный крест, коричневая земля, грязь, зеленое разлагающееся вещество, красная кровь. Художник описывает ужас воспоминаний, конечно, военного времени.
 ---
