@@ -57,19 +57,17 @@ description-en: >-
 
   Listen to the Stabat Mater on: <https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli> (Pergolesi - Stabat mater, Margaret Marshall, Lucia Valentini Terrani, London Symphony Orchestra -  *Deutsche Grammophon* )
 description-ru: >-
-  
+  Образы накладываются друг на друга: лик Девы Марии отражает невыносимую боль,
+  но мы видим как ее лицо обращается в Крест, где распят Христос. Мать или Сына
+  изображал художник? Кто есть кто? Если слушать Stabat Mater Перголези (ссылка
+  ниже), то можно точнее понять, что говорит нам художник - Монлор слушал Stabat
+  Mater все время, пока работал над этой картиной. Эмоции от музыки такие же,
+  как от картины, которая буквально пронзает холст, но остается абстрактной,
+  если зритель не может ее «увидеть». Тайна глубоко спрятана.
 
 
-
-  Les images se superposent, la vierge Marie le visage envahi par la douleur et la tête pleine de souffrance du Christ sur la croix. Une fusion s’opère entre la mère et le fils et on hésite, qui est qui ?\
-
-  On les voit mieux en écoutant le Stabat Mater de Pergolèse que Montlaur aimait se passer lorsqu’il peignait. L’émotion de la musique est la même qui transperce de la toile, abstraite si on ne “voit” pas.\
-
-  Le mystère est profond.
+  Эту картину можно найти в церкви Святого Иосифа отцов-пассионистов по адресу 50, Avenue Hoche в Париже.
 
 
-  Cette peinture se trouve chez les Pères Passionistes de l’église Saint Joseph, 50 avenue Hoche à Paris
-
-
-  Pour écouter le Stabat Mater : <https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli> (Pergolesi - Stabat mater, Margaret Marshall, Lucia Valentini Terrani, London Symphony Orchestra - *Deutsche Grammophon* )
+  Слушать Stabat Mater: <https://www.youtube.com/watch?v=xHQVtYzjLao&ab_channel=TerryTirlipirli> (Pergolesi - Stabat mater, Маргарет Маршалл, Люсия Валентини Террани, Лондонский симфонический оркестр -  *Deutsche Grammophon*)
 ---
