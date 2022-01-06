@@ -41,5 +41,5 @@ description-ru: >-
   **(На память о Нормандии)**
 
 
-  Le tableau reproduit la journée du 6 juin 1944 quand Montlaur, le commando, débarqua sur les terres françaises, à Colleville-sur-Orne (maintenant Colleville-Montgomery). On ne voit que fulgurances, explosions, éclats de métal noir et de sang. Voilà comment Montlaur, le peintre, se rappelle la Normandie du débarquement, 28 ans plus tard.
+  На этой картине изображено 6 июня 1944 года, когда солдат Ги де Монлор высадился на французском пляже в Кольвиль-сюр-Орн (ныне Кольвиль-Монгомери). Мы можем видеть только вспышки, взрывы, осколки черного металла, кровь. Так Монлор, художник, вспоминает Нормандию в день высадки 28 лет спустя.
 ---
