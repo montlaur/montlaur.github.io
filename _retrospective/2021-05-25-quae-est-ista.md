@@ -28,11 +28,22 @@ dimensions: 195 cm x 114 cm
 dimensions-en: 195 cm x 114 cm
 dimensions-ru: 195 см x 114 см
 description-fr: >-
-  **Quae est Ista** quae ascenditsicut aurora consurgens,pulchra ut luna, electa
-  ut sol,terribilis ut castorum acies ordinata?
+  **Quae est Ista** quae ascendit\
+
+  sicut aurora consurgens,\
+
+  pulchra ut luna, electa ut sol,\
+
+  terribilis ut castorum acies ordinata?
 
 
-  **Quelle est Celle-ci** qui s'élèvecomme l'aurore à son lever,belle comme la lune, exquise comme le soleil,terrible comme une armée rangée en bataille ?
+  **Quelle est Celle-ci** qui s'élève\
+
+  comme l'aurore à son lever,\
+
+  belle comme la lune, exquise comme le soleil,\
+
+  terrible comme une armée rangée en bataille ?
 
 
   *(Cantique des Cantiques, ch.6, v.9)*
