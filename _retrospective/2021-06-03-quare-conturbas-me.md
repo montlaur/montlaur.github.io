@@ -86,7 +86,7 @@ description-en: >-
 
   *Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.*\
 
-  *Why art thou cast down, O my soul? And **why art thou disquieted within me?** Hope in God: for I shall yet praise him, who is the health of my countenance, and my God.*
+  *Why art thou cast down, O my soul? And why art thou disquieted within me? Hope in God: for I shall yet praise him, who is the health of my countenance, and my God.*
 
 
   *(Psalm 43, King James version)*
@@ -113,7 +113,7 @@ description-ru: >-
 
   *Суди меня, Боже, и вступись в тяжбу мою с народом недобрым. От человека лукавого и несправедливого избавь меня, ибо Ты Бог крепости моей. Для чего Ты отринул меня? для чего я сетуя хожу от оскорблений врага? Пошли свет Твой и истину Твою; да ведут они меня и приведут на святую гору Твою и в обители Твои.*\
 
-  *И подойду я к жертвеннику Божию, к Богу радости и веселия моего, и на гуслях буду славить Тебя, Боже, Боже мой! Что унываешь ты, душа моя, и **что смущаешься?** Уповай на Бога; ибо я буду еще славить Его,*\
+  *И подойду я к жертвеннику Божию, к Богу радости и веселия моего, и на гуслях буду славить Тебя, Боже, Боже мой! Что унываешь ты, душа моя, и что смущаешься? Уповай на Бога; ибо я буду еще славить Его,*\
 
   *Спасителя моего и Бога моего.*
 
