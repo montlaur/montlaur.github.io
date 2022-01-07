@@ -44,5 +44,12 @@ description-en: >-
 
 
   The painter could not be more realistic: the deadly impact of the bullet, the blood which has flowed from the wound, the greenish and blue tint of the face of "his friend" are reproduced in this painting in all their horror.
-description-ru: "**(На дороге, возле Сальнеля, друг)**"
+description-ru: >-
+  **(На дороге, возле Сальнеля, друг)**
+
+
+  В дни, следующие за высадкой союзных войск, сержант де Монлор и его товарищи из коммандос № 4 1-го батальона (*Battaillon de Fusiliers Marines Commando*, также именуемые «*Kieffer Commando*») принимали участие в интенсивных боевых действиях и ожесточенных боях с немецкими войсками, расположенными у деревни Салленель и Бавен-Вудс на северном берегу реки Орн.
+
+
+  Художник как нельзя более реалистичен: смертоносный удар пули, кровь, истекающая из раны, зеленовато-синий оттенок лица его друга воспроизведены на этой картине натуралистично и ужасающе.
 ---
