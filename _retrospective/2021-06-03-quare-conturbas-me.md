@@ -94,7 +94,7 @@ description-en: >-
 
    As in the psalm, the painting shows weariness and sadness, symbolized by the shape’s bent back and hanging arms. However, hope is present: a red and golden sun has taken the place of the heart.
 description-ru: >-
-  **(*Что смущаешься?*)**
+  **(*Почему ты меня беспокоишь?)***
 
 
   *Iudica me, Deus, et discerne causam meam de gente non sancta: ab homine iniquo et doloso erue me.*\
