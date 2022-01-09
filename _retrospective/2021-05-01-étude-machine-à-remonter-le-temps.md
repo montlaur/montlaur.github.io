@@ -38,5 +38,5 @@ description-ru: >-
   **(Этюд для машины времени)**
 
 
-  Nice, devant la Baie des Anges, en 1952, Montlaur a apuré son style. Les formes sont devenues géométriques, les couleurs sont équilibrées.
+  Ницца, напротив Бухты Ангелов,  1952 год. Монлор усовершенствовал свой стиль. Формы стали геометрическими, цвета строго уравновешены.
 ---
