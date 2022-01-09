@@ -61,24 +61,29 @@ description-en: |-
 
   <!--EndFragment-->
 description-ru: |-
-  
+  **(Зенон! Жестокий! О** **Зенон Элейский!)**
 
-  **(Зенон! Жестокий Зенон! Зенон Элейский!)**
+  Зенон! Жестокий! О Зенон Элейский!
+
+  Пронзил ли ты меня стрелой злодейской,
+
+  Звенящей, но лишённой мощных крыл?
+
+  Рождённый звуком, я влачусь во прахе!
+
+  Ах, Солнце... Чёрной тенью черепахи
+
+  Ахилл недвижный над душой застыл!
+
+  Нет! Нет! Воспрянь! В последующей эре!
+
+  Разбей, о тело, склеп свой! Настежь двери!
+
+  Пей, грудь моя, рожденье ветерка!
+
+  Мне душу возвращает свежесть моря...
 
 
 
-  *Zénon ! Cruel Zénon ! Zénon d’Élée !\
-  M’as-tu percé de cette flèche ailée\
-  Qui vibre, vole, et qui ne vole pas !\
-  Le son m’enfante et la flèche me tue !\
-  Ah ! le soleil… Quelle ombre de tortue\
-  Pour l’âme, Achille immobile à grands pas !**\
-  Non, non !… Debout ! Dans l’ère successive !\
-  Brisez, mon corps, cette forme pensive !\
-  Buvez, mon sein, la naissance du vent !\
-  Une fraîcheur, de la mer exhalée,\
-  Me rend mon âme… Ô puissance salée !\
-  Courons à l’onde en rejaillir vivant.*
-
-  *(Paul Valéry, Cimetière marin)*
+  *Поль Валери,* Морское кладбище (перевод Б. К. Лившица)
 ---
