@@ -125,20 +125,19 @@ description-en: >-
 
   Слушать: [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[s](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-ru: >-
-  Le titre donné au tableau est le premier vers de la 5e strophe de la cantate
-  BWV n°4 de Jean-Sebastien Bach « Christ Lag in Todes Banden » (Христос лежал в
-  оковах смерти). Le musicien y célèbre la victoire de la vie sur la mort au
-  cours d’une guerre étrange. Bach a repris un texte écrit par Martin Luther en
-  1524.
+  Название этой картины является первым стихом 4-й части кантаты BWV № 4 Иоганна
+  Себастьяна Баха “Christ Lag in Todes Banden” ("Христос лежал в оковах
+  смерти"), в которой композитор празднует победу жизни над смертью в этой
+  непостижимой битве. Текст кантаты был написан Мартином Лютером в 1524 году.
 
 
-  Le peintre-soldat, inspiré par l'œuvre musicale, reproduit sur la toile la scène de guerre, sa guerre, il peint le combat au corps à corps des forces du bien – formes bleues – contre celles du mal – noires – au milieu des flammes vermillon.
+  Вдохновленный этой музыкой, художник-солдат воспроизводит сцену войны - свою войну - на холсте: он рисует рукопашный бой сил добра (синие формы) против сил зла (черные формы) - посреди алого пламени.
 
 
-  Le texte de la 5e strophe de la cantate est le suivant :
+  Текст 4-й строфы кантаты следующий:
 
 
-  ***Es war ein wunderlicher Krieg**,\
+  **\*Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -155,22 +154,22 @@ description-ru: >-
   Halleluja!*
 
 
-  ***И битва чудная была***\
+  **И была непостижимая война**\
 
-  *меж смертию и жизнью.*\
+  между смертью и жизнью.\
 
-  *Жизнь поглотила смерть,*\
+  Жизнь одержала победу,\
 
-  *победу одержала.*\
+  она поглотила смерть.\
 
-  *Писанье возвестило это –*\
+  Писание возвестило это,\
 
-  *пожерта смертью смерть,*\
+  как смерть пожерта иным,\
 
-  *в посмешище вменилась.*\
+  вменена в посмешище.\
 
-  *Аллилуйя!*
+  Аллилуия!
 
 
-  Слушать [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Слушать: [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[s](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 ---
