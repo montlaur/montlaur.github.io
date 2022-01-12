@@ -40,5 +40,5 @@ description-ru: >-
   **(Тень Aнхиса)** 
 
 
-  Énée accompagnée de la sibylle de Cumes descend aux enfers pour ramener son père Anchise. Ce dernier lui présente ses descendants : Romulus et Remus, Pompée, César et Auguste . Il refuse de remonter au monde des vivants. (Enéide, livre VI).
+  Эней в сопровождении Кумской жрицы Аполлона Сивиллы спускается в ад, чтобы вернуть своего отца Анхиса. Последний знакомит его с его потомками: Ромулом и Ремом, Помпеем, Цезарем и Августом. Он отказывается вернуться в мир живых. (Энеида, книга VI).
 ---
