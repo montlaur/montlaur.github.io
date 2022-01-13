@@ -122,6 +122,9 @@ description-en: >-
   Hallelujah!
 
 
+  (translation by Michael Marissen and Daniel R. Melamed)
+
+
   Listen to: [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-ru: >-
   Название этой картины является первым стихом 4-й части кантаты BWV № 4 Иоганна
