@@ -75,6 +75,9 @@ description-fr: >-
   Alléluia !
 
 
+  (Traduction française par Walter F. Bishof)
+
+
   Pour écouter [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-en: >-
   The title given by Montlaur to this painting is the first verse of the 5th
