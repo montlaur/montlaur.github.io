@@ -105,7 +105,21 @@ description-en: >-
   Halleluja!
 
 
-  **It was a wondrous battle,**Where death and life wrestled;Life got the victory;It has swallowed up death.Scripture has proclaimed this:How one death  devoured the otherA mockery was made of death.Hallelujah!
+  **It was a wondrous battle,**\
+
+  Where death and life wrestled;\
+
+  Life got the victory;\
+
+  It has swallowed up death.\
+
+  Scripture has proclaimed this:\
+
+  How one death  devoured the other,\
+
+  A mockery was made of death.\
+
+  Hallelujah!
 
 
   Listen to: [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
