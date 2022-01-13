@@ -41,7 +41,7 @@ description-fr: >-
   Le texte de la 5e strophe de la cantate est le suivant :
 
 
-  ***Es war ein wunderlicher Krieg**,\
+  **Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -55,10 +55,10 @@ description-fr: >-
 
   Ein Spott aus dem Tod ist worden.\
 
-  Halleluja!*
+  Halleluja!
 
 
-  ***Ce fut une étrange guerre**\
+  **Ce fut une étrange guerre**\
 
   Qui opposa la mort à la vie,\
 
@@ -72,24 +72,23 @@ description-fr: >-
 
   La mort est devenue une dérision.\
 
-  Alléluia !*
+  Alléluia !
 
 
   Pour écouter [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-en: >-
-  Название этой картины является первым стихом 4-й части кантаты BWV № 4 Иоганна
-  Себастьяна Баха “Christ Lag in Todes Banden” ("Христос лежал в оковах
-  смерти"), в которой композитор празднует победу жизни над смертью в этой
-  непостижимой битве. Текст кантаты был написан Мартином Лютером в 1524 году.
+  The title given by Montlaur to this painting is the first verse of the 5th
+  stanza of Johann Sebastian Bach’s cantata BWV n ° 4  “Christ Lag in
+  Todesbanden” (Christ Lay in Death’s Bonds). The musician celebrates the
+  victory of life over death in a strange war. Bach took up a text written by
+  Martin Luther in
+  1524.[](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 
 
-  Вдохновленный этой музыкой, художник-солдат воспроизводит сцену войны - свою войну - на холсте: он рисует рукопашный бой сил добра (синие формы) против сил зла (черные формы) - посреди алого пламени.
+  The painter-soldier, inspired by Bach's musical work, reproduces a war scene on the canvas: his war. He paints the hand-to-hand combat between the forces of good – the blue forms - and those of evil - the black black forms - in the midst of vermilion flames.
 
 
-  Текст 4-й строфы кантаты следующий:
-
-
-  **\*Es war ein wunderlicher Krieg**,\
+  **Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -103,27 +102,13 @@ description-en: >-
 
   Ein Spott aus dem Tod ist worden.\
 
-  Halleluja!*
+  Halleluja!
 
 
-  **И была непостижимая война**\
-
-  между смертью и жизнью.\
-
-  Жизнь одержала победу,\
-
-  она поглотила смерть.\
-
-  Писание возвестило это,\
-
-  как смерть пожерта иным,\
-
-  вменена в посмешище.\
-
-  Аллилуия!
+  **It was a wondrous battle,**Where death and life wrestled;Life got the victory;It has swallowed up death.Scripture has proclaimed this:How one death  devoured the otherA mockery was made of death.Hallelujah!
 
 
-  Слушать: [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[s](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Listen to: [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 description-ru: >-
   Название этой картины является первым стихом 4-й части кантаты BWV № 4 Иоганна
   Себастьяна Баха “Christ Lag in Todes Banden” ("Христос лежал в оковах
@@ -137,7 +122,7 @@ description-ru: >-
   Текст 4-й строфы кантаты следующий:
 
 
-  **\*Es war ein wunderlicher Krieg**,\
+  **Es war ein wunderlicher Krieg**,\
 
   Da Tod und Leben rungen,\
 
@@ -151,7 +136,7 @@ description-ru: >-
 
   Ein Spott aus dem Tod ist worden.\
 
-  Halleluja!*
+  Halleluja!
 
 
   **И была непостижимая война**\
@@ -171,5 +156,5 @@ description-ru: >-
   Аллилуия!
 
 
-  Слушать: [Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[s](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+  Слушать: [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
 ---
