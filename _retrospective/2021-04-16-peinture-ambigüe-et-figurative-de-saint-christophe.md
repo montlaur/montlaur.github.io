@@ -48,8 +48,8 @@ description-en: >-
 
   And why the cryptic phrase "There are things that it would be far better not to know"? What is the artist referring to? Past memories? Things that are unspeakable but representable on the canvas provided they are ambiguous and abstract.
 description-ru: >-
-  У картины два названия: "Неоднозначное и фигуративное изображение святого
-  Христофора"  и "Есть вещи, которые было бы гораздо лучше не знать".
+  У картины два названия: "**Неоднозначное и фигуративное изображение святого
+  Христофора**"  и "**Есть вещи, которые было бы гораздо лучше не знать**".
 
 
   На заднем плане хорошо видна река, которую пересекает святой, за ним крест. Голова удивительно напоминает голову художника; не автопортрет ли на картине?
