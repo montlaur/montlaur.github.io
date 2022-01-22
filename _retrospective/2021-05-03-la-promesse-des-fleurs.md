@@ -77,26 +77,26 @@ description-en: >-
 
   *(Translation by G de Montlaur)*
 description-ru: >-
-  Le peintre reprend les mots de Malherbe dans la « Prière pour le Roy Henry le
-  Grand » où le poète célèbre la paix enfin ramenée au pays par le roi Henri IV.
-  Les couleurs restent violentes, les formes noires sont menaçantes, comme des
-  souvenirs douloureux qui ne s'effacent pas.
+  Художник использует слова Франсуа де Малерба в «Молитве за Короля, отбывающего
+  в Лимузен», где поэт прославляет мир, наконец возвращенный стране королем
+  Генрихом IV. Цвета остаются жестокими, черные формы угрожающими, как
+  болезненные воспоминания, которые невозможно стереть.
 
 
-  *Nous ne reverrons plus ces fâcheuses années\
+  И не вспомним мы о печальных годах,\
 
-  Qui pour les plus heureux n’ont produit que des pleurs.\
+  Когда  даже веселый быть  плакать готов.
 
-  Toute sorte de biens comblera nos familles,\
+  Все блага вернутся к семьям в наших домах,\
 
-  La moisson de nos champs lassera les faucilles,\
+  И устанут серпы убирать урожай на полях,\
 
-  Et les fruits passeront **la promesse des fleurs**.\
+  И плоды превзойдут **обещанье цветов**.\
 
-  La fin de tant d’ennuis dont nous fûmes la proie\
+  Скоро кончатся беды, крушившие нас,
 
-  Nous ravira les sens de merveille et de joie ;*
+  И душа отзовется на радости глас.
 
 
-  *(François de Malherbe, 1605)*
+  *(Франсуа де Малерб, 1605; перевод М. Загидуллиной)*
 ---
