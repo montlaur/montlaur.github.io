@@ -1,6 +1,6 @@
 ---
 layout: retrospective
-title: Rétrospective
+title: Exposition virtuelle
 menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures

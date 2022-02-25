@@ -1,7 +1,7 @@
 ---
 lang: EN
 layout: retrospective
-title: Retrospective
+title: Virtual exhibit
 menutitle: Paintings
 sous-menu: Sous-menu
 active-item: peintures

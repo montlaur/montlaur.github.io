@@ -1,11 +1,11 @@
 <section class="bg-background">
   <div class="container lead">
     {% if page.lang=="EN" %}
-      <h2>Retrospective</h2>
+      <h2>Virtual exhibit</h2>
     {% elsif page.lang=="RU" %}
-      <h2>Ретроспектива</h2>
+      <h2>Виртуальная выставка</h2>
     {% else %}
-      <h2>Rétrospective</h2>
+      <h2>Exposition virtuelle</h2>
     {% endif %}
     {% assign retropost = site.retrospective | reverse %}
     {% assign max = site.retrospective | size | minus: 1 %}

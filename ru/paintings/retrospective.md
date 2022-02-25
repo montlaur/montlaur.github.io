@@ -1,7 +1,7 @@
 ---
 lang: RU
 layout: retrospective
-title: Ретроспектива
+title: Виртуальная выставка
 menutitle: Paintings
 sous-menu: Sous-menu
 active-item: peintures

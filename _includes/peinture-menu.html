@@ -19,13 +19,13 @@
       <div class="eight columns menu" id="categories">
         <ul class="list-inline list-menu">
         {% if page.lang=="EN" %}
-          <li{% if page.active-item2=='retrospective' %} class="active"{% endif %}><a href="/en/peintures/retrospective">Retrospective</a></li>
+          <li{% if page.active-item2=='retrospective' %} class="active"{% endif %}><a href="/en/peintures/retrospective">Virtual exhibit</a></li>
           <li{% if page.active-item2=='selection' %} class="active"{% endif %}><a href="/en/peintures/selection">Selection</a></li>
         {% elsif page.lang=="RU" %}
-          <li{% if page.active-item2=='retrospective' %} class="active"{% endif %}><a href="/ru/peintures/retrospective">Ретроспектива</a></li>
+          <li{% if page.active-item2=='retrospective' %} class="active"{% endif %}><a href="/ru/peintures/retrospective">Виртуальная выставка</a></li>
           <li{% if page.active-item2=='selection' %} class="active"{% endif %}><a href="/ru/peintures/selection">Выбор</a></li>
         {% else %}
-          <li{% if page.active-item2=='retrospective' %} class="active"{% endif %}><a href="/peintures/retrospective">Rétrospective</a></li>
+          <li{% if page.active-item2=='retrospective' %} class="active"{% endif %}><a href="/peintures/retrospective">Exposition virtuelle</a></li>
           <li{% if page.active-item2=='selection' %} class="active"{% endif %}><a href="/peintures/selection">Sélection</a></li>
         {% endif %}
         </ul>
