@@ -12,6 +12,9 @@ quote:
     alt: "Auto-portrait sans indulgence"
     caption: "huile, 36cm &times; 29cm"
     caption2: "1969"
+  link0:
+    url: "/peintures/retrospective/"
+    title: "Exposition virtuelle"
   link:
     url: "/biographie/"
     title: "Lire sa biographie"

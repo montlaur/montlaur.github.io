@@ -34,7 +34,9 @@
         </blockquote>
         {% if page.quote.link.title %}
           <p class="button-container text-center">
-            <a class="button button-primary older" href="{{ site.baseurl }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
+
+            <a class="button button-primary older" href="{{ site.baseurl }}{{ page.quote.link0.url }}">{{ page.quote.link0.title }}</a>
+            <a class="button" href="{{ site.baseurl }}{{ page.quote.link.url }}">{{ page.quote.link.title }}</a>
             {% if page.quote.link2.title %}
               <a class="button" href="{{ site.baseurl }}{{ page.quote.link2.url }}">{{ page.quote.link2.title }}</a>
             {% endif %}
