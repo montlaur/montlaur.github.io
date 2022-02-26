@@ -7,10 +7,55 @@
 </section>
 <section class="bg-white">
   <div class="container lead">
+    <div class="row">
+      <div class="five columns">
+        filtrer&nbsp;:
+        <select onChange="w3.filterHTML('#retro', '.theme-era', this.value)">
+          <option value="">Par thème</option>
+          <option value="guerre">La guerre</option>
+          <option value="mort">La mort</option>
+          <option value="littérature">Littérature</option>
+          <option value="médecine">Médecine</option>
+          <option value="musique">Musique</option>
+          <option value="paysage">Paysage</option>
+          <option value="peinture">Peinture</option>
+          <option value="philosophie">Philosophie</option>
+          <option value="poésie">Poésie</option>
+          <option value="portrait">Portrait</option>
+          <option value="religion">Religion</option>
+        </select>
+
+        <select onChange="w3.filterHTML('#retro', '.theme-era', this.value)">
+          <option value="">Par pédiode</option>
+          <option value="70-77">70-77</option>
+          <option value="60-69">60-69</option>
+          <option value="56-59">56-59</option>
+          <option value="54-55">54-55</option>
+          <option value="50-54">50-54</option>
+          <option value="46-49">46-49</option>
+        </select>
+      </div>
+      <div class="seven columns">
+        Rechercher&nbsp;:
+        <input  class="search-input"
+                oninput="w3.filterHTML('#retro', '.post-title', this.value)"
+                type="text"
+                {% if page.lang=="EN" %}
+                  placeholder="By title"
+                {% elsif page.lang=="RU" %}
+                  placeholder="по названию"
+                {% else %}
+                  placeholder="Par titre"
+                {% endif %}
+                required>
+      </div>
+    </div>
     {% assign retros_by_date = site.retrospective | sort_natural: "annee" %}
-    {% for post in retros_by_date reversed %}
-      {% include retropost.html post = post %}
-    {% endfor %}
+    <div id="retro">
+      {% for post in retros_by_date reversed %}
+        {% include retropost.html post = post %}
+      {% endfor %}
+    </div>
   </div>
 </section>
 {% include foot.html %}
