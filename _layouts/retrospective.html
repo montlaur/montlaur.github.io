@@ -3,10 +3,6 @@
 <section class="bg-background">
   <div class="container lead">
     <h2>{{ page.title }}</h2>
-  </div>
-</section>
-<section class="bg-white">
-  <div class="container lead">
     <div class="row">
       <div class="five columns">
         filtrer&nbsp;:
@@ -50,6 +46,10 @@
                 required>
       </div>
     </div>
+  </div>
+</section>
+<section class="bg-white">
+  <div class="container lead">
     {% assign retros_by_date = site.retrospective | sort_natural: "annee" %}
     <div id="retro">
       {% for post in retros_by_date reversed %}
