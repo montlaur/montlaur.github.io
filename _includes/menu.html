@@ -7,7 +7,7 @@
       <a class="lang-link" data-title="Русский" href="{{ site.baseurl }}/ru/{{ page.url | remove: '/en/' }}">ru</a>
     </li>
     <li class="active lang">
-      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/{{ page.url }}">en</a>
+      <a class="lang-link" data-title="English" href="{{ site.baseurl }}/en/{{ page.url | remove: '/en/' }}">en</a>
     </li>
     <li class="item-break first{% if page.active-item=='peintures' %} active{% endif %}">
       <a href="{{ site.baseurl }}/en/peintures/">Paintings</a>

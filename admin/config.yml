@@ -53,8 +53,6 @@ collections:
       - { label: 'Active-item', name: 'active-item', widget: 'hidden', default: 'peintures' }
       - { label: 'Active-item2', name: 'active-item2', widget: 'hidden', default: 'retrospective' }
       - { label: 'Titre (fr)', name: 'title', widget: 'string' }
-      - { label: 'Titre (en)', name: 'title-en', widget: 'string' }
-      - { label: 'Titre (ru)', name: 'title-ru', widget: 'string' }
       - { label: 'Theme (fr)', name: 'theme', widget: 'string' }
       - { label: 'Theme (en)', name: 'theme-en', widget: 'string' }
       - { label: 'Theme (ru)', name: 'theme-ru', widget: 'string' }
