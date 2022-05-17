@@ -17,7 +17,7 @@ annee-aff-ru: март 1955 г.
 era: 54-55
 era-en: 54-55
 era-ru: 54-55
-picture: /photos/wordpress/dsc_0631.jpg
+picture: /photos/wordpress/1072.jpg
 place: Fontainebleau
 place-en: Fontainebleau, France
 place-ru: Фонтенбло, Франция
