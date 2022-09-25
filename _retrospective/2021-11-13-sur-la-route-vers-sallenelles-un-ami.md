@@ -5,8 +5,6 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Sur la route, vers Sallenelles, un ami
-title-en: Sur la route, vers Sallenelles, un ami
-title-ru: Sur la route, vers Sallenelles, un ami
 theme: La mort - la guerre
 theme-en: Death - war
 theme-ru: Смерть, война
@@ -29,13 +27,16 @@ dimensions-en: 37 cm x 30.5 cm
 dimensions-ru: 37 см x 30,5 см
 description-fr: >-
   Dans les jours qui suivirent le débarquement de Normandie, le sergent de
-  Montlaur et ses camarades du *1er BFMC* (le *Bataillon de Fusiliers Marins
-  Commandos* appelé « *Commando Kieffer* ») participèrent à d'intenses et
+  Montlaur et ses camarades du 1er BFMC (*Bataillon de Fusiliers Marins
+  Commandos* appelé « *Commando Kieffer* ») participèrent à d’intenses et
   violents combats contre les troupes allemandes stationnées à proximité de
-  Sallenelles et du Bois de Bavent au nord de l'Orne. 
+  Sallenelles et du Bois de Bavent au nord de l’Orne.
 
 
-  Le peintre ne pourrait être plus réaliste : l'impact de la balle, le sang qui a coulé de la blessure mortelle, l'aspect verdâtre et bleu du visage de « son ami » sont reproduits dans ce tableau dans toute leur horreur.
+  Le peintre ne pourrait être plus réaliste : l’impact de la balle ou d’un éclat d’obus en plein front, le sang qui a coulé de la blessure mortelle, l’aspect verdâtre, bleu et terreux du visage sont reproduits dans ce tableau dans toute leur horreur.
+
+
+  Pourquoi « un ami » ? L’homme a un béret, un béret vert de commando. C’est certainement un des camarades commando de Montlaur. Probablement l’un de ceux qui furent tués le 10 ou 11 juin autour d’Amfreville.
 description-en: >-
   **(On the Road near Sallenelles, a Friend)**
 
@@ -52,4 +53,6 @@ description-ru: >-
 
 
   Художник как нельзя более реалистичен: смертоносный удар пули, кровь, истекающая из раны, зеленовато-синий оттенок лица его друга воспроизведены на этой картине натуралистично и ужасающе.
+title-ru: Sur la route, vers Sallenelles, un ami
+title-en: Sur la route, vers Sallenelles, un ami
 ---
