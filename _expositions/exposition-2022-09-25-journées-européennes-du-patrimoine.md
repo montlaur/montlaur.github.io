@@ -1,5 +1,5 @@
 ---
-title: Journées européennes du patrimoine
+title: 2022 - Journées européennes du patrimoine
 en-cours: false
 date-fr: "2022"
 description-fr: "<﻿h4>Château de Montlaur (Hérault),</h4><strong>«&nbsp;
