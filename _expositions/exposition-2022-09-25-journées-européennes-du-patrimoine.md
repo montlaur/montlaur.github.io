@@ -31,7 +31,7 @@ description-en: "<strong>«&nbsp; European Heritage Days. Exhibition of painting
   Château de Montlaur, tragic events took place during the siege of 1622 during
   the wars of religion. Almost all of the men who defended the castle were
   massacred in the name of God and Religion. <br><br>"
-date-ru: "'-"
+date-ru: "2022"
 description-ru: "<strong>«&nbsp; Дни европейского наследия. Выставка картин Ги
   де Монлора и работ LandArt Вана Иммина&nbsp;»</strong> Шато-де-Монлор, (Эро,
   Франция) <br><br> Выставка была организована Montaud Patrimoine и Союзом
