@@ -18,9 +18,9 @@ description-fr: "<strong>«&nbsp; Journées Européennes du Patrimoine. Expositi
   quasi-totalité des hommes qui défendirent le château furent massacrés au nom
   de Dieu et de la Religion. <br><br>"
 date-en: "2022"
-description-en: "<strong>«&nbsp; Château de Montlaur - European Heritage Days.
-  Exhibition of paintings by Guy de Montlaur and LandArt works by Wang
-  Yimming&nbsp;»</strong><br><br> The exhibition was  organized by Montaud
+description-en: "<strong>«&nbsp; European Heritage Days. Exhibition of paintings
+  by Guy de Montlaur and LandArt works by Wang Yimming&nbsp;»</strong>Château de
+  Montlaur (Hérault, France) <br><br> The exhibition was  organized by Montaud
   Patrimoine and by the Union of Asian Artists in France. Wang Yimming wanted
   this exhibition to be a reflection on conflicts and on reconciliation between
   men.<br><br>The Second World War conflict is evoked by the Loungta doves
