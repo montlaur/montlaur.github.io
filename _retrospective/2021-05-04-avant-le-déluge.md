@@ -5,8 +5,6 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Avant le déluge
-title-en: Avant le déluge
-title-ru: Avant le déluge
 theme: La guerre
 theme-en: War
 theme-ru: Война
@@ -27,14 +25,13 @@ type-ru: Масло, оргалит
 dimensions: 55 cm x 46 cm
 dimensions-en: 55 cm x 46 cm
 dimensions-ru: 55 см x 46 см
-description-fr: >-
-  Le peintre  évoque les présages de la guerre qui changea le cours de sa vie.
-  De l’insouciant étudiant-peintre,  il devint soldat : il connut les combats,
-  le sang , la mort, le feu.  Ces éléments se retrouvent  dans ce tableau :
-  abstrait mais tellement expressionniste.
-
-
-  On voit une tête d'homme aux cheveux embrasés, le ciel noir est en feu.
+description-fr: "Le peintre évoque les présages de la guerre qui changea le
+  cours de sa vie : de l’insouciant étudiant-peintre, il devint soldat, il
+  découvrit les combats, le sang, le feu, la mort, le chaos. C’est ce chaos
+  qu’il représente dans une peinture abstraite mais tellement expressive. Les
+  formes et les contours sont difficiles à cerner, ils semblent cacher une tête
+  aux cheveux embrasés, le ciel est noir d’un côté, en feu de l’autre. On n’y
+  voit pas d’optimisme, mais une réalité de l’horreur à venir."
 description-en: >-
   **(Before the Flood)**
 
@@ -51,4 +48,6 @@ description-ru: >-
 
 
   Мы видим мужскую голову с пылающими волосами, горит черное небо.
+title-ru: Avant le déluge
+title-en: Avant le déluge
 ---
