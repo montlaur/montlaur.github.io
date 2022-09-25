@@ -2,9 +2,9 @@
 title: 2022 - Journées européennes du patrimoine
 en-cours: false
 date-fr: "2022"
-description-fr: "<﻿h4>Château de Montlaur (Hérault),</h4><strong>«&nbsp;
-  Journées européennes du patrimoine. Exposition de peintures de Guy de
-  Montlaur. Exposition des oeuvres LandArt de Wang
+description-fr: "<﻿h4>Château de Montlaur (Hérault)</h4><strong>«&nbsp; Journées
+  européennes du patrimoine. Exposition de peintures de Guy de Montlaur.
+  Exposition des oeuvres LandArt de Wang
   Yimming&nbsp;»</strong><br>L’association Montaud Patrimoine et l’Union des
   Artistes Asiatiques en France organisent une exposition d’œuvres « Landart »
   de Wang Yiming. L’artiste a souhaité que cette exposition soit une réflexion
