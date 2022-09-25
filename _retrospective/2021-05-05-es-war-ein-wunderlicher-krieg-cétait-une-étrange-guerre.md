@@ -5,8 +5,6 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Es war ein wunderlicher krieg
-title-en: Es war ein wunderlicher Krieg
-title-ru: Es war ein wunderlicher krieg
 theme: La guerre - musique
 theme-en: War - music
 theme-ru: " Война - музыка"
@@ -28,17 +26,14 @@ dimensions: 65 cm x 81 cm
 dimensions-en: 65 cm x 81 cm
 dimensions-ru: 65 см x 81 см
 description-fr: >-
-  Le titre donné au tableau est le premier vers de la 5e strophe de la cantate
-  BWV n°4 de Jean-Sebastien Bach « Christ Lag in Todes Banden » (Le Christ
-  gisait dans les liens de la mort). Le musicien y célèbre la victoire de la vie
-  sur la mort au cours d’une guerre étrange. Bach a repris un texte écrit par
-  Martin Luther en 1524.
+  Le titre est le premier vers de la 5e strophe de la cantate BWV n°4 de
+  Jean-Sébastien Bach « Christ Lag in Todes Banden » (Le Christ gisait dans les
+  liens de la mort). Le musicien y célèbre la victoire de la vie sur la mort au
+  cours d’une guerre étrange. Bach a repris un texte écrit par Martin Luther en
+  1524.
 
 
-  Le peintre-soldat, inspiré par l'œuvre musicale, reproduit sur la toile la scène de guerre, sa guerre, il peint le combat au corps à corps des forces du bien – formes bleues – contre celles du mal – noires – au milieu des flammes vermillon.
-
-
-  Le texte de la 5e strophe de la cantate est le suivant :
+  Le peintre-soldat, inspiré par l’œuvre musicale de Bach, reproduit sur la toile la scène de guerre, sa guerre, il peint le combat au corps à corps des forces du bien – formes bleues – contre celles du mal – noires – au milieu de flammes vermillon fusant du centre de la toile.
 
 
   **Es war ein wunderlicher Krieg**,\
@@ -180,4 +175,6 @@ description-ru: >-
 
 
   Слушать: [](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)[Es war ein wunderlicher Krieg](https://soundcloud.com/ma-smith-612335677/j-s-bach-bwv-4-5-es-war-ein?fbclid=IwAR2ukfzTa5RHp4TDWsA5_TH2M3WcMSIggVWwjGi1CycfGaKYBDzNWIHvNlA)
+title-ru: Es war ein wunderlicher krieg
+title-en: Es war ein wunderlicher Krieg
 ---
