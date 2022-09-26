@@ -5,8 +5,6 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Avant le déluge
-title-en: Avant le déluge
-title-ru: Avant le déluge
 theme: La guerre
 theme-en: War
 theme-ru: Война
@@ -27,22 +25,18 @@ type-ru: Масло, оргалит
 dimensions: 55 cm x 46 cm
 dimensions-en: 55 cm x 46 cm
 dimensions-ru: 55 см x 46 см
-description-fr: >-
-  Le peintre  évoque les présages de la guerre qui changea le cours de sa vie.
-  De l’insouciant étudiant-peintre,  il devint soldat : il connut les combats,
-  le sang , la mort, le feu.  Ces éléments se retrouvent  dans ce tableau :
-  abstrait mais tellement expressionniste.
-
-
-  On voit une tête d'homme aux cheveux embrasés, le ciel noir est en feu.
+description-fr: "Le peintre évoque les présages de la guerre qui changea le
+  cours de sa vie : de l’insouciant étudiant-peintre, il est devenu soldat, il a
+  découvert les combats, le sang, le feu, la mort, le chaos. C’est ce chaos
+  qu’il représente dans une peinture abstraite mais tellement expressive. Les
+  formes et les contours sont difficiles à cerner, ils semblent cacher une tête
+  aux cheveux embrasés, le ciel est noir d’un côté, en feu de l’autre. On n’y
+  voit pas d’optimisme, mais une réalité de l’horreur à venir."
 description-en: >-
   **(Before the Flood)**
 
 
-  The painter evokes the omens of the war which changed the course of his life. The carefree student became a soldier: he got to know blood, death, fire. These elements are found in this abstract but very expressionist painting
-
-
-  One can see the head of a man, with flaming hair, the black sky is on fire. Disaster is coming.
+  The painter evokes the omens of the war which changed the course of his life: the carefree student-painter has become a soldier, he has discovered combat, blood, fire, death, chaos. It is this chaos that he represents in this abstract but so expressive painting. The shapes and contours are difficult to define, they seem to hide a head with flaming hair, the sky is black on one side, it is on fire on the other. We see no optimism, but just the reality of horror to come.
 description-ru: >-
   **(Перед потопом)**
 
@@ -51,4 +45,6 @@ description-ru: >-
 
 
   Мы видим мужскую голову с пылающими волосами, горит черное небо.
+title-ru: Avant le déluge
+title-en: Avant le déluge
 ---
