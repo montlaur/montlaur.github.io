@@ -38,13 +38,13 @@ description-fr: >-
 
   Pourquoi « un ami » ? L’homme a un béret, un béret vert de commando. C’est certainement un des camarades commando de Montlaur. Probablement l’un de ceux qui furent tués le 10 ou 11 juin autour d’Amfreville.
 description-en: >-
-  **(On the Road near Sallenelles, a Friend)**
+  **(On the Road near Sallenelles, a Friend)** 
 
 
-  In the days which following the D-Day landings, Sergeant de Montlaur and his comrades of the Free-French No. 4 Commando 1st BFMC (*Battaillon de Fusiliers Marins Commando*s also called "*Kieffer Commando*") took part in intense and violent fighting against the German troops stationed near the village of Sallenelles and the  Bavent Woods on the North bank of the Orne River.
+  In the days following the D-Day landings, Sergeant de Montlaur and his comrades of the Free-French No. 4 Commando 1st BFMC (*Battaillon de Fusiliers Marins Commando*s also called "*Kieffer Commando*") took part in intense and violent fighting against the German troops stationed near the village of Sallenelles and the Bavent Woods on the North bank of the Orne River in Normandy.
 
 
-  The painter could not be more realistic: the deadly impact of the bullet, the blood which has flowed from the wound, the greenish and blue tint of the face of "his friend" are reproduced in this painting in all their horror.
+  The painter could not be more realistic: the impact of a bullet or shrapnel in the forehead, the blood that flowed from the mortal wound, the greenish and blue tint of the face of "his friend" are reproduced in this painting in all their horror. Why "a friend"? The man has a green commando beret. He is certainly one of Montlaur's commando comrades. Probably one of those who were killed on June 10 or 11 near Amfreville.
 description-ru: >-
   **(На дороге, возле Сальнеля, друг)**
 
