@@ -46,7 +46,7 @@ description-en: >-
   majestic entrance surmounted by a cross-window.
 
 
-  The Chateau de Montlaur (11th century) is the cradle of the Montlaur family. It is located 18km North-East of Montpellier. This Catholic stronghold was besieged by the Protestant troops of Henry, Duke of Rohan and taken on Easter Monday, March 28, 1622. The fortifications were cannonaded and razed, the castle was plundered and burned, the garrison massacred – according to Catholic sources, the bodies were eaten by dogs and left to rot. The lord, François de Montlaur-Bousquet was imprisoned in Sommières and released on bail. Reconstruction of the chapel and of the main façade was started around 1630 but quickly stopped due to the opposition of King Louis XIV prime minister, Cardinal Richelieu.
+  The Chateau de Montlaur (11th century) is the cradle of the Montlaur family. It is located 18km North-East of Montpellier. This Catholic stronghold was besieged by the Protestant troops of Henri, Duke of Rohan and taken on Easter Monday, March 28, 1622. The fortifications were cannonaded and razed, the castle was plundered and burned, the garrison massacred – according to Catholic sources, the bodies were eaten by dogs and left to rot. The lord, François de Montlaur-Bousquet was imprisoned in Sommières and released on bail. Reconstruction of the chapel and of the main façade was started around 1630 but quickly stopped due to the opposition of King Louis XIV's prime minister, Cardinal Richelieu.
 description-ru: >-
   **(Одинокий октябрь)**
 
