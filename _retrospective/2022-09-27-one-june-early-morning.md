@@ -9,9 +9,9 @@ theme: La guerre
 theme-en: War
 theme-ru: Война
 annee: 2022-09-27T12:28:08.724Z
-annee-aff: "1972"
-annee-aff-en: "1972"
-annee-aff-ru: 1972 Г.
+annee-aff: Juillet 1972
+annee-aff-en: July 1972
+annee-aff-ru: июль 1972 г.
 era: 70-77
 era-en: 70-77
 era-ru: 70-77
