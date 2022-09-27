@@ -15,7 +15,7 @@ annee-aff-ru: июль 1972 г.
 era: 70-77
 era-en: 70-77
 era-ru: 70-77
-picture: /photos/wordpress/_q9a2205_edited.jpg
+picture: /photos/wordpress/_q9a2205a.jpg
 place: Rothéneuf (Ille et-Vilaine)
 place-en: Rothéneuf, Brittany, France
 place-ru: Ротенёф, Бретань, Франция
