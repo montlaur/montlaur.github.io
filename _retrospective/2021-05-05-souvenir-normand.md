@@ -20,8 +20,8 @@ place: Rothéneuf
 place-en: Rothéneuf (Brittany, France)
 place-ru: Ротенёф (Бретань, Франция)
 type: Huile sur papier sur bois
-type-en: Oil on paper on wood
-type-ru: Масло, бумага, дерево
+type-en: Oil on paper on plywood
+type-ru: Масло, бумага, фанера
 dimensions: 46 cm x 55 cm
 dimensions-en: 46 cm x 55 cm
 dimensions-ru: 46 см x 55 см
