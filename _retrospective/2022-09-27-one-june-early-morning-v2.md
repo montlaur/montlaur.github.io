@@ -17,7 +17,7 @@ era-en: 70-77
 era-ru: 70-77
 picture: /photos/wordpress/_q9a2205a.jpg
 place: Rothéneuf (Bretagne)
-place-en: Rothéneuf (Brittany)
+place-en: Rothéneuf, Brittany, France
 place-ru: Ротенёф, Бретань, Франция
 type: Huile sur papier sur contrplaqué
 type-en: Oil on paper on plywood
