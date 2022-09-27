@@ -35,9 +35,9 @@ description-en: 'The painting evokes the landing of Sergeant de Montlaur on the
   painter uses the diagonals to represent the the large anti-tank and anti-barge
   metal crossed beams that were spread on the beaches. The painting is dynamic:
   we can imagine the soldier running up the beach, enemy bullets hitting the
-  sand around him. We see a white swirl symbolizing movement, perhaps the fall
-  of a body or the blast of a shell. As in the painting "Souvenir Normand",
-  painted a few days apart, the bright colors symbolize blood -red, fire
-  -yellow, metal -black.'
+  sand around him. We can see a white swirl symbolizing movement, perhaps the
+  fall of a body or the blast of a shell. As in the painting "Souvenir Normand"
+  , which was painted in the same period of time, the bright colors symbolize
+  blood -red, fire -yellow, metal -black.'
 description-ru: .
 ---
