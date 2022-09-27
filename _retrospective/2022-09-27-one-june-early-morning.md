@@ -8,7 +8,7 @@ title: One June Early Morning
 theme: La guerre
 theme-en: War
 theme-ru: Война
-annee: 2022-09-27T12:28:08.724Z
+annee: 1972-07-25T23:00:00.000Z
 annee-aff: Juillet 1972
 annee-aff-en: July 1972
 annee-aff-ru: июль 1972 г.
