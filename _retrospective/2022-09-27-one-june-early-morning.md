@@ -29,15 +29,15 @@ description-fr: >-
   **(Un jour de juin, tôt le  matin)**
 
 
-  L﻿e tableau évoque le débarquement du sergent de Montlaur le matin du 6 juin 1944. La construction est très soignée, quasi géométrique . Le peintre utilise les diagonales pour figurer les chevaux de frises métalliques qui défendaient la plage. La peinture est dynamique : on imagine le soldat remontant la plage en courant, les balles ennemies frappant le sable autour de lui. On voit un tourbillon blanc symbolisant le mouvement, peut-être la chute d'un corps  ou le souffle d'une explosion. Comme dans le tableau "Souvenir normand", peint à quelques jours d'intervalles, les couleurs, vives, symbolisent le sang -rouge, le feu -jaune, le métal -noir.
+  L﻿e tableau évoque le débarquement du sergent de Montlaur le matin du 6 juin 1944. Sa construction est très soignée, quasi géométrique . Le peintre utilise les diagonales pour figurer les chevaux de frises métalliques qui défendaient la plage. La peinture est dynamique : on imagine le soldat remontant la plage en courant, les balles ennemies frappant le sable autour de lui. On voit un tourbillon blanc symbolisant le mouvement, peut-être la chute d'un corps  ou le souffle d'une explosion. Comme dans le tableau "Souvenir normand", peint à quelques jours d'intervalles, les couleurs, vives, symbolisent le sang -rouge, le feu -jaune, le métal -noir.
 description-en: 'The painting evokes the landing of Sergeant de Montlaur on the
   morning of June 6, 1944. Its construction is very neat, almost geometric. The
-  painter uses the diagonals to represent the the large anti-tank and anti-barge
-  metal crossed beams that were spread on the beaches. The painting is dynamic:
-  we can imagine the soldier running up the beach, enemy bullets hitting the
-  sand around him. We can see a white swirl symbolizing movement, perhaps the
-  fall of a body or the blast of a shell. As in the painting "Souvenir Normand"
-  , which was painted in the same period of time, the bright colors symbolize
-  blood -red, fire -yellow, metal -black.'
+  painter uses the diagonals to represent the large anti-tank and anti-barge
+  metal crossed beams that stood on the beaches. The painting is dynamic: one
+  can imagine the soldier running up the beach, enemy bullets hitting the sand
+  around him. A white swirl symbolizes movement, perhaps the fall of a body or
+  the blast of a shell. As in the painting "Souvenir Normand" , which was
+  painted in the same period of time, the bright colors symbolize blood -red,
+  fire -yellow, metal -black.'
 description-ru: .
 ---
