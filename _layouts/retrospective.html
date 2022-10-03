@@ -5,24 +5,72 @@
     <h2>{{ page.title }}</h2>
     <div class="row">
       <div class="five columns">
-        filtrer&nbsp;:
+        {% if page.lang=="EN" %}
+          Filter:
+        {% elsif page.lang=="RU" %}
+          Фильтр:
+        {% else %}
+          Filtrer&nbsp;:
+        {% endif %}
         <select onChange="w3.filterHTML('#retro', '.theme-era', this.value)">
-          <option value="">Par thème</option>
-          <option value="guerre">La guerre</option>
-          <option value="mort">La mort</option>
-          <option value="littérature">Littérature</option>
-          <option value="médecine">Médecine</option>
-          <option value="musique">Musique</option>
-          <option value="paysage">Paysage</option>
-          <option value="peinture">Peinture</option>
-          <option value="philosophie">Philosophie</option>
-          <option value="poésie">Poésie</option>
-          <option value="portrait">Portrait</option>
-          <option value="religion">Religion</option>
+          {% if page.lang=="EN" %}
+            <option value="">By topic</option>
+            <option value="war">War</option>
+            <option value="death">Death</option>
+            <option value="literature">Literature</option>
+            <option value="medicine">Medicine</option>
+            <option value="music">Music</option>
+            <option value="landscape">Landscape</option>
+            <option value="paint">Paint</option>
+            <option value="philosophy">Philosophy</option>
+            <option value="poetry">Poetry</option>
+            <option value="portrait">Portrait</option>
+            <option value="religion">Religion</option>
+          {% elsif page.lang=="RU" %}
+            <option value="">По теме</option>
+            <option value="Война">Война</option>
+            <option value="Смерть">Смерть</option>
+            <option value="Литература">Литература</option>
+            <option value="Медицина">Медицина</option>
+            <option value="Музыка">Музыка</option>
+            <option value="Пейзаж">Пейзаж</option>
+            <option value="Рисовать">Рисовать</option>
+            <option value="философия">Философия</option>
+            <option value="Поэзия">Поэзия</option>
+            <option value="Портрет">Портрет</option>
+            <option value="Религия">Религия</option>
+          {% else %}
+            <option value="">Par thème</option>
+            <option value="guerre">La guerre</option>
+            <option value="mort">La mort</option>
+            <option value="littérature">Littérature</option>
+            <option value="médecine">Médecine</option>
+            <option value="musique">Musique</option>
+            <option value="paysage">Paysage</option>
+            <option value="peinture">Peinture</option>
+            <option value="philosophie">Philosophie</option>
+            <option value="poésie">Poésie</option>
+            <option value="portrait">Portrait</option>
+            <option value="religion">Religion</option>
+          {% endif %}
         </select>
-        ou
+          {% if page.lang=="EN" %}
+            or
+          {% elsif page.lang=="RU" %}
+            Где
+          {% else %}
+            ou
+          {% endif %}
         <select onChange="w3.filterHTML('#retro', '.theme-era', this.value)">
-          <option value="">Par pédiode</option>
+          <option value="">
+            {% if page.lang=="EN" %}
+              By period
+            {% elsif page.lang=="RU" %}
+              По периоду
+            {% else %}
+              Par période
+            {% endif %}
+          </option>
           <option value="70-77">70-77</option>
           <option value="60-69">60-69</option>
           <option value="56-59">56-59</option>
@@ -32,7 +80,13 @@
         </select>
       </div>
       <div class="seven columns">
-        Rechercher&nbsp;:
+        {% if page.lang=="EN" %}
+          Search:
+        {% elsif page.lang=="RU" %}
+          Исследовать:
+        {% else %}
+          Rechercher&nbsp;:
+        {% endif %}
         <input  class="search-input"
                 oninput="w3.filterHTML('#retro', '.post-title', this.value)"
                 type="text"

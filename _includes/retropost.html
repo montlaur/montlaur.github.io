@@ -44,7 +44,7 @@
         {%- unless include.notitle == "yes" or page.lang -%}
           <h3 class="post-title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
         {%- else -%}
-          <h2>{{ include.post.title }}</h2>
+          <h2 class="post-title">{{ include.post.title }}</h2>
         {%- endunless -%}
       <div class="retropost-desc">
         {% if page.lang=="EN" %}
