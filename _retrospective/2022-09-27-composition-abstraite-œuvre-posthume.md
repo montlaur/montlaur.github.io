@@ -4,7 +4,7 @@ menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
-title: Composition abstraite (œuvre posthume)
+title: Composition abstraite
 theme: Portrait
 theme-en: Portrait
 theme-ru: Портрет
