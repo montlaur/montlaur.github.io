@@ -25,12 +25,11 @@ type-ru: "Масло, холст "
 dimensions: 33 cm x 24 cm
 dimensions-en: 33 cm x 24 cm
 dimensions-ru: 33 см x 24 см
-description-fr: En 1968, Montlaur a 49 ans, il a atteint la plénitude de son
-  art, de sa technique. Ce petit portrait, au titre ironique, légèrement plus
-  grand que nature, n’est pas censé être flatteur. Le camaïeu donne une
-  impression de tristesse. Le visage est empreint de lassitude, il est marqué
-  par la douleur causée par sa blessure à l’œil. Le peintre ne cherche pas à
-  plaire, il peint, c’est toute sa vie.
+description-fr: >-
+  ![](/photos/wordpress/gdm-hi-def.jpg "Guy de Montlaur, 1968")
+
+
+  En 1968, Montlaur a 49 ans, il a atteint la plénitude de son art, de sa technique. Ce petit portrait, au titre ironique, légèrement plus grand que nature, n’est pas censé être flatteur. Le camaïeu donne une impression de tristesse. Le visage est empreint de lassitude, il est marqué par la douleur causée par sa blessure à l’œil. Le peintre ne cherche pas à plaire, il peint, c’est toute sa vie.
 description-en: >-
   **(Abstract Composition - Posthumous work)**
 
