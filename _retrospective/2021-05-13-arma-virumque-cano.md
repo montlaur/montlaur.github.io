@@ -5,8 +5,6 @@ sous-menu: Sous-menu
 active-item: peintures
 active-item2: retrospective
 title: Arma virumque cano
-title-en: Arma Virumque Cano
-title-ru: Arma virumque cano
 theme: Littérature classique - la guerre
 theme-en: Classical literature - war
 theme-ru: Классическая литература - война
@@ -51,6 +49,9 @@ description-fr: >-
 
 
   *(Traduction J.N.M. de Guerle., Delalain, 1825)*
+
+
+  L﻿a peinture **Arma virumque cano** est la propriété du Musée National de la Seconde Guerre Mondiale à La Nouvelle Orléans en Louisiane.
 description-en: >-
   Montlaur quotes the first verse of the *Aeneid* to explain the object of his
   painting: he sings about the hero’s feats of arms and his long journey after
@@ -75,6 +76,9 @@ description-en: >-
 
 
    *(Translated by A. S. Kline, Poetry in Translation, 2002)*
+
+
+  This painting is the property of **The National WWII Museum**, New Orleans, Louisiana.
 description-ru: >-
   Монлор цитирует первый стих «Энеиды», чтобы объяснить содержание своей
   картины: он поет о боевых подвигах героя и его долгом пути после войны. В этом
@@ -110,4 +114,9 @@ description-ru: >-
 
 
   Вергилий. Буколики. Георгики. Энеида / перевод с латинского С. А. Ошерова ; под ред. Ф. А. Петровского. – Москва : Художественная литература, 1979.
+
+
+  Эта картина является собственностью **Национального музея Второй мировой войны**, Новый Орлеан, Луизиана, США.
+title-ru: Arma virumque cano
+title-en: Arma Virumque Cano
 ---
