@@ -39,7 +39,7 @@ Et voici ce que Roland Gabriel écrit à Adelaide de Montlaur le 14 juin 1944 :
 
 <img src="/photos/wordpress/RG1.jpg" alt="RG1">
 
-<img src="/photos/wordpress/RG2-197x300.jpg" alt="RG2">
+<img src="/photos/wordpress/RG2.jpg" alt="RG2">
 
 42 ans plus tard, après s'être vus aux cérémonies du 6 juin 1986, Adelaide de Montlaur lui envoie ce petit mot :
 
