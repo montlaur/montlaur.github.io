@@ -1,14 +1,12 @@
 ---
 layout: post
+active-item: blog
+picture: /photos/wordpress/931-232x300.jpg
+date: 2017-09-04T18:32:00.000Z
 title: Témoin et archives
 auteur: Michael de Montlaur
-date: 2017-09-04T18:32:00.000Z
 category: Divers
-active-item: blog
-
-picture: /photos/wordpress/931-232x300.jpg
 ---
-
 J'ai connu Guy de Montlaur pendant 25 ans. En fait pendant 20 ans, les 5 premières ne m'ayant laissé que peu de souvenirs. Je l'ai donc connu comme enfant, adolescent puis jeune adulte.
 
 Enfant, je le regardai peindre, ça ne le gênait pas. Je me mettais quand même à quelques mètres et me faisait discret. Il faisait toujours pareil : d'abord un dessin au fusain sur la toile blanche délimitant des zones comme une carte avec des champs. Ou le dessin figuratif comme sur la photo suivante
@@ -38,7 +36,11 @@ Mais j'ai trouvé ces cartes dans les papiers gardés par mon père :
 
 <img src="/photos/wordpress/carte-juin-44-231x300.jpg" alt="carte juin 44">
 
-Celle-ci pliée de telle façon que la zone Ranville Amfreville Bavent soit rapidement accessible (cliquez dessus pour les détails). Apparemment elle a pas mal servi.
+Celle-ci pliée de telle façon que la zone Ranville Amfreville Bavent soit rapidement accessible. Apparemment elle a pas mal servi.
+
+<img src="/photos/wordpress/carte-juin-44b.jpg" alt="carte juin 44b">
+
+
 
 Et celles-là de la région du débarquement de Flessingue (1er novembre 1944) :
 
@@ -47,8 +49,9 @@ Et celles-là de la région du débarquement de Flessingue (1er novembre 1944) :
 <img src="/photos/wordpress/20170904_185218-300x203.jpg" alt="20170904_185218">
 
 Ces deux cartes montrant la zone correspondant au texte suivant :
->Le 12 novembre, les 3 Royal Marine Commandos et le n° 10 Commando Interallié (Hollandais, Belges, Norvégiens et Allemands anti-nazis) n'étaient pas arrivés à nettoyer le nord de Walcheren. Il fut décidé que le Commando franco-britannique serait chargé de l'opération et pousserait jusqu'à  Vrouenpolder.
-Partis de Dombourg à 01h00 ils atteignaient  Vrouenpolder à 08h00 après avoir ratissé tous les blockhaus. Du nord au sud les français étaient dans l'ordre suivant : section MONTLAUR, section SENEE, section CHAUSSE, section HULOT. Les troupes britanniques étaient plus à l'intérieur des terres. Le dispositif n'était plus qu'une grande vague d'assaut, sans couverture. Le 13 novembre à 09h00,  Vrouenpolder était pris. ...
+
+> Le 12 novembre, les 3 Royal Marine Commandos et le n° 10 Commando Interallié (Hollandais, Belges, Norvégiens et Allemands anti-nazis) n'étaient pas arrivés à nettoyer le nord de Walcheren. Il fut décidé que le Commando franco-britannique serait chargé de l'opération et pousserait jusqu'à  Vrouenpolder.
+> Partis de Dombourg à 01h00 ils atteignaient  Vrouenpolder à 08h00 après avoir ratissé tous les blockhaus. Du nord au sud les français étaient dans l'ordre suivant : section MONTLAUR, section SENEE, section CHAUSSE, section HULOT. Les troupes britanniques étaient plus à l'intérieur des terres. Le dispositif n'était plus qu'une grande vague d'assaut, sans couverture. Le 13 novembre à 09h00,  Vrouenpolder était pris. ...
 
 Alors ces cartes devaient être dans son barda qu'il porte sur cette photo :
 
