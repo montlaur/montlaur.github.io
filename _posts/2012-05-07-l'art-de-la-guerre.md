@@ -13,7 +13,7 @@ Il aurait pu se consacrer à son art, à sa passion, la peinture. Il aurait pu d
 
 Pendant ces sept longues années, il a mis sa carrière entre parenthèses, il y avait quelque chose de plus important. Guy de Montlaur ne transigeait pas. C'était son honneur. Il ne supportait pas ce petit dictateur qui voulait s'imposer à l'Europe, au Monde.
 
-<img src="/photos/wordpress/La-Thibaudière-le-lavoir-de-lîle-1000-300x227.jpg" alt="La Thibaudière le lavoir de l'île">
+![](/photos/wordpress/La-Thibaudire-le-lavoir-de-lle-1000-300x227.jpg)
 
 Voici une de ses compositions d'avant-guerre, pas mal pour un gamin de 18 ans, non ?
 
