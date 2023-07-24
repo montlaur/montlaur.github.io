@@ -9,7 +9,7 @@ category: Guerre
 ---
 Après une sorte de reclassement du personnel valide, la troupe 1 se met en route, saluée au passage par le colonel Dawson qui lui crie : "Allez-y ! Nous comptons sur vous". Il a été blessé par balle à l'épaule gauche et par éclat à la tête. Chacun se dirige vers son objectif. L'ancien casino, tapis dans le sable, attend la troupe 1. (...) Cette troupe emprunte la route qui longe le littoral, vers l'est, en suivant les rails de l'ancien tramway. Il n'y a pas d'autre solution sur une trentaine de mètres : ce qui est fâcheux, car le feu allemand l'accompagne dans la même direction. Elle perd deux hommes. Obliquant à gauche, elle franchit la grille d'une petite propriété et progresse à couvert pendant 300 mètres environ, mais le tir l'a suivie et ce château minuscule à toit pointu se trouve singulièrement écorné. Le bosquet qui la couvre à la vue est devenu cible. (...)
 
-
+<!--more-->
 
 Les pertes françaises sont de 66 hommes dont 10 tués. ... Les troupes françaises prennent contact avec le peu de population que compte Riva-Bella : les gens sortent finalement des abris où ils ont passé la nuit. Parmi eux on trouve quelques romanichels qui, extraits de Dieu sait quels camps, ont été employés par les Allemands pour construire  le "Mur de l'Atlantique". Comme les Normands, ils paraissent étonnés que ceux qu'ils pensent être des soldats britanniques soient français.
 
