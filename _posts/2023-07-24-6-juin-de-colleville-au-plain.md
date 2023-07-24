@@ -7,6 +7,8 @@ title: 6 juin de Colleville au Plain
 auteur: Michael
 category: Guerre
 ---
+... La troupe 1 a été la plus éprouvée. L'enseigne de vaisseau Guy Vourc'h qui la commandait a été touché sur la plage ainsi que les deux chefs de section (officier des équipages Pinelli, maître principal Faure). Elle a eu, au traverser de la plage, 5 tués et 23 blessés graves. Le second maître de Montlaur, qui était le plus ancien des officiers mariniers, prend le commandement de cette troupe. La troupe 8 aura dans la matinée 1 tué et 17 blessés ; parmi ces derniers, le lieutenant de vaisseau Kieffer qui, malgré un large éclat de mortier à la cuisse, participera à l'action.
+
 Après une sorte de reclassement du personnel valide, la troupe 1 se met en route, saluée au passage par le colonel Dawson qui lui crie : "Allez-y ! Nous comptons sur vous". Il a été blessé par balle à l'épaule gauche et par éclat à la tête. Chacun se dirige vers son objectif. L'ancien casino, tapis dans le sable, attend la troupe 1. (...) Cette troupe emprunte la route qui longe le littoral, vers l'est, en suivant les rails de l'ancien tramway. Il n'y a pas d'autre solution sur une trentaine de mètres : ce qui est fâcheux, car le feu allemand l'accompagne dans la même direction. Elle perd deux hommes. Obliquant à gauche, elle franchit la grille d'une petite propriété et progresse à couvert pendant 300 mètres environ, mais le tir l'a suivie et ce château minuscule à toit pointu se trouve singulièrement écorné. Le bosquet qui la couvre à la vue est devenu cible. (...)
 
 <!--more-->
