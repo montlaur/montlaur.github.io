@@ -11,7 +11,7 @@ Après une sorte de reclassement du personnel valide, la troupe 1 se met en rout
 
 <!--more-->
 
-
+<p style="text-align: center;"><a href="/photos/wordpress/Gdm3.mp3">Enregistrement de Guy de Montlaur le 6 juin1969 (1)</a></p>
 
 Les pertes françaises sont de 66 hommes dont 10 tués. ... Les troupes françaises prennent contact avec le peu de population que compte Riva-Bella : les gens sortent finalement des abris où ils ont passé la nuit. Parmi eux on trouve quelques romanichels qui, extraits de Dieu sait quels camps, ont été employés par les Allemands pour construire  le "Mur de l'Atlantique". Comme les Normands, ils paraissent étonnés que ceux qu'ils pensent être des soldats britanniques soient français.
 
