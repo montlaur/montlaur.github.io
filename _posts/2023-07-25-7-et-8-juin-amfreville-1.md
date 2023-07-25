@@ -11,6 +11,8 @@ category: Guerre
 
 *A 16 h 00 le même jour, 4 chars allemands, dont un Mark VI, arrivent de Bréville. Ils sont arrêtés par quelques Sherman au moment où ils vont rentrer dans Amfreville, l’un d’eux brûle, et les 3 autres (dont le Mark VI) font inverseur.*
 
+<!--more-->
+
 *Vers 23 h 00, le second maître qui commande la troupe 1 pousse une reconnaissance, accompagné d’un quartier-maître et de 2 matelots. Ils s’éloignent vers l’est, jusqu’à une distance d’un kilomètre, au lieudit Le Bas-de-Bréville. Aucun contact avec les allemands. Mais le lendemain matin (le 8), à 05 h 00, les mêmes veulent refaire le chemin parcouru quelques heures avant : or, à 200 mètres de leurs lignes, ils aperçoivent une forme allongée. Le second maître tire et casse la jambe gauche d’un caporal allemand. Ce dernier est amené au Plein, puis au quartier général de Lord Lovat, à Hauger. Le prisonnier interrogé dit appartenir à l’un des 2 bataillons portés de la 12è S.S. “Hitler Jugend” Division stationnée à l’est du Bas-de-Bréville. Il dit qu’on l’avait envoyé en reconnaissance avec deux autres soldats, en lui donnant l’ordre de rester en observation le plus près possible des lignes alliées, jusqu’à ce qu’un contingent de son bataillon vint le rejoindre. Il dit aussi qu’on l’avait prévenu que les “bérets verts” et les “bérets rouges” fusillaient leurs prisonniers.*
 
 ![Il faut être raisonnable mais pas trop - 18 février 1967](/photos/wordpress/Il-faut-tre-raisonnable-mais-pas-trop-300x227.jpg "Il faut être raisonnable mais pas trop - 18 février 1967")
