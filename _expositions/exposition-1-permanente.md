@@ -1,6 +1,6 @@
 ---
 title: Exposition permanente
-en-cours: true
+en-cours: false
 date-fr: Exposition permanente
 description-fr: |-
   Mémorial Pegasus\
