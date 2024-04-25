@@ -1,5 +1,5 @@
 ---
-title: Musée de la Résistance à Limoges
+title: 2023 Musée de la Résistance à Limoges
 en-cours: false
 date-fr: Jusqu'au 18/09/2023
 description-fr: |-
