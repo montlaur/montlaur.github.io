@@ -39,5 +39,5 @@ description-ru: >-
   **(Мой замок в сумерках)**
 
 
-  Le tableau fut peint l’été, en Bretagne. Les formes et couleurs sont apaisées mais témoignent néanmoins de la mélancolie du paysage crépusculaire marin.
+  Картина написана летом в Бретани. Формы и цвета спокойные, но тем не менее свидетельствуют о меланхолии сумеречного морского пейзажа.
 ---
