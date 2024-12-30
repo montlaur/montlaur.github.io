@@ -1,7 +1,7 @@
 ---
 layout: post
 active-item: blog
-picture: /photos/wordpress/portraitpierrewallerand2.jpg
+picture: /photos/wordpress/wallerand.jpg
 date: 2010-05-17T17:32:00.000Z
 title: Pierre Wallerand
 auteur: Michael de Montlaur
@@ -37,7 +37,7 @@ En 1968, Guy de Montlaur se souvient.
 
 ![C'est comme celui qui peint après avoir vu un ami](/photos/wordpress/c-est-comme-celui-qui-peint-apres-avoir-vu-un-ami3.jpg "C'est comme celui qui peint après avoir vu un ami")
 
-C'est comme celui qui peint après avoir vu un ami 1966
+C'est comme celui qui peint après avoir vu un ami - 1966
 
 *Toujours est-il que, quand, un beau matin je vis apparaître Pierre Wallerand, j'ai pensé qu'il était "de mon bord". Il a eu la gentillesse de penser que j'étais du sien. Après Miranda, il avait fait un court séjour en Afrique du Nord, avait évidemment été déçu, s'était débrouillé je ne sais comment et nous avait rejoint à Cricceth (Galles du Nord).*
 
