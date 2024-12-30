@@ -1,16 +1,17 @@
 ---
 layout: post
+active-item: blog
+picture: /photos/wordpress/portraitpierrewallerand2.jpg
+date: 2010-05-17T17:32:00.000Z
 title: Pierre Wallerand
 auteur: Michael de Montlaur
-date: 2010-05-17T17:32:00.000Z
 category: Guerre
-active-item: blog
 ---
 Guy de Montlaur arrive en Angleterre en octobre 1942. Il est à la Caserne Surcouf début 1943.
 
-<em>... La troupe française tenait garnison à Criccieth (Pays de Galles). Chaque commando, pour avoir le droit de porter ce titre, avait dû suivre un entraînement spécial en Ecosse, à Achnacarry (Inverness). L'effort physique et moral demandé était sévère. </em>
+... La troupe française tenait garnison à Criccieth (Pays de Galles). Chaque commando, pour avoir le droit de porter ce titre, avait dû suivre un entraînement spécial en Ecosse, à Achnacarry (Inverness). L'effort physique et moral demandé était sévère. 
 
-<em>Mai 1943 trouvait les français à Eastbourne (Sussex). Après un séjour à Douvres (Kent), ils étaient à Seaford et Newhaven (Sussex). C'est au cours de l'hiver 1943-1944 que les Opérations Combinées les désignèrent pour effectuer des petits raids sur les côtes françaises, les iles anglo-normandes et la Hollande. Ces raids coutèrent la vie à neuf d'entre eux. Cinq autres français furent fait prisonniers mais s'évadèrent. </em>(GdM in "La participation de la Marine française aux débarquements de Normandie de Corse et de Provence").
+Mai 1943 trouvait les français à Eastbourne (Sussex). Après un séjour à Douvres (Kent), ils étaient à Seaford et Newhaven (Sussex). C'est au cours de l'hiver 1943-1944 que les Opérations Combinées les désignèrent pour effectuer des petits raids sur les côtes françaises, les iles anglo-normandes et la Hollande. Ces raids coutèrent la vie à neuf d'entre eux. Cinq autres français furent fait prisonniers mais s'évadèrent. </em>(GdM in "La participation de la Marine française aux débarquements de Normandie de Corse et de Provence").
 
 En 1968, Montlaur se souvient.
 
@@ -23,7 +24,7 @@ En 1968, Montlaur se souvient.
 
 <em>Cet après-midi, le 16 juin, je pense avoir réussi à fixer, peut-être, cette face fraternelle. Même ma femme m'a dit que cette peinture lui rappelait les traits de cet ami.</em>
 
-[caption id="attachment_196" align="aligncenter" width="300" caption="Portrait de mon ami Pierre Wallerand - Mémorial de Caen"]<a href="/photos/wordpress/PierreWallerandPhotoPortrait.jpg"><img class="size-medium wp-image-196" title="PierreWallerandPhotoPortrait" src="/photos/wordpress/PierreWallerandPhotoPortrait-300x192.jpg" alt="" width="300" height="192" /></a>[/caption]
+![Pierre Wallerand et son portrait]( "Pierre Wallerand et son portrait")
 
 <em>Je me suis alors senti plus à l'aise pour écrire un peu de la brève apparition qu'il a été pour moi et que je n'oublierai plus.</em>
 
@@ -37,7 +38,7 @@ En 1968, Montlaur se souvient.
 
 <em> </em>
 
-[caption id="attachment_214" align="aligncenter" width="173" caption="C&#39;est comme celui qui peint après avoir vu un ami - janvier 1966"]<em><em><a href="/photos/wordpress/IMG_0481.jpg"><img class="size-medium wp-image-214" title="IMG_0481" src="/photos/wordpress/IMG_0481-173x300.jpg" alt="" width="173" height="300" /></a></em></em>[/caption]
+\[caption id="attachment_214" align="aligncenter" width="173" caption="C&#39;est comme celui qui peint après avoir vu un ami - janvier 1966"]<em><em><a href="/photos/wordpress/IMG_0481.jpg"><img class="size-medium wp-image-214" title="IMG_0481" src="/photos/wordpress/IMG_0481-173x300.jpg" alt="" width="173" height="300" /></a></em></em>\[/caption]
 
 <em>Toujours est-il que, quand, un beau matin je vis apparaître </em><em>Pierre Wallerand, j'ai pensé qu'il était "de mon bord". Il a eu la gentillesse de penser que j'étais du sien. Après Miranda, il avait fait un court séjour en Afrique du Nord, avait évidemment été déçu, s'était débrouillé je ne sais comment et nous avait rejoint à Cricceth (Galles du Nord).</em>
 
