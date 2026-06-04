@@ -4,7 +4,7 @@ active-item: blog
 picture: /photos/wordpress/1392992_10151916517918360_930733965_n-276x300.jpg
 date: 2009-11-30T17:32:00.000Z
 title: Et s’il n’y avait pas eu la guerre ?
-auteur: GdM
+auteur: MdM
 category: Divers
 ---
 S'il n'y avait pas eu la guerre qu'aurait fait Guy de Montlaur dans un monde idéal ? Gentleman farmer dans le château de ses ancêtres ? Artiste peintre philosophe dans les salons parisiens ? Hum... Impossible d'imaginer tout ça.\
