@@ -1,6 +1,6 @@
 ---
 title: Maguelone JEP 2026
-en-cours: false
+en-cours: true
 date-fr: "2026"
 description-fr: |-
   Journées Européennes du Patrimoine - 19 et 20 septembre 2026
