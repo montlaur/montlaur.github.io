@@ -3,7 +3,7 @@ layout: post
 active-item: blog
 picture: /photos/wordpress/1392992_10151916517918360_930733965_n-276x300.jpg
 date: 2009-11-30T17:32:00.000Z
-title: Et s’il n’y avait pas eu la guerre&nbsp;?
+title: Et s’il n’y avait pas eu la guerre ?
 auteur: GdM
 category: Divers
 ---
