@@ -1,34 +1,37 @@
 ---
-title: Musée de la Résistance à Limoges
+title: Maguelone JEP 2026
 en-cours: false
-date-fr: "2023"
+date-fr: "2026"
 description-fr: |-
-  Musée de la Résistance de Limoges
+  Journées Européennes du Patrimoine - 19 et 20 septembre 2026
 
-  7 rue Neuve Saint-Etienne\
-  87000 Limoges
+  Cathédrale de Maguelone
 
-  ![](/photos/wordpress/expolimoges.jpg)
+  34750 Villeneuve-lès-Maguelone
+
+  ![](/photos/wordpress/MaterDei-242x300.jpg)
 
   "Des commandos Kieffer à la peinture expressionniste"
-date-en: "2023"
+date-en: "2026"
 description-en: |-
-  Musée de la Résistance de Limoges
+  Journées Européennes du Patrimoine - 19 et 20 septembre 2026
 
-  7 rue Neuve Saint-Etienne\
-  87000 Limoges
+  <Cathédrale de Maguelone
 
-  ![](/photos/wordpress/expolimoges.jpg)
+  Domaine de, 34750 Villeneuve-lès-Maguelone
+
+  ![](/photos/wordpress/mater-dei.jpg)
 
   "Des commandos Kieffer à la peinture expressionniste"
-date-ru: "2023"
+date-ru: "2026"
 description-ru: |-
-  Musée de la Résistance de Limoges
+  Journées Européennes du Patrimoine - 19 et 20 septembre 2026
 
-  7 rue Neuve Saint-Etienne\
-  87000 Limoges
+  Cathédrale de Maguelone
 
-  ![](/photos/wordpress/expolimoges.jpg)
+  Domaine de, 34750 Villeneuve-lès-Maguelone
+
+  ![](/photos/wordpress/mater-dei.jpg)
 
   "Des commandos Kieffer à la peinture expressionniste"
 ---
