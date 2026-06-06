@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem "kramdown-parser-gfm"
   gem "rake", "~> 13.0"
   gem "bigdecimal", "~> 3.0"
+  gem "jekyll-sass-converter", "2.1.0"
 end
