@@ -1,12 +1,11 @@
 ---
 layout: post
+active-item: blog
+picture: /photos/wordpress/Le-plat-dargent1-231x300.jpg
+date: 2011-10-05T18:32:00.000Z
 title: Gino Severini (1)
 auteur: Michael de Montlaur
-date: 2011-10-05T18:32:00.000Z
 category: Peinture
-active-item: blog
-
-picture: /photos/wordpress/Le-plat-dargent1-231x300.jpg
 ---
 Comme je l'ai dit <a href="http://blog.montlaur.net/?p=634">plus tôt</a>, Gino Severini a eu une influence sur Guy de Montlaur. Ils se sont échangés une série de lettres entre 1947 et 1950. A cette époque Montlaur était en Amérique et Severini à Paris, en Italie et en Suisse.
 
@@ -18,7 +17,7 @@ Voici le style de  Montlaur à cette époque :
 
 <img src="/photos/wordpress/Flora-1947-238x300.jpg" alt="Flora - 1947">
 
-Si vous voulez acheter un ou deux Severini, <a href="http://www.artdaily.org/index.asp?int_sec=11&amp;int_new=50726">une vente a lieu à Sotheby's le 13 octobre 2011</a>.
+
 
 Voici les 2 dessins de Severini évoqués dans <a href="/photos/wordpress/17-avril-1947.pdf">sa lettre</a>
 
