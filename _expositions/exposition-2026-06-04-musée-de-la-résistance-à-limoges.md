@@ -11,7 +11,7 @@ description-fr: |-
 
   ![](/photos/wordpress/MaterDei-242x300.jpg)
 
-  "Des commandos Kieffer à la peinture expressionniste"
+  Mater Dei février 1963 huile sur toile 73 x 60
 date-en: "2026"
 description-en: |-
   Journées Européennes du Patrimoine - 19 et 20 septembre 2026
