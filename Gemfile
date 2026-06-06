@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-feed'
   gem "kramdown-parser-gfm"
+  gem "webrick", "~> 1.8"
 end
