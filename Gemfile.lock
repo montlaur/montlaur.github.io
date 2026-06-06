@@ -98,6 +98,7 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-paginate
   kramdown-parser-gfm
+  rake (~> 13.0)
 
 BUNDLED WITH
    2.4.22
