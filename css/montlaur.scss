@@ -29,8 +29,8 @@ $breakpoint-xxl:    1600px;
 $serif-family: 'Lora', Georgia, serif;
 $sans-serif-family: 'Fira Sans Extra Condensed', "Arial Narrow", Arial, sans-serif;
 
-@import 'mixins';
-@import 'normalize';
+@import 'mixins.scss';
+@import 'normalize.scss';
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -461,4 +461,4 @@ hr {
 .list-inline .hidden { display: none; }
 
 
-@import 'montlaur';
+@import 'montlaur.scss';
