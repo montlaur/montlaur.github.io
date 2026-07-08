@@ -1,6 +1,6 @@
 ---
 title: Expo Castries
-en-cours: true
+en-cours: false
 date-fr: 6 juin 2024
 description-fr: >-
   Du débarquement de Normandie à l'expressionnisme abstrait
