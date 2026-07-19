@@ -1,7 +1,7 @@
 ---
 layout: post
 active-item: blog
-picture: /photos/wordpress/auto-portrait-sans-indulgence-2-.jpg
+picture: /photos/wordpress/auto-portrait-sans-indulgence.jpg
 date: 2026-07-19T13:29:48.418Z
 title: La couleur de la douleur
 auteur: Roger Glachant
