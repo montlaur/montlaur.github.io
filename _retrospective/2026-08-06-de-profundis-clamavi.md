@@ -8,10 +8,10 @@ title: De profundis clamavi
 theme: " "
 theme-en: " "
 theme-ru: " "
-annee: 2026-08-06T18:10:19.781Z
-annee-aff: 08/06/2026
-annee-aff-en: 08/06/2026
-annee-aff-ru: 08/06/2026
+annee: 1973-02-28T23:00:00.000Z
+annee-aff: Mars 1973
+annee-aff-en: 03/01/1973
+annee-aff-ru: 03/01/1973
 era: " "
 era-en: " "
 era-ru: " "
