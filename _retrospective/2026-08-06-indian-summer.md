@@ -8,10 +8,10 @@ title: Indian summer
 theme: Divers
 theme-en: " "
 theme-ru: " "
-annee: 2026-08-06T17:06:09.228Z
-annee-aff: 08/06/2026
-annee-aff-en: 08/06/2026
-annee-aff-ru: 08/06/2026
+annee: 1968-01-01T18:06:09.228Z
+annee-aff: Janvier 1968
+annee-aff-en: 01/01/1968
+annee-aff-ru: 01/01/1968
 era: " "
 era-en: " "
 era-ru: " "
