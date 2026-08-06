@@ -8,10 +8,10 @@ title: Un voyage de l'Archange Raphaël
 theme: " "
 theme-en: " "
 theme-ru: " "
-annee: 2026-08-06T17:16:34.505Z
-annee-aff: 08/06/2026
-annee-aff-en: 08/06/2026
-annee-aff-ru: 08/06/2026
+annee: 1972-07-31T23:00:00.000Z
+annee-aff: août 1972
+annee-aff-en: 08/01/1972
+annee-aff-ru: 08/01/1972
 era: " "
 era-en: " "
 era-ru: " "
