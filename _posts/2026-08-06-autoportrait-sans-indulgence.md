@@ -1,7 +1,7 @@
 ---
 layout: post
 active-item: blog
-picture: /photos/wordpress/auto-portrait-sans-indulgence-2-.jpg
+picture: /photos/wordpress/auto-portrait-sans-indulgence-3.jpg
 date: 2026-08-06T17:34:24.122Z
 title: Autoportrait sans indulgence
 auteur: Dauphine
