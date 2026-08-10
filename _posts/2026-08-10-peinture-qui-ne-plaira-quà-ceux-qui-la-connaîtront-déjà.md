@@ -11,6 +11,7 @@ Aujourd'hui, 10 août 2026, cela fait 49 ans, au matin,  j'étais avec lui à l'
 - Quel jour est-on ? me demanda-t-il, 
 - le 10 août 
 - Tiens !
+
 C'est le dernier mot de lui dont je me souviens.
 Aujourd'hui je dois écrire un texte sur cette peinture qui ne plaira qu'à ceux qui la connaîtront déjà. Déjà, ça fait longtemps que je les connais toutes sans les connaître. C'est comme si je connaissais l'infini, ou rien.
 
