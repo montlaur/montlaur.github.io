@@ -22,7 +22,7 @@ place-ru: " "
 type: " "
 type-en: " "
 type-ru: " "
-dimensions: " "
+dimensions: "65x92 cm "
 dimensions-en: " "
 dimensions-ru: " "
 description-fr: >-
