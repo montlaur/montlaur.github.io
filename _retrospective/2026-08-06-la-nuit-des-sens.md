@@ -16,15 +16,15 @@ era: " "
 era-en: " "
 era-ru: " "
 picture: /photos/wordpress/la-nuit-des-sens-6a4a7928.jpg
-place: " "
-place-en: " "
-place-ru: " "
-type: " "
-type-en: " "
-type-ru: " "
-dimensions: "65x92 cm "
-dimensions-en: " "
-dimensions-ru: " "
+place: "Nice "
+place-en: "Nice  "
+place-ru: "Nice  "
+type: Huile sur toile
+type-en: "Huile sur toile "
+type-ru: "Huile sur toile "
+dimensions: "65 cm x 92 cm "
+dimensions-en: "65 cm x 92 cm "
+dimensions-ru: "65 cm x 92 cm  "
 description-fr: >-
   "La nuit des sens" est décrite par Jean de la Croix (Juan de la Cruz,
   1542-1591) dans son livre [La nuit
