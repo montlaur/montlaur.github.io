@@ -33,7 +33,7 @@ description-fr: >-
   Elle est considérée par les mystiques comme l'un des critères de la purification de l'âme.
 
 
-  Ce tableau est l'un des derniers de style "abstraction géométrique" peint à Nice en novembre 1952 et annonce une évolution plus tourmentée de son œuvre. La nuit sera son inspiratrice et des couleurs seront plus sombres feront surface.
+  Ce tableau est l'un des derniers de style "abstraction géométrique" peint à Nice en novembre 1952 et annonce une évolution plus tourmentée de son œuvre. La nuit sera son inspiratrice et des couleurs plus sombres feront surface.
 
 
   Début 1953, la famille s'installe à Fontainebleau, plus près mais pas encore assez de... Paris.
