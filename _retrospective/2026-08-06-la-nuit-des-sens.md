@@ -25,7 +25,18 @@ type-ru: " "
 dimensions: " "
 dimensions-en: " "
 dimensions-ru: " "
-description-fr: Texte bientôt
-description-en: " "
-description-ru: " "
+description-fr: >-
+  "La nuit des sens" est décrite par Jean de la Croix (Juan de la Cruz,
+  1542-1591) dans son livre [La nuit
+  Obscure](https://fr.wikipedia.org/wiki/La_Nuit_obscure_(livre))\
+
+  Elle est considérée par les mystiques comme l'un des critères de la purification de l'âme.
+
+
+  Ce tableau est l'un des derniers de style "abstraction géométrique" peint à Nice en novembre 1952 et annonce une évolution plus tourmentée de son œuvre. La nuit sera son inspiratrice et des couleurs seront plus sombres feront surface.
+
+
+  Début 1953, la famille s'installe à Fontainebleau, plus près mais pas encore assez de... Paris.
+description-en: \-
+description-ru: \-
 ---
