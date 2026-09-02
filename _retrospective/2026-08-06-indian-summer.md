@@ -8,8 +8,8 @@ title: Indian summer
 theme: Paysage
 theme-en: "Paysage "
 theme-ru: "Paysage  "
-annee: 1968-01-01T18:06:09.228Z
-annee-aff: Janvier 1968
+annee: 1949-01-01T18:06:09.228Z
+annee-aff: Janvier 1949 et 1968
 annee-aff-en: 01/01/1968
 annee-aff-ru: 01/01/1968
 era: " "
