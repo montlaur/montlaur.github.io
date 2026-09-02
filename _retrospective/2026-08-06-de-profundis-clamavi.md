@@ -16,7 +16,7 @@ era: " "
 era-en: " "
 era-ru: " "
 picture: /photos/wordpress/de-profundis-clamavi-1433-97x62.jpg
-place: "  "
+place: "Paris  "
 place-en: " "
 place-ru: " "
 type: "Huile sur toile "
