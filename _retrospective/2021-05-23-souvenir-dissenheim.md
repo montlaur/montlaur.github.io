@@ -3,10 +3,7 @@ layout: retrospectivepost
 menutitle: Peinture
 sous-menu: Sous-menu
 active-item: peintures
-active-item2: retrospective
 title: Souvenir d'Issenheim
-title-en: "Souvenir d'Issenheim "
-title-ru: "Souvenir d'Issenheim "
 theme: Peinture
 theme-en: Painting
 theme-ru: Живопись
@@ -17,7 +14,6 @@ annee-aff-ru: май 1977 г.
 era: 70-77
 era-en: 70-77
 era-ru: 70-77
-picture: /photos/wordpress/souvenir-d-issenheim.jpg
 place: Paris
 place-en: Paris
 place-ru: Париж
@@ -27,6 +23,22 @@ type-ru: Масло, холст
 dimensions: 60 cm x 92 cm
 dimensions-en: 60 cm x 92 cm
 dimensions-ru: 60 см x 92 см
+description-ru: >-
+  **Воспоминание об Иссенхайме** - речь об алтаре Иссенхайма, расписанном
+  Матиасом Грюнвальдом и теперь хранимом в музее Унтерлинден в Кольмаре. Картина
+  Монлора напоминает нам внутреннюю панель полиптиха, изображающую мучения
+  святого Антония, совершенные чудовищами-полулюдьми-полуптицами, посланными
+  сатаной. Мы видим желтый и зеленый цвета монстров. Святой лежит на земле в
+  синем одеянии. Мы видим черную вуаль позади него и серые горы вверху справа.
+  На обеих картинах – абсолютный хаос.
+
+
+  Le Souvenir d'Issenheim - одна из последних картин Ги де Монлора.
+
+
+  ![](/photos/wordpress/retable-aa.jpg "Иссенхаймский алтарь (1512-1516), Матиас Грюнвальд - фото Стивена Шенкленда")
+title-ru: "Souvenir d'Issenheim "
+active-item2: retrospective
 description-fr: >-
   Le **Souvenir d’Issenheim** est celui du retable éponyme, peint par Matthias
   Grünwald et visible maintenant au Musée Unterlinden de Colmar. La peinture de
@@ -38,7 +50,7 @@ description-fr: >-
   les deux peintures. 
 
 
-  Le Souvenir d'Issenheim est l'un des derniers tableaux peints par Guy de Montlaur.
+  Souvenir d'Issenheim est l'un des derniers tableaux peints par Guy de Montlaur.
 
 
   ![](/photos/wordpress/retable-aa.jpg "Retable d'Issenheim  (1512 -1516) - Mathias Grünwald - photo Stephen Shankland")
@@ -57,18 +69,6 @@ description-en: >-
 
 
   ![](/photos/wordpress/retable-aa.jpg "Issenheim Altarpiece - Mathias Grünwald (1512 - 1516) - photo Stephen Shankland")
-description-ru: >-
-  **Воспоминание об Иссенхайме** - речь об алтаре Иссенхайма, расписанном
-  Матиасом Грюнвальдом и теперь хранимом в музее Унтерлинден в Кольмаре. Картина
-  Монлора напоминает нам внутреннюю панель полиптиха, изображающую мучения
-  святого Антония, совершенные чудовищами-полулюдьми-полуптицами, посланными
-  сатаной. Мы видим желтый и зеленый цвета монстров. Святой лежит на земле в
-  синем одеянии. Мы видим черную вуаль позади него и серые горы вверху справа.
-  На обеих картинах – абсолютный хаос.
-
-
-  Le Souvenir d'Issenheim - одна из последних картин Ги де Монлора.
-
-
-  ![](/photos/wordpress/retable-aa.jpg "Иссенхаймский алтарь (1512-1516), Матиас Грюнвальд - фото Стивена Шенкленда")
+title-en: "Souvenir d'Issenheim "
+picture: /photos/wordpress/souvenir-d-issenheim.jpg
 ---
