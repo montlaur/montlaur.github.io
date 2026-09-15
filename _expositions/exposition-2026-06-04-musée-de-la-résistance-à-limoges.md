@@ -9,7 +9,7 @@ description-fr: |-
 
   34750 Villeneuve-lès-Maguelone
 
-  ![](/photos/wordpress/MaterDei-242x300.jpg)
+  ![](/photos/wordpress/montlaur-à-maguelone-v7.jpg)
 
   Mater Dei février 1963 huile sur toile 73 x 60
 date-en: "2026"
