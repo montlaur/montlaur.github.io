@@ -18,7 +18,7 @@ description-en: |-
   7 rue Neuve Saint-Etienne\
   87000 Limoges
 
-  ![](/photos/wordpress/1072.jpg)
+  ![](/photos/wordpress/expo-limoges.jpg)
 
   "Des commandos Kieffer à la peinture expressionniste"
 date-ru: "2023"
