@@ -5,8 +5,6 @@ date-fr: "2023"
 description-fr: |-
   Musée de la Résistance de Limoges
 
-  ![](/photos/wordpress/expo-limoges.jpg)
-
   "Des commandos Kieffer à la peinture expressionniste"
 date-en: "2023"
 description-en: |-
