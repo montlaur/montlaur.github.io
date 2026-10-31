@@ -5,9 +5,6 @@ date-fr: "2023"
 description-fr: |-
   Musée de la Résistance de Limoges
 
-  7 rue Neuve Saint-Etienne\
-  87000 Limoges
-
   ![](/photos/wordpress/expo-limoges.jpg)
 
   "Des commandos Kieffer à la peinture expressionniste"
